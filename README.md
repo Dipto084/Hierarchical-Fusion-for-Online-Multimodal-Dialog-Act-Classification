@@ -1,3 +1,3 @@
 # Hierarchical-Fusion-for-Online-Multimodal-Dialog-Act-Classification
 
-Codes are coming soon!
+Official Repository for https://aclanthology.org/2023.findings-emnlp.505/
