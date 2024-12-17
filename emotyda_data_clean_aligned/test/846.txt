@@ -1,0 +1,5 @@
+Phoebe|Yeah. You won't be able to take it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia846_utt0.wav
+Chandler|So uh, now that little Chandler turned out to be a girl, what are they gonna name her?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia846_utt1.wav
+Phoebe|They're gonna call her Chandler.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia846_utt2.wav
+Chandler|That's kind of a masculine name, don't you think?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia846_utt3.wav
+Phoebe|Works on you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia846_utt4.wav

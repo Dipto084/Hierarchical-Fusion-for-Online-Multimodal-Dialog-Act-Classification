@@ -1,0 +1,20 @@
+Rachel|Yeah.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia179_utt0.wav
+Policeman|You¬íre an Aquarius, huh?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia179_utt1.wav
+Rachel|I bet you¬íre a Gemini.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia179_utt2.wav
+Policeman|Nope.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia179_utt3.wav
+Rachel|Taurus?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia179_utt4.wav
+Policeman|Nope.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia179_utt5.wav
+Rachel|Virgo?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia179_utt6.wav
+Policeman|Nope.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia179_utt7.wav
+Rachel|Sagittarius?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia179_utt8.wav
+Policeman|Yep.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia179_utt9.wav
+Rachel|I knew it! I knew it, ahh¬Ö.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia179_utt10.wav
+Policeman|You¬íre not gonna speed anymore right?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia179_utt11.wav
+Rachel|I won¬ít speed.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia179_utt12.wav
+Policeman|And you promise you¬íll get this taken care of right away?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia179_utt13.wav
+Rachel|I promise.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia179_utt14.wav
+Policeman|And in the meantime you better let him drive. Does he have a license?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia179_utt15.wav
+Rachel|Yeah!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia179_utt16.wav
+Policeman|Can he handle the stick?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia179_utt17.wav
+Rachel|Oh well|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia179_utt18.wav
+Ross|I can handle the stick!!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia179_utt19.wav

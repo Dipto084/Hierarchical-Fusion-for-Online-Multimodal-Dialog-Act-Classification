@@ -1,0 +1,3 @@
+Joey/Drake|I know you botched that operation on purpose.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia931_utt0.wav
+Joey/Drake|I can't prove it yet, but when I do, you'll be going to jail for murder.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia931_utt1.wav
+Joey/Drake|I don't care if you are my brother.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia931_utt2.wav

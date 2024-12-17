@@ -1,0 +1,5 @@
+Ross|Hello? No she can¬ít come to the phone right now. Oh, right no problem. Okay, bye-bye.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia411_utt0.wav
+Phoebe|Was it my work? Were they mad? Was it Jack? Did he yell?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia411_utt1.wav
+Ross|J-j-just relax, nobody yelled. Jack just was calling to make sure that|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia411_utt2.wav
+Phoebe|Thank God.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia411_utt3.wav
+Ross|Yeah, she¬ís fired.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia411_utt4.wav

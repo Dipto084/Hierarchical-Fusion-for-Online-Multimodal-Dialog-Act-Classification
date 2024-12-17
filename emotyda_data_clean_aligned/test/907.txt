@@ -1,0 +1,14 @@
+Phoebe|Oh. Oh! Ma'am? Excuse me, ma'am?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia907_utt0.wav
+Phoebe|You can't put your cigarette out on a tree!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia907_utt1.wav
+The Smoking Woman|Yeah I can, it worked real well.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia907_utt2.wav
+Phoebe|No but you shouldn't! Don't ever do that again.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia907_utt3.wav
+The Smoking Woman|I won't! Until I have my next cigarette.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia907_utt4.wav
+Phoebe|Hold it! N.Y.P.D! Freeze punk!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia907_utt5.wav
+The Smoking Woman|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia907_utt6.wav
+Phoebe|Yeah that's right you are so busted. Book 'em.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia907_utt7.wav
+The Smoking Woman|Who are you talking too?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia907_utt8.wav
+Phoebe|Save it Red! Unless you wanna spend the night in the slammer, you apologize to the tree.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia907_utt9.wav
+The Smoking Woman|I am|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia907_utt10.wav
+Phoebe|You apologize to the tree right now or I am calling for backup. Backup! Backup!!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia907_utt11.wav
+The Smoking Woman|I-I'm sorry! Sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia907_utt12.wav
+Phoebe|Okay, cancel backup! Cancel backup!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia907_utt13.wav

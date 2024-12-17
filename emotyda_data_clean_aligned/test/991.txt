@@ -1,0 +1,15 @@
+Joey|Hi.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia991_utt0.wav
+The Cooking Teacher|Your Fettuccini Alfredo looks a little dry, did you use all your cheese?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia991_utt1.wav
+Joey|When you say used, do you mean eat as a pre-cooking snack?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia991_utt2.wav
+The Cooking Teacher|And the cream?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia991_utt3.wav
+Joey|Cheese makes me thirsty.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia991_utt4.wav
+The Cooking Teacher|Okay. Let¬ís move on.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia991_utt5.wav
+Joey|All right.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia991_utt6.wav
+The Cooking Teacher|Oh! Something smells good over at Monica¬ís station! Oh my God! This is absolutely amazing! You¬íve never made this before?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia991_utt7.wav
+Monica|Oh no!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia991_utt8.wav
+Monica|I don¬ít know anything about cooking.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia991_utt9.wav
+Monica|I had to ask someone what it¬ís called when the, when the water makes those little bubbles.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia991_utt10.wav
+The Cooking Teacher|Well, hats off to the chef.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia991_utt11.wav
+Monica|I-I-I¬ím sorry, your-your mouth was full, I didn¬ít hear what you said. Umm, hats off to who now?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia991_utt12.wav
+The Cooking Teacher|The chef!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia991_utt13.wav
+Monica|That¬ís right.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia991_utt14.wav

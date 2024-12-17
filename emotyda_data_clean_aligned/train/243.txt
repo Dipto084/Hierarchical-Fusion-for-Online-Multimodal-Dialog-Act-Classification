@@ -1,0 +1,2 @@
+Ross|Ni-chou chi-ma!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia243_utt0.wav
+Rachel|Ross! Excuse me, pardon me, excuse me....|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia243_utt1.wav

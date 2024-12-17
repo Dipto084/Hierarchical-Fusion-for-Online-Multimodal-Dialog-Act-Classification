@@ -1,0 +1,5 @@
+Tag|It¬ís not here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia513_utt0.wav
+Rachel|Puzzler. A bit of a puzzle. Why don¬ít you um, check the copy room, maybe you left the contracts in there?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia513_utt1.wav
+Tag|How could I have left them in the copy room?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia513_utt2.wav
+Rachel|I don¬ít know Tag! How can your genitals make phone calls? Okay? It¬ís not a perfect world! Just go please.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia513_utt3.wav
+Tag|Fine.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia513_utt4.wav

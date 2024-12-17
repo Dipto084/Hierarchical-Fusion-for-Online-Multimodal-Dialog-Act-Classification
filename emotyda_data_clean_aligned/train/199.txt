@@ -1,0 +1,12 @@
+Phoebe|Rachel, we¬íre sorry for pushing those guys on you.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia199_utt0.wav
+Rachel|Oh that¬ís all right!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia199_utt1.wav
+Rachel|Y¬íknow, I ended up having a really good time.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia199_utt2.wav
+Rachel|Y¬íknow, the charity was a big success and they raised a lot of money and awareness.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia199_utt3.wav
+Chandler|So what was it for anyway?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia199_utt4.wav
+Rachel|I wanna say a disease.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia199_utt5.wav
+Joey|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia199_utt6.wav
+All|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia199_utt7.wav
+Joey|I just got this really weird message from Ross. He said turn on|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia199_utt8.wav
+Phoebe|Oh my God, look! That¬ís Elizabeth!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia199_utt9.wav
+Rachel|Oh-oh Professor Geller.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia199_utt10.wav
+Joey|Ahh, to be 13 again.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia199_utt11.wav

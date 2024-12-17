@@ -1,0 +1,6 @@
+Ross|Hello?|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia359_utt0.wav
+Emily|Ross.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia359_utt1.wav
+Emily|It was dreadful. I felt terrible about how I acted when you said those wonderful things.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia359_utt3.wav
+Ross|No, no, that-that, that¬ís all right. Umm, I¬ím just glad you called.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia359_utt4.wav
+Emily|Ross umm, there¬ís something that I¬íve got to tell you, there¬ís-there¬ís someone else.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia359_utt5.wav
+Ross|Does that mean the same thing in England as it does in America?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia359_utt6.wav

@@ -1,0 +1,3 @@
+Chandler|You got me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia373_utt1.wav
+Chandler|Yeah. Right.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia373_utt3.wav
+Joey|Good, and hey! My treat. But that's only because you're not eating anything, right?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia373_utt4.wav

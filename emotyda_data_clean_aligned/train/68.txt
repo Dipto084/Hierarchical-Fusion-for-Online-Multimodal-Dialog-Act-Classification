@@ -1,0 +1,4 @@
+Director|...Dammit, hire the girl! Okay, everybody ready?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia68_utt0.wav
+Joey|Uh, listen, I just wanna thank you for this great opportunity.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia68_utt1.wav
+Director|Lose the robe.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia68_utt2.wav
+Joey|Me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia68_utt3.wav

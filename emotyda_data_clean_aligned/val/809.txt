@@ -1,0 +1,16 @@
+Joey|Yes!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia809_utt0.wav
+Joey|I win again!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia809_utt1.wav
+Joey|Ha-ha!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia809_utt2.wav
+Joey|That¬ís like 500 bucks you owe me!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia809_utt3.wav
+Joey|Whoo-ho-hoo!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia809_utt4.wav
+Joey|$500 that is a loooot of electricity!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia809_utt5.wav
+Joey|Whoo-ho-ho!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia809_utt6.wav
+Joey|I gotta buy some food.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia809_utt7.wav
+Chandler|Okay, give me a chance to win my money back. Okay? Sudden death, one goal, $1,000.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia809_utt8.wav
+Joey|You serious?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia809_utt9.wav
+Chandler|Oh yes!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia809_utt10.wav
+Joey|Okay, get ready to owe me!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia809_utt11.wav
+Chandler|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia809_utt12.wav
+Joey|Okay, here we go. Ready?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia809_utt13.wav
+Chandler|No! No! No! No¬ó¬óone can beat me.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia809_utt14.wav
+Chandler|See? Now, that¬ís why only the little fake men are supposed to do all the kicking.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia809_utt15.wav

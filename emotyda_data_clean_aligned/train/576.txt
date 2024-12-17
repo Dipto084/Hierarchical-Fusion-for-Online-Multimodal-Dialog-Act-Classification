@@ -1,0 +1,11 @@
+Chandler|What're we gonna do? What're we gonna do?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia576_utt0.wav
+Joey|Uh, uh, we'll flip for it. Ducks or clowns.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia576_utt1.wav
+Chandler|Oh, we're gonna flip for the baby?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia576_utt2.wav
+Joey|You got a better idea?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia576_utt3.wav
+Chandler|All right, call it in the air.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia576_utt4.wav
+Joey|Heads.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia576_utt5.wav
+Chandler|Heads it is.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia576_utt6.wav
+Joey|Yes! Whew!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia576_utt7.wav
+Chandler|We have to assign heads to something.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia576_utt8.wav
+Joey|Right. Ok, ok, uh, ducks is heads, because ducks have heads.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia576_utt9.wav
+Chandler|What kind of scary-ass clowns came to your birthday?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia576_utt10.wav

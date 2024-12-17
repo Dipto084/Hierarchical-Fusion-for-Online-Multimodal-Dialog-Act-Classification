@@ -1,0 +1,12 @@
+Phoebe|Chandler, I found the perfect ring.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia456_utt0.wav
+Chandler|Oh, that¬ís uh, that¬ís pretty nice but I¬ím gonna go with the one I picked first.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia456_utt1.wav
+Phoebe|Oh my God Chandler, the one you picked is gone. It¬ís over!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia456_utt2.wav
+Chandler|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia456_utt3.wav
+Phoebe|Some guy bought it. I¬ím sorry. I tired to stop it but they put me in jail!|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia456_utt4.wav
+Chandler|They put you in jail?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia456_utt5.wav
+Phoebe|The little jail between the doors!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia456_utt6.wav
+Chandler|Phoebe, I asked you to guard the ring!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia456_utt7.wav
+Phoebe|I know, I¬ím sorry! But y¬íknow, this ring is better! Monica never even saw the other ring.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia456_utt8.wav
+Chandler|Yeah but when he proposed to me with the ring I got goose bumps.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia456_utt9.wav
+Phoebe|Maybe it was the guy.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia456_utt10.wav
+Chandler|It was the ring!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia456_utt11.wav

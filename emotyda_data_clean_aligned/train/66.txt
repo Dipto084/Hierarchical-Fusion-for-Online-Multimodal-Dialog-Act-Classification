@@ -1,0 +1,12 @@
+Phoebe|That was supposed to be a good thing, I forget why.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia66_utt1.wav
+Phoebe|Just listen, Monica, I, do you know, okay, do you know, I couldn¬ít sleep for like a month because I got like a dot of ink on one of the sofa cushions.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia66_utt2.wav
+Monica|Well, you-you coulda just turned the cushion over.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia66_utt3.wav
+Phoebe|Yeah, I would¬íve except I had a big spaghetti stain on the other side.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia66_utt4.wav
+Monica|What?!?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia66_utt5.wav
+Phoebe|Okay, this is what I¬ím talking about, this. I-I need to live in a land where people can spill.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia66_utt6.wav
+Monica|You can spill. In the sink.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia66_utt7.wav
+Phoebe|Aw, honey it¬ís not your fault, y'know this is who you are, and I love you, and I want us to be friends, and if I keep living here I don¬ít see that happening.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia66_utt8.wav
+Monica|I love you, too.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia66_utt9.wav
+Phoebe|Aww, good. What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia66_utt10.wav
+Monica|What? I¬ím just said.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia66_utt11.wav
+Phoebe|No you¬íre not, you¬íre wondering which cushion it is.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia66_utt12.wav

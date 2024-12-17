@@ -1,0 +1,10 @@
+Katie|You were so funny with that waiter! You're such a nut!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia789_utt0.wav
+Joey|Y'know, breadstick fangs are always funny.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia789_utt1.wav
+Katie|No, you make them funny. You're the funny one!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia789_utt2.wav
+Joey|Uhh, look Katie, uh listen, we-we need to talk.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia789_utt3.wav
+Joey|Okay?|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia789_utt4.wav
+Joey|Umm, look I like you.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia789_utt5.wav
+Joey|I-I really do, I like you a lot.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia789_utt6.wav
+Joey|Okay?|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia789_utt7.wav
+Joey|But sometimes when you, when you playfully punch me like that it-it feels like someone's hitting me with a very tiny but very|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia789_utt8.wav
+Katie|Aww, like I could hurt you. Are you making fun of my size? Don't make fun of me because of my size!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia789_utt9.wav

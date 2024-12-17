@@ -1,0 +1,5 @@
+Rachel|Remember when we went to Central Park and rented boats?.. That was fun.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia489_utt0.wav
+Ross|Yeah. He could row like a viking.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia489_utt1.wav
+Monica|Hi.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia489_utt2.wav
+All|Mmm.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia489_utt3.wav
+Ross|So how'd it go?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia489_utt4.wav

@@ -1,0 +1,6 @@
+Ross|Go, go, go!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia16_utt0.wav
+Rachel|Oh yeah, now everybody wants to be under this hat!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia16_utt1.wav
+Phoebe|Oy!!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia16_utt2.wav
+Monica|What¬ís with all this sand?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia16_utt3.wav
+Phoebe|Oh, yeah, Bob said there might be flood damage.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia16_utt4.wav
+Ross|Yeah, either that, or he has a really big cat.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia16_utt5.wav

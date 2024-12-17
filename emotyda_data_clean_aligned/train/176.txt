@@ -1,0 +1,10 @@
+Rachel|Hey, who's this little naked guy?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia176_utt0.wav
+Ross|That little naked guy would be me.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia176_utt1.wav
+Rachel|Aww, look at the little thing.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia176_utt2.wav
+Chandler|Who are those people?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia176_utt4.wav
+Ross|Got me.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia176_utt5.wav
+Monica|Oh, that's Nana, right there in the middle. 'Me and the gang at Java Joe's'.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia176_utt6.wav
+Rachel|Wow, Monica, you look just like your grandmother. How old was she there?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia176_utt7.wav
+Monica|Let's see, 1939... yeah, 24, 25?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia176_utt8.wav
+Ross|Looks like a fun gang.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia176_utt9.wav
+Joey|Ooh, look-look-look-look-look! I got Monica naked!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia176_utt10.wav

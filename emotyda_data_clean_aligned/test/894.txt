@@ -1,0 +1,1 @@
+Phoebe|Ah-ha! Too cocky!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia894_utt0.wav

@@ -1,0 +1,4 @@
+Mona|Oh my God! Oh my God! I¬ím so sorry!|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia150_utt0.wav
+Ross|Aw forget it, it¬ís from|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia150_utt1.wav
+Dr. Green|You think you can knock up my daughter and then not marry her?! I¬ím gonna kill you!!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia150_utt2.wav
+Ross|Y¬íknow this is actually not a great time for me.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia150_utt3.wav

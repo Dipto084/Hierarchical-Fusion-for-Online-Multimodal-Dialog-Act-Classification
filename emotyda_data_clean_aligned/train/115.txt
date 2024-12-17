@@ -1,0 +1,8 @@
+Jester|Uh, may I help you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia115_utt0.wav
+Monica|Yeah, I talked to you on the phone, I¬ím the lady that got stuck with the racecar bed.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia115_utt1.wav
+Jester|Look, it¬ís like I told you, there¬ís nothing I can do. You signed for it, Monica Velula Geller.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia115_utt2.wav
+Joey|All right, Jester man, look we wanna see the king.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia115_utt3.wav
+Jester|Nobody sees the king!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia115_utt4.wav
+Joey|Oh-ho-kay, I¬ím talking to the king.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia115_utt5.wav
+Jester|Hey! You can¬ít go back there!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia115_utt6.wav
+Janice|Oh my God.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia115_utt7.wav

@@ -1,0 +1,16 @@
+Chandler|Tell us what happened, Brown Bird Ross.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1007_utt0.wav
+Ross|Well, I lost.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1007_utt1.wav
+Ross|Some little girl loaned her uniform to her nineteen year old sister, who went down to the U.S.S.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1007_utt2.wav
+Ross|Nimitz, and sold over 2,000 boxes.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1007_utt3.wav
+Chandler|Hey! How¬íd the interview go?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1007_utt4.wav
+Rachel|Oh, I blew it. I wouldn¬ít of even hired me.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1007_utt5.wav
+Ross|Oh, come here sweetie, listen, you¬íre gonna go on like a thousand interviews before you get a job.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1007_utt6.wav
+Ross|That¬ís not how that was supposed to come out.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1007_utt7.wav
+Phoebe|This is the worst Christmas ever.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1007_utt8.wav
+Chandler|Y'know what Rach, maybe you should just, y'know stay here at the coffee house.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1007_utt9.wav
+Rachel|I can¬ít!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1007_utt10.wav
+Rachel|It¬ís too late!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1007_utt11.wav
+Rachel|Terry already hired that girl over there.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1007_utt12.wav
+Rachel|Look at her, she¬ís even got waitress experience.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1007_utt13.wav
+Rachel|Last night she was teaching everybody how to make napkin.... swans.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1007_utt14.wav
+Ross|That word was swans.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1007_utt15.wav

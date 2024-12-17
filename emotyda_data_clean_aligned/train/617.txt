@@ -1,0 +1,11 @@
+Phoebe|You're sure? You're absolutely sure?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia617_utt0.wav
+Monica|Well, no. But, um, I bet she probably does.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia617_utt1.wav
+Phoebe|Probably?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia617_utt2.wav
+Phoebe|Yeah, I don't like that word.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia617_utt3.wav
+Phoebe|Kind of what ¬ëprobably¬í really means.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia617_utt4.wav
+Phoebe|Yeah, uh-huh.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia617_utt5.wav
+Phoebe|Yeah, oh, "Your mom probably won't kill herself," y¬íknow?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia617_utt6.wav
+Phoebe|I'm sorry, but I'm not hanging all my hopes of Rachel and I living together on-on "Probably!"|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia617_utt7.wav
+Phoebe|You gotta take care of yourselves!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia617_utt8.wav
+Phoebe|In|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia617_utt9.wav
+Chandler|Bing doesn't seem so weird now, does it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia617_utt10.wav

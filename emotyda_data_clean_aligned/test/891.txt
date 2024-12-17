@@ -1,0 +1,7 @@
+Rachel|Oh-oh! Okay, she¬ís kicking!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia891_utt0.wav
+Chandler|Oh! She¬ís growing inside you.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia891_utt1.wav
+Rachel|Whoa!!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia891_utt2.wav
+Chandler|Oh!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia891_utt3.wav
+Rachel|Wow that was a big one.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia891_utt4.wav
+Chandler|I think that¬ís the youngest girl ever to reject me.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia891_utt5.wav
+Phoebe|Oh hey you guys!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia891_utt6.wav

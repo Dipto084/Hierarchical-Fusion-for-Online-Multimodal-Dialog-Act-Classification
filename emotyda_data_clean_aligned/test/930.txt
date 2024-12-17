@@ -1,0 +1,16 @@
+Phoebe|Hey! Ross!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia930_utt0.wav
+Chandler|Die Hard|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia930_utt1.wav
+Joey|Yep. Hey, what do you say we make it a double feature?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia930_utt2.wav
+Chandler|What¬íd you rent?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia930_utt3.wav
+Joey|Die Hard 2|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia930_utt4.wav
+Chandler|Joey, this is|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia930_utt5.wav
+Joey|Oh, well we watch it a second time and its|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia930_utt6.wav
+Ross|Joey, we|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia930_utt7.wav
+Joey|And?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia930_utt8.wav
+Ross|And it¬íll be cool to see it again! Yeah!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia930_utt9.wav
+Ross|Die Hard|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia930_utt10.wav
+Ross|Dude, you didn¬ít say|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia930_utt11.wav
+Chandler|Yeah, I just got uh, got plans.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia930_utt12.wav
+Ross|Well, John McClane had plans!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia930_utt13.wav
+Chandler|No, see the thing is I want to get out of here before Joey gets all worked up and starts calling everybody bitch.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia930_utt14.wav
+Joey|What are you talking about? Bitch.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia930_utt15.wav

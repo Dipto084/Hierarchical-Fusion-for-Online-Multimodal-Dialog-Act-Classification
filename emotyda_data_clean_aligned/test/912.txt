@@ -1,0 +1,8 @@
+Ross|My God!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia912_utt0.wav
+Ross|These pants are burning up!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia912_utt1.wav
+Ross|Oh come on, she wants to snuggle now!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia912_utt2.wav
+Ross|What is she trying to kill me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia912_utt3.wav
+Ross|It's like a volcano in here!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia912_utt4.wav
+Ross|Are you hot?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia912_utt5.wav
+Ross|Okay, it must just be me then.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia912_utt6.wav
+Ross|That was just the pants on the couch. Umm, hey, do you, do you mind if I use your bathroom?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia912_utt7.wav

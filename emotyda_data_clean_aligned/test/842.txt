@@ -1,0 +1,11 @@
+Rachel|Okay look, I have an idea.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia842_utt0.wav
+Rachel|Why don¬ít we, why don¬ít we see what kind of number he has on his speed dial, and then from that we can tell who has more in common with him.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia842_utt1.wav
+Rachel|And then whoever does gets the phone.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia842_utt2.wav
+Rachel|All right, first name on the speed dial is mom.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia842_utt3.wav
+Phoebe|Ohh, I lost my mom to suicide.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia842_utt4.wav
+Rachel|Okay no way, you cannot use that to get the cute guy and the last blueberry muffin.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia842_utt5.wav
+Phoebe|Did I use that already today? I¬ím sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia842_utt6.wav
+Rachel|Joe.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia842_utt7.wav
+Rachel|Oh, I win! He¬ís got|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia842_utt10.wav
+Phoebe|So you don¬ít know that¬ís|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia842_utt11.wav
+Rachel|His new girlfriend!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia842_utt12.wav

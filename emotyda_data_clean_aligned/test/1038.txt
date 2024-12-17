@@ -1,0 +1,18 @@
+Chandler|Hey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1038_utt0.wav
+All|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1038_utt1.wav
+Monica|So how was Joan?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1038_utt2.wav
+Chandler|I broke up with her.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1038_utt3.wav
+Ross|Don¬ít tell me, because of the big nostril thing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1038_utt4.wav
+Chandler|They were huge. When she sneezed, bats flew out of them.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1038_utt5.wav
+Rachel|Come on, they were not that huge.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1038_utt6.wav
+Chandler|I'm tellin' you, she leaned back; I could see her brain.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1038_utt7.wav
+Monica|How many perfectly fine women are you gonna reject over the most superficial insignificant things?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1038_utt8.wav
+Joey|Hold it, hold it.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1038_utt9.wav
+Joey|I gotta side with Chandler on this one.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1038_utt10.wav
+Joey|When I first moved to the city, I went out a couple of times with this girl, really hot, great kisser, but she had the biggest Adam's apple.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1038_utt11.wav
+Joey|It made me nuts.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1038_utt12.wav
+Chandler|You or me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1038_utt13.wav
+Ross|I got it. Uh, Joey, women don't have Adam's apples.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1038_utt14.wav
+Joey|You guys are messing with me, right?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1038_utt15.wav
+All|Yeah.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1038_utt16.wav
+Joey|That was a good one. For a second there, I was like, "whoa."|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1038_utt17.wav

@@ -1,0 +1,22 @@
+Chandler|Good job Joe! Well done! Top notch!|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia6_utt0.wav
+Joey|You liked it? You really liked it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia6_utt1.wav
+Chandler|Oh-ho-ho, yeah!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia6_utt2.wav
+Joey|Which part exactly?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia6_utt3.wav
+Chandler|The whole thing! Can we go?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia6_utt4.wav
+Joey|Oh no-no-no, give me some specifics.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia6_utt5.wav
+Chandler|I love the specifics, the specifics were the best part!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia6_utt6.wav
+Joey|Hey, what about the scene with the kangaroo? Did-did you like that part?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia6_utt7.wav
+Chandler|I was surprised to see a kangaroo in a World War I epic.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia6_utt8.wav
+Joey|You fell asleep!!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia6_utt9.wav
+Joey|There was no kangaroo!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia6_utt10.wav
+Joey|They didn¬ít take any of my suggestions!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia6_utt11.wav
+Joey|That¬ís for coming buddy.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia6_utt12.wav
+Joey|I¬íll see you later.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia6_utt13.wav
+Chandler|Don¬ít go!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia6_utt14.wav
+Chandler|I¬ím sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia6_utt15.wav
+Chandler|I¬ím so sorry!|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia6_utt16.wav
+Chandler|Look!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia6_utt17.wav
+Chandler|This guy fell asleep!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia6_utt18.wav
+Chandler|He fell asleep too!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia6_utt19.wav
+Chandler|Be mad at him!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia6_utt20.wav
+Chandler|Or, call an ambulance.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia6_utt21.wav

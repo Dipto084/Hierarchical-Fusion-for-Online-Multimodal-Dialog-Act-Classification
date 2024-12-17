@@ -1,0 +1,19 @@
+Chandler|No-no-no-no. Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia819_utt0.wav
+Phoebe|Anyway, I should go. Okay, bye.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia819_utt1.wav
+Monica|Hey sweetie.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia819_utt2.wav
+Chandler|Hi sweetie. So, what was with all the whispering?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia819_utt3.wav
+Monica|I can¬ít tell you. It¬ís a secret.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia819_utt4.wav
+Chandler|Secret? Married people aren¬ít supposed to have secrets between one another. We have too much love and respect for one another.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia819_utt5.wav
+Monica|Awww. But still no.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia819_utt6.wav
+Chandler|No I¬ím serious, we should tell each other|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia819_utt7.wav
+Monica|Really? Okay, so why don¬ít you tell me what happened to Ross Junior year at|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia819_utt8.wav
+Chandler|Oh no-no, I can¬ít do that.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia819_utt9.wav
+Monica|If you tell me, I¬íll tell you what Phoebe said.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia819_utt10.wav
+Chandler|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia819_utt11.wav
+Monica|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia819_utt12.wav
+Chandler|So, Ross and I are going to|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia819_utt13.wav
+Monica|Oh my God. He threw up?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia819_utt14.wav
+Chandler|No, he visited a little town south of throw up. So what was Phoebe¬ís secret?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia819_utt15.wav
+Monica|Oh, Nancy Thompson from Phoebe¬ís old massage place is getting fired.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia819_utt16.wav
+Chandler|That¬ís it?! I gave up my|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia819_utt17.wav
+Monica|That¬ís right! You lose sucker!! Please still marry me.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia819_utt18.wav

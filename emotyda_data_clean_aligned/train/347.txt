@@ -1,0 +1,12 @@
+Monica|Shoot! We¬íre out of soda.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia347_utt0.wav
+Chandler|Oh, I¬íll go out and get you some.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia347_utt1.wav
+Monica|Really?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia347_utt2.wav
+Chandler|Nope! Because I¬ím not your boyfriend. Hey Pheebs, how did it go?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia347_utt3.wav
+Phoebe|Well, umm, my Mom¬ís friend, Phoebe, is actually my birth Mom.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia347_utt4.wav
+Chandler|I found a dried up seashores.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia347_utt5.wav
+Monica|Sweety, what are you talking about?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia347_utt6.wav
+Phoebe|Oh, my new Mom, who-who¬ís a big, fat abandoner!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia347_utt7.wav
+Joey|Whoa, wait, Pheebs, wait a second! Don¬ít you wanna stay here and talk about it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia347_utt8.wav
+Phoebe|No. I¬ím just, I wanna, I need to be alone.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia347_utt9.wav
+Phoebe|Monica!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia347_utt10.wav
+Monica|Oh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia347_utt11.wav

@@ -1,0 +1,11 @@
+Rachel|You¬Öare¬Önot going to believe it! Joshua came into work today, and guess what happened?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia564_utt0.wav
+Monica|He asked you out?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia564_utt1.wav
+Rachel|No. But I was showing him some cufflinks and I felt his pulse.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia564_utt2.wav
+Monica|Saucy!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia564_utt3.wav
+Rachel|What are these?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia564_utt4.wav
+Monica|Electrical plans for the building.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia564_utt5.wav
+Rachel|Okay, okay, okay should I be scared?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia564_utt6.wav
+Monica|I know that switch does something, okay?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia564_utt7.wav
+Monica|So-so I went down to city hall and got these.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia564_utt8.wav
+Monica|All I had to do was pay $25 and wait in line for three hours.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia564_utt9.wav
+Rachel|Wow! If only more people knew.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia564_utt10.wav

@@ -1,0 +1,13 @@
+Phoebe|Okay. Would you rather live in the shirt pocket of a sweaty giant, or inside his shower drain?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia717_utt0.wav
+Rachel|Oh my God! Phoebe look, it¬ís Ross and that girl.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia717_utt1.wav
+Phoebe|No! No! Look at that! It¬ís a line of ants! They¬íre working as a team!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia717_utt2.wav
+Phoebe|Right, oh yeah.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia717_utt3.wav
+Phoebe|Wow, oh, it looks like Ross is breaking up with her.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia717_utt4.wav
+Phoebe|Uff, I hope he lets her down easy.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia717_utt5.wav
+Rachel|Come on Phoebe, look at that!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia717_utt6.wav
+Rachel|They are not breaking up, look at them.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia717_utt7.wav
+Rachel|Okay that¬ís, you know what that is?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia717_utt8.wav
+Rachel|That is a, that is a second date, that¬ís what that is!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia717_utt9.wav
+Rachel|Look at that, she just put her hand on his thigh...|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia717_utt10.wav
+Phoebe|Oh no! That really is nothing, she is|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia717_utt11.wav
+Rachel|Ohh! Phoebe, this is all your fault! Now he loves her, he¬ís gonna marry her, and this is all your fault.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia717_utt12.wav

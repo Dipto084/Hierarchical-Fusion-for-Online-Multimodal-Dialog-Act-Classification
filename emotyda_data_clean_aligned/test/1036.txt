@@ -1,0 +1,21 @@
+Joey|Hey-hey! Stanley! Hey-hey! You're leading man is here! Let's get to work.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1036_utt0.wav
+Stanley|Umm, slight change of plans. We've shut down.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1036_utt1.wav
+Joey|Wh-what?! Why?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1036_utt2.wav
+Stanley|It's a money thing, we don't have any.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1036_utt3.wav
+Joey|You're kidding right?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1036_utt4.wav
+Stanley|No.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1036_utt5.wav
+Joey|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1036_utt6.wav
+Stanley|It-it's probably just temporary. We're hoping to get some more money soon, so if could just uh, hang out.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1036_utt7.wav
+Joey|Uh, hang out?! How long?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1036_utt8.wav
+Stanley|I don't know.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1036_utt9.wav
+Stanley|A week?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1036_utt10.wav
+Stanley|Maybe two?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1036_utt11.wav
+Stanley|The money will turn up!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1036_utt12.wav
+Stanley|People will always wanna invest in movies!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1036_utt13.wav
+Stanley|Hey, you're not rich are ya?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1036_utt14.wav
+Joey|No!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1036_utt15.wav
+Stanley|Eh, worth a shot. Look Joey, let me know where you're staying, okay?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1036_utt16.wav
+The Grip|Hey pal, are you Joey Tribbiani?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1036_utt17.wav
+Joey|Yeah.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1036_utt18.wav
+The Grip|These got left for ya.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1036_utt19.wav
+Joey|Thanks. Congratulations on your big break.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1036_utt20.wav

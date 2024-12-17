@@ -1,0 +1,3 @@
+Ross|Come on!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia169_utt0.wav
+Rachel|Oh wait, don¬ít you have to pay for your, Busty Ladies?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia169_utt1.wav
+Ross|No, it¬ís okay. Some-some kid asked me to pick it up for him, but I don¬ít|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia169_utt2.wav

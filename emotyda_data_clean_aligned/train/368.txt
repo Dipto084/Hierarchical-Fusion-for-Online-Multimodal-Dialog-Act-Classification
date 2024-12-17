@@ -1,0 +1,2 @@
+Ross|I¬ím, I¬ím sorry you didn¬ít get to go to Spacecamp, and I¬ím hoping that maybe somehow, this may make up for it.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia368_utt0.wav
+Ross|Presenting Sarah Tuttle¬ís Private Very Special Spacecamp!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia368_utt1.wav

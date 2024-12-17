@@ -1,0 +1,16 @@
+Rachel|My drinking?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia94_utt0.wav
+Joanna|Oh, I must¬íve said that after you left.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia94_utt1.wav
+Rachel|Said what? Exactly.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia94_utt2.wav
+Joanna|That you enjoyed the occasional drink¬Öing binge.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia94_utt3.wav
+Rachel|Oh my God!! Ohh, that is it! I¬ím leaving! You are just a horrible person!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia94_utt4.wav
+Joanna|Wait-wait-wait-wait-wait-wait-wait-wait!!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia94_utt5.wav
+Joanna|If you¬íre gonna get all sensitive about it!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia94_utt6.wav
+Joanna|I don¬ít want to lose you.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia94_utt7.wav
+Joanna|What if I, create a position for you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia94_utt8.wav
+Joanna|I¬íll make you an assistant buyer in this department.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia94_utt9.wav
+Rachel|Say more things like that.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia94_utt10.wav
+Joanna|You can have your own office, and a raise! Effective tomorrow.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia94_utt11.wav
+Rachel|I¬íd need an expense account.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia94_utt12.wav
+Joanna|Done!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia94_utt13.wav
+Rachel|And an assistant.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia94_utt14.wav
+Joanna|Sophie, get in here!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia94_utt15.wav

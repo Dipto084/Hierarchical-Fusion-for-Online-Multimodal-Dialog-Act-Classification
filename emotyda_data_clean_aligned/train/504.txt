@@ -1,0 +1,14 @@
+Joey|Well that¬ís it. I¬ím done. Whew! There come the meat sweats.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia504_utt0.wav
+Monica|Well Joey, we¬íre all¬Öwe¬íre all very proud of you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia504_utt1.wav
+Chandler|Yes, I believe we can expect a call from the President any moment now.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia504_utt2.wav
+Phoebe|Is there anything we can do for you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia504_utt3.wav
+Joey|No just, nobody press on my stomach.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia504_utt4.wav
+Rachel|You can keep those pants by the way.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia504_utt5.wav
+Joey|Whoa¬óhey¬ówh-wh-what do you got there? What is that? Pie?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia504_utt6.wav
+Monica|Yeah, you want some?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia504_utt7.wav
+Joey|Ah, just cut me a little sliver.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia504_utt8.wav
+Joey|A little bigger.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia504_utt9.wav
+Joey|Little bigger.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia504_utt10.wav
+Joey|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia504_utt11.wav
+Joey|Are you afraid you¬íre gonna run out?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia504_utt12.wav
+Joey|Cut me a real piece!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia504_utt13.wav

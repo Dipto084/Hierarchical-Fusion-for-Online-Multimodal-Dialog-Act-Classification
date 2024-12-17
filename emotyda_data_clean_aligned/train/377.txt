@@ -1,0 +1,7 @@
+Ross|which brings us back, of course, to Greely¬ís theory of dominance.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia377_utt0.wav
+Ross|Okay, that-that¬ís all for today.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia377_utt1.wav
+Ross|Oh, uh does anyone know where the Freeman building is?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia377_utt2.wav
+Student|Yeah, it¬ís the new building on Avenue A.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia377_utt3.wav
+Ross|What?! That-that¬ís all the way cross town, I¬ím supposed to teach a graduate seminar there in ten minutes.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia377_utt4.wav
+Student|Ooh, dude. That¬ís not gonna happen.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia377_utt5.wav
+Ross|Move it! Move it! Move it!! Hey!!! I¬ím the teacher!!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia377_utt6.wav

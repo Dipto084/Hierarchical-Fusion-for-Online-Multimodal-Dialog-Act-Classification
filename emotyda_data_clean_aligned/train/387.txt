@@ -1,0 +1,5 @@
+Phoebe|Oh, Ross you¬íre right, I don¬ít know why I always thought this was real grass.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia387_utt0.wav
+Monica|Hey, are you okay?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia387_utt1.wav
+Ross|My wife¬ís a lesbian.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia387_utt2.wav
+Joey|Cool!!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia387_utt3.wav
+Joey|Ross, Joey. Joey, Ross.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia387_utt4.wav

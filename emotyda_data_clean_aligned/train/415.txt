@@ -1,0 +1,11 @@
+Ross|What's with her?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia415_utt0.wav
+Joey|I don't know.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia415_utt1.wav
+Joey|But hey, I know we can decide.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia415_utt2.wav
+Joey|Okay, I'm gonna ask you questions and you answer real quick.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia415_utt3.wav
+Joey|Okay?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia415_utt4.wav
+Ross|Okay.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia415_utt5.wav
+Joey|What do you like better action or comedy?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia415_utt6.wav
+Ross|Action.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia415_utt7.wav
+Joey|Who would you rather sleep with Monica or Rachel?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia415_utt8.wav
+Ross|Dude, you are sick.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia415_utt9.wav
+Joey|Oh, I'm sorry. I forgot you had that whole Rachel thing.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia415_utt10.wav

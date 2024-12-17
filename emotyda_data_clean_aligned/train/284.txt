@@ -1,0 +1,3 @@
+Phoebe|Lusts of the flesh.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia284_utt0.wav
+Rachel|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia284_utt1.wav
+Phoebe|I don¬ít know. A cowboy theme?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia284_utt2.wav

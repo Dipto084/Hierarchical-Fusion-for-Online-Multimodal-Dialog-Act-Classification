@@ -1,0 +1,4 @@
+Rachel|Maybe.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia862_utt0.wav
+Monica|You can't!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia862_utt1.wav
+Rachel|Why? Seriously I did not understand a word that you said.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia862_utt2.wav
+Monica|In the hall.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia862_utt3.wav

@@ -1,0 +1,16 @@
+Rachel|Oh God, I hate my job, I hate it, I hate my job, I hate it.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia945_utt0.wav
+Monica|I know honey, I¬ím sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia945_utt1.wav
+Rachel|Oh, I wanna quit, but then I think I should stick it out, then I think why would such a person stay in such a demeaning job, just because it¬ís remotely related to the field they¬íre interested in.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia945_utt2.wav
+Monica|Gee, I don¬ít know Rach. Order up!! I got a Yentel soup, a James Beans, and a Howdy hold the Dowdy!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia945_utt3.wav
+Rachel|Oh honey, come on, I¬ím sorry, I didn¬ít....|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia945_utt4.wav
+Rachel|I don¬ít mind paying my dues, y'know, its just how much am I gonna learn about fashion by walking Mira, the arthritic seamstress, to the bathroom.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia945_utt5.wav
+Rachel|Hi! Is my misery amusing to you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia945_utt6.wav
+Guy|I¬ím sorry, I wa, I wa, I was just ah....|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia945_utt7.wav
+Rachel|It¬ís not funny, this is actually my job.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia945_utt8.wav
+Guy|Oh believe me, I-I-I¬íve been there. I had to sort mannequin heads at that Mannequins Plus.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia945_utt9.wav
+Rachel|Oh well then, so I¬ím just going to go back to talking to my friend here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia945_utt10.wav
+Rachel|And you can go back to enjoying your little hamburger.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia945_utt11.wav
+Guy|Ah, just one other thing.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia945_utt12.wav
+Rachel|Yes?!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia945_utt13.wav
+Guy|I ah, I work at|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia945_utt14.wav
+Rachel|Do you want my pickle?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia945_utt15.wav

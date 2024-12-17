@@ -1,0 +1,3 @@
+Joey|I¬ím telling you man, I saw it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia497_utt0.wav
+Chandler|Yeah, well, you¬íre wrong! Okay, you¬íre wrong.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia497_utt1.wav
+Joey|I¬ím not wrong! I wish I was. I¬ím sorry. Bet that barium enema doesn¬ít sound so bad now, huh?|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia497_utt2.wav

@@ -1,0 +1,15 @@
+Elizabeth|Oh please! It was such a big class! You never even noticed me!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia821_utt0.wav
+Ross|What? Of course I did! You uh, you sat next to Sleepy Sleeperson.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia821_utt1.wav
+Elizabeth|Who?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia821_utt2.wav
+Ross|Oh uh, I had trouble remembering everyone¬ís name, so I-I kinda came up with nicknames.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia821_utt3.wav
+Ross|Like the guy on the other side of you was Smelly von Brownshirt.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia821_utt4.wav
+Elizabeth|Oh yeah. So umm, did you have a nickname for me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia821_utt5.wav
+Ross|Umm, no. No.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia821_utt6.wav
+Elizabeth|Yes you did! What was it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia821_utt7.wav
+Ross|Umm, it¬ís Cutie McPretty.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia821_utt8.wav
+Elizabeth|Ohh that¬ís so sweet!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia821_utt9.wav
+Ross|Listen, I gotta tell ya, I-I¬ím having a great time!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia821_utt10.wav
+Ross|Y¬íknow how before you said it might be weird, the whole student teacher thing, and to be frank I thought it would be too, but it¬ís not.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia821_utt11.wav
+Ross|I mean it¬ís not at all.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia821_utt12.wav
+Burt|Dr. Geller!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia821_utt13.wav
+Ross|Burt!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia821_utt14.wav

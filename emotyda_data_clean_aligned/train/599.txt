@@ -1,0 +1,18 @@
+Monica|The basket is totally empty! My God, the neighbors ate all the candy!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia599_utt0.wav
+Chandler|Well, either that or uh|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia599_utt1.wav
+Monica|Joey!!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia599_utt2.wav
+Joey|Yeah?|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia599_utt3.wav
+Monica|Did you eat all the neighbor candy?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia599_utt4.wav
+Joey|Uh well yeah, that was the plan, but by the time I got to it there was only a couple of pieces left!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia599_utt5.wav
+Phoebe|Yeah, and they¬íve been coming by all day. They love it!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia599_utt6.wav
+Monica|They love my candy? Oh man!!! I¬íve gotta go make more!!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia599_utt7.wav
+Joey|Hey Mon, you might wanna make some more lasagna too, because something might¬íve happened to a huge chunk of it.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia599_utt8.wav
+Monica|Ross! The neighbors ate all my candy!!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia599_utt9.wav
+Ross|Mine stole my newspaper! It¬ís like a|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia599_utt10.wav
+Phoebe|Sure!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia599_utt11.wav
+Ross|Yeah, ever since you uh, told me that story about that bike I-I couldn¬ít stop thinking about it.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia599_utt12.wav
+Ross|I mean, everyone should have a-a|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia599_utt13.wav
+Phoebe|Oh my God Ross!!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia599_utt14.wav
+Ross|You like it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia599_utt15.wav
+Phoebe|I|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia599_utt16.wav
+Ross|Yeah?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia599_utt17.wav

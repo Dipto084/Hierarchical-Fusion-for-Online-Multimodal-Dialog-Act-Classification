@@ -1,0 +1,9 @@
+Phoebe|Oh my God, oh my God! Poor Monica!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia3_utt0.wav
+Chandler|What, what, what?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia3_utt1.wav
+Phoebe|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia3_utt2.wav
+Phoebe|He was with her when he wrote this poem.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia3_utt3.wav
+Phoebe|Look, 'My vessel so empty with nothing inside.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia3_utt4.wav
+Phoebe|Now that I've touched you, you seem emptier still.'|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia3_utt5.wav
+Phoebe|He thinks Monica is empty, she is the empty vase!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia3_utt6.wav
+Phoebe|Oh, totally. Oh, God, oh, she seemed so happy too.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia3_utt8.wav
+Joey|Done.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia3_utt9.wav

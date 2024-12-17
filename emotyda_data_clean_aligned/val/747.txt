@@ -1,0 +1,19 @@
+Ross|Can I ask you something? Have you ever had a guy have a crush on you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia747_utt0.wav
+Joey|Is that why you wanted to tie my tie?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia747_utt1.wav
+Ross|There¬ís this kid in my class who said he¬ís in love with me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia747_utt2.wav
+Joey|Whoa!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia747_utt3.wav
+Rachel|Whoa what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia747_utt4.wav
+Joey|Ross has a boyfriend.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia747_utt5.wav
+Ross|I do-I do|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia747_utt6.wav
+Rachel|Really?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia747_utt7.wav
+Ross|Yeah!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia747_utt8.wav
+Ross|I don¬ít know.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia747_utt9.wav
+Ross|I mean, last year Elizabeth now-now this kid.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia747_utt10.wav
+Ross|What-what-what-what is it?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia747_utt11.wav
+Ross|Am I giving out some kind of¬Ösexy professor vibe?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia747_utt12.wav
+Rachel|Not right now.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia747_utt13.wav
+Ross|It-it¬óThe point is my natural charisma has made him fail his midterm.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia747_utt14.wav
+Rachel|Oh, see now I feel bad for the kid!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia747_utt15.wav
+Rachel|I had a crush on a teacher once and it was so hard!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia747_utt16.wav
+Rachel|Y¬íknow you¬óI couldn¬ít concentrate and I blushed every time he looked at me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia747_utt17.wav
+Rachel|I mean come on, you remember what¬ís it¬ís like to be 19 and in love.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia747_utt18.wav

@@ -1,0 +1,16 @@
+Phoebe|Joseph Francis Tribbiani are you home yet?!!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia317_utt0.wav
+Rachel|Umm, I think he¬ís still out. What¬ís wrong?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia317_utt1.wav
+Phoebe|Well, I¬íll tell you Rachel Karen Green, I had plans with Joey tonight and he left me this note.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia317_utt2.wav
+Rachel|"Pheebs, can¬ít make it, got a date. Talk to you later. Big Daddy." Big Daddy?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia317_utt3.wav
+Phoebe|Oh that¬ís a nickname we were trying out.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia317_utt4.wav
+Ross|Hey, y¬íknow what nickname never caught on? The Ross-A-Tron!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia317_utt5.wav
+Joey|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia317_utt6.wav
+Phoebe|Oh! Here¬ís Joseph Francis!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia317_utt7.wav
+Joey|Oh-Wha-Ho! What are you middle naming me for?! I left you a note!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia317_utt8.wav
+Phoebe|So what?! That doesn¬ít give you the right to ditch me!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia317_utt9.wav
+Joey|Hey, you can cancel plans with friends if there is the possibility for sex!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia317_utt10.wav
+Ross|Phoebe he¬ís right, that is the rule.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia317_utt11.wav
+Phoebe|I don¬ít accept this rule.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia317_utt12.wav
+Phoebe|When we make plans, I expect you to show up.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia317_utt13.wav
+Phoebe|Okay, I can¬ít just be a way to kill time ¬ëtil you meet someone better!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia317_utt14.wav
+Phoebe|Y¬íknow boyfriends and girlfriends come and go, but this is for life!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia317_utt15.wav

@@ -1,0 +1,6 @@
+Monica|You see that guy? He¬ís in classics now, but y'know as soon as we leave he¬ís going straight to the porn.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia928_utt0.wav
+Richard|He¬ís gonna go up to the counter with|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia928_utt1.wav
+Monica|Yeah.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia928_utt2.wav
+Richard|I missed this.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia928_utt3.wav
+Monica|Me too.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia928_utt4.wav
+Richard|So, you wanna get a hamburger or something?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia928_utt5.wav

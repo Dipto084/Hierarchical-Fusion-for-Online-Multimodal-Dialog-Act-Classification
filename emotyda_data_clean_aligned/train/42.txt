@@ -1,0 +1,2 @@
+Chandler|Everything¬ís gonna be all right. Okay, Dick?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia42_utt0.wav
+Guru Saj|Hello, I am Guru Saj--Whoa!! That¬ís supposed to be a duck right? ¬ëCause otherwise, this is waaay out of my league.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia42_utt1.wav

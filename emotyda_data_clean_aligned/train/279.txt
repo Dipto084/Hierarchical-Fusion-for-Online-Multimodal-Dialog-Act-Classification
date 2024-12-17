@@ -1,0 +1,16 @@
+Joey|Whoa-whoa, Treeger made you cry?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia279_utt0.wav
+Rachel|Yes! And he said really mean things that were only partly true.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia279_utt1.wav
+Joey|I¬ím gonna go down there and teach that guy a lesson.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia279_utt2.wav
+Monica|Joey, please don¬ít do that. I think it¬ís best that we just forget about it.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia279_utt3.wav
+Rachel|That¬ís easy for you to say, you weren¬ít almost just killed.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia279_utt4.wav
+Joey|All right that¬ís it, school is in session!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia279_utt5.wav
+Monica|My God! Is this a gym card?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia279_utt6.wav
+Chandler|Oh yeah, gym member. I try to go four times a week, but I¬íve missed the last 1200 times.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia279_utt7.wav
+Ross|So why don¬ít you quit?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia279_utt8.wav
+Chandler|You don¬ít think I¬íve tried? You think I|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia279_utt9.wav
+Ross|Who is Maria?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia279_utt10.wav
+Chandler|Oh Maria. You can¬ít say no to her, she¬ís like this lycra spandex covered gym¬Ötreat.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia279_utt11.wav
+Ross|You need me to go down there with you and hold your hand?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia279_utt12.wav
+Chandler|No!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia279_utt13.wav
+Ross|So you¬íre strong enough to face her on your own?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia279_utt14.wav
+Chandler|Oh no, you¬íll have to come.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia279_utt15.wav

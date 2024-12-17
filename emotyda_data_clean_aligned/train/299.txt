@@ -1,0 +1,4 @@
+Joey|Y'know what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia299_utt0.wav
+Chandler|Umm?|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia299_utt1.wav
+Joey|I bet ¬ëya ya I could fit in there.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia299_utt2.wav
+Chandler|I¬íve got five bucks says you can¬ít.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia299_utt3.wav

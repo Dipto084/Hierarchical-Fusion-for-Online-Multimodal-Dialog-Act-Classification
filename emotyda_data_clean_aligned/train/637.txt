@@ -1,0 +1,12 @@
+Joey|You spent a hundred dollars. That¬ís the limit. You¬íre screwed!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia637_utt0.wav
+Ross|Uh actually, I sent the flowers before the actual date. So technically,|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia637_utt1.wav
+Joey|Oh-oh! So that¬ís the way it¬ís gonna be huh? Yeah I can break the rules too y¬íknow!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia637_utt2.wav
+Ross|Oh yeah? What are you gonna do?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia637_utt3.wav
+Joey|I don¬ít know.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia637_utt4.wav
+Ross|Why am I not surprised?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia637_utt5.wav
+Joey|Y¬íknow what Ross? I¬ím not gonna let you get away with this!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia637_utt6.wav
+Ross|I don¬ít think you have much choice.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia637_utt7.wav
+Joey|Well we¬íll see!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia637_utt8.wav
+Ross|Bye-bye!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia637_utt9.wav
+Joey|Yeah bye-bye! Hey! So just a light layer?|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia637_utt10.wav
+Ross|Yes. Yes. Just here and there .|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia637_utt11.wav

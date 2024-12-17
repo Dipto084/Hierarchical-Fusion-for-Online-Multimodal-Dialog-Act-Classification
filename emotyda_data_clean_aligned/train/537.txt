@@ -1,0 +1,5 @@
+Joey|Hey! Tall guy! Hey, listen, I wanted to talk to you about that girl that you¬íre dancing with.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia537_utt0.wav
+Joey|Yeah, yeah, okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia537_utt1.wav
+Joey|Uh, look buddy, I came with that girl, and I had this plan to kiss her at the new years countdown ¬ñ I¬ím trying to win her over, so I was wondering if..|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia537_utt2.wav
+Joey|Oh come on man, you can dance with my partner, she¬ís real, uh, mellow!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia537_utt3.wav
+Joey|Well, I was hoping after tonight that maybe I could you know|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia537_utt4.wav

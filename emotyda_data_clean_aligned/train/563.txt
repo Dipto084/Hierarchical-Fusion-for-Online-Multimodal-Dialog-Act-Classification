@@ -1,0 +1,9 @@
+Monica|Would you ever be a surrogate for anyone?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia563_utt0.wav
+Rachel|It depends on who asked.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia563_utt1.wav
+Monica|What if I asked?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia563_utt2.wav
+Rachel|Oh, Mon, sure.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia563_utt3.wav
+Monica|Really?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia563_utt4.wav
+Rachel|Yes. You¬íre not asking are you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia563_utt5.wav
+Monica|No.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia563_utt6.wav
+Rachel|Yes! Totally!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia563_utt7.wav
+Kathy|Oh! Thank you! Thank you! Thank you! Yes! Thank you!|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia563_utt8.wav

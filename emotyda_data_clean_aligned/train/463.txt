@@ -1,0 +1,14 @@
+Rachel|Hi!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia463_utt0.wav
+Chandler|Another cheesecake came! They delivered it to the wrong address again!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia463_utt1.wav
+Rachel|So just bring it back downstairs, what¬ís the problem?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia463_utt2.wav
+Chandler|I can¬ít seem to say goodbye.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia463_utt3.wav
+Rachel|Are you serious?! Chandler, we ate an entire cheesecake two days ago and you want more?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia463_utt4.wav
+Chandler|Well I¬íve forgotten what it tastes like okay?!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia463_utt5.wav
+Rachel|It was cheesecake.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia463_utt6.wav
+Rachel|It was fine.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia463_utt7.wav
+Rachel|It had a buttery, crumbly, graham cracker crust, with a very rich yet light, cream cheese filling¬Ö Wow!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia463_utt8.wav
+Rachel|My whole mouth just filled with saliva!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia463_utt9.wav
+Chandler|Y¬íknow what? Forget it!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia463_utt10.wav
+Rachel|Yeah and we¬íll drop it off downstairs so that we¬íre not tempted.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia463_utt11.wav
+Chandler|Good idea. Where do you want to go to lunch?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia463_utt12.wav
+Rachel|Momma¬ís Little Bakery, Chicago, Illinois.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia463_utt13.wav

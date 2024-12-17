@@ -1,0 +1,3 @@
+Joey|¬ëKay!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia178_utt0.wav
+The Presenter|in the category of Favorite Returning Male Character the nominees are: John Wheeler from|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia178_utt1.wav
+Joey|What the?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia178_utt2.wav

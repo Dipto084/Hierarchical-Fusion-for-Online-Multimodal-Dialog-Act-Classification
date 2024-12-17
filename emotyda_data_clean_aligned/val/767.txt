@@ -1,0 +1,12 @@
+Rachel|Ok, I know this is gonna sound really stupid, but I feel that if I can do this, you know, if I can actually do my own laundry, there isn't anything I can't do.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia767_utt0.wav
+Ross|That does not sound stupid to me.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia767_utt1.wav
+Ross|You know, it's like the first time I had to make dinner for myself, after Carol left me?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia767_utt2.wav
+Ross|I'm sorry, that's all the time we have.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia767_utt3.wav
+Ross|Next on Ross... Uh-oh.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia767_utt4.wav
+Rachel|What uh-oh?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia767_utt5.wav
+Ross|Uh-oh, uh-oh, the laundry's done.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia767_utt6.wav
+Ross|It's, uh, it's a song.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia767_utt7.wav
+Ross|The laundry song that we sing.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia767_utt8.wav
+Ross|Uh-oh the laundry's done, uh-oh, uh-oh.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia767_utt9.wav
+Rachel|Ross, what's the matter?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia767_utt10.wav
+Ross|Nothing, nothing. Lee-lo, the laundry's done.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia767_utt11.wav

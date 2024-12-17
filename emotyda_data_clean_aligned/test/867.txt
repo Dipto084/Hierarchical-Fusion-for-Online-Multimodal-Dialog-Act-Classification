@@ -1,0 +1,8 @@
+Rachel|Coming.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia867_utt0.wav
+Ross|I have a bone to pick with you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia867_utt1.wav
+Rachel|Uh-oh.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia867_utt2.wav
+Ross|Yes! Ben learned a little trick.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia867_utt3.wav
+Rachel|Oh yeah? Did he pull the old|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia867_utt4.wav
+Ross|That¬ís right! That¬ís right!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia867_utt5.wav
+Rachel|Oh that.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia867_utt6.wav
+Ross|Yeah that! You know I hate practical jokes! They¬íre mean and they¬íre stupid and-and I don¬ít want my son learning them!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia867_utt7.wav

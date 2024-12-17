@@ -1,0 +1,6 @@
+Monica|Let's see.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia724_utt0.wav
+Monica|Congress is debating a new deficit reduction bill... the mayor wants to raise subway fares again... the high today was forty-five... and- oh, teams played sports.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia724_utt1.wav
+Phoebe|What about Glen? He could be a Glen.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia724_utt2.wav
+Monica|Nah... not-not special enough.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia724_utt3.wav
+Phoebe|Ooh! How about Agamemnon?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia724_utt4.wav
+Monica|Waaay too special.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia724_utt5.wav

@@ -1,0 +1,17 @@
+Ross|So your dad dropped by. He¬ís a pleasant man!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1018_utt0.wav
+Rachel|Oh no|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1018_utt1.wav
+Phoebe|I¬íd better go. (She goes and sits down in the|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1018_utt2.wav
+Rachel|Ross I¬ím so sorry. Okay. I-I will promise I will straighten this out with him tomorrow in person, or via e-mail.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1018_utt3.wav
+Ross|I don¬ít care about your dad! I care about Mona! She was there and now she¬ís totally freaked out!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1018_utt4.wav
+Rachel|Oh okay, I¬íll fix that to. What¬ís her e-mail address?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1018_utt5.wav
+Ross|Rachel!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1018_utt6.wav
+Rachel|All right, I promise. I¬íll fix this. I swear. I¬íll-I¬íll-I¬íll-I¬íll talk to her.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1018_utt7.wav
+Ross|Okay!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1018_utt8.wav
+Rachel|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1018_utt9.wav
+Ross|Thank you!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1018_utt10.wav
+Phoebe|That¬ís it?!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1018_utt11.wav
+Phoebe|You call that a fight?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1018_utt12.wav
+Phoebe|Come on!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1018_utt13.wav
+Phoebe|"We were on a break!"|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1018_utt14.wav
+Phoebe|"No we weren¬ít!"|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1018_utt15.wav
+Phoebe|What happened to you two?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1018_utt16.wav

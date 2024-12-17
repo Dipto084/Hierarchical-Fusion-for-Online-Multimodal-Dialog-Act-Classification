@@ -1,0 +1,10 @@
+Chandler|Ross! You gotta stop! Okay?! You can¬ít just stare through the peep hole for three hours! You¬íre gonna get peep eye!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia963_utt0.wav
+Ross|I knew it!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia963_utt1.wav
+Ross|I knew it!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia963_utt2.wav
+Ross|I always knew she liked him!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia963_utt3.wav
+Ross|Y'know, she¬íd say no, but here we are!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia963_utt4.wav
+Ross|Right?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia963_utt5.wav
+Ross|We just broke up, first thing she does!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia963_utt6.wav
+Chandler|You didn¬ít just break up.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia963_utt7.wav
+Ross|Hey, it¬ís been like three weeks!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia963_utt8.wav
+Chandler|You slept with somebody three hours after you thought you broke up. I mean bullets have left guns slower!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia963_utt9.wav

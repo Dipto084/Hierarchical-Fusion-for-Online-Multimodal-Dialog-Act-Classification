@@ -1,0 +1,1 @@
+Chandler|Come on, pick up, pick up!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia133_utt0.wav

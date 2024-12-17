@@ -1,0 +1,15 @@
+Rachel|Okay! So, we¬íll just stay married.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia151_utt0.wav
+Ross|Yes, exactly!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia151_utt1.wav
+Rachel|And I will make everyone call me Mrs. Geller!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia151_utt2.wav
+Ross|Wow! This is so amazing. I uh, I really thought I¬íd have to talk you into this more.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia151_utt3.wav
+Rachel|What-wh-what so we¬íll just stay married forever?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia151_utt6.wav
+Ross|Okay, look, how is this gonna affect you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia151_utt7.wav
+Ross|Really?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia151_utt8.wav
+Ross|I mean you fill some form out once and a while and instead of checking the box that says Ms you check the box that says Mrs.!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia151_utt9.wav
+Ross|It¬ís|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia151_utt10.wav
+Rachel|Ohh, okay, I¬ím sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia151_utt11.wav
+Rachel|You¬íre right.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia151_utt12.wav
+Rachel|Y¬íknow what?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia151_utt13.wav
+Ross|I¬ím asking you to do me a favor.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia151_utt15.wav
+Rachel|You are asking me to be your wife!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia151_utt16.wav
+Ross|And as my wife I think you should grant me this favor.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia151_utt17.wav

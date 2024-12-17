@@ -1,0 +1,21 @@
+Ross|Sorry I'm late, I was stuck at work. There was this big dinosaur.. thing.. anyway.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia296_utt0.wav
+Susan|Hi.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia296_utt1.wav
+Carol|Ross, you remember Susan.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia296_utt2.wav
+Ross|How could I forget?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia296_utt3.wav
+Susan|Ross.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia296_utt4.wav
+Ross|Hello, Susan. Good shake. Good shake. So, uh, we're just waiting for...?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia296_utt5.wav
+Carol|Dr. Oberman.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia296_utt6.wav
+Ross|..Dr. Oberman. Okay. And is he-|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia296_utt7.wav
+Susan|She.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia296_utt8.wav
+Ross|#NAME?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia296_utt9.wav
+Carol|Yes, and she's very supportive.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia296_utt10.wav
+Ross|Okay, that's great. No, I'm- Oh.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia296_utt11.wav
+Carol|Thanks.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia296_utt12.wav
+Ross|Quack, quack..|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia296_utt13.wav
+Carol|Ross? That opens my cervix.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia296_utt14.wav
+Rachel|Barry?|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia296_utt15.wav
+Barry|C'mon in.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia296_utt16.wav
+Rachel|Are you sure?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia296_utt17.wav
+Barry|Yeah! It's fine, it's fine. Robbie's gonna be here for hours.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia296_utt18.wav
+Robbie|Huh?!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia296_utt19.wav
+Barry|So, how ya doin?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia296_utt20.wav

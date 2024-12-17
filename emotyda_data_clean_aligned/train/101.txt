@@ -1,0 +1,2 @@
+Dr. Rhodes|First of all, it's on your ass.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia101_utt0.wav
+Ross|Well then, what is it?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia101_utt1.wav

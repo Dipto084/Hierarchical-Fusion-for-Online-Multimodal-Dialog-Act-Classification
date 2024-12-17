@@ -1,0 +1,3 @@
+Chandler|Well, thank you for lunch.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia684_utt0.wav
+Rachel|What? Wait a minute, I didn¬ít pay, I thought you paid!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia684_utt1.wav
+Chandler|So apparently we just don¬ít pay for food anymore. Do you see what I see?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia684_utt2.wav

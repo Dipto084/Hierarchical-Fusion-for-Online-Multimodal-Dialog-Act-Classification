@@ -1,0 +1,8 @@
+Phoebe|You said I was boring--Ohh!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia327_utt0.wav
+Ross|When did I say you were boring?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia327_utt1.wav
+Phoebe|Oh my God, I remember now! We were playing chess!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia327_utt2.wav
+Ross|Phoebe! You and I have|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia327_utt3.wav
+Phoebe|Oh, come on!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia327_utt4.wav
+Phoebe|Yes, remember that time on the frozen lake?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia327_utt5.wav
+Phoebe|We were playing chess, you said I was boring, and then you took off your energy mask and you were Cameron Diaz!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia327_utt6.wav
+Phoebe|Okay, there's a|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia327_utt7.wav

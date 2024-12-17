@@ -1,0 +1,5 @@
+Rachel|Y¬íknow Joey, I could teach you to sail if you want.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia741_utt0.wav
+Joey|You could?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia741_utt1.wav
+Rachel|Yeah! I¬íve been sailing my whole life. When I was fifteen my dad bought me my own boat.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia741_utt2.wav
+Phoebe|Your own boat?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia741_utt3.wav
+Rachel|What?! What?! He was trying to cheer me up! My pony was sick.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia741_utt4.wav

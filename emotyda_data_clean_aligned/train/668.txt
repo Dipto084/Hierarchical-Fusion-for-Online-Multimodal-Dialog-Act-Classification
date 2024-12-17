@@ -1,0 +1,2 @@
+Monica|Ohh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia668_utt0.wav
+Chandler|Okay, one thing at a time.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia668_utt1.wav

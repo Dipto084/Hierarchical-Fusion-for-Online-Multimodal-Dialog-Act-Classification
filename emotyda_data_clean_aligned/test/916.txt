@@ -1,0 +1,14 @@
+Ross|Here we go. Mona umm, I think it¬ís time we-we had a conversation about-about where things are with us.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia916_utt0.wav
+Mona|Yeah, I-I think I suggested that.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia916_utt1.wav
+Ross|Aw, we-we are so¬Ö So umm, well I-I-I like you and I-I love umm, y¬íknow hanging out with you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia916_utt2.wav
+Ross|And I mean-I¬ím having a lot of fun.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia916_utt3.wav
+Mona|Okay.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia916_utt4.wav
+Ross|I mean, there¬ís no point in spending time with someone if-if it¬ís just fun.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia916_utt5.wav
+Ross|It¬ís gotta be, it¬ís gotta be going somewhere right?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia916_utt6.wav
+Ross|So where-where is it going?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia916_utt7.wav
+Ross|Ah!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia916_utt8.wav
+Ross|That¬ís-that¬ís the real question.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia916_utt9.wav
+Ross|And-and the answer is¬Öis it¬ís going somewhere¬Öfun.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia916_utt10.wav
+Ross|Now I-I know what you¬íre thinking, fun was fine for you like ten years ago y¬íknow, but you¬íre-you¬íre not getting any younger.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia916_utt11.wav
+Ross|No I mean¬óNo not you, not you, you¬óyou|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia916_utt12.wav
+Mona|I¬ím sorry, so umm, so where are we?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia916_utt13.wav

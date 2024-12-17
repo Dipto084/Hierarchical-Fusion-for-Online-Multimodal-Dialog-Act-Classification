@@ -1,0 +1,20 @@
+Monica|Oh, and I can also speak a little French. Voulez-vous coucher avec moi ce soir? Why? What did I say?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia207_utt0.wav
+Mischa|Well, you just asked if I wanted to go to bed with you tonight.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia207_utt1.wav
+Monica|Oh my God! No wonder I get such great service at Cafe Maurice.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia207_utt2.wav
+Phoebe|Knock, knock, knock, knock, hi.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia207_utt3.wav
+Phoebe|Um, could you please tell Sergei that um, I was fascinated by what Boutros Boutros Gali said in the New York Times.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia207_utt4.wav
+Phoebe|You didn¬ít say Boutros Boutros Gali.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia207_utt5.wav
+Mischa|Boutros Boutros Gali.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia207_utt6.wav
+Mischa|He says he was too.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia207_utt7.wav
+Phoebe|Interesting.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia207_utt8.wav
+Mischa|So I was wondering....|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia207_utt9.wav
+Phoebe|Okay, ah, before you get all talky again, umm, could you also please tell Sergei that I really like his suit.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia207_utt10.wav
+Mischa|Eh, he said, thank you very much, he thinks you look very pretty tonight, your hair, golden like the sun.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia207_utt11.wav
+Mischa|So you're a chef?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia207_utt12.wav
+Monica|I¬ím also thinking about opening up my own restaurant.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia207_utt13.wav
+Mischa|Oh, really.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia207_utt14.wav
+Phoebe|Monica, can I talk to you behind my menu, please. What are you doing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia207_utt15.wav
+Monica|Well, I was having a conversation.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia207_utt16.wav
+Phoebe|Yeah but, Mischa is so interested in you, that Sergei and I haven¬ít been able to say two words to each other.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia207_utt17.wav
+Monica|What do you want me to do? Just sit here silently while you three have a conversation?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia207_utt18.wav
+Phoebe|That would be great. Thank you.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia207_utt19.wav

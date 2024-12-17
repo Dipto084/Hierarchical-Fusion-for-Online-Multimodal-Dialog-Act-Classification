@@ -1,0 +1,7 @@
+Chandler|Oh my God, honey we are so meant to be together. We both have copies of the|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia108_utt0.wav
+Monica|Honey, both yours.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia108_utt1.wav
+Rachel|Hey! Great advice on that Joey thing!|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia108_utt2.wav
+Monica|Yeah? The work problem?|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia108_utt3.wav
+Rachel|Oh it was perfect! I mean it really felt like he was my friend again.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia108_utt4.wav
+Chandler|What problem did you tell him you had?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia108_utt5.wav
+Rachel|Oh that¬ís not important. The point is, I really¬óI think everything¬ís gonna be okay.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia108_utt6.wav

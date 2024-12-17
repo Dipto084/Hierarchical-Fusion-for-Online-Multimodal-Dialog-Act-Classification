@@ -1,0 +1,22 @@
+Ross|You don¬ít know?! Rach, you balded my girlfriend!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia312_utt0.wav
+Rachel|All right! Ross, do you think it¬ís easy for me to see you with somebody else?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia312_utt1.wav
+Ross|Y'know, hey! You¬íre the one who ended it, remember?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia312_utt2.wav
+Rachel|Yeah, because I was|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia312_utt3.wav
+Ross|You still love me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia312_utt4.wav
+Rachel|Noo.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia312_utt5.wav
+Ross|You still love me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia312_utt6.wav
+Rachel|Oh, y-yeah, so, you-you love me!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia312_utt7.wav
+Ross|Noo, nnnnn. What does this mean? What do you, I mean do you wanna, get back together?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia312_utt8.wav
+Rachel|Noo!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia312_utt9.wav
+Rachel|Maybe!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia312_utt10.wav
+Rachel|I, I don¬ít know.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia312_utt11.wav
+Rachel|Ross, I still can¬ít forgive you for what you did, I can¬ít, I just, but sometimes when I¬ím with you I just, I feel so...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia312_utt12.wav
+Ross|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia312_utt13.wav
+Rachel|I just, I feel, I-I just...|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia312_utt14.wav
+Ross|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia312_utt15.wav
+Rachel|I feel...|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia312_utt16.wav
+Chandler|Noo!! I don¬ít care! I¬ím not, I¬ím not gonna playing one-on-one strip poker with you for practice!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia312_utt17.wav
+Joey|But I made cards!!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia312_utt18.wav
+Rachel|Well! Good night. I¬ím going upstairs.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia312_utt19.wav
+Joey|Good night.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia312_utt20.wav
+Joey|Wanna play strip poker for practice?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia312_utt21.wav

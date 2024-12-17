@@ -1,0 +1,11 @@
+Monica|Oh, but it¬ís made her so happy.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia897_utt0.wav
+Ross|Little girl misses her cat.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia897_utt1.wav
+Ross|Crazy lady thinks her mother is in a cat.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia897_utt2.wav
+Ross|Okay, y'know what, I have to go have dinner with my son, can I trust that when you see Phoebe, you will tell her.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia897_utt3.wav
+All|Yeah.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia897_utt4.wav
+Ross|Thank you.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia897_utt5.wav
+Rachel|I|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia897_utt6.wav
+Monica|He is right, isn¬ít he?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia897_utt7.wav
+Chandler|Y'know what, I think this might be one of the times he¬ís wrong.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia897_utt8.wav
+All|You think?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia897_utt9.wav
+Chandler|Oh-no, he¬ís right.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia897_utt10.wav

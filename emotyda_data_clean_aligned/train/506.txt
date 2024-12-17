@@ -1,0 +1,12 @@
+Ross|Look, look, there¬ís got to be a way we can work past this.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia506_utt0.wav
+Ross|Okay, I can¬ít imagine, I can¬ít imagine my life without you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia506_utt1.wav
+Ross|Without, without these arms, and your face, and this heart.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia506_utt2.wav
+Ross|Your good heart Rach, and, and....|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia506_utt3.wav
+Rachel|No.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia506_utt4.wav
+Rachel|I can¬ít, you¬íre a totally different person to me now.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia506_utt5.wav
+Rachel|I used to think of you as somebody that would never, ever hurt me, ever.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia506_utt6.wav
+Rachel|God, and now I just can¬ít stop picturing with her, I can¬ít, it doesn¬ít matter what you say, or what you do, Ross.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia506_utt7.wav
+Rachel|It¬ís just changed, everything.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia506_utt8.wav
+Rachel|Forever.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia506_utt9.wav
+Ross|Yeah, but this can¬ít be it, I mean.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia506_utt10.wav
+Rachel|Then how come it is?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia506_utt11.wav

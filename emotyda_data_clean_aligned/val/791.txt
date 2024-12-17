@@ -1,0 +1,22 @@
+Rachel|They made you head of the department!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia791_utt0.wav
+Ross|No, I get to teach one of his advanced classes! Why didn¬ít I get head of the department?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia791_utt1.wav
+Joey|Oh! Hey Rach, listen umm|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia791_utt2.wav
+Rachel|Yeah.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia791_utt3.wav
+Joey|I got a big date coming up, do you know a good restaurant?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia791_utt4.wav
+Rachel|Uh, Paul¬ís Caf√©. They got great food and it¬ís really romantic.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia791_utt5.wav
+Joey|Ooh, great! Thanks!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia791_utt6.wav
+Rachel|Yeah! Oh, and then afterwards you can take her to the|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia791_utt7.wav
+Joey|You sure are naming a lot of ways to postpone sex, I¬íll tell ya|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia791_utt8.wav
+Rachel|Ooh, I miss dating.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia791_utt9.wav
+Rachel|Gettin¬í all dressed up and going to a fancy restaurant.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia791_utt10.wav
+Rachel|I¬ím not gonna be able to do that for so long, and it¬ís so much fun!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia791_utt11.wav
+Rachel|I mean not that sitting at home worrying about giving birth to a sixteen pound baby is not fun.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia791_utt12.wav
+Joey|Hey, y¬íknow what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia791_utt13.wav
+Rachel|Huh?|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia791_utt14.wav
+Joey|Why don¬ít I take you out?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia791_utt15.wav
+Rachel|What?! Joey, you don¬ít want to go on a date with a pregnant lady.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia791_utt16.wav
+Joey|Yes I do!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia791_utt17.wav
+Joey|And we¬íre gonna go out, we¬íre gonna have a good time, and take your mind off of childbirth and c-sections and-and giant baby heads stretching out|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia791_utt18.wav
+Rachel|Okay! I¬íll go with ya! I¬íll go! I¬íll go with ya.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia791_utt19.wav
+Joey|I¬íll be fun.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia791_utt20.wav
+Rachel|All right?|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia791_utt21.wav

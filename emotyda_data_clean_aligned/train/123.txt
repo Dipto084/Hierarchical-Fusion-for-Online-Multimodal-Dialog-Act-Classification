@@ -1,0 +1,11 @@
+Chandler|I believe I read that somewhere!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia123_utt0.wav
+Ross|That only is not funny, it's physically impossible!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia123_utt1.wav
+Ross|Okay?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia123_utt2.wav
+Ross|Depending on the species I'd have to have a six foot long...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia123_utt3.wav
+Ross|It's not funny!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia123_utt4.wav
+Chandler|I respectfully disagree.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia123_utt5.wav
+Ross|I can't believe you put that on my alumni page!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia123_utt6.wav
+Chandler|Who cares? Nobody reads those things|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia123_utt7.wav
+Ross|You'd better hope not because I just read what you put on your page today.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia123_utt8.wav
+Chandler|I don't have a page.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia123_utt9.wav
+Ross|Oh oh oh! I RESPECTFULLY DISAGREE!!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia123_utt10.wav

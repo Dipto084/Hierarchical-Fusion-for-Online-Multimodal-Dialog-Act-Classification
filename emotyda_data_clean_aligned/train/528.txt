@@ -1,0 +1,6 @@
+Rachel|Oh Mon, listen I have to ask!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia528_utt0.wav
+Rachel|Okay, Joey Tribbiani invited me back to his apartment, now does he do this with a lot of girls?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia528_utt1.wav
+Monica|Yeah, a lot. A lot, a lot!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia528_utt2.wav
+Rachel|Ohh! And I¬ím one of them!! Wow! Oh, I just cannot believe this! I mean, Joey Tribbiani!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia528_utt3.wav
+Monica|Well, y¬íknow it¬ís none of my business, but aren¬ít you married?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia528_utt4.wav
+Rachel|Yeah. Oh I just wish we could not be married for a little bit! Y¬íknow I just wish we could be like on a break!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia528_utt5.wav

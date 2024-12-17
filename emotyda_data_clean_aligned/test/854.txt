@@ -1,0 +1,6 @@
+Mona|How could you have kept all of this from me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia854_utt0.wav
+Ross|I was going to tell you, but|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia854_utt1.wav
+Dr. Green|But what?! You figured you¬íd get what you wanted and then dump her like you dumped Rachel!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia854_utt2.wav
+Ross|Hey! I did not dump Rachel! Nor are we still together. Can I just¬Ö Why don¬ít we just let the machine get that?|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia854_utt3.wav
+Joey|Hey Ross. It¬ís Joey. There¬ís a hooker over here and we thought maybe you¬íd know something about it.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia854_utt4.wav
+Ross|No! No! No! No! No! I-I-I-I¬óI need to, I need to lie down.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia854_utt5.wav

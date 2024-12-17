@@ -1,0 +1,12 @@
+Ross|Cassie, how you-how you doin¬í on that¬Öhot dog.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia972_utt0.wav
+Cassie|I¬ím all done.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia972_utt1.wav
+Ross|Thank God.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia972_utt2.wav
+Cassie|I guess the last time we really hung out was when our parents rented that beach house together.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia972_utt3.wav
+Ross|Oh right.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia972_utt4.wav
+Ross|Right.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia972_utt5.wav
+Ross|Ooh, remember the time I uh, I pinned you down and tickled you ¬ëtil you cried?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia972_utt6.wav
+Ross|We¬íre probably too old to do that now.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia972_utt7.wav
+Cassie|I¬íll always remember that summer, because it¬ís when I got all of these freckles.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia972_utt8.wav
+Ross|Uh-huh! Uh-huh! And-and-and I¬íll always remember that summer because that¬ís when I realized that we are related.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia972_utt9.wav
+Cassie|It took you that long to figure it out, huh?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia972_utt10.wav
+Ross|Well I¬ím, I¬ím a little slow. Just as our children would be.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia972_utt11.wav

@@ -1,0 +1,17 @@
+Monica|Hey! Where ¬ëya headin¬í in those pants? 1982?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia388_utt0.wav
+Joey|Oh Monica, listen, I ah, I saw down at the hardware store, they got those designer tiles on sale.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia388_utt1.wav
+Joey|If you ever want to redo the bathroom floor.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia388_utt2.wav
+Monica|Why, what¬ís wrong with my bathroom floor?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia388_utt3.wav
+Joey|Nothing. It¬ís just old and dingy, that¬ís all.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia388_utt4.wav
+Monica|I highly doubt that.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia388_utt5.wav
+Joey|Oh yeah. If you ah, move your hamper, you see what color the tile used to be. Yeah.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia388_utt6.wav
+Monica|I can¬ít live like this! What are we gonna do? What are we gonna do?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia388_utt7.wav
+Joey|Relax. Here hold this . This old stuff just comes right off.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia388_utt8.wav
+Monica|That¬ís a little more than I wanted to see.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia388_utt9.wav
+Joey|Aw!|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia388_utt10.wav
+Joey|Look at that, every inch of this stuff is glued down.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia388_utt11.wav
+Joey|It¬íd take forever to pry this up.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia388_utt12.wav
+Joey|You should ah, you should just leave it.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia388_utt13.wav
+Monica|I can¬ít leave it! You gouged a hole in my dingy floor.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia388_utt14.wav
+Joey|Eh! There you go.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia388_utt15.wav
+Monica|You know that¬ís nice, y'know we could put it back there after the surgeons remove it from your colon!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia388_utt16.wav

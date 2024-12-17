@@ -1,0 +1,6 @@
+Frank|Ow!-Ow!-Ow! Ow! Ow! Ow! Ow! Ow! Ow! Y'know, ow!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia758_utt0.wav
+Phoebe|Hey!-Hey! What¬ís going on?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia758_utt1.wav
+Frank|She broke my arm.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia758_utt2.wav
+Girl|He touched my fanny.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia758_utt3.wav
+Frank|No, she touched mine first!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia758_utt4.wav
+Girl|That¬ís my job!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia758_utt5.wav

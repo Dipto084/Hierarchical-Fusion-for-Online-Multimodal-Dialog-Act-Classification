@@ -1,0 +1,10 @@
+Joey|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia612_utt0.wav
+Chandler|Please tell me you got the message!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia612_utt1.wav
+Joey|What message?|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia612_utt2.wav
+Chandler|The actor playing Mac couldn¬ít do it, they needed to see you at 2 o¬íclock.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia612_utt3.wav
+Joey|What?! It¬ís 6 o¬íclock!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia612_utt4.wav
+Chandler|Du-du-I wrote it, I wrote it on the board!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia612_utt5.wav
+Chandler|I wrote it on the board, then I went all over New York City looking for ya!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia612_utt6.wav
+Chandler|I went to Ross¬ís!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia612_utt7.wav
+Chandler|I went to the coffeehouse!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia612_utt8.wav
+Chandler|I went to any place that they made sandwiches!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia612_utt9.wav

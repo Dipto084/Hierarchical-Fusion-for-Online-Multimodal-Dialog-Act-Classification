@@ -1,0 +1,3 @@
+Rachel|Really?! You think that will work?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia390_utt0.wav
+Joey|Absolutely! And if it doesn¬ít, can I get the extra ticket?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia390_utt1.wav
+Joey|What the heck is that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia390_utt2.wav

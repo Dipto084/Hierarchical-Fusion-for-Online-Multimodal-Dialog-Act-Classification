@@ -1,0 +1,18 @@
+Casey|Here you go.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia884_utt0.wav
+Joey|Great! All right, so I¬íll call you later.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia884_utt1.wav
+Casey|Great!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia884_utt2.wav
+Chandler|Hey-Hey-Hey! Who was that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia884_utt3.wav
+Joey|That would be Casey. We¬íre going out tonight.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia884_utt4.wav
+Chandler|Goin¬í out, huh? Wow! Wow! So things didn¬ít work out with Kathy, huh? Bummer.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia884_utt5.wav
+Joey|No, things are fine with Kathy. I¬ím having a late dinner with her tonight, right after my early dinner with Casey.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia884_utt6.wav
+Chandler|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia884_utt7.wav
+Joey|Yeah-yeah. And the craziest thing is that I just ate a whole pizza by myself!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia884_utt8.wav
+Chandler|Wait! You¬íre going out with Kathy!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia884_utt9.wav
+Joey|Yeah. Why are you getting so upset?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia884_utt10.wav
+Chandler|Well, I¬ím upset¬ófor you. I mean, having sex with an endless line of beautiful women must be very unfulfilling for you.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia884_utt11.wav
+Joey|What is the big deal? It¬ís not like we¬íre exclusive.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia884_utt12.wav
+Chandler|Look, Joey, Kathy is clearly not fulfilling your emotional needs.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia884_utt13.wav
+Chandler|But Casey, I mean granted I only saw the back of her head, but I got this sense that she¬ís-she¬ís smart, and funny, and gets you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia884_utt14.wav
+Joey|You got all that from the back of her head?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia884_utt15.wav
+Chandler|All right look, I think it¬ís time for you to settle down. Y'know? Make a choice, pick a lane.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia884_utt16.wav
+Joey|Who¬ís Elaine?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia884_utt17.wav

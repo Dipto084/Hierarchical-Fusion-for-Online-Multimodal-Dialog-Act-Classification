@@ -1,0 +1,6 @@
+Ross|Hi everyone.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia244_utt0.wav
+Ross|I just, I wanted to thank you for our uh, our little talk before.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia244_utt1.wav
+Ross|Well, I was going to, but after I talked to you, I talked to Joey.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia244_utt3.wav
+Rachel|What did, what did he say?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia244_utt4.wav
+Ross|Basically he told me to get over myself and just do it, ya know.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia244_utt5.wav
+Ross|So I though about what you said and I though about what he said and, well, his way I get to have sex tonight so.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia244_utt6.wav

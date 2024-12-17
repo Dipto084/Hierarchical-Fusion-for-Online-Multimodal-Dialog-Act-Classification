@@ -1,0 +1,14 @@
+Mr. Treeger|: I know, we did it!! Hey, that was incredible, huh?!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia25_utt0.wav
+Joey|I know, it was amazing! I mean, we totally nailed it, it was beautiful.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia25_utt1.wav
+Mr. Treeger|: Thank you, listen, thanks a lot Tribbiani, . Oh my God, look at the time, I gotta catch the bus to the ball.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia25_utt2.wav
+Joey|Oh well, okay, good luck.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia25_utt3.wav
+Mr. Treeger|: Yeah.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia25_utt4.wav
+Joey|Unless you wanna practice the Foxtrot again? Or-or the Tango?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia25_utt5.wav
+Mr. Treeger|: Ahh, thanks but no. You see I-I think I¬ím ready to dance with girls.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia25_utt6.wav
+Joey|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia25_utt7.wav
+Mr. Treeger|: Yeah.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia25_utt8.wav
+Joey|Go get ¬ëem Treeger.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia25_utt9.wav
+Mr. Treeger|: Right. Hey, ahh, you wanna come? Marge has a girlfriend.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia25_utt10.wav
+Joey|Really?|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia25_utt11.wav
+Mr. Treeger|: Yeah, you could dance real good with her, she¬ís the same size as me.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia25_utt12.wav
+Joey|No, I¬ím good.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia25_utt13.wav

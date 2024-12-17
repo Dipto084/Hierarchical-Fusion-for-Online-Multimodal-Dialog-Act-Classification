@@ -1,0 +1,8 @@
+Phoebe|Crew guy.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia780_utt0.wav
+Phoebe|Yeah.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia780_utt1.wav
+Phoebe|Why have you been following me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia780_utt2.wav
+Phoebe|I mean, all week long everywhere I look there's you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia780_utt3.wav
+Guy|You wouldn't return my calls, you sent back my letters....|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia780_utt4.wav
+Phoebe|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia780_utt5.wav
+Guy|One more chance Ursula, please?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia780_utt6.wav
+Joey|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia780_utt7.wav

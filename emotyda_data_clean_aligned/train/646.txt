@@ -1,0 +1,22 @@
+Monica|Okay, the reason why I asked you guys out to brunch today is because I have been doing some thinking about who should be my maid of honor.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia646_utt0.wav
+Rachel|Oh my God! This is it! I really hope it¬ís you!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia646_utt1.wav
+Phoebe|I hope it¬ís you.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia646_utt2.wav
+Rachel|Me too!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia646_utt3.wav
+Monica|First of all um, I love you both so much and you¬íre both so important to me|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia646_utt4.wav
+Rachel|Okay, bla-bla-bla-bla!! Who is it?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia646_utt5.wav
+Monica|Well umm, I was thinking that maybe we could come up with a system where we trade off being maid of honor for each other.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia646_utt6.wav
+Monica|Like hypothetically, if Phoebe were mine|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia646_utt7.wav
+Phoebe|Yes!!! Oh!!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia646_utt8.wav
+Rachel|Hypothetically!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia646_utt9.wav
+Phoebe|Still.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia646_utt10.wav
+Monica|If Phoebe were my maid of honor|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia646_utt11.wav
+Monica|Rachel would be Phoebe¬ís, I would be Rachel¬ís, that way we all get to do it once and no one would get upset.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia646_utt12.wav
+Rachel|Yeah that¬ís actually a pretty good idea.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia646_utt13.wav
+Phoebe|Yeah, I¬íll do that. So who gets to be yours?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia646_utt14.wav
+Monica|Well that¬ís the best part. Umm,|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia646_utt15.wav
+Phoebe|Wh-why is that the best part?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia646_utt16.wav
+Monica|Because then I don¬ít have to!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia646_utt17.wav
+Rachel|Well of|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia646_utt18.wav
+Monica|I¬ím really not deciding!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia646_utt19.wav
+Rachel|Fine!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia646_utt20.wav
+Phoebe|Aww, and good luck to you too! What a nice lady!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia646_utt21.wav

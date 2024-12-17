@@ -1,0 +1,16 @@
+Monica|Hey, what's up?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia182_utt0.wav
+Rachel|I just saw Danny getting on the subway with a girl and he had his arm around her.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia182_utt1.wav
+Monica|Oh, honey, I'm sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia182_utt2.wav
+Rachel|Well, you should be, this is all your fault! You meddled in our relationship!!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia182_utt3.wav
+Monica|You had no relationship!!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia182_utt4.wav
+Rachel|No, but I was doing my thing and everything was going according to the plan!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia182_utt5.wav
+Monica|Oh God, stop with the plan!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia182_utt6.wav
+Monica|So what, so what you saw him with a girl?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia182_utt7.wav
+Monica|Who cares?!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia182_utt8.wav
+Monica|That doesn't mean anything!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia182_utt9.wav
+Monica|Now look, you're going to go out on a date with Danny and you're going to be so charming he's gonna forget all about that stupid subway girl.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia182_utt10.wav
+Rachel|She was kinda stupid.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia182_utt11.wav
+Rachel|You're right.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia182_utt12.wav
+Rachel|All right, I'm just gonna go on the date.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia182_utt13.wav
+Rachel|I'm gonna go on the date.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia182_utt14.wav
+Rachel|That is the new plan.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia182_utt15.wav

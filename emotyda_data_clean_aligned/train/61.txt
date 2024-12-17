@@ -1,0 +1,9 @@
+Stevens|Oh, excuse me. I forgot my briefcase y'know, by accident.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia61_utt0.wav
+Doug|Of course, you did.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia61_utt1.wav
+Doug|Forgot something else too ya bastard!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia61_utt2.wav
+Doug|Well, what about you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia61_utt3.wav
+Doug|You¬íre not feeling left out or anything are ya?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia61_utt4.wav
+Chandler|No. No, not at all, that¬ís-that¬ís ridiculous.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia61_utt5.wav
+Doug|Everybody else got one, and you want one too. Don¬ít you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia61_utt6.wav
+Chandler|Ye-ye-yeah, yes I do!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia61_utt7.wav
+Doug|Now get on out of here, you!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia61_utt8.wav

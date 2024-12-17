@@ -1,0 +1,6 @@
+Phoebe|I can¬ít believe it!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia35_utt0.wav
+Phoebe|I did it!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia35_utt1.wav
+Phoebe|I rode a bike!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia35_utt2.wav
+Phoebe|I never thought I¬íd be able to do that!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia35_utt3.wav
+Phoebe|Thank you Ross.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia35_utt4.wav
+Ross|Oh hey, don¬ít thank me, thank yourself. You¬íre the one who faced her fears and ultimately overcame them.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia35_utt5.wav

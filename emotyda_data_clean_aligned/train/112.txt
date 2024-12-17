@@ -1,0 +1,5 @@
+Ross|And they knew about it?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia112_utt0.wav
+Phoebe|Okay, well Ross, what is this really about?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia112_utt1.wav
+Ross|Look, this is my home and I want to be able to come and go whenever I want!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia112_utt2.wav
+Phoebe|Okay, I will find someplace else to do the rest of my appointments. I just don¬ít know what the big deal is!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia112_utt3.wav
+Ross|The big deal is I don¬ít want naked, greasy strangers in my apartment when I want to kick back with a puzzle¬óbeer! Cold beer.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia112_utt4.wav

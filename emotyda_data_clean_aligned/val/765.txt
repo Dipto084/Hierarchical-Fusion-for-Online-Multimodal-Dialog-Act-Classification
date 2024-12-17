@@ -1,0 +1,2 @@
+Chandler|We don¬ít have to come up with this now.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia765_utt0.wav
+Monica|Oh good.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia765_utt1.wav

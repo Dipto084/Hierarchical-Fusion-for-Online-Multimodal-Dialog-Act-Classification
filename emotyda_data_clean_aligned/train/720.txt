@@ -1,0 +1,19 @@
+Ross|Joey, please!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia720_utt0.wav
+Joey|Sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia720_utt1.wav
+Joey|Ahhh..|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia720_utt2.wav
+Chandler|Hello children!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia720_utt3.wav
+Joey|Hey! Wanna play some foosball? Please?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia720_utt4.wav
+Chandler|Okay.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia720_utt5.wav
+Joey|No-no, no! We have to move the table into my room, yeah! 'Cause of all the boxes. Come on!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia720_utt6.wav
+Joey|All right, I have one question.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia720_utt7.wav
+Chandler|Bye-bye little puppet Joey hand?|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia720_utt8.wav
+Joey|No, the quiet down thing!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia720_utt9.wav
+Chandler|You mean this.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia720_utt10.wav
+Joey|Um-hmm! Look, I-I-I don't know how much more of this I can take! Did you know he taped over my|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia720_utt11.wav
+Chandler|All right look, y'know, this maybe tough but come on, this is Ross! I survived college with him!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia720_utt12.wav
+Joey|All right, I guess I can hold out a little longer. Let's have a game.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia720_utt13.wav
+Chandler|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia720_utt14.wav
+Chandler|No-no-no-no!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia720_utt15.wav
+Joey|YES!!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia720_utt16.wav
+Ross|Uh fellas,|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia720_utt17.wav
+Chandler|Okay, so he's out of here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia720_utt18.wav

@@ -1,0 +1,15 @@
+Phoebe|I won! I won! I finally won!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia699_utt0.wav
+The Lurker|I won! That was my quarter!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia699_utt1.wav
+Phoebe|Fine! Here! Take a hike toots!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia699_utt2.wav
+The Lurker|Excuse me, sir! This lady played my quarter, this is my money.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia699_utt3.wav
+The Security Guard|Is that true miss?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia699_utt4.wav
+Phoebe|Sells drugs to kids.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia699_utt5.wav
+The Security Guard|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia699_utt6.wav
+Phoebe|She sells drugs to kids.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia699_utt7.wav
+The Lurker|It was my quarter!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia699_utt8.wav
+The Security Guard|Was it her quarter?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia699_utt9.wav
+Phoebe|How about we talk about this over dinner?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia699_utt10.wav
+The Security Guard|Okay lady, you're out of here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia699_utt11.wav
+Phoebe|No! No, you can't arrest me! No!! I won't go back! I won't go back to that hell hole!!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia699_utt12.wav
+The Security Guard|I'm just taking you outside!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia699_utt13.wav
+Phoebe|Oh, okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia699_utt14.wav

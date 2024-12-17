@@ -1,0 +1,13 @@
+Joey|Hey Ross, is uh, is Staten Island really an island?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia836_utt0.wav
+Ross|Uh-huh, that's why they call it Staten|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia836_utt1.wav
+Joey|Ohhh. I thought it was like Long Island.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia836_utt2.wav
+Ross|Also an island.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia836_utt3.wav
+Joey|Hey, what time is it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia836_utt4.wav
+Ross|02:17|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia836_utt5.wav
+Joey|Wow! You realize that we've been throwing this ball, without dropping it, for like an hour?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia836_utt6.wav
+Ross|Are you serious?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia836_utt7.wav
+Joey|Yeah. I realized it about a half-hour ago but I didn't want to say anything 'cause I didn't want to jinx it.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia836_utt8.wav
+Ross|Wow! We are pretty good at this! Hey! We totally forgot about lunch!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia836_utt9.wav
+Joey|Oh, I-I, I think that's the first time I ever missed a meal! Yeah, my pants are a little loose!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia836_utt10.wav
+Rachel|Hey, you guys|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia836_utt11.wav
+Joey|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia836_utt12.wav

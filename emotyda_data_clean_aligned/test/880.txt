@@ -1,0 +1,3 @@
+Rachel|Oh really?!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia880_utt0.wav
+Tag|Yeah. Did you tell someone that I was gay?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia880_utt1.wav
+Rachel|Oh, did you not want people to know that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia880_utt2.wav

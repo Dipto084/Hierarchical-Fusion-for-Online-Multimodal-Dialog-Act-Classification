@@ -1,0 +1,14 @@
+Rachel|Who's this from?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia185_utt0.wav
+Chandler|Oh, that's Ross's.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia185_utt1.wav
+Rachel|Oh... Oh my God. He remembered.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia185_utt2.wav
+Phoebe|Remembered what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia185_utt3.wav
+Rachel|It was like months ago.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia185_utt4.wav
+Rachel|We were walking by this antique store, and I saw this pin in the window, and I told him that it was just like one my grandmother had when I was a little girl.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia185_utt5.wav
+Rachel|Oh!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia185_utt6.wav
+Rachel|I can't believe he remembered!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia185_utt7.wav
+Phoebe|Oh, it's so pretty. This must have cost him a fortune.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia185_utt8.wav
+Monica|I can't believe he did this.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia185_utt9.wav
+Chandler|Come on, Ross? Remember back in college, when he fell in love with Carol and bought her that ridiculously expensive crystal duck?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia185_utt10.wav
+Rachel|What did you just say?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia185_utt11.wav
+Chandler|F-hah.... flennin....|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia185_utt12.wav
+Rachel|Oh.... my God.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia185_utt13.wav

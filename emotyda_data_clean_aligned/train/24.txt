@@ -1,0 +1,9 @@
+Rachel|I don¬ít know, you thought ¬ëSee you Saturday¬í was funny.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia24_utt0.wav
+Rachel|Look honey, Mark is in fashion okay, I like having a friend that I can share this stuff with.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia24_utt1.wav
+Rachel|You guys would never want to go to a lecture with me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia24_utt2.wav
+Ross|Pa-haa!! I would love to go with you.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia24_utt3.wav
+Rachel|Really!?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia24_utt4.wav
+Ross|Yeah, hey I-I have clothes, I even pick them out.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia24_utt5.wav
+Ross|I mean for, for all you know I could be a fashion..... monger.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia24_utt6.wav
+Rachel|Okay. Honey, I would love for you to go with me. What?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia24_utt7.wav
+Ross|What should I wear, now I¬ím all nervous.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia24_utt8.wav

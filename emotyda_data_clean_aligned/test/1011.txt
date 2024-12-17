@@ -1,0 +1,13 @@
+Monica|It¬ís beautiful! It¬ís like the first bathroom floor there ever was. Whoa! Are you going in there for?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1011_utt0.wav
+Chandler|What, like a number?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1011_utt1.wav
+Ross|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1011_utt2.wav
+Chandler|Hi! Bye!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1011_utt3.wav
+Ross|Okay, I¬ím done with my choices, these are final.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1011_utt4.wav
+Rachel|Well, it¬ís about time.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1011_utt5.wav
+Joey|Ooh, very official.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1011_utt6.wav
+Ross|Oh, yeah, well y'know Chandler printed it up on his computer.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1011_utt7.wav
+Monica|And who laminated it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1011_utt8.wav
+Ross|That would be me.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1011_utt9.wav
+Rachel|All right let me see. Uma Thurman, Winona Ryder, Elizabeth Hurely, Michelle Pfieffer, and Dorothy Hammel?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1011_utt10.wav
+Ross|Hey, it¬ís my list.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1011_utt11.wav
+Rachel|Okay honey, you do realize she only spins like that on ice.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1011_utt12.wav

@@ -1,0 +1,15 @@
+Chandler|Come on Chloe! Finish up with your customer first. Come on Chloe! Come on Chloe!!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia305_utt0.wav
+Issac|Can I help you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia305_utt1.wav
+Chandler|Uh-oh.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia305_utt2.wav
+Joey|Uh, y'know what, we¬íre having second thoughts about our copying needs. And we¬íll need a little more time to think about it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia305_utt3.wav
+Issac|Chloe, switch with me, there¬ís some guys here that got a crush on you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia305_utt4.wav
+Chandler|Okay, that hurt us.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia305_utt5.wav
+Chloe|Hi guys. I haven¬ít seen you since this morning.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia305_utt6.wav
+Chandler|Well ah, ........y'know.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia305_utt7.wav
+Chloe|Hey, what are you guys doing tomorrow night?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia305_utt8.wav
+Joey|Both of us?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia305_utt9.wav
+Chloe|Maybe. Does that scare ya?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia305_utt10.wav
+Chloe|Relax. It¬ís just Issac¬ís D.J.-ing at the Philly. You should come.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia305_utt11.wav
+Joey|We¬íll be there.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia305_utt12.wav
+Chloe|Great. I¬íll ah, see ya then.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia305_utt13.wav
+Chandler|All right, rock on.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia305_utt14.wav

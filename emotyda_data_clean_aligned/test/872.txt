@@ -1,0 +1,10 @@
+Mrs. Geller|What that Rachel did to her life.... We ran into her parents at the club, they were not playing very well.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia872_utt0.wav
+Mr. Geller|I'm not gonna tell you what they spent on that wedding... but forty thousand dollars is a lot of money!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia872_utt1.wav
+Mrs. Geller|Well, at least she had the chance to leave a man at the altar...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia872_utt2.wav
+Monica|What's that supposed to mean?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia872_utt3.wav
+Mrs. Geller|Nothing! It's an expression.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia872_utt4.wav
+Monica|No it's not.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia872_utt5.wav
+Mr. Geller|Don't listen to your mother.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia872_utt6.wav
+Mr. Geller|You're independent, and you always have been!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia872_utt7.wav
+Mr. Geller|Even when you were a kid... and you were chubby, and you had no friends, you were just fine!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia872_utt8.wav
+Mr. Geller|And you would read alone in your room, and your puzzles...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia872_utt9.wav

@@ -1,0 +1,11 @@
+Rachel|Excuse me, can I, can I bum one of those?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia86_utt0.wav
+Rachel|Y'know what, actually¬Ö Okay, okay, okay, what's so funny over here?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia86_utt1.wav
+Nancy|I thought you didn't smoke.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia86_utt2.wav
+Rachel|Oh, I thought you guys meant marijuana cigarettes, y'know?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia86_utt3.wav
+Rachel|Y'know what I mean, like dubbies?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia86_utt4.wav
+Rachel|And I actually, I thought to myself, "Wow, those guys are crazy!"|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia86_utt5.wav
+Rachel|But no, I actually smoke the regular ones all, all the time.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia86_utt6.wav
+Kim|We get high.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia86_utt7.wav
+Rachel|Oh, me too.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia86_utt8.wav
+Kim|I'm kidding.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia86_utt9.wav
+Rachel|Oh, me too.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia86_utt10.wav

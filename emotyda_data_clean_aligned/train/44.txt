@@ -1,0 +1,3 @@
+Charlie|And then, and then you said that thing about, about bringing the Mesozoic era in the 21st century.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia44_utt0.wav
+Ross|Yeah, that's it?|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia44_utt1.wav
+Charlie|Yeah.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia44_utt2.wav

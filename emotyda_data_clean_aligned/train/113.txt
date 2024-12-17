@@ -1,0 +1,11 @@
+Ross|Okay, look, he's not gonna hurt them, right?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia113_utt0.wav
+Monica|Do you always have to bring him here?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia113_utt1.wav
+Ross|I didn't wanna leave him alone.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia113_utt2.wav
+Ross|Alright?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia113_utt3.wav
+Ross|We- we had our first fight this morning.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia113_utt4.wav
+Ross|I think it has to do with my working late.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia113_utt5.wav
+Ross|I said some things that I didn't mean, and he- he threw some faeces...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia113_utt6.wav
+Chandler|Y'know, if you're gonna work late, I could look in on him for you.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia113_utt7.wav
+Ross|Oh, that'd be great!|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia113_utt8.wav
+Ross|Okay, but if you do, make sure it seems like you're there to see him, okay, and you're not like doing it as a favour to me.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia113_utt9.wav
+Chandler|Okay, but if he asks, I'm not going to lie.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia113_utt10.wav

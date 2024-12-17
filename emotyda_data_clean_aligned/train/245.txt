@@ -1,0 +1,17 @@
+Phoebe|Oh, great!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia245_utt0.wav
+Phoebe|We couldn¬ít keep our eyes off each other all night and then every once and a while y¬íknow, he¬íd kinda lean over and stroke my hair and touch my neck.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia245_utt1.wav
+Monica|Okay, stop it Phoebe, you¬íre getting me all tingly.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia245_utt2.wav
+Phoebe|All I could think of was y¬íknow, "Is he gonna kiss me? Is he gonna kiss me?"|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia245_utt3.wav
+Monica|And did he?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia245_utt4.wav
+Phoebe|I¬ím a lady Monica, I don¬ít kiss and tell. But this hickey speaks for itself.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia245_utt5.wav
+Monica|Okay-okay, I got it. I got it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia245_utt6.wav
+Phoebe|I just like him so much that I just feel like I¬íve had 10 drinks today and I¬íve only had six.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia245_utt7.wav
+Monica|Oh, I haven¬ít had that feeling since I first started going out with Chandler.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia245_utt8.wav
+Monica|Wow, I¬ím never gonna have that feeling again, am I?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia245_utt9.wav
+Phoebe|You sound like a guy.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia245_utt10.wav
+Monica|No, a guy would be saying, "I¬ím never gonna get to sleep with anyone else."|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia245_utt11.wav
+Monica|Oh my God!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia245_utt12.wav
+Monica|I¬ím never gonna get to sleep with anyone else!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia245_utt13.wav
+Monica|I¬íve been so busy planning the wedding that I forgot about all the things that I¬íd be giving up!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia245_utt14.wav
+Monica|I mean, I¬ÖI¬ím never gonna have a first kiss again.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia245_utt15.wav
+Phoebe|You¬íll have a last kiss.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia245_utt16.wav

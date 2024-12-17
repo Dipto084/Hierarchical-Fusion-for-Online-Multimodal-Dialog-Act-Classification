@@ -1,0 +1,11 @@
+Ross|That¬ís the day you¬íre gonna die? See¬ódarnit, I¬íve got shuffleboard that day.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia613_utt0.wav
+Phoebe|That¬ís what you think.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia613_utt1.wav
+Monica|Well, I mean what about friends of your grandmother¬ís? Wouldn¬ít they have the recipe?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia613_utt2.wav
+Phoebe|Well, y¬íknow I may have relatives in France who would know. My grandmother said she got the recipe from her grandmother, Nesele Tolouse.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia613_utt3.wav
+Monica|What was her name?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia613_utt4.wav
+Phoebe|Nestley Toulouse.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia613_utt5.wav
+Monica|Nestl√© Toll House?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia613_utt6.wav
+Phoebe|Oh, you Americans always butcher the French language.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia613_utt7.wav
+Phoebe|Yes!! Oh.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia613_utt8.wav
+Monica|I cannot believe that I just spent the last two days trying to figure out the recipe and it was in my cupboard the whole time!|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia613_utt9.wav
+Phoebe|I know! You see it is stuff like this which is why you¬íre burning in hell!!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia613_utt10.wav

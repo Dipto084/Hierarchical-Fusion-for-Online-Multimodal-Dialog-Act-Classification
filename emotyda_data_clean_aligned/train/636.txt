@@ -1,0 +1,7 @@
+Rachel|Okay!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia636_utt0.wav
+Rachel|Y¬íknow what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia636_utt1.wav
+Rachel|I realized it was stupid to get upset about not having a husband and kids.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia636_utt2.wav
+Rachel|All I really needed was a plan.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia636_utt3.wav
+Rachel|See I wanna have three kids|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia636_utt4.wav
+Phoebe|Oh let me guess, and you wanna have them all at the same time and you wanna have them for your brother.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia636_utt5.wav
+Rachel|As I was saying¬Ö I should probably have the first of the three kids by the time I¬ím 35 which gives me five years.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia636_utt6.wav

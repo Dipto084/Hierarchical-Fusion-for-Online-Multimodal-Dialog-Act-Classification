@@ -1,0 +1,8 @@
+Phoebe|Smelly cat, smelly cat, what are they feeding you? Smelly cat, smelly cat, it¬ís not your fault.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia193_utt0.wav
+Leslie|Wow, that¬ís great.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia193_utt1.wav
+Phoebe|Oh, yeah!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia193_utt2.wav
+Leslie|Y'know you could totally sell this. It¬íd be perfect for like umm, a kitty litter campaign.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia193_utt3.wav
+Phoebe|I..., a jingle? No, no-no-no, no.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia193_utt4.wav
+Leslie|What? Why not? You could make a ton of money.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia193_utt5.wav
+Phoebe|Okay, well if I was in this for the money, I¬íd be a millionaire by now, y'know.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia193_utt6.wav
+Phoebe|You just got to get out of that jingle head sweetie.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia193_utt7.wav

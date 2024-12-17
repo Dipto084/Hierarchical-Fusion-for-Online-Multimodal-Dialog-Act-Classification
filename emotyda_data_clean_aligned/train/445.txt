@@ -1,0 +1,21 @@
+Phoebe|I¬ím sorry I won¬ít be able to make it to your imaginary wedding, but I¬ím|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia445_utt0.wav
+Rachel|I know. I know. I panicked, I panicked. I didn¬ít want him to start yelling at me like I was some ¬í74 Latour.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia445_utt1.wav
+Phoebe|It¬ís Lafite. The ¬í74 Latour is actually drinking quite nicely.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia445_utt2.wav
+Rachel|All right here he comes. I¬ím gonna do this, I¬ím gonna tell him, I¬ím gonna be strong.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia445_utt3.wav
+Dr. Green|I just called a friend of mine.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia445_utt4.wav
+Rachel|Yeah?|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia445_utt5.wav
+Dr. Green|I think I may be able to book|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia445_utt6.wav
+Rachel|Really?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia445_utt7.wav
+Dr. Green|What is it sweetie?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia445_utt8.wav
+Rachel|There¬ís not gonna be a wedding. Ross and I are not getting married.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia445_utt9.wav
+Rachel|I¬ím sorry daddy.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia445_utt10.wav
+Dr. Green|I don¬ít believe this!!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia445_utt11.wav
+Rachel|Oh now daddy, stay calm. Please.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia445_utt12.wav
+Dr. Green|Stay calm?!!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia445_utt13.wav
+Dr. Green|How do you expect me to stay calm?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia445_utt14.wav
+Dr. Green|This is unacceptable Rachel!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia445_utt15.wav
+Dr. Green|And I wanna know why?!!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia445_utt16.wav
+Dr. Green|Is it because that punk Ross won¬ít marry you?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia445_utt17.wav
+Dr. Green|That¬ís it!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia445_utt18.wav
+Dr. Green|Is that it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia445_utt19.wav
+Rachel|Yes. Yes, he says I¬ím damaged goods.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia445_utt20.wav

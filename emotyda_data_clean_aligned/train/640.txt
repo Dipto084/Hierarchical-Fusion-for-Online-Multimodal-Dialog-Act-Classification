@@ -1,0 +1,17 @@
+Mr. Posner|You have a very impressive resume, Ms. Green. I especially like what I see here about implementing a new filing system.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia640_utt0.wav
+Rachel|Thank you.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia640_utt1.wav
+Joanna|Filing system?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia640_utt2.wav
+Joanna|Oh-oh!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia640_utt3.wav
+Joanna|You mean those-those little colored labels you put on all the folders?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia640_utt4.wav
+Joanna|It certainly did brighten up the inside of the filing cabinets.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia640_utt5.wav
+Rachel|Well, they uh, they-they do more than that.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia640_utt6.wav
+Mrs. Lynch|I notice that you¬íve been trusted with a lot of rather important responsibilities.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia640_utt7.wav
+Rachel|Yes, Joanna really has been an incredible mentor to me.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia640_utt8.wav
+Joanna|Oh. And Rachel has been really incredible in getting my morning bagel for me. It¬ís amazing how she gets it right almost|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia640_utt9.wav
+Rachel|I-I-I of course, I have more responsibilities than that.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia640_utt10.wav
+Joanna|Oh yes, well there¬ís the coffee too. Rachel can carry two things at once!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia640_utt11.wav
+Mr. Posner|Yes, that¬ís very good. Now a uh, big part of this job is cultivating personal relationships, especially with designers.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia640_utt12.wav
+Rachel|Yes, I realize that|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia640_utt13.wav
+Joanna|And Rachel shouldn¬ít have any problem with that. The only problem might be getting a little too friendly, if you know what I mean.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia640_utt14.wav
+Rachel|I love working with designers!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia640_utt15.wav
+Joanna|With them, under them, what¬ís the difference? Eh, Rach?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia640_utt16.wav

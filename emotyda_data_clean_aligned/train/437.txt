@@ -1,0 +1,3 @@
+Chandler|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia437_utt0.wav
+Phoebe|Hey! Check it out! This is unbelievable! Joey has been holding his breath for almost four minutes!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia437_utt1.wav
+Joey|Dude! What are yo¬óyou trying to kill me?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia437_utt2.wav

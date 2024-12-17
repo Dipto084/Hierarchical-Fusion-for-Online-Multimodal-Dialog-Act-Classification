@@ -1,0 +1,6 @@
+Earl|I work in a cubicle surrounded by people.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia292_utt0.wav
+Earl|I¬íve been talking to you for five minutes now about killing myself and no one¬ís even looked up from their desk.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia292_utt1.wav
+Earl|Hang-hang on.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia292_utt2.wav
+Earl|Hey everybody!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia292_utt3.wav
+Earl|Uh, I¬ím gonna kill myself!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia292_utt4.wav
+Earl|I got nothing.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia292_utt5.wav

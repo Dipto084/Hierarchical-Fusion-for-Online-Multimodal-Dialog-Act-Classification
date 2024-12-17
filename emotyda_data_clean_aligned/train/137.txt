@@ -1,0 +1,8 @@
+Ross|Good evening, sir.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia137_utt0.wav
+Ross|My name is Ross Geller.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia137_utt1.wav
+Ross|I'm one of the people who applied for the apartment.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia137_utt2.wav
+Ross|And I-I realize that the competition is fierce but¬óI'm sorry.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia137_utt3.wav
+Ross|I, I can't help but notice you're naked and I applaud you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia137_utt4.wav
+Ross|Man, I wish I was naked.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia137_utt5.wav
+Ross|I mean, this-this looks so great.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia137_utt6.wav
+Ross|That is how God intended it.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia137_utt7.wav

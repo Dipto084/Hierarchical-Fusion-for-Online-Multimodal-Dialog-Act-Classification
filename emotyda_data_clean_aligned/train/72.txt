@@ -1,0 +1,8 @@
+Chandler|Okay. Then I guess it¬ís just, wait here then. Hi. I need one fake ticket to Yemen.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia72_utt0.wav
+Ticket Counter Attendant|One ticket to Yemen?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia72_utt1.wav
+Chandler|Oh no-no-no, no. No, no, no, I just, I just need a pretend ticket.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia72_utt2.wav
+Ticket Counter Attendant|I¬ím sorry sir, I don¬ít understand.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia72_utt3.wav
+Chandler|What would you give to a kid if he wanted a ticket to play with?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia72_utt4.wav
+Ticket Counter Attendant|Are you travelling with a child?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia72_utt5.wav
+Chandler|No.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia72_utt6.wav
+Chandler|All right, y¬íknow what, she¬ís gonna think that I¬ím handing you a credit card, but what I¬ím really gonna do is hand you a library card.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia72_utt7.wav

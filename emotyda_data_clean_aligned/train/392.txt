@@ -1,0 +1,13 @@
+Joey|Hey, Pheebs! It¬ís Joey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia392_utt0.wav
+Phoebe|Hey, Joey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia392_utt1.wav
+Phoebe|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia392_utt2.wav
+Phoebe|Ooh!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia392_utt3.wav
+Phoebe|Ooh!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia392_utt4.wav
+Phoebe|I just say someone on the¬óthat looks just like you on the subway.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia392_utt5.wav
+Phoebe|And I was gonna go over and say ¬ëhi!¬í but then I figured, he doesn¬ít care if he looks like you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia392_utt6.wav
+Joey|That just cost me four bucks. But uh listen, I just called to see how the chick and the duck are doing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia392_utt7.wav
+Phoebe|Ohh, they¬íre having a|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia392_utt8.wav
+Joey|Kinda, but I¬íve just been having way too much fun.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia392_utt9.wav
+Phoebe|So you¬íre not homesick yet?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia392_utt10.wav
+Joey|No, I don¬ít think so.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia392_utt11.wav
+Phoebe|All right, the seven of us miss you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia392_utt12.wav

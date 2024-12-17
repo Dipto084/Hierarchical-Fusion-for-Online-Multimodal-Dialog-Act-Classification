@@ -1,0 +1,7 @@
+Ross|So it said that by the year 2030, there'll be computers that can carry out the same number of functions as an actual human brain.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia239_utt0.wav
+Ross|So theoretically we could download our thoughts and our memories into this computer...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia239_utt1.wav
+Janine|...and live forever as a machine!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia239_utt2.wav
+Ross|That's so Janine, you-you-you know what, do you know we're doing right now?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia239_utt3.wav
+Ross|You and I, we're interfacing.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia239_utt4.wav
+Janine|Yeah, I gotta go.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia239_utt5.wav
+Chandler|Ba dum bumb cheshhh!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia239_utt6.wav

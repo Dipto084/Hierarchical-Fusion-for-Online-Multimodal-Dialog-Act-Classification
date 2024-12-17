@@ -1,0 +1,8 @@
+Chandler|Alright, so I'm back in high school, I'm standing in the middle of the cafeteria, and I realize I am totally naked.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia559_utt0.wav
+All|Oh, yeah. Had that dream.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia559_utt1.wav
+Chandler|Then I look down, and I realize there's a phone... there.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia559_utt2.wav
+Joey|Instead of...?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia559_utt3.wav
+Chandler|That's right.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia559_utt4.wav
+Joey|Never had that dream.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia559_utt5.wav
+Phoebe|No.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia559_utt6.wav
+Chandler|All of a sudden, the phone starts to ring.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia559_utt7.wav

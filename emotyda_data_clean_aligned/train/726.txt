@@ -1,0 +1,8 @@
+Cassie|Ah yeah, sorry about that.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia726_utt0.wav
+Ross|It¬ís okay. Come, come on in.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia726_utt1.wav
+Cassie|Thanks for letting me stay here! I mean Monica¬ís place was nice, but her fianc√©e sure stares a lot.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia726_utt2.wav
+Ross|Oh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia726_utt3.wav
+Cassie|Oh my God! You do a great Chandler!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia726_utt4.wav
+Ross|Uh-huh. Yeah, I-I have a knack for impressions.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia726_utt5.wav
+Cassie|Well, maybe after we get reacquainted uh, you can do me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia726_utt6.wav
+Ross|Yeah¬óNo!!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia726_utt7.wav

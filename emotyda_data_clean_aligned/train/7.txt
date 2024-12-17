@@ -1,0 +1,2 @@
+Joey|Okay, look, I think we have to tell Rachel she messed up her dessert.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia7_utt0.wav
+Ross|What?! What is with everybody? It¬ís Thanksgiving, not...Truth-Day!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia7_utt1.wav

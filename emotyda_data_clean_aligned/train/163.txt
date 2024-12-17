@@ -1,0 +1,11 @@
+Joey|Monica face it, Chandler is against marriage. And-and always will be!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia163_utt0.wav
+Monica|Well there¬ís some people who do want to marry me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia163_utt1.wav
+Joey|There are?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia163_utt2.wav
+Monica|Yeah! Richard!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia163_utt3.wav
+Joey|R-R-Richard said he wants to marry you?! And-and Chandler¬ís tellin¬í ya how much he hates marriage?!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia163_utt4.wav
+Monica|That¬ís right.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia163_utt5.wav
+Joey|Chandler|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia163_utt6.wav
+Monica|You just told me that he hates marriage!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia163_utt7.wav
+Monica|That-that he¬ís a-a complex fellow who¬ís unlikely to take a wife!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia163_utt8.wav
+Monica|That-that he¬ís against marriage and always will be!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia163_utt9.wav
+Joey|You got|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia163_utt10.wav

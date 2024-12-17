@@ -1,0 +1,9 @@
+Chandler|I am so, so, so, so sorry!|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia654_utt0.wav
+Monica|Uh-huh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia654_utt1.wav
+Chandler|And I will cook anything you want in here , and do anything in there!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia654_utt2.wav
+Monica|Yeah you will! And, are you kiddin¬í me?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia654_utt3.wav
+Chandler|Come on Monica, it¬ís our Valentine¬ís Day. Please? Please-please, please?|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia654_utt4.wav
+Monica|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia654_utt5.wav
+Chandler|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia654_utt6.wav
+Chandler|So, are we going in there?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia654_utt7.wav
+Monica|I am!!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia654_utt8.wav

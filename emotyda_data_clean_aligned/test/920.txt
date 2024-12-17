@@ -1,0 +1,5 @@
+Student|Look, I just saw my best friends brains smeared across the canvas, that¬ís not gonna be me, not me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia920_utt0.wav
+Joey|Wow! That was good. That was... Tweezers?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia920_utt1.wav
+Student|No.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia920_utt2.wav
+Joey|Whoa. That was really good.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia920_utt3.wav
+Student|Thanks, any suggestions?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia920_utt4.wav

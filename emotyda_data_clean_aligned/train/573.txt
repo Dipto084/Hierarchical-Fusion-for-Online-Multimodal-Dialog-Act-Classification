@@ -1,0 +1,11 @@
+Phoebe|Pat Sajak?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia573_utt0.wav
+Rachel|Yep!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia573_utt1.wav
+Phoebe|Alex Trebek?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia573_utt2.wav
+Rachel|Oh, of course!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia573_utt3.wav
+Phoebe|Chuck Woolery?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia573_utt4.wav
+Rachel|Definitely! Phoebe, you will not find a single game show host, who¬ís ass I cannot kick.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia573_utt5.wav
+Rachel|Say it!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia573_utt6.wav
+Phoebe|Say we are unagi!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia573_utt7.wav
+Ross|It¬ís not something you are! It¬ís something you have!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia573_utt8.wav
+Rachel|Say it!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia573_utt9.wav
+Ross|Y¬íknow what? I can easily get out of this, but there is a chance you can get very, very hurt!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia573_utt10.wav

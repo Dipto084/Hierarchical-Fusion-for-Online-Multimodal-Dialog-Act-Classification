@@ -1,0 +1,7 @@
+Chandler|Julie hi! Chandler Bing, I, I guess you remember me.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia242_utt0.wav
+Julie|Hello Skidmark.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia242_utt1.wav
+Chandler|It¬ís a nickname, I¬íll explain later.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia242_utt2.wav
+Monica|It¬ís pretty clear.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia242_utt3.wav
+Chandler|Ah, uh, I owe you a long overdue apology. I never should have broken up with you because you were overweight.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia242_utt4.wav
+Julie|That¬ís why you broke up with me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia242_utt5.wav
+Chandler|You-you-you didn¬ít know that. Well, I guess my work here is done!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia242_utt6.wav

@@ -1,0 +1,9 @@
+Phoebe|Wow! This place is incredible! Sting¬ís pen¬Öthat he gave to Phoebe. Come on! Secret passageway!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia909_utt0.wav
+Trudie Styler|Hi!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia909_utt1.wav
+Phoebe|Hi!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia909_utt2.wav
+Trudie Styler|I¬ím Trudie.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia909_utt3.wav
+Phoebe|Uh-huh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia909_utt4.wav
+Trudie Styler|You must be Ben¬ís mum.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia909_utt5.wav
+Phoebe|Why else would I be here?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia909_utt6.wav
+Trudie Styler|Do sit down.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia909_utt7.wav
+Rachel|Yeah.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia909_utt8.wav

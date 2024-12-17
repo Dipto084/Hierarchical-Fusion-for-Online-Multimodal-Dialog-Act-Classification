@@ -1,0 +1,4 @@
+Monica|Okay, we have a lot of options here, a number of prototypes for you to try on.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia37_utt0.wav
+Joey|Wow! This looks great!|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia37_utt1.wav
+Monica|Yeah! Okay, this one is a mushroom cap. Umm, this one is made of bologna.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia37_utt2.wav
+Joey|And-and-and-and-and the toothpicks?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia37_utt3.wav

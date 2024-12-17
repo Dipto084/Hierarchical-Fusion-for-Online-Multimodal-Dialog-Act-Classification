@@ -1,0 +1,16 @@
+Mr. Tribbiani|Gotta go. I miss you too, I love you, but it's getting real late now|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia41_utt0.wav
+Joey|Hey Ma. Listen, I made the appointment with Dr. Bazida, and... Excuse me? Did you know this isn't Ma?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia41_utt1.wav
+Mr. Tribbiani|Her name's Ronni. She's a pet mortician.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia41_utt2.wav
+Joey|Sure. So how long you been...|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia41_utt3.wav
+Mr. Tribbiani|Remember when you were a little kid, I used to take you to the navy yard and show you the big ships?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia41_utt4.wav
+Joey|Since then?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia41_utt5.wav
+Mr. Tribbiani|No, it's only been six years.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia41_utt6.wav
+Mr. Tribbiani|I just wanted to put a nice memory in your head so you'd know that I wasn't always such a terrible guy.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia41_utt7.wav
+Mr. Tribbiani|...Joe.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia41_utt8.wav
+Mr. Tribbiani|Y'ever been in love?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia41_utt9.wav
+Joey|...I d'know.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia41_utt10.wav
+Mr. Tribbiani|Then y'haven't. You're burning your tomatoes.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia41_utt11.wav
+Joey|You're one to talk.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia41_utt12.wav
+Mr. Tribbiani|Joe, your dad's in love big time. And the worst part of it is, it's with two different women.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia41_utt13.wav
+Joey|Oh man. Please tell me one of 'em is Ma.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia41_utt14.wav
+Mr. Tribbiani|Of course, course one of 'em's Ma. What's the matter with you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia41_utt15.wav

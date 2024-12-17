@@ -1,0 +1,10 @@
+Elizabeth|Doorknob?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia201_utt0.wav
+Ross|Yeah, it kinda grows on you. Actually, I wanted to finish talking to you about uh, spring vacation.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia201_utt1.wav
+Elizabeth|Oh good.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia201_utt2.wav
+Ross|Look, I¬Ö Look, I¬ím having a great time with you and I just don¬ít want us to move to fast or put to much pressure on us.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia201_utt3.wav
+Ross|So, I¬ím sorry I just don¬ít think we should go away together yet.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia201_utt4.wav
+Ross|It¬ís-it¬ís too soon.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia201_utt5.wav
+Elizabeth|Ross, I think you misunderstood what I was saying. I just wanted to tell you that I¬ím going to Florida for a couple weeks.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia201_utt6.wav
+Ross|No. I think you misunderstood what|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia201_utt7.wav
+Elizabeth|You are so adorable.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia201_utt8.wav
+Ross|That! Let¬ís talk about that.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia201_utt9.wav

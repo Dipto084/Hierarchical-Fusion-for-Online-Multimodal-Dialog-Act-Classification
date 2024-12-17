@@ -1,0 +1,1 @@
+Ross|I was so sure that was gonna work!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia567_utt0.wav

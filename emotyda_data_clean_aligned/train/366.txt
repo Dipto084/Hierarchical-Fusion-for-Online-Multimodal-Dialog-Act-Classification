@@ -1,0 +1,19 @@
+Chandler|Here's the thing, Janice.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia366_utt0.wav
+Chandler|You know, I mean, it's like we're different.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia366_utt1.wav
+Chandler|I'm like the bing, bing, bing.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia366_utt2.wav
+Chandler|You're like the boom, boom, ... boom.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia366_utt3.wav
+Janice|Ow!|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia366_utt4.wav
+Chandler|Oh, my god, I'm so sorry. Are you ok?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia366_utt5.wav
+Janice|Ow. Um, it's just my lens. It's just my lens. I'll be right back.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia366_utt6.wav
+Chandler|I hit her in the eye! I hit her in the eye! This is the worst break-up in the history of the world.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia366_utt7.wav
+Phoebe|Oh my god. How many of those have you had?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia366_utt8.wav
+Chandler|Oh, I don't know, a million?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia366_utt9.wav
+Phoebe|Chandler, easy, easy. Go to your happy place. La la la la la la la.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia366_utt10.wav
+Chandler|I'm fine.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia366_utt11.wav
+Phoebe|All right.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia366_utt12.wav
+Chandler|I'm not fine. Here she comes.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia366_utt13.wav
+Phoebe|Wait here. Breathe.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia366_utt14.wav
+Chandler|How do you do that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia366_utt15.wav
+Phoebe|It's like a gift.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia366_utt16.wav
+Chandler|We should always always break up together.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia366_utt17.wav
+Phoebe|Oh, I'd like that.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia366_utt18.wav

@@ -1,0 +1,5 @@
+Joey|Man, I¬ím starving! What the hell was I thinking at dinner?! "Do you want soup or salad?" Both! Always order both!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia181_utt0.wav
+Ross|Y¬íknow, y¬íknow I¬ím lookin¬í and I don¬ít think anyone¬ís home here.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia181_utt1.wav
+Ross|I say we just break the window, crawl through, and-and y¬íknow explain later.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia181_utt2.wav
+Joey|Yeah? Really? No one¬ís home?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia181_utt3.wav
+Ross|I don¬ít think so. Hello? When you get in there|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia181_utt4.wav

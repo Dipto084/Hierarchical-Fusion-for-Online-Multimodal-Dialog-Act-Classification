@@ -1,0 +1,13 @@
+Joey|I'm so bored! Stupid rain, we... we can't do anything.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia949_utt0.wav
+Rachel|Well, I've brought some books. We could read.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia949_utt1.wav
+Joey|Hey, it hasn't come to that yet.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia949_utt2.wav
+Joey|Hey hey hey! Don't mind if I do!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia949_utt3.wav
+Waiter|I'm sorry sir, these are for the pharmaceutical convention|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia949_utt4.wav
+Joey|Hey Rach, do you feel like going to a convention?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia949_utt5.wav
+Rachel|We can't. We're not pharmacists!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia949_utt6.wav
+Joey|I know we're not, but Frank Medeio and... Eva Trorro... womba...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia949_utt7.wav
+Rachel|Kate Miller?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia949_utt8.wav
+Joey|Kate Miller it is.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia949_utt9.wav
+Rachel|And... that's the most sex I'm gonna have this weekend.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia949_utt10.wav
+Joey|In that case should I make sure it's on real good?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia949_utt11.wav
+Rachel|Thank you.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia949_utt12.wav

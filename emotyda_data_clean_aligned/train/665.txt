@@ -1,0 +1,19 @@
+Dr. Zane|It looks like your uterus is ready for implantation.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia665_utt0.wav
+Phoebe|Oh! I knew it! I knew it! I felt really thick this morning.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia665_utt1.wav
+Frank|Well, okay, so what¬ís now¬ógo get, go get the eggs, put ¬ëem in there.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia665_utt2.wav
+Dr. Zane|Okay, it¬íll take just a little while to prepare the embryos.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia665_utt3.wav
+Phoebe|Embryossss? As in, "More than one?"|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia665_utt4.wav
+Dr. Zane|Um-hmm, five actually.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia665_utt5.wav
+Phoebe|Five? Okay, where am I giving birth, a hospital or a big box under the stairs?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia665_utt6.wav
+Dr. Zane|We do five because that gives you a 25% chance that at least one will attach.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia665_utt7.wav
+Phoebe|That¬ís it! 25 percent? That means that¬ís it¬ís like 75 percent chance of no baby at all!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia665_utt8.wav
+Frank|Hey, y¬íknow I was thinking, what are the odds like if-if, if you stuff like 200 of them in there?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia665_utt9.wav
+Alice|Sweety, now, she¬ís a woman, not a gumball machine.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia665_utt10.wav
+Phoebe|Okay, well y¬íknow what, don¬ít worry you guys, ¬ëcause I¬ím-I¬ím gonna do this as many times as it takes to get it right.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia665_utt11.wav
+Frank|Well, you see, the-the thing is, we-we only got, we kinda have one shot to make it right.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia665_utt12.wav
+Alice|Umm, it costs $16,000 each time you do this.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia665_utt13.wav
+Alice|So, umm, we¬íre kinda using all the money we have to do it just this one time.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia665_utt14.wav
+Phoebe|Whoa!! That¬óokay, that¬ís a|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia665_utt15.wav
+Dr. Zane|No, I¬ím sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia665_utt16.wav
+Phoebe|Wow! You guys really don¬ít know anything!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia665_utt17.wav
+Frank|I know! Why don¬ít you get drunk! That worked for a lot of girls in my high school.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia665_utt18.wav

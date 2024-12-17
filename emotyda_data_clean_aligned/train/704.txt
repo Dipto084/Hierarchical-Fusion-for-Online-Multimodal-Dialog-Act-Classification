@@ -1,0 +1,5 @@
+Chandler|Ok, I'm makin' a break for it, I'm goin' out the window.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia704_utt0.wav
+Joey|No, no, no, don't! I've been waitin' for like, forever to go out with Lorraine. Just calm down.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia704_utt1.wav
+Chandler|Calm down? Calm down? You set me up with the woman that I've dumped twice in the last five months!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia704_utt2.wav
+Joey|Can you stop yellin'? You're makin' me nervous, and I can't go when I'm nervous.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia704_utt3.wav
+Chandler|I'm sorry, I'm sorry, you're right. Come on, do it, do it, go, come on!!!|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia704_utt4.wav

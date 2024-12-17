@@ -1,0 +1,18 @@
+Joey|Note the painterly lines and subtle impasto on this canvas. Monet painted quickly and usually outdoors as his elusive subject was light itself.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia671_utt0.wav
+Ross|Now, do you have any idea what you just said?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia671_utt1.wav
+Joey|No, no, my mouth says the words, my brain is thinking monster trucks!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia671_utt2.wav
+Ross|Ok now, remember, when you get to the museum, Monet is not spelt M-O-N-A-Y.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia671_utt3.wav
+Ross|I just...|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia671_utt4.wav
+Ross|I wrote that out phonetically for you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia671_utt5.wav
+Joey|Phonetically?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia671_utt6.wav
+Ross|Yeah, yeah that means... you know? We just... we don't have time for this.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia671_utt7.wav
+Ross|Ok, but you know what? I gotta say, I'm really impressed that you were able to memorize all this so quickly!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia671_utt8.wav
+Joey|Ah! I'm an actor! I can memorize anything! Last week on "Days" I had to say "Frontal temporal zygomatic craniotomy".|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia671_utt9.wav
+Ross|Wow. What does|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia671_utt10.wav
+Joey|No idea!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia671_utt11.wav
+Joey|But the guy I said it to dies in the next scene so I guess it means "you're gonna get eaten by a bear".|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia671_utt12.wav
+Ross|Ok! So let's move on to the Renaissance?|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia671_utt13.wav
+Joey|Ok, Caravaggio uses chiaroscuro here to highlight the anguish of the central figure. Touch it, it's really bumpy! .|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia671_utt14.wav
+Ross|Nah ah! Nah ah! No no no! No ad-libbing and dude, you can't|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia671_utt15.wav
+Joey|Come on! you...|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia671_utt16.wav
+Ross|No!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia671_utt17.wav

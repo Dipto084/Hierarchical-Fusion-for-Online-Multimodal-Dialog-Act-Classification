@@ -1,0 +1,15 @@
+Joey|You're driving me crazy with that!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia913_utt0.wav
+Chandler|Okay, I'll stop.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia913_utt1.wav
+Joey|Don¬ít stop! Move the bowl further away! Ross could make that shot!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia913_utt2.wav
+Joey|Well, you suck! But at least you suck at a man's game now.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia913_utt3.wav
+Chandler|You wanna play?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia913_utt4.wav
+Joey|Chandler, I can't be playing games, Ross is gonna be home soon.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia913_utt5.wav
+Joey|And I have to write five whole pages if I'm gonna stick to his schedule.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia913_utt6.wav
+Chandler|Well, so, play for the next 30 minutes and then write until he gets home.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia913_utt7.wav
+Joey|All right! But uh, listen, what do you say we crank it up a notch?|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia913_utt8.wav
+Chandler|I'm intrigued.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia913_utt9.wav
+Joey|All right, all we need is a little lighter fluid.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia913_utt10.wav
+Chandler|Okay, but be careful okay, because I wanna get our security deposit back.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia913_utt11.wav
+Joey|Yeah, I think we said good-bye to that when we invented hammer darts.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia913_utt12.wav
+Chandler|Do you even remember which part of the wall is not spackle?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia913_utt13.wav
+Joey|Uh yeah, right here.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia913_utt14.wav

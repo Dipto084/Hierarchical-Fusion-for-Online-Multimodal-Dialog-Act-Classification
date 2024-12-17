@@ -1,0 +1,10 @@
+Monica|Here¬ís your tea Phoebe.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia690_utt0.wav
+Phoebe|It¬ís so good. Oh, thanks.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia690_utt1.wav
+Rachel|Good.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia690_utt2.wav
+Monica|I¬ím so glad you liked it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia690_utt3.wav
+Phoebe|Oh!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia690_utt4.wav
+Monica|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia690_utt5.wav
+Rachel|What?! She made the tea!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia690_utt6.wav
+Phoebe|Oh! No, I-I think I just had a contraction.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia690_utt7.wav
+Rachel|You what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia690_utt8.wav
+Monica|Oh my God!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia690_utt9.wav

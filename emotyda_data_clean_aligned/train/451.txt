@@ -1,0 +1,8 @@
+Mike|Ok, so it's a tie again, 41 to 41.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia451_utt0.wav
+Chandler|Ok, look! Enough is enough!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia451_utt1.wav
+Monica|No, I have just to have two more points to beat him!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia451_utt2.wav
+Chandler|Monica, that was also true an|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia451_utt3.wav
+Monica|I can't just walk away! I've put in four hours!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia451_utt4.wav
+Monica|You knew this about me when you married me!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia451_utt5.wav
+Monica|You agreed to take me in sickness and in health.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia451_utt6.wav
+Monica|Well, this is my sickness!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia451_utt7.wav

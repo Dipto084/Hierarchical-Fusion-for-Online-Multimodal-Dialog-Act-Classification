@@ -1,0 +1,10 @@
+Monica|Remember that guy from cooking school I told you about that put cilantro with everything?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia315_utt0.wav
+Phoebe|Oh sure, Cilantro Larry.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia315_utt1.wav
+Monica|Well, I¬ím gonna fill in for him as food critic for the Chelsea Reporter.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia315_utt2.wav
+Monica|Wow, Monica! What an amazing opportunity to influence¬Ö dozens of people.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia315_utt3.wav
+Phoebe|How could you say yes, what about our catering business?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia315_utt4.wav
+Monica|Oh no-no-no, it¬ís only one night a week, and plus I get to take all of you out for a|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia315_utt5.wav
+All|Yay!!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia315_utt6.wav
+Phoebe|Oh, in that case¬ó¬óYay! That was me hopping on board.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia315_utt7.wav
+Monica|Oh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia315_utt8.wav
+Chandler|Hey, you guys! Hey, Ross, quick question for ya. Are you ready to party?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia315_utt9.wav

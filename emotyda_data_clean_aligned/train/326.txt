@@ -1,0 +1,9 @@
+Phoebe|Well yeah, I lied before.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia326_utt0.wav
+Rachel|Oh!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia326_utt1.wav
+Monica|Oh God|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia326_utt2.wav
+Phoebe|Now you know how you really feel about it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia326_utt3.wav
+Rachel|Oh-oh, that¬ís a risky little game!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia326_utt4.wav
+Monica|Are you really gonna do this?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia326_utt5.wav
+Rachel|Yeah. I¬ím gonna have a baby. I¬ím gonna have a baby. I¬ím gonna have a baby!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia326_utt6.wav
+Phoebe|With who?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia326_utt7.wav
+Rachel|Ah, it¬ís still not the time.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia326_utt8.wav

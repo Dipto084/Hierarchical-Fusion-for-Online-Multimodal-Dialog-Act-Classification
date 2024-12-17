@@ -1,0 +1,4 @@
+Pete|Oh, one other thing. Hoshi thinks that you being ringside may have affected my concentration.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1031_utt0.wav
+Monica|Yeah. That-that was the problem.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1031_utt1.wav
+Chandler|Excuse me, Doug? Hey there sports fan!!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1031_utt2.wav
+Doug|Bing! You got those numbers for me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1031_utt3.wav

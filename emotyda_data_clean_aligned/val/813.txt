@@ -1,0 +1,11 @@
+Monica|I know that there¬ís no hole there, I just really liked that picture.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia813_utt0.wav
+Rachel|Oh my God! Look at this!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia813_utt1.wav
+Monica|Okay, but there|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia813_utt2.wav
+Rachel|I don¬ít care! The wires have come loose in your head!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia813_utt3.wav
+Monica|I just thought that if I could follow the wire I could find out what it did.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia813_utt4.wav
+Rachel|And did you?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia813_utt5.wav
+Monica|No. It disappears back there behind that baseboard. For a minute there, I thought it went downstairs.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia813_utt6.wav
+Monica|But it didn¬ít. Say hello to Mrs. Chatracus.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia813_utt7.wav
+Rachel|Oh my God.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia813_utt8.wav
+Mrs. Chatracus|Hello darling.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia813_utt9.wav
+Rachel|Hello, Mrs. Chatracus.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia813_utt10.wav

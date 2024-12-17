@@ -1,0 +1,8 @@
+Phoebe|So Chandler, I-I'd love to come by tonight.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia697_utt0.wav
+Chandler|Really?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia697_utt1.wav
+Phoebe|Oh absolutely. Shall we say, around seven?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia697_utt2.wav
+Chandler|Yes.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia697_utt3.wav
+Phoebe|Good. I'm really looking forward to you and me having sexual intercourse.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia697_utt4.wav
+Joey|Hey-hey, check it out! Check it out! Ugly Naked Guy has a naked friend!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia697_utt5.wav
+Rachel|Oh yeah! Oh my God! That is|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia697_utt6.wav
+All|Yeah, it is! Naked Ross!!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia697_utt7.wav

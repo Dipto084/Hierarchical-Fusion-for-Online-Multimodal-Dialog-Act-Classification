@@ -1,0 +1,11 @@
+Joey|What?! What good is that gonna do anybody?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia407_utt0.wav
+Phoebe|Well, it helps the bee look tough in front of his bee friends. The bee is happy and I am definitely not.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia407_utt1.wav
+Joey|Now, y'know the bee probably died after he stung ya.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia407_utt2.wav
+Phoebe|Aw, dammit!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia407_utt3.wav
+Stage Director|Back on in 30 seconds people!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia407_utt4.wav
+Joey|Hey, excuse me, would you mind switching with me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia407_utt5.wav
+PBS Volunteer|Hey, no way, I'm in the shot man.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia407_utt6.wav
+Joey|Come on man! You've been here all day!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia407_utt7.wav
+PBS Volunteer|Yeah, I-I'm taking pledges here, eh?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia407_utt8.wav
+Stage Director|We're on in 3, 2,|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia407_utt9.wav
+Gary Collins|Welcome back to our fall telethon. Now if you've been enjoying the performance of|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia407_utt10.wav

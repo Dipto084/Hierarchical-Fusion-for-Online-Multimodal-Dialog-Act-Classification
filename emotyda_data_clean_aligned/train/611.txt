@@ -1,0 +1,15 @@
+Ross|Okay, Monica: Right foot red.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia611_utt0.wav
+Monica|Could've played|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia611_utt1.wav
+Chandler|Thanks.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia611_utt2.wav
+Ross|Okay, Pheebs: Right hand blue. Good.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia611_utt3.wav
+Chandler|Hello? Oh, uh, Rachel, it's the|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia611_utt4.wav
+Rachel|Oh, okay. Will you take my place?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia611_utt5.wav
+Chandler|Alright. Yes, this is Rachel.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia611_utt6.wav
+Rachel|Nooo!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia611_utt7.wav
+Rachel|Hello?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia611_utt8.wav
+Rachel|Oh, yeah, no, I know, I-I haven't been using it much.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia611_utt9.wav
+Rachel|Oh, well, thanks, but, I'm okay, really.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia611_utt10.wav
+Ross|Green. To the green.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia611_utt11.wav
+Rachel|I've got magic beans. Never-never mind.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia611_utt12.wav
+Chandler|To the left, to the left- aww!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia611_utt13.wav
+Rachel|Ohhh... I'm fine.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia611_utt14.wav

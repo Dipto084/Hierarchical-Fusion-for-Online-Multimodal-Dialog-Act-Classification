@@ -1,0 +1,8 @@
+Ross|Th-th-that's all it is, a third nipple.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia100_utt0.wav
+Ross|Just your run-of-the-mill third nipple.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia100_utt1.wav
+Ross|You can take it off.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia100_utt2.wav
+Ross|Just slice that baby right off!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia100_utt3.wav
+Dr. Rhodes|Take your shirt off, and let's see what we're dealing with here. What are you doing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia100_utt4.wav
+Ross|Just showing you my run-of-the-mill-slice-it-right-off third nipple.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia100_utt5.wav
+Dr. Rhodes|Well that's not a third nipple.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia100_utt6.wav
+Ross|No?|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia100_utt7.wav

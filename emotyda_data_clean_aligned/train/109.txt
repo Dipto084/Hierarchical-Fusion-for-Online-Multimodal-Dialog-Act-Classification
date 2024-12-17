@@ -1,0 +1,21 @@
+Monica|Okay, I¬íve got some Ones, you wanna put them in her panties?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia109_utt0.wav
+Chandler|No thanks, Mom!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia109_utt1.wav
+Phoebe|Ha-ha, it¬ís not my baby, ha-ha-ha!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia109_utt3.wav
+Monica|Very good, so good.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia109_utt4.wav
+Phoebe|I really, really enjoyed it. Very exotic.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia109_utt5.wav
+Rachel|Well, I just checked our messages and Joshua didn¬ít call.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia109_utt6.wav
+Rachel|I mean you¬íd think he¬íd be worried about me not showing up at his club.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia109_utt7.wav
+Rachel|Ugh, you know what makes it so much worse, Ross is all happy in Vermont!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia109_utt8.wav
+Phoebe|Come on! Look where you are!!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia109_utt9.wav
+Monica|When you get a sec, another round of daiquiris.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia109_utt10.wav
+Phoebe|Remember, a virgin for me please.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia109_utt11.wav
+Monica|Oh! And don¬ít let me leave without getting the name of that carpet guy.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia109_utt12.wav
+Chandler|Ahh, come on! Y¬íknow what¬óy¬íknow what, I think I¬ím just gonna go home and call Kathy.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia109_utt13.wav
+Phoebe|Well, if you think it will help.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia109_utt14.wav
+Chandler|No!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia109_utt15.wav
+Chandler|That was a test!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia109_utt16.wav
+Chandler|In a couple of hours I¬ím gonna get really drunk and wanna call Kathy and you guys are gonna have to stop me!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia109_utt17.wav
+Chandler|And then after that, I¬ím gonna get so drunk, I¬ím gonna wanna call Janice|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia109_utt18.wav
+Phoebe|You should! How is she?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia109_utt19.wav
+Chandler|Ohhh!!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia109_utt20.wav
+Monica|I think somebody needs another lap dance.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia109_utt21.wav

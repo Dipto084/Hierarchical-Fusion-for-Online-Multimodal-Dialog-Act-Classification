@@ -1,0 +1,15 @@
+Ben|Really? Like how?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1029_utt0.wav
+Rachel|Well y¬íknow, we would umm, repeat everything the other said, or uh, we¬íd jump out of closets to scare each other, or switch the sugar for the salt so they¬íd put salt on their cereal.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1029_utt1.wav
+Ben|That¬ís a good one.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1029_utt2.wav
+Rachel|Yeah? You like that one?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1029_utt3.wav
+Ben|Yeah, you¬íre funny.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1029_utt4.wav
+Rachel|I¬ím funny?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1029_utt5.wav
+Rachel|Oh thank God!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1029_utt6.wav
+Rachel|Well hey, I¬íve got a ton of these!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1029_utt7.wav
+Rachel|Umm, oh here¬óDo you want a good one?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1029_utt8.wav
+Rachel|Umm, you uh, you take a quarter, take a quarter and, and you blacken the edge.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1029_utt9.wav
+Rachel|Right?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1029_utt10.wav
+Rachel|And then you say to person, I bet you can¬ít roll this quarter from your forehead to your chin without it leaving your face.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1029_utt11.wav
+Rachel|And then when they do it, they¬íre left with a big black pencil line right down the center of their face.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1029_utt12.wav
+Ben|Can I do it to you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1029_utt13.wav
+Rachel|Yeah, I-I-I-I¬ím funny Ben, but I¬ím not stupid. Okay?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1029_utt14.wav

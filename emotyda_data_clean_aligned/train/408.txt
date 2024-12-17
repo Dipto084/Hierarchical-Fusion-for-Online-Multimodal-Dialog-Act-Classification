@@ -1,0 +1,5 @@
+Rachel|Ah.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia408_utt0.wav
+Phoebe|Yeah.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia408_utt1.wav
+Rachel|I go see my doctor tomorrow, I¬íll ask her about this.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia408_utt2.wav
+Rachel|Maybe she can give me a pill or something.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia408_utt3.wav
+Phoebe|Yeah. Yeah, that¬ís what you need a good¬Öpill.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia408_utt4.wav

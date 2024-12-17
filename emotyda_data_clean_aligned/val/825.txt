@@ -1,0 +1,3 @@
+Joey|She¬ís not crazy is she?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia825_utt0.wav
+Monica|No.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia825_utt1.wav
+Joey|So uh, how you doin¬í?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia825_utt2.wav

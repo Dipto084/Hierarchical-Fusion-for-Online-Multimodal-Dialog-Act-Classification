@@ -1,0 +1,8 @@
+Ross|Y'know, hey! You¬íre the one who ended it, remember?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia698_utt0.wav
+Rachel|Yeah, because I was|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia698_utt1.wav
+Ross|You still love me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia698_utt2.wav
+Rachel|Noo.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia698_utt3.wav
+Ross|What does this mean? What do you, I mean do you wanna, get back together?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia698_utt4.wav
+Rachel|Noo! Maybe! I, I don¬ít know.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia698_utt5.wav
+Ross|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia698_utt6.wav
+Rachel|I just, I feel, I-I just...|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia698_utt7.wav

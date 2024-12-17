@@ -1,0 +1,21 @@
+Older Scientist|Dr. Geller, there¬ís a seat over here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia844_utt0.wav
+Ross|Thank you, Dr. Phillips, but I¬ím having my lunch at this table, here in the middle.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia844_utt1.wav
+Ross|I¬ím having lunch right here, with my good friend Joey, if he¬íll sit with me.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia844_utt2.wav
+Joey|I will sit with you Dr. Geller.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia844_utt3.wav
+Ross|Y'know, we work in a museum of natural history, and yet there is something unnatural about the way we eat lunch.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia844_utt4.wav
+Ross|Now, I look around this cafeteria, and y¬íknow what I see, I see-I see division.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia844_utt5.wav
+Ross|Division, between people in white coats and people in blue blazers, and I ask myself, "My God why?!"|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia844_utt6.wav
+Ross|Now, I say we shed these-these coats that separate us, and we get to know the people underneath.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia844_utt7.wav
+Ross|I¬ím Ross!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia844_utt8.wav
+Ross|I¬ím divorced, and I have a kid!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia844_utt9.wav
+Joey|I¬ím Joey! I¬ím an actor! I don¬ít know squat about dinosaurs!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia844_utt10.wav
+Another Tour Guide|I¬ím Ted, and I just moved here a month ago, and New York really scares me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia844_utt11.wav
+Ross|All right, there you go!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia844_utt12.wav
+Joey|Yeah, you hang in there Teddy!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia844_utt13.wav
+Older Scientist|I¬ím Andrew, and I didn¬ít pay for this pear.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia844_utt14.wav
+Ross|Okay, good-good for you.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia844_utt15.wav
+Tour Guide|I¬ím Rhonda, and these aren¬ít real!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia844_utt16.wav
+Ross|Wow, Rhonda.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia844_utt17.wav
+Another Scientist|I¬ím Scott.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia844_utt18.wav
+Ross|Yeah, okay, Scott!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia844_utt19.wav
+Another Scientist|And I need to flip the light switch on and off 17 times before I leave a room or my family will die.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia844_utt20.wav

@@ -1,0 +1,7 @@
+Monica|What one? You wanted him to invite you to the party and he did it!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia955_utt0.wav
+Rachel|Yeah, but he waited until the last minute!|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia955_utt1.wav
+Rachel|So if I said yes, he would know I had nothing better to do than wait around for an invitation to his stupid party.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia955_utt2.wav
+Rachel|I said, "No!"|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia955_utt3.wav
+Rachel|Which puts|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia955_utt4.wav
+Monica|Great. So the ball is in his court?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia955_utt5.wav
+Rachel|Ball? There is no ball.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia955_utt6.wav

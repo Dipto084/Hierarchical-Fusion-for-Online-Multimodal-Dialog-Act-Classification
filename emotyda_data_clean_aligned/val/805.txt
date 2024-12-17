@@ -1,0 +1,8 @@
+Ross|Hello!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia805_utt0.wav
+Ross|What's this?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia805_utt1.wav
+Ross|Oh right its that girl's phone number.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia805_utt2.wav
+Ross|Yeah-yeah, there it is, just a phone number a really hot girl gave me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia805_utt3.wav
+Ross|It's no big deal, I mean it is her home phone number, but... Whoa!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia805_utt4.wav
+Ross|Whoa-whoops, I almost lost this baby!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia805_utt5.wav
+Ross|Yeah, the lovely Amanda gives me her number and I-I go and drop it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia805_utt6.wav
+Phoebe|Thank you.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia805_utt7.wav

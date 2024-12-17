@@ -1,0 +1,4 @@
+Phoebe|Ooh, oh no! I have to go! I have a massage appointment.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia149_utt0.wav
+Eric|Oh no, stay here we¬íll keep doing this. I¬íll pay you.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia149_utt1.wav
+Phoebe|No, I got in trouble for that before. I¬íll see you later.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia149_utt2.wav
+Eric|Absolutely. I love the way you kiss.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia149_utt3.wav

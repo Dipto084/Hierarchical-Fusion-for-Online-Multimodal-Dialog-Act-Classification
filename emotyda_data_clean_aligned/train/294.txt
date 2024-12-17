@@ -1,0 +1,2 @@
+Paul|Why are you yelling?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia294_utt0.wav
+Rachel|Whoa, that|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia294_utt1.wav

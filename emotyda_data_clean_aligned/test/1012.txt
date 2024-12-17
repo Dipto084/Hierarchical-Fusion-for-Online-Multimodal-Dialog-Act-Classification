@@ -1,0 +1,12 @@
+Ross|Okay, Phoebe, this Dr. Oberman. He has no strong feelings about Fonzie or any of the|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1012_utt0.wav
+Phoebe|Hi! And you're going into what grade?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1012_utt1.wav
+Dr. Oberman|Umm, I'm actually a first year resident, but I get that a lot, you see, I-I graduated early|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1012_utt2.wav
+Phoebe|Uh-huh, me too. Ross, maybe I should've specified that I'd be needing a grown up doctor.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1012_utt3.wav
+Dr. Oberman|Oh no, I'm fully qualified to|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1012_utt4.wav
+Phoebe|Shh!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1012_utt5.wav
+Phoebe|Doogie, shh!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1012_utt6.wav
+Phoebe|Doesn't anybody understand that I'm gonna be having babies soon?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1012_utt7.wav
+Phoebe|Huh?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1012_utt8.wav
+Phoebe|Go!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1012_utt9.wav
+Phoebe|Go little boy, go!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1012_utt10.wav
+Frank|Oh cool! You made him cry!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1012_utt11.wav

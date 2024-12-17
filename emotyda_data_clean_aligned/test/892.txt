@@ -1,0 +1,17 @@
+Joey|Sure, I can hang out ¬ëtil I have to meet ya. What uh¬óHow come you¬íre not going?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia892_utt0.wav
+Chandler|I have a job interview I have to get ready for.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia892_utt1.wav
+Joey|I thought you already have a job.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia892_utt2.wav
+Chandler|And people say you don¬ít pay attention.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia892_utt3.wav
+Chandler|No, this is a much better job.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia892_utt4.wav
+Chandler|It¬ís vice-president of a company that does data reconfiguration and statistical factoring for other companies.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia892_utt5.wav
+Joey|Wow! How do you know how to do that?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia892_utt6.wav
+Chandler|That¬ís what I do now.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia892_utt7.wav
+Monica|Hey Joey, come taste this.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia892_utt8.wav
+Joey|What is it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia892_utt9.wav
+Monica|Remember that guy that gave me a bad review? Well¬Ö I¬ím getting my revenge!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia892_utt10.wav
+Joey|You cooked him?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia892_utt11.wav
+Monica|No.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia892_utt12.wav
+Monica|He teaches a course on food criticism at the New School, so before we go to the movies I wanna go by there and make him try my bouillabaisse again.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia892_utt13.wav
+Monica|Oh, I cannot wait to read the front page of the Post tomorrow!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia892_utt14.wav
+Monica|"Restaurant reviewer admits: I was wrong about Monica."|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia892_utt15.wav
+Chandler|The front page? You really do live in your own little world, don¬ít ya?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia892_utt16.wav

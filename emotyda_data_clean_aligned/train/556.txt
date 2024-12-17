@@ -1,0 +1,7 @@
+Joey|Hey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia556_utt0.wav
+Ross|Hey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia556_utt1.wav
+Joey|Look, I understand if you came by to hit me, I deserve it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia556_utt2.wav
+Ross|No, I don¬ít want to hit you.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia556_utt3.wav
+Joey|Oh what then? Kick me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia556_utt4.wav
+Ross|No.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia556_utt5.wav
+Ross|My son? Pretty serious. Oh hey Katie! What uh, what are you doing here?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia556_utt6.wav

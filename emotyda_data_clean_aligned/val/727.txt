@@ -1,0 +1,10 @@
+Joey|Hey! You guys! Check it out, check it out! Guess which job I got.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia727_utt0.wav
+Chandler|I don¬ít know, but Donald Trump wants his blue blazer black.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia727_utt1.wav
+Ross|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia727_utt2.wav
+Chandler|Blue blazer back. He-he wants it back.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia727_utt3.wav
+Rachel|But you-you said black. Why would he want his blue blazer black?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia727_utt4.wav
+Chandler|Well, you-you know what I meant.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia727_utt5.wav
+Monica|No, you messed it up. You¬íre stupid.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia727_utt6.wav
+Chandler|So what job did you get Joe?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia727_utt7.wav
+Joey|Oh, ah, tour guide at the museum. Yeah, Ross got it for me.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia727_utt8.wav
+Rachel|Well, how can you be a tour guide, don¬ít you have to be a dinosaur expert or something?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia727_utt9.wav

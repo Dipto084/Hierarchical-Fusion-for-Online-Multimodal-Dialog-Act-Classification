@@ -1,0 +1,15 @@
+Chip|Hey Monica, it¬ís Chip.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia689_utt0.wav
+Monica|Yes.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia689_utt1.wav
+Ross|Who¬ís Chip?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia689_utt2.wav
+Monica|Shhh!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia689_utt3.wav
+Chip|Good runnin¬í into you at the bank today, so ah, here¬ís my number, 555-9323. Give me a call. Later.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia689_utt4.wav
+Monica|Chip, is Chip Matthews.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia689_utt5.wav
+Ross|The guy who took Rachel to the prom? Why is he calling you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia689_utt6.wav
+Monica|¬ëCause I ran into him at the bank, he is still soo cute.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia689_utt7.wav
+Ross|Monica, you¬íre so lucky! He¬ís like the most popular guy in school!!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia689_utt8.wav
+Monica|I know!! Chip? Hi! It¬ís Monica. ¬ëKay. ¬ëKay. Okay. Okay, good-bye. Oh my God, we just had|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia689_utt9.wav
+Ross|I was just leaving.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia689_utt10.wav
+Rachel|Good! ¬ëCause I¬íve got a product report to read, it¬ís like eight pages, I hope I don¬ít fall asleep.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia689_utt11.wav
+Ross|Why? Did you write it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia689_utt12.wav
+Rachel|Wow! Look at that, Chip Matthews called. I wonder what he wants?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia689_utt13.wav
+Ross|Well ah, actually...|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia689_utt14.wav

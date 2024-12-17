@@ -1,0 +1,8 @@
+Ross|Hey! Guess what I got for your wedding!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia63_utt0.wav
+Chandler|A freakish thin date with a hanger for her head?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia63_utt1.wav
+Ross|No. Rachel hooked me up with a tux! But not just any tux, Batman¬ís tux!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia63_utt2.wav
+Chandler|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia63_utt3.wav
+Ross|That¬ís right! Made expressly for Val Kilmer and worn by him in the hit film¬Öthat Batman film he was in.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia63_utt4.wav
+Chandler|You can¬ít wear that! I¬ím wearing the famous tux! James Bond¬ís tux!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia63_utt5.wav
+Ross|So?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia63_utt6.wav
+Chandler|So¬óIf you wear that you¬íll make mine less special.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia63_utt7.wav

@@ -1,0 +1,10 @@
+Ross|Hi there. How many, how many ah, did you sell?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia755_utt0.wav
+Girl|I¬ím not gonna tell you! You¬íre the bad man who broke Sarah¬ís leg.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia755_utt1.wav
+Ross|Hey now! That was an accident, okay.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia755_utt2.wav
+Girl|You¬íre a big scrud.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia755_utt3.wav
+Ross|What¬ís a scrud?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia755_utt4.wav
+Girl|Why don¬ít you look in the mirror, scrud.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia755_utt5.wav
+Ross|I don¬ít have too. I can just look at you.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia755_utt6.wav
+Leader|All right girls, and man. Let¬ís see your final tallies. Ohhhh, Debbie, 321 boxes of cookies, Very nice.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia755_utt7.wav
+Ross|Not nice enough.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia755_utt8.wav
+Leader|Charla, 278. Sorry, dear, but still good.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia755_utt9.wav

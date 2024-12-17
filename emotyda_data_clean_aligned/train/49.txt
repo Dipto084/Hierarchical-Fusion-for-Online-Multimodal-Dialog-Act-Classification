@@ -1,0 +1,22 @@
+Ross|Well, not really.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia49_utt0.wav
+Ross|I mean technically it¬ís-it¬ís not against the rules or anything, but it is frowned upon.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia49_utt1.wav
+Ross|Especially by that professor we ran into last night, Judgey von Holierthanthou.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia49_utt2.wav
+Monica|Well Ross, you be careful now. You don¬ít want to get a reputation as y¬íknow Professor McNailshisstudents.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia49_utt3.wav
+Ross|Yeah. What-what should I do?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia49_utt4.wav
+Joey|Well Ross, it seems pretty clear.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia49_utt5.wav
+Joey|I mean what¬ís more important?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia49_utt6.wav
+Joey|What people think or how you feel, huh?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia49_utt7.wav
+Joey|Ross, you gotta follow your heart.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia49_utt8.wav
+Monica|Joey that is so sweet.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia49_utt9.wav
+Chandler|Hey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia49_utt10.wav
+Joey|Hey-hey-hey! So, how did it go with Dana? Any reason I should leave a block of time open say Thursday?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia49_utt11.wav
+Chandler|I couldn¬ít do it.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia49_utt12.wav
+Joey|You couldn¬ít do it?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia49_utt13.wav
+Chandler|Hey, relax I just need more time. We¬íre going to dinner tonight.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia49_utt14.wav
+Monica|What?! You¬íre going out with her again!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia49_utt15.wav
+Ross|Going out with who?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia49_utt16.wav
+Chandler|Uh, Dana Keystone from college.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia49_utt17.wav
+Ross|Oh yeah! Wasn¬ít she uh|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia49_utt18.wav
+Chandler|No, that was Dana Caplin.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia49_utt19.wav
+Monica|Joey! You didn¬ít even know her!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia49_utt20.wav
+Joey|Ah whatever!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia49_utt21.wav

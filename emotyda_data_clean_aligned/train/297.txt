@@ -1,0 +1,10 @@
+Monica|Does she use the cups? Yes! I believe she does. Does she use the plates? Yes! I believe she does.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia297_utt0.wav
+Monica|Oh. Thank you. Ohhh, thank you very much. Oh, thank you for coming. Uh, just a second!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia297_utt1.wav
+Phoebe|No-no, let me in!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia297_utt2.wav
+Monica|Phoebe?|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia297_utt3.wav
+Phoebe|Yeah!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia297_utt4.wav
+Monica|Can you just hold on for one minute?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia297_utt5.wav
+Phoebe|No, you have to let me in right now!!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia297_utt6.wav
+Monica|Are you alone?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia297_utt7.wav
+Phoebe|Yes!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia297_utt8.wav
+Monica|All right.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia297_utt9.wav

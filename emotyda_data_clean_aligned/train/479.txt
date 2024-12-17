@@ -1,0 +1,12 @@
+Chandler|Oh that¬ís great, my friend Joey¬ís in the movie business.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia479_utt0.wav
+Dana|Y¬íknow who I ran into from school? Howie.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia479_utt1.wav
+Chandler|My friend¬ís name is Joey.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia479_utt2.wav
+Dana|Apparently Howie¬ís editing now.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia479_utt3.wav
+Dana|Yeah, he-he-he calls me up and asks me if he can edit my new movie.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia479_utt4.wav
+Dana|Can you believe that?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia479_utt5.wav
+Dana|Y¬íknow I-I-I haven¬ít spoken to him in like ten years and he asks me for a favor!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia479_utt6.wav
+Chandler|Yeah, I¬íve always hated that Howie.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia479_utt7.wav
+Dana|No, no "How you doing?" Man, I mean not even a cup of coffee first!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia479_utt8.wav
+Chandler|The nerve huh?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia479_utt9.wav
+Dana|Yeah!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia479_utt10.wav
+Chandler|Refill?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia479_utt11.wav

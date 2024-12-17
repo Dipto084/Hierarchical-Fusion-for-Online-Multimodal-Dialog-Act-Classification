@@ -1,0 +1,17 @@
+Monica|Windows are clean, candels are lit.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia507_utt0.wav
+Monica|Uh, belt's to tight, gotta change the belt.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia507_utt1.wav
+Monica|Did I turn the fish?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia507_utt2.wav
+Monica|No, cause I made lasagne.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia507_utt3.wav
+Monica|Am I out of control?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia507_utt4.wav
+Rachel|Just a touch.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia507_utt5.wav
+Rachel|Mon, I don't understand.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia507_utt6.wav
+Rachel|I mean, you've been dating this guy since like, what... his midterms?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia507_utt7.wav
+Rachel|I mean, why all the sudden are you so... Oh.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia507_utt8.wav
+Monica|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia507_utt9.wav
+Rachel|Could tonight be the Night?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia507_utt10.wav
+Monica|I don't know.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia507_utt11.wav
+Monica|Look he's a great guy and I love being with him but... you know.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia507_utt12.wav
+Monica|Things happen, and they happen.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia507_utt13.wav
+Monica|You don't plan these things.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia507_utt14.wav
+Rachel|So, did you shave your legs?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia507_utt15.wav
+Monica|Yeah.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia507_utt16.wav

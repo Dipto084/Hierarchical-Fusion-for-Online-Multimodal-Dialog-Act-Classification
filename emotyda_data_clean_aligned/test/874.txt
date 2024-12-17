@@ -1,0 +1,16 @@
+Ross|What kind of problem?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia874_utt0.wav
+Joey|Well to tell you the truth, they uh, they had a problem with the bag!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia874_utt1.wav
+Chandler|Oh my God!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia874_utt2.wav
+Joey|Y'know what? It was a stupid play anyway!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia874_utt3.wav
+Monica|Y'know, Joey, I think it's time to give up the bag.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia874_utt4.wav
+Joey|I don't wanna give up the bag.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia874_utt5.wav
+Joey|I don't have to give up the bag!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia874_utt6.wav
+Joey|Do I Rach?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia874_utt7.wav
+Joey|Oh, you think I should give up the bag!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia874_utt8.wav
+Rachel|Honey wait, Joey, I¬ím sorry I mean as terrific as I think you are with it|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia874_utt9.wav
+Rachel|I just don't know if the world is ready for you and your bag.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia874_utt10.wav
+Joey|I can't believe I'm hearing this!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia874_utt11.wav
+Rachel|Wait a minute!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia874_utt12.wav
+Rachel|Wait a minute!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia874_utt13.wav
+Rachel|I'm not saying that you shouldn¬ít have a bag, I just¬óit's just there are other bags that are a little less umm, controversial.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia874_utt14.wav
+Chandler|Yeah umm, they're called wallets.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia874_utt15.wav

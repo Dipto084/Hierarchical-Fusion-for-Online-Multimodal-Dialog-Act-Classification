@@ -1,0 +1,9 @@
+Richard|Hi!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia53_utt0.wav
+Monica|Richard!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia53_utt1.wav
+Richard|Actually, I¬ím not here to complement the chef.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia53_utt2.wav
+Monica|Ohh¬Ö Oh, that¬ís okay I hate when people come back to complement the chef.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia53_utt3.wav
+Monica|Like I have nothing better to do!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia53_utt4.wav
+Monica|So what¬ís up?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia53_utt5.wav
+Richard|Well, it was great seeing you the other night.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia53_utt6.wav
+Monica|Oh, good to see you too. Did you come down here to tell me that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia53_utt7.wav
+Richard|No! I came here to tell you something else. I came here to tell you I still love you.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia53_utt8.wav

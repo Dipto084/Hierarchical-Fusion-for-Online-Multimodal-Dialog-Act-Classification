@@ -1,0 +1,20 @@
+Ross|Well obviously only one of us can keep dating her.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia625_utt0.wav
+Joey|Obviously! So, how do we decide?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia625_utt1.wav
+Ross|Well now let¬ís-let¬ís look at this objectively, I think I should date her|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia625_utt2.wav
+Joey|Uh-huh. Uh-huh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia625_utt3.wav
+Ross|That¬ís interesting, but check this out. I date her|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia625_utt4.wav
+Joey|Yeah-yeah I like that but just to go in another direction|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia625_utt5.wav
+Ross|Okay, okay. This can go on for a while.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia625_utt6.wav
+Joey|Yeah well we should order some food then.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia625_utt7.wav
+Ross|No Joey! Look why don¬ít, why don¬ít we just let her decide? Okay? Hey-hey, we¬íll|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia625_utt8.wav
+Joey|That sounds fair.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia625_utt9.wav
+Ross|Maybe I¬íll take her to that new French restaurant down the street|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia625_utt10.wav
+Joey|Ah yeah¬ówait a second now!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia625_utt11.wav
+Joey|Look we¬íre gonna have to set a spending limit on the date.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia625_utt12.wav
+Joey|I don¬ít have the money to take her to a fancy place like that.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia625_utt13.wav
+Ross|Well sorry, that¬ís what I do on dates.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia625_utt14.wav
+Joey|All right, well I guess I¬íll just have to do what I do on dates.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia625_utt15.wav
+Ross|So let¬ís decide on the spending limit|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia625_utt16.wav
+Joey|Yeah. Uh, ¬Öa slice¬Ö¬Ösix dollars?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia625_utt17.wav
+Ross|I was thinking more like a hundred.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia625_utt18.wav
+Joey|Okay. Can I borrow 94 dollars?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia625_utt19.wav

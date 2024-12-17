@@ -1,0 +1,13 @@
+Ross|Maybe this would¬íve happened if I¬íd been more nurturing, or I¬íd paid more attention, or I... had a uterus.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia585_utt0.wav
+Ross|I can¬ít believe this!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia585_utt1.wav
+Phoebe|I know no, no, y'know you don¬ít deserve this, you don¬ít Ross.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia585_utt2.wav
+Phoebe|You¬íre, you¬íre really, you¬íre so good.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia585_utt3.wav
+Ross|Thanks.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia585_utt4.wav
+Phoebe|And you¬íre so sweet. And you¬íre kind|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia585_utt5.wav
+Ross|Thanks.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia585_utt6.wav
+Ross|Wait, wait, wait, wait, wait.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia585_utt7.wav
+Phoebe|Okay, it¬ís okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia585_utt8.wav
+Ross|Wait, wait, wait.|c |c |c |/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia585_utt9.wav
+Ross|My foot is stuck in the pocket.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia585_utt10.wav
+Phoebe|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia585_utt11.wav
+Ross|No, I can¬ít get it out.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia585_utt12.wav

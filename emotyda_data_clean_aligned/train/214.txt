@@ -1,0 +1,11 @@
+Phoebe|Oh my God! That¬ís David!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia214_utt0.wav
+Monica|David who?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia214_utt1.wav
+Phoebe|David the scientist guy, David that I was in love with, David who went to Russia and broke my heart David!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia214_utt2.wav
+David|Oh my God!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia214_utt3.wav
+Phoebe|Oh, you say someone¬ís name enough, they turn around.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia214_utt4.wav
+David|Phoebe?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia214_utt5.wav
+Phoebe|David! What-what are you doing here? Aren¬ít you supposed to be in Russia?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia214_utt6.wav
+David|Yeah, I¬ím just, I¬ím just in town for a conference. Umm,|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia214_utt7.wav
+Phoebe|Well¬Ö Yeah. You look great too. Did you get a haircut?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia214_utt8.wav
+David|Yeah. Well I-I got like thirty of them.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia214_utt9.wav
+Phoebe|Yeah.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia214_utt10.wav

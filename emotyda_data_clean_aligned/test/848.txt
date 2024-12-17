@@ -1,0 +1,12 @@
+Rachel|Ross, hi, it's Rachel.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia848_utt0.wav
+Rachel|I'm just calling to say that um, everything's fine and I'm really happy for you and your|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia848_utt1.wav
+Ross|Rach, I got a message from you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia848_utt2.wav
+Rachel|Oh my God.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia848_utt3.wav
+Rachel|Oh my God Ross, no, hang up the phone, give me the phone Ross, give me the phone, give me the phone, give me the.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia848_utt4.wav
+Ross|You're over me?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia848_utt5.wav
+Rachel|Ohhhhhhhh God.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia848_utt6.wav
+Ross|Wha... you're uh, you're, you're over me?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia848_utt7.wav
+Rachel|Ohh, ohh.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia848_utt8.wav
+Ross|When, when were you... under me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia848_utt9.wav
+Rachel|Well, basically, lately, I've uh, I've uh, sort of had feelings for you.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia848_utt10.wav
+Ross|OK, I need to lie down.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia848_utt11.wav

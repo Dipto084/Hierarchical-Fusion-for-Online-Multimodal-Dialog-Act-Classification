@@ -1,0 +1,3 @@
+Phoebe|Did he mention us?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia491_utt0.wav
+Monica|He said he's really gonna miss you guys.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia491_utt1.wav
+Ross|You had a rough day, huh.. c'mere.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia491_utt2.wav

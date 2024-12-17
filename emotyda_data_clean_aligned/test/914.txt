@@ -1,0 +1,3 @@
+Monica|Hey, Rach. How was it with your friends? Okay! How would you like some Tiki Death Punch?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia914_utt0.wav
+Rachel|What's that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia914_utt1.wav
+Monica|Weeeell, it's rum, and-|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia914_utt2.wav

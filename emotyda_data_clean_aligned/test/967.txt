@@ -1,0 +1,10 @@
+Joey|Oh my, oh my God!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia967_utt0.wav
+Rachel|Aw, it¬ís unbelievable!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia967_utt1.wav
+Rachel|Wow!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia967_utt2.wav
+Rachel|She is kicking so much!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia967_utt3.wav
+Rachel|Oh, she¬ís like umm¬Öoh¬Öwho¬ís that kind of annoying girl soccer player?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia967_utt4.wav
+Joey|Mia Hamm?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia967_utt5.wav
+Rachel|Mia Hamm!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia967_utt6.wav
+Joey|Oh that¬ís amazing.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia967_utt7.wav
+Rachel|Oh-oh!! One hand on the sheet Joe!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia967_utt8.wav
+Joey|Whoa-hey-oh! Sorry!|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia967_utt9.wav

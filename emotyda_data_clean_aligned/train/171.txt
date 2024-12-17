@@ -1,0 +1,8 @@
+Rachel|Hmmm... this is so nice.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia171_utt0.wav
+Ross|OK, I have a question. Well, actually, it's not so much a question as.. more of a general wondering... ment.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia171_utt1.wav
+Rachel|OK.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia171_utt2.wav
+Ross|OK. Here goes. For a while now, I've been wanting to, um....|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia171_utt3.wav
+Rachel|Ohhh!!!!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia171_utt4.wav
+Ross|Yes, yes, that's right...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia171_utt5.wav
+Rachel|Oh, look at the little cat!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia171_utt6.wav
+Ross|What? Ow!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia171_utt7.wav

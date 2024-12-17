@@ -1,0 +1,6 @@
+Joey|I have actually|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia693_utt0.wav
+Mr. Treeger|: Yeah, well your friends are in violation of it.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia693_utt1.wav
+Mr. Treeger|I¬íve been a nice guy up until now, but uh, I don¬ít need this grief.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia693_utt2.wav
+Mr. Treeger|I¬ím gonna call the landlord and tell him that Monica is illegally subletting here grandmother¬ís apartment.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia693_utt3.wav
+Mr. Treeger|Your friends are outta here pal.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia693_utt4.wav
+Joey|Why don¬ít you tell me something I don¬ít know!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia693_utt5.wav

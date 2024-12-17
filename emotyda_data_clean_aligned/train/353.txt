@@ -1,0 +1,2 @@
+Joey|Bijan for men? Bijan for men? Bijan for men?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia353_utt0.wav
+Annabelle|Hey, Joey. So did you hear about the new guy?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia353_utt1.wav

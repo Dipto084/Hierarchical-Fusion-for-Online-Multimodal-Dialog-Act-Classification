@@ -1,0 +1,12 @@
+Monica|Hey sweetie!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia597_utt0.wav
+Chandler|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia597_utt1.wav
+Chandler|There¬ís no back to this couch!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia597_utt2.wav
+Monica|Why are you reading this? You hate this kind of stuff.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia597_utt3.wav
+Chandler|Yeah I know, but I figured a shot y¬íknow?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia597_utt4.wav
+Chandler|Maybe one of those stories would make me cry and then you wouldn¬ít think I was y¬íknow, all dead inside.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia597_utt5.wav
+Monica|Oh that¬ís so sweet! Look Chandler I don¬ít care if you can¬ít cry, I love you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia597_utt6.wav
+Chandler|Oh that makes me feel so warm in my hollow tin chest.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia597_utt7.wav
+Monica|Stop it!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia597_utt8.wav
+Chandler|No, I mean, come on, seriously think about it, we get married, we¬íre up at the altar and I¬ím like this.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia597_utt9.wav
+Monica|I won¬ít care, because I know you will be feeling it all in here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia597_utt10.wav
+Chandler|Yeah?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia597_utt11.wav

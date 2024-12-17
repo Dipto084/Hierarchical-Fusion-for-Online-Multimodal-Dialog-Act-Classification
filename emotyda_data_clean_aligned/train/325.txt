@@ -1,0 +1,1 @@
+Ross|Uh Mr. Morse, can I speak to you for a moment?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia325_utt0.wav

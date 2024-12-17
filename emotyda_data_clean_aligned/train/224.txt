@@ -1,0 +1,6 @@
+Joey|So uh, what¬ís your name?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia224_utt0.wav
+Man|It's Jake.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia224_utt1.wav
+Joey|Joey. Hey Jake, do you like the Knicks?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia224_utt2.wav
+Jake|Yeah, big fan.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia224_utt3.wav
+Joey|Me too! There¬ís a game on Tuesday, do you wanna go?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia224_utt4.wav
+Jake|Yeah that would be great! Let me make sure I¬ím not doing anything Tuesday.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia224_utt5.wav

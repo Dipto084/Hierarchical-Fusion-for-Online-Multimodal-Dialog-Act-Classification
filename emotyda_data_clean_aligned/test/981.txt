@@ -1,0 +1,5 @@
+Chandler|Hey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia981_utt0.wav
+Ross|You uh, you may have been right about Jill.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia981_utt1.wav
+Rachel|Oh! I knew it! What happened?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia981_utt2.wav
+Ross|Umm, she kissed me.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia981_utt3.wav
+Rachel|What?! You kissed!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia981_utt4.wav

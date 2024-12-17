@@ -1,0 +1,9 @@
+Chandler|Monica!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia737_utt0.wav
+Monica|She¬ís sleeping.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia737_utt1.wav
+Chandler|I know, just quick-quick question, quick question. Which one was|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia737_utt2.wav
+Monica|Deep Impact|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia737_utt3.wav
+Chandler|Sorry, I just¬Öcan¬ít sleep.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia737_utt4.wav
+Chandler|Ooh!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia737_utt5.wav
+Chandler|Where is that book that you are reading with the two women who were ice-skating and wearing, wearing those hats with the flowers on it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia737_utt6.wav
+Chandler|Because every time I look at that cover I¬ím like|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia737_utt7.wav
+Monica|It is in the living room where there is also a light! And no one will kick you in the shin.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia737_utt8.wav

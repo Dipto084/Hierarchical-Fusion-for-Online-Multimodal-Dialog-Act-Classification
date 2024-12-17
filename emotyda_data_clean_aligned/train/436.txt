@@ -1,0 +1,6 @@
+Joey|Look at this clown!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia436_utt0.wav
+Joey|Just because he¬ís got a bigger boat he thinks he can take up the whole river.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia436_utt1.wav
+Joey|Get out of the way jackass!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia436_utt2.wav
+Joey|Who names their boat Coast Guard anyway?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia436_utt3.wav
+Rachel|That|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia436_utt4.wav
+Joey|What are they doing out here? The coast¬ís all the way over there.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia436_utt5.wav

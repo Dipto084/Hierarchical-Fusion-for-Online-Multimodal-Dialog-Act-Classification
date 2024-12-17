@@ -1,0 +1,8 @@
+Monica|Let¬ís get the show on it!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia443_utt0.wav
+Rachel|Okay, let me just get a cup of coffee.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia443_utt1.wav
+Monica|Oh Rachel, I know the best coffee house and it¬ís sooo close.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia443_utt2.wav
+Rachel|Closer than here?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia443_utt3.wav
+Phoebe|Oh, hey, look, I found coffee! Okay, let¬ís skedaddle.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia443_utt4.wav
+Rachel|Wait, I¬ím not just gonna drink somebody¬ís old coffee.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia443_utt5.wav
+Phoebe|Okay, your highness.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia443_utt6.wav
+Phoebe|Um, Rachel I¬ím really sorry. That¬ís okay, do you wanna get back together? Yeah, okay. Did anyone else hear that?!|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia443_utt7.wav

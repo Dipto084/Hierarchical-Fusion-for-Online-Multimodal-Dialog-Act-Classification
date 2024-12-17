@@ -1,0 +1,5 @@
+Rachel|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia345_utt0.wav
+Phoebe|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia345_utt1.wav
+Rachel|Oh honey, I'm so sorry, you were right, this feels great!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia345_utt2.wav
+Phoebe|See? And you don't care if people are staring, it's just for a second cause then you're gone!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia345_utt3.wav
+Rachel|Gone! I mean its amazing Pheebs. I feel so free and so graceful. Hey! Look out for the horse! Sorry!|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia345_utt4.wav

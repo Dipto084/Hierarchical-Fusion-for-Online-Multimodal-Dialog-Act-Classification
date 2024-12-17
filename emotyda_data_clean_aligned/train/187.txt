@@ -1,0 +1,10 @@
+Rachel|Well that was depressing, I think I just bought a soft pretzel from one of the kids from|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia187_utt0.wav
+Phoebe|Um-hmm. Oh wait! This is Bonnie.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia187_utt1.wav
+Bonnie|Hi!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia187_utt2.wav
+Rachel|This is Bonnie? This is Bonnie? You¬íre Bonnie?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia187_utt3.wav
+Bonnie|I can show you an ID if you want?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia187_utt4.wav
+Rachel|Oh no, I¬ím sorry, you look a lot different from the last time I-I saw you.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia187_utt5.wav
+Bonnie|Oh yeah, well I just started wearing bras again.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia187_utt6.wav
+Rachel|Oh, that must be it.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia187_utt7.wav
+Phoebe|Well I hope you have fun tonight.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia187_utt8.wav
+Bonnie|Thanks! You too.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia187_utt9.wav

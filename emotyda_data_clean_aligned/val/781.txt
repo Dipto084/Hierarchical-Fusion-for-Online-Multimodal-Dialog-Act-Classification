@@ -1,0 +1,2 @@
+Phoebe|Okay, and then this is the coffee house. This is where I play my music.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia781_utt0.wav
+Vince|Good deal.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia781_utt1.wav

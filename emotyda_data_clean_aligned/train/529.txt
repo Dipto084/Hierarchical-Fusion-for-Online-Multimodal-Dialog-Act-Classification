@@ -1,0 +1,10 @@
+Rachel|Ross! I think she is trying to make something happen with you to get back at me!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia529_utt0.wav
+Ross|So that¬ís the only reason she could be here huh?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia529_utt1.wav
+Ross|It couldn¬ít have anything to do with the fact that-that maybe I¬ím a good listener and I uh I put on a|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia529_utt2.wav
+Rachel|Ross, I am telling you that she is using you to get back at me!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia529_utt3.wav
+Ross|I think I can take care of myself, I¬íll talk to you later.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia529_utt4.wav
+Ross|Good-bye.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia529_utt5.wav
+Ross|Whoa!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia529_utt6.wav
+Ross|Uh, that was your sister actually.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia529_utt7.wav
+Ross|She-she thinks that you¬íre just using me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia529_utt8.wav
+Jill|So?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia529_utt9.wav

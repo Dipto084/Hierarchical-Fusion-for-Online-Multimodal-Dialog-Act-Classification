@@ -1,0 +1,23 @@
+Pete|Lights. Uh, romantic lights.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia319_utt0.wav
+Monica|Ooh, nice.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia319_utt1.wav
+Pete|So ah, there was this thing I wanted to talk to you about.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia319_utt2.wav
+Monica|Oh, right! I completely forgot about that.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia319_utt3.wav
+Pete|Well ah, I¬íve been doing a lot of thinking, and I look at my life|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia319_utt4.wav
+Monica|Yeah?|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia319_utt5.wav
+Pete|And I feel like I¬íve conquered the business world, and I feel like I¬íve conquered the intellectual world, and now I-I have the most beautiful woman in the world.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia319_utt6.wav
+Monica|Wow.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia319_utt7.wav
+Pete|There¬ís one thing missing.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia319_utt8.wav
+Monica|What¬ís that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia319_utt9.wav
+Pete|It¬ís time for me to conquer the physical world.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia319_utt10.wav
+Monica|Okay.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia319_utt11.wav
+Pete|Monica, I want to become the Ultimate Fighting Champion.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia319_utt12.wav
+Monica|You wanna what?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia319_utt13.wav
+Pete|I want to become the Ultimate Fighting Champion! It¬ís the most intense physical competition in the world, it¬ís banned in 49 states!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia319_utt14.wav
+Monica|What are you talking about?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia319_utt15.wav
+Pete|Okay, my trainer, Ho Chi, is teaching me a combination of Gee Koon Doe and Brazilian street fighting, I¬íve even had my own octagon training ring designed.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia319_utt16.wav
+Monica|And I suppose you used a ring designer for that.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia319_utt17.wav
+Pete|Yeah.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia319_utt18.wav
+Pete|Monica, I want you there in the front row when I win.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia319_utt19.wav
+Pete|I want you close enough to smell the blood.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia319_utt20.wav
+Pete|What do you think?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia319_utt21.wav
+Monica|My parents will be so happy.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia319_utt22.wav

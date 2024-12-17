@@ -1,0 +1,20 @@
+Ross|What? No! No, I¬ím not stopping. I¬ím Red Ross!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia888_utt0.wav
+Joey|Dude, if you go back out there, you¬íre gonna be Dead Ross!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia888_utt1.wav
+Ross|I don¬ít care! I am not quitting! I insist on finishing this game!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia888_utt2.wav
+Emily|All right, all right, if you insist on doing this, at least let me help you.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia888_utt3.wav
+Ross|No, God no! That is no place for a woman. Those guys will grab anything.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia888_utt4.wav
+Emily|No. That¬ís not what I¬ím saying. I just may know a few things that might help you inflict some pain.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia888_utt5.wav
+Ross|I like that.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia888_utt6.wav
+Emily|Yeah? Listen closely, Devon has got a weak ankle.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia888_utt7.wav
+Ross|Huh?|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia888_utt8.wav
+Emily|One swift kick and he¬íll back off.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia888_utt9.wav
+Ross|All right, bad ankle, got it!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia888_utt10.wav
+Emily|And that big bloke with the beard, he has got a trick hip.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia888_utt11.wav
+Emily|Yeah.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia888_utt12.wav
+Emily|And uh, and David over there, I heard he doesn¬ít wear a cup.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia888_utt13.wav
+Ross|Yeah? I can use that, trick hip, no cup, okay! Okay!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia888_utt14.wav
+Emily|And uh, Liam, Liam¬ís got bad knees. You hit him right and he¬íll go down like a lamp.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia888_utt15.wav
+Ross|But-but, Liam¬ís on my team.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia888_utt16.wav
+Emily|I don¬ít care! You just get him!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia888_utt17.wav
+Ross|I¬ím gonna go get him! Okay, I am going back in!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia888_utt18.wav
+Joey|The Red Ross! Okay.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia888_utt19.wav

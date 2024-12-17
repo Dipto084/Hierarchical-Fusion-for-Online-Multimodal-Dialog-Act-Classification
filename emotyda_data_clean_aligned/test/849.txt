@@ -1,0 +1,12 @@
+Joey|Hey! I'm in, they're gonna let me audition!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia849_utt0.wav
+Ross|Really? That's great!|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia849_utt1.wav
+Joey|I know! I know! It turns out that one of the casting ladies has actually seen me in a play, so I steered clear of her|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia849_utt2.wav
+Carol|(noticing a kid who has picked up a copy of|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia849_utt3.wav
+Joey|Oh yeah, yeah! He's done tons of commercials. I've seen him in like Sugar Smacks,|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia849_utt4.wav
+Ross|Yeah well, he's not gonna get this one.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia849_utt5.wav
+Ross|Ben is way cuter than that kid.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia849_utt6.wav
+Ross|I mean look at him, look at you,|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia849_utt7.wav
+Joey|That's great. Listen, wouldn't it be great though if I got to play Ben's dad?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia849_utt8.wav
+Ross|Joey, you look nothing like Ben.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia849_utt9.wav
+Joey|I look more like him than you do!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia849_utt10.wav
+Carol|Y'know, I don't really know you well enough for you to do that.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia849_utt11.wav

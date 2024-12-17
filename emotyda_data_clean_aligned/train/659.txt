@@ -1,0 +1,20 @@
+Ross|So, um, what do you do for a living?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia659_utt0.wav
+Kristin|Well, um, for the past few years I've been working.....which is funny because, that wasn't even my major.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia659_utt1.wav
+Carol|Oh no. I thought you said they could shoot the spot without you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia659_utt2.wav
+Susan|I thought they could...I'll try to get back as soon as I can. I'm sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia659_utt3.wav
+Ross|Now that is funny.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia659_utt4.wav
+Ross|Hey, do you think...would it be too weird if I invited Carol over to join us?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia659_utt5.wav
+Ross|Cause she's, she's alone now, and pregnant, and, and sad.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia659_utt6.wav
+Kristin|I guess.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia659_utt7.wav
+Ross|Are you sure? Great. Carol? Wanna come over and join us?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia659_utt8.wav
+Carol|Oh, no no no. I'm fine. I'm fine.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia659_utt9.wav
+Ross|Come on.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia659_utt10.wav
+Ross|These people'll scooch down.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia659_utt11.wav
+Ross|You guys'll scooch, won't you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia659_utt12.wav
+Ross|Let's try scooching!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia659_utt13.wav
+Ross|Come on.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia659_utt14.wav
+Ross|Come on.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia659_utt15.wav
+Ross|Uh, Kristen Riggs, this is Carol Willick.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia659_utt16.wav
+Ross|Carol, Kristin.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia659_utt17.wav
+Ross|Uh, Carol teaches sixth grade.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia659_utt18.wav
+Ross|And, Kristin, Kristin......does something that, funnily enough, wasn't even her major!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia659_utt19.wav

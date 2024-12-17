@@ -1,0 +1,16 @@
+A Student|What¬ís happening to your accent?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia531_utt0.wav
+Ross|Come again?|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia531_utt1.wav
+Ross|What¬ís-what¬ís this nonsense?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia531_utt2.wav
+Ross|All right, I¬ím-I¬ím not English.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia531_utt3.wav
+Ross|I¬ím from Long Island.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia531_utt4.wav
+Ross|I was really nervous and the accent just uh, just came out.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia531_utt5.wav
+Ross|I¬ím sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia531_utt6.wav
+Ross|So, if we could just get back to the lecture.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia531_utt7.wav
+Ross|Umm, were there any questions?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia531_utt8.wav
+Ross|About paleontology.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia531_utt9.wav
+Ross|All right, look I was just trying to make a good first impression.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia531_utt10.wav
+Ross|Obviously, I screwed up.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia531_utt11.wav
+Ross|But what you guys think of me is really important because I¬ím-I¬ím hoping to get a permanent job here.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia531_utt12.wav
+Ross|So if you just give me another chance to make a good impression|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia531_utt13.wav
+Rachel|Ross!! Are you crazy?! I am|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia531_utt14.wav
+Ross|Well, hello Rachel!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia531_utt15.wav

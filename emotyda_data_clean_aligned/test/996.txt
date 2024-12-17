@@ -1,0 +1,21 @@
+Ross|She said what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia996_utt0.wav
+Emily|She said, "If I¬ím not gonna be happy getting married somewhere that we find in a day, well then we should just postpone it."|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia996_utt1.wav
+Ross|Postpone it?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia996_utt2.wav
+Ross|Emily, do you think Monica realises how much our parents spent on this wedding?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia996_utt3.wav
+Ross|Do you my sister¬ís teeny-tiny little brain comprehends that people took time out of their lives to fly thousands of miles to be here, huh?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia996_utt4.wav
+Ross|This isn¬ít right.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia996_utt5.wav
+Emily|I realize that people are going to be disappointed. But, I¬ím sure they¬íll come back when we can do it right.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia996_utt6.wav
+Ross|I can¬ít ask people to do that? Would you ask people to do that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia996_utt7.wav
+Emily|Don¬ít you point your pants at me!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia996_utt8.wav
+Emily|We have no choice!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia996_utt9.wav
+Emily|Anywhere that¬ís half-decent would¬íve be booked months ago, Ross don¬ít you understand?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia996_utt10.wav
+Emily|This is our wedding I¬ím talking about.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia996_utt11.wav
+Ross|The only thing I understand is postponing it is not an option. This is when we¬íre getting married.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia996_utt12.wav
+Emily|So what are you saying? It¬ís now or never?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia996_utt13.wav
+Ross|No. I¬ím saying it¬ís now.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia996_utt14.wav
+Emily|Or?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia996_utt15.wav
+Ross|There¬ís no ¬ëor¬í in mind. What is wrong with these pants?!!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia996_utt16.wav
+Emily|It¬ís not the pants.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia996_utt17.wav
+Emily|It¬ís you that is backwards.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia996_utt18.wav
+Emily|And if, and if you don¬ít understand how important this is to me, well then, perhaps we shouldn¬ít get married at all!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia996_utt19.wav
+Ross|No, wait! Emily! No, wait, stop! Emily, please¬ó|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia996_utt20.wav

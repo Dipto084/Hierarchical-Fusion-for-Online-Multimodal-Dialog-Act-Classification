@@ -1,0 +1,8 @@
+Ross|Please!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia28_utt0.wav
+Ross|Are you kidding?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia28_utt1.wav
+Ross|I-I hurt three huge men, I gave a guy a bloody nose¬óI mean I-I¬ím not proud of it but, I really am.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia28_utt2.wav
+Ross|And it¬ís all because of you, wonderful, amazing you.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia28_utt3.wav
+Emily|I think you¬íve got concussion.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia28_utt4.wav
+Ross|No, no, I¬ím serious. Thank you.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia28_utt5.wav
+Emily|You¬íre welcome. I¬ím sorry. Did I hurt you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia28_utt6.wav
+Ross|It¬ís worth the pain. Y¬íknow what, you know what? It¬ís not.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia28_utt7.wav

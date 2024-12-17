@@ -1,0 +1,19 @@
+Ross|So, uh, how's she doing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia861_utt0.wav
+Aunt Lillian|The doctor says it's a matter of hours.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia861_utt1.wav
+Monica|How-how are you, Mom?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia861_utt2.wav
+Mrs. Geller|Me? I'm fine, fine. I'm glad you're here. ...What's with your hair?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia861_utt3.wav
+Monica|What?|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia861_utt4.wav
+Mrs. Geller|What's different?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia861_utt5.wav
+Monica|Nothing.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia861_utt6.wav
+Mrs. Geller|Oh, maybe that's it.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia861_utt7.wav
+Monica|She is unbelievable, our mother is...|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia861_utt8.wav
+Ross|Okay, relax, relax.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia861_utt9.wav
+Ross|We are gonna be here for a while, it looks like, and we still have boyfriends and your career to cover.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia861_utt10.wav
+Monica|Oh God!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia861_utt11.wav
+Monica|The fuzzy little mints at the bottom of her purse.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia861_utt12.wav
+Ross|Oh!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia861_utt13.wav
+Ross|...Yeah, they were gross.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia861_utt14.wav
+Ross|Oh, you know what I loved?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia861_utt15.wav
+Ross|Her Sweet 'n' Los.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia861_utt16.wav
+Ross|How she was always stealing them from- from restaurants.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia861_utt17.wav
+Mr. Geller|Not just restaurants, from our house.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia861_utt18.wav

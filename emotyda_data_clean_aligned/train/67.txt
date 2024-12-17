@@ -1,0 +1,15 @@
+Rachel|Oh my God! Are you serious?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia67_utt0.wav
+Ross|Uh-huh.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia67_utt1.wav
+Rachel|I would love to live with you Ross.. that¬ís-that¬ís great! Thank you!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia67_utt2.wav
+Ross|Well, I¬ím-I¬ím just glad I could, y¬íknow, help you out.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia67_utt3.wav
+Rachel|Ross-Ross, you have no idea what this means to me!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia67_utt5.wav
+Rachel|I mean, I mean I was gonna be homeless.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia67_utt6.wav
+Rachel|You just saved me!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia67_utt7.wav
+Rachel|You¬íre my hero!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia67_utt8.wav
+Ross|Hero, I uh, I don¬ít know¬ówell, all right.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia67_utt9.wav
+Rachel|Oh, I have to go tell Monica what a wonderful brother she has!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia67_utt10.wav
+Ross|Oh please! You¬íre gonna say things now, aren¬ít ya?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia67_utt11.wav
+Phoebe|No.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia67_utt12.wav
+Phoebe|No, I won¬ít.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia67_utt13.wav
+Phoebe|But I should tell you this, this exact same thing happened to my roommate Denise.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia67_utt14.wav
+Phoebe|She moved in with a guy who was secretly married to her and he said he didn¬ít love her, but he really did, and it just blew up!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia67_utt15.wav

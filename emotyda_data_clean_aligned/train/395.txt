@@ -1,0 +1,9 @@
+Joey|Come on! Admit it! That was the best nap you ever had!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia395_utt0.wav
+Ross|I¬íve had better.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia395_utt1.wav
+Joey|Okay! When?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia395_utt2.wav
+Ross|All right! All right! It was the best nap ever!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia395_utt3.wav
+Joey|Uh-huh!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia395_utt4.wav
+Ross|I¬íve said it! Okay?! But it¬ís over Joey!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia395_utt5.wav
+Joey|I want to do it again.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia395_utt6.wav
+Ross|We|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia395_utt7.wav
+Joey|Why not?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia395_utt8.wav

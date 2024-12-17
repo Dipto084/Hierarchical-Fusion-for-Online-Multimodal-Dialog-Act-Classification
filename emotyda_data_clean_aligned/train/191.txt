@@ -1,0 +1,7 @@
+Joey|Hey! Hey! Be careful around my Porsche!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia191_utt0.wav
+Woman|Hi Joey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia191_utt1.wav
+Joey|Hey! How you doin¬í?|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia191_utt2.wav
+Woman|He has the most amazing Porsche under there!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia191_utt3.wav
+Joey|I¬íd love to show ya, but I just tucked her in.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia191_utt4.wav
+Joey|She¬ís sleeping.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia191_utt5.wav
+Joey|Hey uh, would you two girls like to go for a drink?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia191_utt6.wav

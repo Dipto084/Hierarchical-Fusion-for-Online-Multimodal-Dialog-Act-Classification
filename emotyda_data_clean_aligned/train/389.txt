@@ -1,0 +1,13 @@
+Phoebe|Hi.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia389_utt0.wav
+Monica|Hi!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia389_utt1.wav
+All|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia389_utt2.wav
+Joey|Uh, Pheebs, about your mom...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia389_utt3.wav
+Phoebe|Yeah?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia389_utt4.wav
+Joey|How¬ís that going?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia389_utt5.wav
+Phoebe|So great. Oh, we took a nap today and my Mom fell asleep on my tummy and purred.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia389_utt6.wav
+Joey|That¬ís so sweet. I¬ím gonna get some coffee.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia389_utt7.wav
+Monica|Huh? What¬íd ya say Joe? I¬íll be right there.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia389_utt8.wav
+Rachel|Pheebs...|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia389_utt9.wav
+Phoebe|I just feel so, uhh.....|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia389_utt10.wav
+Rachel|All right!!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia389_utt11.wav
+Chandler|I¬ím coming already!!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia389_utt12.wav

@@ -1,0 +1,14 @@
+Ross|Okay, look, I-I know what you guys are going to say|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia592_utt0.wav
+Phoebe|You two will have very hairy children.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia592_utt1.wav
+Ross|Okay, I didn't know you would say that.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia592_utt2.wav
+Rachel|Ross! Janice?!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia592_utt3.wav
+Joey|All right, hold on!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia592_utt4.wav
+Joey|Hold on.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia592_utt5.wav
+Joey|Hold on.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia592_utt6.wav
+Joey|This is Ross, okay?|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia592_utt7.wav
+Joey|He's our friend.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia592_utt8.wav
+Joey|He obviously went crazy.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia592_utt9.wav
+Joey|He obviously lost his mind.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia592_utt10.wav
+Phoebe|So are you actually gonna see her again?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia592_utt11.wav
+Joey|Phoebe! Don't put ideas in his head!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia592_utt12.wav
+Joey|Damnit Phoebe!!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia592_utt13.wav

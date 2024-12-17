@@ -1,0 +1,7 @@
+Joey|What about me?! You-you just said I could!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1035_utt0.wav
+Chandler|I¬ím not even getting married! Okay, this is a question for science fiction writers!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1035_utt1.wav
+Joey|I can¬ít believe you¬íre not picking me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1035_utt2.wav
+Ross|Hey, how can it|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1035_utt3.wav
+Chandler|I¬ím not even¬Ö I¬ím not even|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1035_utt4.wav
+Ross|Fine, y¬íknow what, that¬ís it. From now on, Joey, I want you to be my best man.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1035_utt5.wav
+Joey|Yes! Shame about you man.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1035_utt6.wav

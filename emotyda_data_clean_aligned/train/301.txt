@@ -1,0 +1,16 @@
+Barry|Sweetheart, just gimme- gimme another chance, okay, we'll start all over again. We'll go back to Aruba.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia301_utt0.wav
+Bernice|Dr. Farber, we've got a bit of an emergency here...Jason Costalano is choking on his retainer.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia301_utt1.wav
+Barry|Oh God...|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia301_utt2.wav
+Barry|I'll be right there, Bernice.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia301_utt3.wav
+Barry|Look, please, please don't go anywhere, okay?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia301_utt4.wav
+Rachel|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia301_utt6.wav
+Rachel|Okay, we'll be here!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia301_utt7.wav
+Rachel|Hating you!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia301_utt8.wav
+Rachel|Did you see how he was sweating when he walked out of there?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia301_utt9.wav
+Rachel|Listen honey, if I'm hogging the ball too much you just jump right in there and take a couple punches because I'm telling you, this feels|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia301_utt10.wav
+Mindy|Yeah... I'm pretty sure I'm still gonna marry him.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia301_utt11.wav
+Rachel|What are you talking about?! Mindy, the guy is the devil! He's Satan in a smock!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia301_utt12.wav
+Mindy|Look, I know he's not perfect, but the truth is, at the end of the day, I still really wanna be Mrs. Dr. Barry Farber, D.D.S.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia301_utt13.wav
+Rachel|Oh God.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia301_utt14.wav
+Mindy|I hope you can find some way to be happy for me. And I hope you'll still be my maid of honor...?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia301_utt15.wav
+Rachel|And I hope Barry doesn't kill you and eat you in Aruba.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia301_utt16.wav

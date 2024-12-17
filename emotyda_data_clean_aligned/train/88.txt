@@ -1,0 +1,4 @@
+Phoebe|You know what? You are right. I|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia88_utt0.wav
+Rachel|Good for you Pheebs!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia88_utt1.wav
+Phoebe|Ok.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia88_utt2.wav
+Phoebe|Okay If you guys have microphones in there too, I didn't mean|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia88_utt3.wav

@@ -1,0 +1,2 @@
+Rachel|Chandler, you have an assistant right?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia641_utt0.wav
+Chandler|Did she call? You-you told her I was sick right? Always tell her I am sick!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia641_utt1.wav

@@ -1,0 +1,6 @@
+Phoebe|Oh here¬ís a whole bunch.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia425_utt0.wav
+Rachel|Oh, I mean she¬ís gonna be at the wedding waiting for him and people will be whispering, "Oh that poor girl."|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia425_utt1.wav
+Rachel|Then she¬íll have to come back here and live all alone.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia425_utt2.wav
+Phoebe|Oh my God!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia425_utt3.wav
+Rachel|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia425_utt4.wav
+Phoebe|There was a pregnancy test in the garbage, and it¬ís positive. Monica¬ís pregnant. So I guess she won¬ít be totally alone.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia425_utt5.wav

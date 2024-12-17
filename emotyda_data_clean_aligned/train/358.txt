@@ -1,0 +1,19 @@
+Rachel|Here you go Pheebs. Who else wants one of my special homemade brownies?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia358_utt0.wav
+Chandler|I will have one.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia358_utt1.wav
+Chandler|Okay, I¬ím not gonna have one.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia358_utt2.wav
+Phoebe|No, no, it¬ís just my tooth.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia358_utt3.wav
+Chandler|All right I¬íll have one.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia358_utt4.wav
+Ross|So what¬ís a matter, you need a dentist? I¬íve got a good one.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia358_utt5.wav
+Phoebe|No thanks, I have a good one too. I just, I, I can¬ít see him.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia358_utt6.wav
+Chandler|See that is the problem with invisible dentists.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia358_utt7.wav
+Ross|Why? Why can¬ít you go to him?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia358_utt8.wav
+Phoebe|Because, every time I go to the dentist, somebody dies.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia358_utt9.wav
+Chandler|That is so weird, because every time I go to the dentist, I look down the hygienist¬ís blouse.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia358_utt10.wav
+Rachel|Phoebe, what? Umm...what?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia358_utt11.wav
+Phoebe|Yeah, yeah, first there was my aunt Mary, and then there was umm, John, my mailman, and then my, my cowboy friend ¬ëAlbino Bob¬í.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia358_utt12.wav
+Rachel|And all these people actually died?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia358_utt13.wav
+Phoebe|Yes, while I was in the chair!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia358_utt14.wav
+Phoebe|That¬ís why I take such good care of my teeth now, y'know, it¬ís not about oral hygiene, I floss to save lives!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia358_utt15.wav
+Ross|Pheebs, come on, you didn¬ít kill anybody, these people just happened to die when you went to the dentist.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia358_utt16.wav
+Ross|It¬ís, it¬ís, it¬ís just ah, a coincidence.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia358_utt17.wav
+Phoebe|Well tell that to them. Oh! You can¬ít, their dead.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia358_utt18.wav

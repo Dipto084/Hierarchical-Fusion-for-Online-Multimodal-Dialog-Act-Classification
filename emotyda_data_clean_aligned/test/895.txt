@@ -1,0 +1,11 @@
+Joey|I still can¬ít believe they took away my key. You trust me with yours.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia895_utt0.wav
+Phoebe|Of course I do! And I¬ím gonna give it back to you as soon as they¬íre done with it at the key shining place.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia895_utt1.wav
+Joey|What the hell is that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia895_utt2.wav
+Joey|Whoa! Whoa! Whoa! Treeger, what are you doing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia895_utt3.wav
+Mr. Treeger|You said there was a gas leak in here.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia895_utt4.wav
+Phoebe|Well why don¬ít you use your key?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia895_utt5.wav
+Mr. Treeger|Because by the time I find it on this thing , the whole place might have exploded.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia895_utt6.wav
+Mr. Treeger|If that happens at another building that I manage, people are gonna start asking questions.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia895_utt7.wav
+Mr. Treeger|Come on!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia895_utt8.wav
+Mr. Treeger|Hurry up.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia895_utt9.wav
+Phoebe|Oh! We could have done that.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia895_utt10.wav

@@ -1,0 +1,16 @@
+Janice|Are you being British?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia759_utt0.wav
+Chandler|No. Not anymore.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia759_utt1.wav
+Janice|Why are you shopping here? You don't live in this neighborhood. Were you here waiting for me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia759_utt2.wav
+Chandler|Yeah, huh. I'm just uh, you know I'm just picking up some things for a party.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia759_utt3.wav
+Janice|Barley? What kind of party serves barley?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia759_utt4.wav
+Chandler|Well, I'm sorry if my friends aren't as sophisticated as yours.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia759_utt5.wav
+Janice|Where is this party?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia759_utt6.wav
+Chandler|Here in Chelsea.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia759_utt7.wav
+Janice|Who's party is it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia759_utt8.wav
+Chandler|A woman's|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia759_utt9.wav
+Janice|What woman?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia759_utt10.wav
+Chandler|Chelsea.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia759_utt11.wav
+Janice|Either you're seeing somebody behind my back, which would make you the biggest jerk on the planet.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia759_utt12.wav
+Janice|Or, else you're pretending that you're seeing somebody, which just makes you so pathetic that I could start crying right here in the cereal aisle.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia759_utt13.wav
+Janice|So like which of these two guys do you want to be?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia759_utt14.wav
+Chandler|Can I be that guy?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia759_utt15.wav

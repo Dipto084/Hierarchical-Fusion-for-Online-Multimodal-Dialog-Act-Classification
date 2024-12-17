@@ -1,0 +1,20 @@
+Ross|Oh, hey, Gunther, check this out.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia933_utt0.wav
+Gunther|Yeah, that-that Chandler cracks me up.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia933_utt1.wav
+Joey|Hey Ross, listen, you want anything to drink, ¬ëcause I¬ím heading up there.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia933_utt2.wav
+Ross|Uh, yeah, I¬íll take a coffee. Thanks, man.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia933_utt3.wav
+Joey|Sure. Coffee? ¬ëCause I¬ím going up there.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia933_utt4.wav
+Rachel|No.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia933_utt5.wav
+Monica|No, thank you.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia933_utt6.wav
+Joey|You guys need anything, ¬ëcause I¬ím heading up there.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia933_utt7.wav
+Woman|I¬íd love an ice water.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia933_utt8.wav
+Joey|You got it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia933_utt9.wav
+Monica|Joey, what are you doing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia933_utt10.wav
+Joey|Just being friendly.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia933_utt11.wav
+Rachel|Joey, honey, I don¬ít think you¬íre supposed to go back there.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia933_utt12.wav
+Joey|Nah, it¬ís okay. Right, Gunther?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia933_utt13.wav
+Gunther|Don¬ít wink at me. And put on your apron.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia933_utt14.wav
+Joey|Okay, but I don¬ít see you asking any other paying customers to put on aprons.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia933_utt15.wav
+Monica|Joey, do you work here?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia933_utt16.wav
+Joey|No.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia933_utt17.wav
+Customer|Hey, waiter.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia933_utt18.wav
+Joey|Yeah?|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia933_utt19.wav

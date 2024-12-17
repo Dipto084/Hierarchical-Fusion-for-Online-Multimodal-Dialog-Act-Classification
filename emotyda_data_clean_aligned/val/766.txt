@@ -1,0 +1,7 @@
+Rachel|Yeah, and I am okay with being a pushover.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia766_utt0.wav
+Phoebe|That¬ís great. Good for you guys.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia766_utt1.wav
+Monica|I am not high maintenance!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia766_utt2.wav
+Rachel|I am not a pushover!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia766_utt3.wav
+Phoebe|Who said you were?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia766_utt4.wav
+Rachel|You did!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia766_utt5.wav
+Phoebe|Oh, I¬ím flaky. I¬íll say anything.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia766_utt6.wav

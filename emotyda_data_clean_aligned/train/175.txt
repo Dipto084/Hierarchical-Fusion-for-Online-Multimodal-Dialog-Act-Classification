@@ -1,0 +1,12 @@
+Joey|We did?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia175_utt0.wav
+Monica|You owe me 20 bucks.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia175_utt1.wav
+Rachel|Thank you. Thank you so much!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia175_utt2.wav
+Monica|Chandler, here you go, got your traditional Thanksgiving feast, you got your tomato soup, your grilled cheese fixin's, and your family size bag of Funyuns.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia175_utt3.wav
+Rachel|Wait, wait, Chandler, this is what you're havin' for Thanksgiving dinner?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia175_utt4.wav
+Rachel|What, what, what is it with you and this holiday?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia175_utt5.wav
+Chandler|All right, I'm nine years old.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia175_utt6.wav
+Ross|Oh, I hate this story.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia175_utt7.wav
+Chandler|We just finished this magnificent Thanksgiving dinner.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia175_utt8.wav
+Chandler|I have--and I remember this part vividly--a mouthful of pumpkin pie, and this is the moment my parents choose to tell me they're getting divorced.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia175_utt9.wav
+Rachel|Oh my god.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia175_utt10.wav
+Chandler|Yes. It's very difficult to appreciate a Thanksgiving dinner once you've seen it in reverse.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia175_utt11.wav

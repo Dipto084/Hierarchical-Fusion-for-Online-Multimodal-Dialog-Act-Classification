@@ -1,0 +1,22 @@
+Ross|....right?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1016_utt0.wav
+Ross|Right?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1016_utt1.wav
+Ross|I mean it¬ís pretty unbelievable y'know, I mean they just took off, took off without even looking back.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1016_utt2.wav
+Ross|Y'know I don¬ít, I don¬ít need them, huh, I¬íve got you guys now as friends, you and Susan.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1016_utt3.wav
+Carol|Ah, Susan will be so pleased.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1016_utt4.wav
+Ross|717? Where¬ís 717? Hey, you¬íve have more of these for Susan right?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1016_utt5.wav
+Carol|No. But it¬ís okay, I¬íll just put out pickles or something.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1016_utt6.wav
+Phoebe|Ross, thank God.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1016_utt7.wav
+Ross|Pheebs? What, why are you whispering?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1016_utt8.wav
+Phoebe|I ate a bug.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1016_utt9.wav
+Monica|Hey Rach, the tampons here are only a penny. Let¬ís stock up.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1016_utt10.wav
+Phoebe|Listen Ross, we ran out of gas, and we don¬ít know where we are, so we can¬ít get a tow truck.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1016_utt11.wav
+Ross|Oh, now you want a favour?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1016_utt12.wav
+Phoebe|Yes, please.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1016_utt13.wav
+Ross|Well, oh, I¬ím sorry your car broke down Pheebs, but I¬ím a little too busy with some of my real friends right now, but please call to let me know you got home safely okay?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1016_utt14.wav
+Carol|Phoebe, hang on a second. Here, take my car, go pick up your friends.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1016_utt15.wav
+Ross|No, I¬ím not gonna pick them up.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1016_utt16.wav
+Carol|Listen, we both know you¬íre gonna do it ¬ëcause you¬íre not a jerk.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1016_utt17.wav
+Carol|So you can either sulk here for a half hour and then go pick them up, or save us both time and sulk in the car.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1016_utt18.wav
+Ross|No, Rachel doesn¬ít want me to....|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1016_utt19.wav
+Carol|Look, I-I-I am sorry that Rachel dumped you ¬ëcause she fell in love with that Mark guy, and you are the innocent victim in all of this, but don¬ít punish your friends for what Rachel did to you.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1016_utt20.wav
+Ross|Yeah, you¬íre right.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1016_utt21.wav

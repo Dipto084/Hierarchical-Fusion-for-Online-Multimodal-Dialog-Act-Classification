@@ -1,0 +1,10 @@
+Phoebe|Okay, you have 19 questions left. Use them wisely. Come on Joey! You can¬ít win if you don¬ít ask any|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia173_utt0.wav
+Joey|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia173_utt1.wav
+Phoebe|Well, you promised me a fun road trip!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia173_utt2.wav
+Phoebe|We¬íve been on the road six hours and you¬íve been asleep for five and a half!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia173_utt3.wav
+Phoebe|We are switching at the next rest stop and|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia173_utt4.wav
+Joey|All right. All right.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia173_utt5.wav
+Phoebe|Yeah! And until then you are going to sing to me because the radio¬ís broken and you are selfish but have a nice voice.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia173_utt6.wav
+Joey|Really? I don¬ít|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia173_utt7.wav
+Phoebe|Sing!!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia173_utt8.wav
+Hitchhiker|Morning!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia173_utt10.wav

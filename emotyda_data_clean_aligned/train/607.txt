@@ -1,0 +1,16 @@
+Joey|Do you have any respect for your body?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia607_utt0.wav
+Ross|Don't you realise what you're-you're doing to yourself?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia607_utt1.wav
+Chandler|Hey, y'know, I have had it with you guys and your cancer and your emphysema and your heart disease.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia607_utt2.wav
+Chandler|The bottom line is, smoking is cool, and you know it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia607_utt3.wav
+Rachel|Chandler? It's Alan, he wants to speak to you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia607_utt4.wav
+Chandler|Really?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia607_utt5.wav
+Chandler|He does?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia607_utt6.wav
+Chandler|Hey, buddy, what's up!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia607_utt7.wav
+Chandler|Oh, she told you about that, huh.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia607_utt8.wav
+Chandler|Well, yeah, I have one now and then.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia607_utt9.wav
+Chandler|Well, yeah, now.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia607_utt10.wav
+Chandler|Well, it's not that big- ..well, that's true,.. Gee, y'know, no-one- no-one's ever put it like that before.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia607_utt11.wav
+Chandler|Well, okay, thanks!|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia607_utt12.wav
+Rachel|God, he's good.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia607_utt13.wav
+Ross|If only he were a woman.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia607_utt14.wav
+Rachel|Yeah.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia607_utt15.wav

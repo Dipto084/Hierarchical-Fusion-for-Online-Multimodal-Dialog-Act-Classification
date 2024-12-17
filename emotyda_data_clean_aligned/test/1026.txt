@@ -1,0 +1,16 @@
+Monica|You are so cute! How did you get to be so cute?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1026_utt0.wav
+Chandler|Well, my Grandfather was Swedish and my Grandmother was actually a tiny little bunny.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1026_utt1.wav
+Monica|Okay, now you're even cuter!!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1026_utt2.wav
+Chandler|Y'know that is a popular opinion today I must say.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1026_utt3.wav
+Monica|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1026_utt4.wav
+Chandler|The weirdest thing happened at the coffee house, I think, I think Phoebe was hitting on me.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1026_utt5.wav
+Monica|What are you talking about?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1026_utt6.wav
+Chandler|I'm telling you I think Phoebe thinks I'm foxy.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1026_utt7.wav
+Monica|That's not possible!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1026_utt8.wav
+Chandler|Ow!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1026_utt9.wav
+Monica|I'm sorry it's just, Phoebe just always thought you were, you were charming in a, in a sexless kind of way.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1026_utt10.wav
+Chandler|Oh, y'know I-I can't hear that enough.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1026_utt11.wav
+Monica|I'm sorry, I think that you just misunderstood her.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1026_utt12.wav
+Chandler|No, I didn't misunderstand, okay? She was all over me! She touched my bicep for crying out loud!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1026_utt13.wav
+Monica|This bicep?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1026_utt14.wav
+Chandler|Well it's not flexed right now!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1026_utt15.wav

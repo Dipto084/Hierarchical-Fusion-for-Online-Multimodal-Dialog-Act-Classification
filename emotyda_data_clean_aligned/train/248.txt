@@ -1,0 +1,7 @@
+Phoebe|No.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia248_utt0.wav
+Phoebe|No!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia248_utt1.wav
+Phoebe|Oh, would you look at that Monica?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia248_utt3.wav
+Phoebe|I just knocked off all of your top scores, how sad.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia248_utt4.wav
+Monica|Okay, I¬ím next. Don¬ít! Don¬ít start another game! I said I¬ím next! Phoebe!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia248_utt5.wav
+Phoebe|Oh, I¬ím sorry. I didn¬ít hear you over all the winning.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia248_utt6.wav
+Monica|Chandler! Phoebe¬ís hogging the game!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia248_utt7.wav

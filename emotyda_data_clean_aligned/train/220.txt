@@ -1,0 +1,7 @@
+Phoebe|Hi, guys.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia220_utt0.wav
+Rachel|Hi! Phoebe.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia220_utt1.wav
+Monica|Hi Phoebe.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia220_utt2.wav
+Phoebe|I-I wanted to apologise if I¬óy¬íknow seemed a tad edgy yesterday at my shower. Y¬íknow it¬ís just the hormones, y¬íknow.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia220_utt3.wav
+Rachel|No we|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia220_utt4.wav
+Monica|Hormones.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia220_utt5.wav
+Rachel|hormones, yeah.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia220_utt6.wav

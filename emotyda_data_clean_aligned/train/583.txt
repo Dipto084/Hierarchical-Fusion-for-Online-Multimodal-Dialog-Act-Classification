@@ -1,0 +1,10 @@
+Phoebe|Okay, c¬ímon guys, show us where the presents are!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia583_utt0.wav
+Chandler|Oh, the duck seems to think that Monica got me garbage! Hmm, I wonder what I could get Monica that¬ís as good as garbage?|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia583_utt1.wav
+Phoebe|Hmm, how about my azzz?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia583_utt2.wav
+Rachel|Hey, this is hollow.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia583_utt3.wav
+Phoebe|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia583_utt4.wav
+Rachel|This bench, it¬ís hollow! I can¬ít believe I never knew that! Oh, the presents!!!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia583_utt5.wav
+Phoebe|No, don¬ít look directly at them!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia583_utt6.wav
+Chandler|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia583_utt7.wav
+Phoebe|Alright, no, we could look at them!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia583_utt8.wav
+Monica|I|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia583_utt9.wav

@@ -1,0 +1,4 @@
+Joey|All right Carl, we¬íre next. Now remember, what is not gonna be?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia815_utt0.wav
+Carl|Another|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia815_utt1.wav
+Joey|That¬ís right! And what are you not gonna do?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia815_utt2.wav
+Carl|Well, I¬ím not gonna talk because|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia815_utt3.wav

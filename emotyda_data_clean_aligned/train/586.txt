@@ -1,0 +1,1 @@
+Mark|Rachel?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia586_utt0.wav

@@ -1,0 +1,11 @@
+Ross|Now, hold on!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia794_utt0.wav
+Ross|Hold on!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia794_utt1.wav
+Ross|Look, look, your daughter and I are supposed to leave tonight for our honeymoon, now-now you-you tell her that I¬ím gonna be at that airport and I hope that she¬íll be there too!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia794_utt2.wav
+Ross|Oh yeah, I said Rachel¬ís name, but it didn¬ít mean anything, Okay?|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia794_utt3.wav
+Ross|She¬ís-she¬ís just a friend and that¬ís all!|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia794_utt4.wav
+Ross|That¬ís all!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia794_utt5.wav
+Ross|Now just tell Emily that I love her and that I can¬ít imagine spending my life with anyone else.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia794_utt6.wav
+Ross|Please, promise me that you¬íll tell her that.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia794_utt7.wav
+Mr. Waltham|All right, I¬íll tell her. Come on bugger face!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia794_utt8.wav
+Mrs. Waltham|Call me.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia794_utt9.wav
+Mr. Waltham|You spend half your life in the bathroom, why don¬ít you ever go out the bloody window!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia794_utt10.wav

@@ -1,0 +1,14 @@
+Phoebe|Wow, I have the spirit of an old Indian women living in mine.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia827_utt0.wav
+Monica|So then you know?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia827_utt1.wav
+Phoebe|The mailman was downstairs, so I brought up your mail.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia827_utt2.wav
+Monica|Oh, good. Thanks.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia827_utt3.wav
+Phoebe|Now what is Fabutec?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia827_utt4.wav
+Monica|Okay, all right don¬ít judge me to much.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia827_utt5.wav
+Monica|Okay?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia827_utt6.wav
+Monica|Um, but I saw this info-mercial, and um, I swear to you I have never-ever bought anything on TV before, except for this mop.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia827_utt7.wav
+Monica|But there was this stuff on leg waxing, it just, it looked so amazing....|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia827_utt8.wav
+Phoebe|Oh, it¬ís incredible! I so want to be a Waxine girl.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia827_utt11.wav
+Monica|I know!!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia827_utt12.wav
+Phoebe|God. Do think it really doesn¬ít hurt? ¬ëCause how can they do that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia827_utt13.wav
+Monica|Hello! Organic substances recently discovered in the depths of the rain forest!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia827_utt14.wav
+Phoebe|They have the best stuff in there.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia827_utt15.wav

@@ -1,0 +1,9 @@
+Monica|Are you insane? I mean Joey, is going to kill you, he¬ís actually going to kill you dead.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia23_utt0.wav
+Chandler|Okay! You don¬ít think I thought of that?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia23_utt1.wav
+Phoebe|How can you not know which one?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia23_utt2.wav
+Rachel|I mean that¬ís unbelievable.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia23_utt3.wav
+Monica|I mean, was it Gina?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia23_utt4.wav
+Ross|Which one is Gina?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia23_utt5.wav
+Rachel|Dark, big hair, with the airplane earrings.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia23_utt6.wav
+Monica|No, no, no, that¬ís Dina.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia23_utt7.wav
+Chandler|You see you can¬ít tell which one is which either, dwha!!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia23_utt8.wav

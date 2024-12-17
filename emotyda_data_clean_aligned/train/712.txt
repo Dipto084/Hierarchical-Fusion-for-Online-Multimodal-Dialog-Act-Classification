@@ -1,0 +1,12 @@
+Joey|Yeah-yeah, and if I get it by day I¬íll Dr. Drake Remoray, but by night I¬íll be Joey Trrrribbiani!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia712_utt0.wav
+Chandler|You¬íll be perfect for this! That¬ís already your name!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia712_utt1.wav
+Joey|But the audition¬ís in a couple hours and I don¬ít even understand the game.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia712_utt2.wav
+Ross|Well do you want some help?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia712_utt3.wav
+Joey|Oh really? That¬íd be great! You guys can be the contestants!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia712_utt4.wav
+Ross|Awesome!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia712_utt5.wav
+Chandler|Okay, I guess we can lose to junior high girls some other time.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia712_utt6.wav
+Joey|All right! Let¬ís play Bamboozled!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia712_utt7.wav
+Chandler|Bamboozled?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia712_utt8.wav
+Joey|Yeah, isn¬ít that a cool name?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia712_utt9.wav
+Ross|Yeah!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia712_utt10.wav
+Chandler|No!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia712_utt11.wav

@@ -1,0 +1,5 @@
+Chandler|Great story again! The yarns that you weave! Woo-hoo-hoo!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia760_utt0.wav
+Dana|Y¬íknow uh, actually I-I-I should get going.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia760_utt1.wav
+Chandler|Oh no-no-no! Stay! Stay! Because you-you should you-you-you should stay!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia760_utt2.wav
+Dana|Wow. Oh, I am really flattered, but I just I don¬ít feel that way about you.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia760_utt3.wav
+Chandler|Oh no-no-no, that¬ís not¬óNo-no-no!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia760_utt4.wav

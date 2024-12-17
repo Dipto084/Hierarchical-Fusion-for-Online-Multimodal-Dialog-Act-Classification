@@ -1,0 +1,11 @@
+Chandler|Hi.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia763_utt0.wav
+Monica|Hi.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia763_utt1.wav
+Chandler|Hi, listen, I¬ím sorry about before.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia763_utt2.wav
+Chandler|I don¬ít need to have a game room.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia763_utt3.wav
+Chandler|I mean when I was a kid I only played those games because I couldn¬ít get girls, and now I|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia763_utt4.wav
+Monica|Stop it Chandler. I¬ím sorry too.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia763_utt5.wav
+Chandler|Really?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia763_utt6.wav
+Monica|Yeah! Oh yes!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia763_utt7.wav
+Chandler|Ohh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia763_utt8.wav
+Monica|Listen, we don¬ít have to make that a guest room, we can think of something to do with the room together.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia763_utt9.wav
+Chandler|That¬ís a great idea! We can|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia763_utt10.wav

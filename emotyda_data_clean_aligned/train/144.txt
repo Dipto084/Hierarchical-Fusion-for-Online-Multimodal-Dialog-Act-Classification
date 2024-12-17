@@ -1,0 +1,6 @@
+Tag|Hey Joey, you wanted to talk to me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia144_utt0.wav
+Joey|I don¬ít know. You uh, you got something for me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia144_utt1.wav
+Tag|Oh, yeah, this is from Rachel.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia144_utt2.wav
+Joey|Ten. Okay. Now Tag there¬ís such a thing as too many women.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia144_utt3.wav
+Tag|Really?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia144_utt4.wav
+Joey|Yeah, for you!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia144_utt5.wav

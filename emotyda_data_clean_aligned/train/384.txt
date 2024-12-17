@@ -1,0 +1,5 @@
+Phoebe|Oh hello.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia384_utt0.wav
+Guy|Oh, it¬ís you. I see you everywhere. I¬ím Jim, Jim Nelson.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia384_utt1.wav
+Phoebe|Oh Jim, Jim Nelson I¬ím Phoebe, Phoebe Buffay. We certainly have been seeing a lot of each other lately.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia384_utt2.wav
+Jim|We have. Maybe we¬íll be seeing each other at dinner tomorrow night, say around 8 o¬íclock?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia384_utt3.wav
+Phoebe|Well, maybe we will. Oh!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia384_utt4.wav

@@ -1,0 +1,16 @@
+Phoebe|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia840_utt0.wav
+Rachel|Hi Pheebs!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia840_utt1.wav
+Phoebe|Are you moving out?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia840_utt2.wav
+Rachel|No, these aren't all my suitcases. This one's Paolo's.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia840_utt3.wav
+Phoebe|Um, um, Rachel can we talk for a sec?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia840_utt4.wav
+Rachel|Well, sure...just a sec, though, 'cause Paolo's on his way over.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia840_utt5.wav
+Phoebe|Oh! Ok, um, ok, um,|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia840_utt6.wav
+Rachel|Oh, Pheebs, Pheebs...|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia840_utt7.wav
+Phoebe|Ok, um, we haven't known each other for that long a time, and, um, there are three things that you should know about me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia840_utt8.wav
+Phoebe|One, my friends are the most important thing in my life, two, I never lie, and three, I make the best oatmeal raisin cookies in the world.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia840_utt9.wav
+Rachel|Ok, thanks Pheebs Oh my God, why have I never tasted these before?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia840_utt10.wav
+Phoebe|Oh, I don't make them a lot because I don't think it's fair to the other cookies|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia840_utt11.wav
+Rachel|All right, well, you're right, these are the best oatmeal cookies I've ever had.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia840_utt12.wav
+Phoebe|Which proves that I never lie.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia840_utt13.wav
+Rachel|I guess you don't.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia840_utt14.wav
+Phoebe|Paolo made a pass at me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia840_utt15.wav

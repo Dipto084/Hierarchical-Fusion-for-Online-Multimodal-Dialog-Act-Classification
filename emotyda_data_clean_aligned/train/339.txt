@@ -1,0 +1,4 @@
+Joey|Well I guess I should¬íve thought about my wife and kids before I talked back to chef Geller!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia339_utt0.wav
+Monica|Thanks.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia339_utt1.wav
+Monica|Enough!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia339_utt3.wav
+Joey|Lean lean lean|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia339_utt4.wav

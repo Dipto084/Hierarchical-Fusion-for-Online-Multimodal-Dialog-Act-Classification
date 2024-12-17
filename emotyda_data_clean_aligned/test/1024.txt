@@ -1,0 +1,16 @@
+Joey|Hi!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1024_utt0.wav
+The Potential Roommate|Hi!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1024_utt1.wav
+Joey|Come in.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1024_utt2.wav
+Joey|Thanks for comin¬í back, umm, okay there have been a lot of people interested in the room, but I have narrowed it down and|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1024_utt3.wav
+The Potential Roommate|Great!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1024_utt4.wav
+Joey|Okay now, before I make my final decision I uh, I just want to make sure our personalities match.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1024_utt5.wav
+Joey|Okay, so I made up a little test.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1024_utt6.wav
+Joey|Now, I¬ím gonna say a word and then you say the first thing that comes to mind.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1024_utt7.wav
+The Potential Roommate|I can do that.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1024_utt8.wav
+Joey|Okay! Here we go. Pillow.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1024_utt9.wav
+The Potential Roommate|Fight.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1024_utt10.wav
+Joey|Very good! Okay. G.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1024_utt11.wav
+The Potential Roommate|String?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1024_utt12.wav
+Joey|Excellent! Okay umm, doggy.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1024_utt13.wav
+The Potential Roommate|Kitten?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1024_utt14.wav
+Joey|Ooh, sorry! No-no-no, so close though, but¬óbye-bye!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1024_utt15.wav

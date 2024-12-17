@@ -1,0 +1,12 @@
+Joey|What¬ís the matter, Pheebs?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia260_utt0.wav
+Phoebe|She cancelled! My namesake cancelled on me!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia260_utt1.wav
+Joey|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia260_utt2.wav
+Phoebe|Yeah, she clamed she had to go out of town suddenly.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia260_utt3.wav
+Phoebe|She¬ís avoiding me, she doesn¬ít want to tell me where my Father is.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia260_utt4.wav
+Phoebe|She knows, and she won¬ít tell me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia260_utt5.wav
+Rachel|Aww Pheebs, that sucks!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia260_utt6.wav
+Phoebe|Yeah, well, don¬ít ¬ìAww Pheebs, that sucks!¬î me yet.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia260_utt7.wav
+Chandler|Where ya going?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia260_utt8.wav
+Phoebe|Well, she¬ís out of town so, there¬ís gotta be something in her house that tells me where my Father is.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia260_utt9.wav
+Ross|Uh, Pheebs, some people call that breaking and entering.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia260_utt10.wav
+Phoebe|Well, are any of those people here?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia260_utt11.wav

@@ -1,0 +1,17 @@
+Rachel|Okay. Just give us a second. Ross!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia509_utt0.wav
+Ross|Yeah?|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia509_utt1.wav
+Rachel|Give her some money.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia509_utt2.wav
+Ross|I really think they¬íre out of rooms.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia509_utt3.wav
+Rachel|They¬íre not!! Ross, they¬íre just saving them for the important people!! Okay?! What-what if I was the president?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia509_utt4.wav
+Ross|Well then we¬íd be in a lot of trouble, you don¬ít know where any countries are.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia509_utt5.wav
+Ross|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia509_utt6.wav
+Ross|Uh, say would you umm¬Ö Would you mind checking again to see if any umm, private rooms may have opened up?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia509_utt7.wav
+Nurse|This is a hospital.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia509_utt8.wav
+Rachel|Y¬íknow what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia509_utt9.wav
+Rachel|I¬íd have to say I really don¬ít care for your tone.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia509_utt10.wav
+Rachel|And this is not the only hospital in this city and we have no problem to¬óWhoa!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia509_utt11.wav
+Rachel|Oh gosh!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia509_utt12.wav
+Ross|What-what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia509_utt13.wav
+Rachel|Ow! Ow! Contraction. Ow-ow! Ow-ow!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia509_utt14.wav
+Nurse|Would you like to see a semi-private room?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia509_utt15.wav
+Rachel|Yeah, it couldn¬ít hurt to look.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia509_utt16.wav

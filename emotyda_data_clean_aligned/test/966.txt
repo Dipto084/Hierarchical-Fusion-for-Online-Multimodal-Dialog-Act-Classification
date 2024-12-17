@@ -1,0 +1,8 @@
+Ross|That¬ís right, I love you! And-and I¬ím gonna play with you all the time.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia966_utt0.wav
+Phoebe|How can you let him talk to your crotch like that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia966_utt1.wav
+Rachel|He¬ís talking to the baby.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia966_utt2.wav
+Phoebe|Ohh!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia966_utt3.wav
+Phoebe|Okay!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia966_utt4.wav
+Phoebe|Okay, cause when-when he said, "I can¬ít wait to hear your first words," I thought, "There¬ís a trick."|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia966_utt5.wav
+Rachel|Okay. Well, I gotta go you guys. I¬íll see you later.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia966_utt6.wav
+Phoebe|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia966_utt7.wav

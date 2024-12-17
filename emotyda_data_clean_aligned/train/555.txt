@@ -1,0 +1,5 @@
+Elizabeth|Ross! Wait!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia555_utt0.wav
+Ross|Elizabeth, thank God! I was just thinking about|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia555_utt1.wav
+Elizabeth|You suck!!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia555_utt2.wav
+Ross|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia555_utt3.wav
+Ross|Okay, break-up¬ís still on!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia555_utt4.wav

@@ -1,0 +1,21 @@
+Rachel|Hi!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia792_utt0.wav
+Joey|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia792_utt1.wav
+Rachel|Joey, I gotta tell ya, I've been thinking|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia792_utt2.wav
+Joey|Oh, you know, the writing was good, and the director is good, and... and my co-star's good|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia792_utt3.wav
+Rachel|God, you have to tell me what happens tomorrow!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia792_utt4.wav
+Joey|Ow, I'm just going over the script now! You wanna read lines with me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia792_utt5.wav
+Rachel|Me? Oh, no, I am not an actress.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia792_utt6.wav
+Joey|Oh, all right, I can ask Monica.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia792_utt7.wav
+Rachel|Oh screw her, that part is mine!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia792_utt8.wav
+Joey|Right... ok, so just from the top of the page, right here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia792_utt9.wav
+Rachel|Okay. . Hello Drake, I'm surprised to see you here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia792_utt10.wav
+Joey/Drake|I can't believe you married him.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia792_utt11.wav
+Rachel/actress|But what choice did I have. He was keeping my sister in a|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia792_utt12.wav
+Joey/Drake|So what about us? Everything we feel for each other.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia792_utt13.wav
+Rachel/actress|It's over! You|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia792_utt14.wav
+Joey/Drake|How can I?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia792_utt15.wav
+Joey/Drake|Knowing I'll never hold you in my arms again, or touch your skin, or feel your lips, knowing I'll never make love to you?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia792_utt16.wav
+Joey/Drake|How can I accept that...|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia792_utt17.wav
+Joey/Drake|I can never kiss you again when it's all I can do not to kiss you right now.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia792_utt18.wav
+Rachel|Kiss me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia792_utt19.wav
+Joey|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia792_utt20.wav

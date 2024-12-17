@@ -1,0 +1,12 @@
+Chandler|Dehydrated Japanese noodles under fluorescent lights... does it|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia744_utt0.wav
+Shelley|Question. You're not dating anybody, are you, because I met somebody who would be perfect for you.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia744_utt1.wav
+Chandler|Ah, y'see, perfect might be a problem. Had you said 'co-dependent', or 'self-destructive'...|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia744_utt2.wav
+Shelley|Do you want a date Saturday?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia744_utt3.wav
+Chandler|Yes please.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia744_utt4.wav
+Shelley|Okay. He's cute, he's funny, he's-|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia744_utt5.wav
+Chandler|He's a he?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia744_utt6.wav
+Shelley|Well yeah!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia744_utt7.wav
+Shelley|...Oh God.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia744_utt8.wav
+Shelley|I- just- I thought- Good, Shelley.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia744_utt9.wav
+Shelley|I'm just gonna go flush myself down the toilet now...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia744_utt10.wav
+Shelley|Okay, goodbye...|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia744_utt11.wav

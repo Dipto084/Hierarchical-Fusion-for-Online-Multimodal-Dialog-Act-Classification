@@ -1,0 +1,15 @@
+Rachel|Hi Pheebs!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia512_utt0.wav
+Phoebe|Hi!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia512_utt1.wav
+Rachel|How are ya?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia512_utt2.wav
+Phoebe|Good.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia512_utt3.wav
+Rachel|Umm Pheebs, remember when we were in the coffee house we decided that I was going to keep the uh, the cute guy¬ís cell phone?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia512_utt4.wav
+Phoebe|Yeah.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia512_utt5.wav
+Rachel|And remember how I said I was going to keep it in my purse so that if it rang I could just pick it up?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia512_utt6.wav
+Phoebe|Yeah!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia512_utt7.wav
+Rachel|And do you remember going into my purse and stealing the phone?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia512_utt8.wav
+Phoebe|Ooh, now you lost me.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia512_utt9.wav
+Rachel|You stole the phone!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia512_utt10.wav
+Phoebe|No I didn¬ít!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia512_utt11.wav
+Rachel|No? So you¬íre saying that if I called it, it wouldn¬ít ring?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia512_utt12.wav
+Phoebe|No. Umm, okay. But while you dial, let me show you the features of my new ringing handbag. Oh, it does work!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia512_utt13.wav
+Rachel|Phoebe!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia512_utt14.wav

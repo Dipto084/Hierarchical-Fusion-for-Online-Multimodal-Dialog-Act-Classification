@@ -1,0 +1,10 @@
+Rachel|Oh that¬ís five Ross. Five women have had five babies! And I have had no babies! Why doesn¬ít she want to come out?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia362_utt0.wav
+Ross|Y¬íknow what I think it is?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia362_utt1.wav
+Ross|I think you¬íve made such a nice home for her over the last nine months that she just doesn¬ít want to leave.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia362_utt2.wav
+Rachel|Oh. Look at you making up crap for me. Oh God!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia362_utt3.wav
+Dr. Long|Twenty-one hours, you¬íre a hero.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia362_utt4.wav
+Rachel|Doctor you gotta do something! I think you gotta give me drugs or you gotta light a fire up in there and just smoke it out.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia362_utt5.wav
+Dr. Long|Actually, I think you¬íre ready to go to the delivery room.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia362_utt6.wav
+Rachel|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia362_utt7.wav
+Dr. Long|Ten centimeters, you¬íre about to become a mom.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia362_utt8.wav
+Rachel|My God. Okay. Ha-ha-ha beat ya! Sucker!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia362_utt9.wav

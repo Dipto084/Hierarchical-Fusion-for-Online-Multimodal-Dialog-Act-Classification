@@ -1,0 +1,12 @@
+Monica|You kissed another woman!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia38_utt0.wav
+Chandler|Call it even?!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia38_utt1.wav
+Monica|Okay!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia38_utt2.wav
+Ross|Well, I¬ím gonna go get these in some water.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia38_utt3.wav
+Phoebe|Wait you stole those from these people¬ís wedding?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia38_utt4.wav
+Ross|No-no, I took them from the hotel lobby.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia38_utt5.wav
+Ross|Yeah, they think they can charge me for some dirty movie and a bag of Mashuga nuts, they got another think coming.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia38_utt6.wav
+Ross|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia38_utt7.wav
+Ross|My sweater!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia38_utt8.wav
+Ross|I¬íve been looking for this for like a month!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia38_utt9.wav
+Phoebe|Oh my God!!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia38_utt10.wav
+Joey|Oh my God!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia38_utt11.wav

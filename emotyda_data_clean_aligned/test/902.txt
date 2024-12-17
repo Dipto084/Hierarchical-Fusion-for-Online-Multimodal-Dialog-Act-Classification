@@ -1,0 +1,17 @@
+Rachel|I¬ím telling you it¬ís like watching Bambi learn how to walk.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia902_utt0.wav
+Ross|You¬íre drunk! Mom and dad are gonna be maaaaadd! Maybe I¬ím a little drunk.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia902_utt1.wav
+Joey|Hey! Are those crab cakes? Did I not tell ya to come straight to me when more crab cakes were ready?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia902_utt2.wav
+Chandler|How are you feeling?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia902_utt3.wav
+Monica|You are|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia902_utt4.wav
+Ross|I really wish that you wouldn¬ít.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia902_utt5.wav
+Chandler|Now all you have to do is just get through a little bit more, okay?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia902_utt6.wav
+Chandler|Then we can put you in bed, okay?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia902_utt7.wav
+Chandler|Just smile and don¬ít talk to|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia902_utt8.wav
+Phoebe|Speech! Speech! Let¬ís hear from the birthday girl! Huh?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia902_utt9.wav
+Chandler|Pheebs!!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia902_utt10.wav
+Phoebe|Don¬ít you see? Everyone¬ís looking at me! The plan¬ís working! I didn¬ít even have to take off my top yet!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia902_utt11.wav
+Mrs. Geller|Speech! Come on Monica!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia902_utt12.wav
+Ross|Come on!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia902_utt13.wav
+All|Come on! Speech!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia902_utt14.wav
+Mr. Geller|Hey Chandler, you can¬ít keep your hands off her for one second!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia902_utt15.wav
+Mrs. Geller|Oh-ho, I think it¬ís nice.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia902_utt16.wav

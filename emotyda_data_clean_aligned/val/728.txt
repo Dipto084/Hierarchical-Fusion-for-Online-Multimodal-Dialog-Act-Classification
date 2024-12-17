@@ -1,0 +1,12 @@
+Chandler|I just walked in the bathroom and saw Kathy naked! It was like torture!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia728_utt0.wav
+Ross|Y'know if we ever go to war and you¬íre captured, you¬íre in for a|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia728_utt1.wav
+Chandler|It just keeps getting worse and worse!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia728_utt2.wav
+Chandler|I mean it¬ís bad enough that I¬ím in love with my roommates girlfriend¬ówhich by the way, I think she knows.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia728_utt3.wav
+Chandler|Because every time we¬íre in the room together there¬ís this weird like energy between us.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia728_utt4.wav
+Chandler|And call me crazy, but I think she likes me too.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia728_utt5.wav
+Chandler|And now I have seen her naked.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia728_utt6.wav
+Chandler|I mean at least when I¬íve seen her with clothes on, I could imagine her body was like covered in boles or something.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia728_utt7.wav
+Chandler|But there are no boles, she¬ís smooth!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia728_utt8.wav
+Chandler|Smooth!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia728_utt9.wav
+Phoebe|Wow! Could everyone totally see up his robe?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia728_utt10.wav
+All|Yeah! Oh my God!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia728_utt11.wav

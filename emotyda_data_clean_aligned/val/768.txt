@@ -1,0 +1,9 @@
+Chandler|Why are you here?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia768_utt0.wav
+Janice|Well, Sid and I are trying again and we had trouble last time because apparently we...|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia768_utt1.wav
+Chandler|No no no... I mean,|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia768_utt2.wav
+Janice|Oh! Someone's a little cranky today cuz they have to do it in a cup! Oh! They gave you the kiddy size .|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia768_utt3.wav
+Chandler|What!?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia768_utt4.wav
+Monica|This was fun! But I've got an invasive vaginal exam to get to!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia768_utt5.wav
+Chandler|I'd love to stay, but I have eh... got a hot date...|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia768_utt6.wav
+Janice|Please... go! Just let me know if you need a hand!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia768_utt7.wav
+Chandler|I think it just fell off.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia768_utt8.wav

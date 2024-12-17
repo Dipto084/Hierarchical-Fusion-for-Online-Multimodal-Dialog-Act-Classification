@@ -1,0 +1,2 @@
+Phoebe|Would she?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia944_utt0.wav
+Joey|Would she? You ate my candy bar!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia944_utt1.wav

@@ -1,0 +1,8 @@
+Rachel|Chandler!! You have the best taste in men!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia558_utt0.wav
+Chandler|Well, like father, like son.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia558_utt1.wav
+Rachel|Patrick and I had such a great time last night! I mean I think this could maybe turn into something serious.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia558_utt2.wav
+Chandler|Really?! I-I thought you weren¬ít looking for something serious? I thought you were looking for some kind of a fling.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia558_utt3.wav
+Rachel|Well, y'know, possibly. You didn¬ít tell him that, though? Right?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia558_utt4.wav
+Chandler|Ummmmmmmm, no.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia558_utt5.wav
+Rachel|You told this guy that I was looking for a fling?! You don¬ít tell the guy that!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia558_utt6.wav
+Rachel|Oh, between you telling him that I wanted to have a fling and me putting out on the first date¬óoh, he¬ís so gonna get the wrong idea.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia558_utt8.wav

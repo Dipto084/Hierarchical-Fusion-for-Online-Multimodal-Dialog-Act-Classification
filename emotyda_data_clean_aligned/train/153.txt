@@ -1,0 +1,13 @@
+Ross|No real-, honey, really it¬ís fine, just g-go with Susan.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia153_utt0.wav
+Ross|Really, I, no, I think girls night out is a great idea.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia153_utt1.wav
+Ross|Okay, okay, bye|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia153_utt2.wav
+Phoebe|So what are they doing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia153_utt3.wav
+Ross|I don¬ít know, something girlie.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia153_utt4.wav
+Phoebe|Hey, you¬íre early.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia153_utt5.wav
+Monica|What are you doing with the lamp?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia153_utt6.wav
+Phoebe|I¬ím just taking it to be re-wired.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia153_utt7.wav
+Monica|Oh, well don¬ít take it to the same place you took the stereo, ¬ëcause they¬íve had that thing for over a week.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia153_utt8.wav
+Phoebe|No, no, Mr. Heckles no one is making any noise up here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia153_utt9.wav
+Mr. Heckles|You¬íre disturbing my oboe practice.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia153_utt10.wav
+Phoebe|You don¬ít play the oboe!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia153_utt11.wav
+Mr. Heckles|I could play the oboe!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia153_utt12.wav

@@ -1,0 +1,23 @@
+Joey|Hi! I¬ím Dr. Drake Remoray and I have a few routine questions I need to ask you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia418_utt0.wav
+Man|Really? I¬íve been dealing with Dr. Wells.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia418_utt1.wav
+Joey|I know, but I¬ím a neurologist.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia418_utt2.wav
+Joey|And just to be on the safe side, Dr. Wells wanted a more comprehensive overview of you status so he sent me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia418_utt3.wav
+Man|Dr. Wells is a woman.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia418_utt4.wav
+Joey|That was a test. Good response. All right, full name.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia418_utt5.wav
+Man|Clifford Burnett.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia418_utt6.wav
+Joey|Date of birth?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia418_utt7.wav
+Cliff|Nov-16|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia418_utt8.wav
+Joey|Age?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia418_utt9.wav
+Cliff|Can¬ít you figure that out based on my date of birth?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia418_utt10.wav
+Joey|I¬ím a doctor Cliff, not a mathematician.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia418_utt11.wav
+Cliff|I¬ím 33.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia418_utt12.wav
+Joey|Okay. And uh, are you married.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia418_utt13.wav
+Cliff|No.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia418_utt14.wav
+Joey|Oh really? So, 33 and still single, would you say you have commitment issues?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia418_utt15.wav
+Cliff|Are all the questions this personal?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia418_utt16.wav
+Joey|Yes.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia418_utt17.wav
+Cliff|Well uh if you must know I¬ím a widower.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia418_utt18.wav
+Joey|Oh that¬ís terrible. I¬ím-I¬ím really sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia418_utt19.wav
+Cliff|Yeah.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia418_utt20.wav
+Joey|Hmm. Do you sleep with women and never call them again?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia418_utt21.wav
+Cliff|No.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia418_utt22.wav

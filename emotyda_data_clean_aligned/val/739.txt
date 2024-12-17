@@ -1,0 +1,15 @@
+Joey's Hand Twin|Nothing?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia739_utt0.wav
+Joey|Look, you and I have been given a gift.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia739_utt1.wav
+Joey|We have to do something with it.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia739_utt2.wav
+Joey|Like-like, hand modeling!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia739_utt3.wav
+Joey|Or-or magic!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia739_utt4.wav
+Joey's Hand Twin|I have to get back to|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia739_utt5.wav
+Joey|Whoa!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia739_utt6.wav
+Joey|Whoa!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia739_utt7.wav
+Joey|We could have our own show!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia739_utt10.wav
+Joey|Y'know we could clap our hands together people will love it!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia739_utt11.wav
+Joey|Huh?|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia739_utt12.wav
+Joey|And-and-and I wrote a song for us!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia739_utt13.wav
+Joey|(Singing, to the tune of|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia739_utt14.wav
+Joey's Hand Twin|That's okay.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia739_utt15.wav
+Joey|But you haven't even heard the chorus!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia739_utt16.wav

@@ -1,0 +1,22 @@
+Rachel|Do you remember where the duck food is?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia936_utt0.wav
+Phoebe|Yeah, it¬ís in the guys¬í apartment under the sink. Why?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia936_utt1.wav
+Rachel|Because I¬ím going to London.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia936_utt2.wav
+Phoebe|What?! What do you mean you¬íre going to London?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia936_utt3.wav
+Rachel|Yeah, I have to tell Ross that I love him.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia936_utt4.wav
+Rachel|Now honey, you take care, you don¬ít have those babies until I get back.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia936_utt5.wav
+Phoebe|I¬óRachel, you can¬ít go! Ross loves Emily!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia936_utt6.wav
+Rachel|Yeah, I know, I know, I know he does.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia936_utt7.wav
+Rachel|But I have to tell him how I feel!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia936_utt8.wav
+Rachel|He deserves to have all the information and then he can make an informed decision.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia936_utt9.wav
+Phoebe|That¬ís not why you¬íre going!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia936_utt10.wav
+Phoebe|You¬íre going because you hope he¬ís gonna say, "Yeah, I love you too, Rach.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia936_utt11.wav
+Phoebe|Forget that British chippy."|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia936_utt12.wav
+Rachel|Ohh¬óDo you think he will?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia936_utt13.wav
+Phoebe|No!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia936_utt14.wav
+Phoebe|Because he¬ís in love with the British chippy!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia936_utt15.wav
+Phoebe|Look, Rachel, if you go, you¬íre just gonna mess with his head and ruin his wedding!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia936_utt16.wav
+Phoebe|Y¬íknow, it¬ís too late!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia936_utt17.wav
+Phoebe|You missed you¬íre chance!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia936_utt18.wav
+Phoebe|I¬ím sorry, I know this must be really hard, it¬ís over.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia936_utt19.wav
+Rachel|Y¬íknow what? No. It¬ís not over until someone says, "I do."|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia936_utt20.wav
+Phoebe|I do! I do! I do! I do! Ugh, like I can really chase you. I¬ím carrying a litter.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia936_utt21.wav

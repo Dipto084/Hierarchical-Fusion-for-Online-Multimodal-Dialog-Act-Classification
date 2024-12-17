@@ -1,0 +1,18 @@
+Joey|Wow thanks!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia111_utt0.wav
+Chandler|Joe?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia111_utt1.wav
+Joey|Yeah!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia111_utt2.wav
+Chandler|Uh, you¬íve had a lot of sex right?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia111_utt3.wav
+Joey|When? Today? Some, not a lot.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia111_utt4.wav
+Chandler|Well, it¬ís just the reason that I¬ím asking is because I kind of eh, uh, I was unable to¬óI mean I really wanted to, but I couldn¬ít¬Ö.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia111_utt5.wav
+Chandler|There huh¬óhmm, there-there was an incident.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia111_utt6.wav
+Joey|Don¬ít worry about that man, that happens.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia111_utt7.wav
+Chandler|It¬ís happened to you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia111_utt8.wav
+Joey|Yeah! Once.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia111_utt9.wav
+Chandler|Well, what¬íd you do?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia111_utt10.wav
+Joey|I did it anyway.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia111_utt11.wav
+Joey|¬ëSup? ¬ëSup dude?|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia111_utt12.wav
+Chandler|Take whatever you want, just please don¬ít hurt me.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia111_utt13.wav
+Joey|So you¬íre playing a little|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia111_utt14.wav
+Chandler|Yes, on a scale from 1 to 10, 10 being the dumbest a person can look, you are definitely 19.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia111_utt15.wav
+Joey|Come on man, really how old?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia111_utt16.wav
+Chandler|Young! You¬íre a man-child okay?! Now go get changed because everybody¬ís ready and please, oh please, keep my underwear!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia111_utt17.wav

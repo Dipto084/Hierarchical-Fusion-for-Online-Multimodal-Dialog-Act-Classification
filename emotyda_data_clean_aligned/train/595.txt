@@ -1,0 +1,7 @@
+Monica|That kid really kicked me hard on the plane.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia595_utt0.wav
+Chandler|Well you did pull his hair.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia595_utt1.wav
+Monica|He took my snack!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia595_utt2.wav
+Chandler|I¬ím not getting into this again!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia595_utt3.wav
+Monica|Okay! Oh God, y¬íknow what? It¬ís really bad.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia595_utt4.wav
+Chandler|Well, I told you not to walk. Here. There. Okay.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia595_utt5.wav
+Monica|This doesn¬ít mean anything, does it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia595_utt6.wav

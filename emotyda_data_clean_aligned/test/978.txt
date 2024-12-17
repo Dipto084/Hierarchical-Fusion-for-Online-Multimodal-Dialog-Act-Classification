@@ -1,0 +1,11 @@
+Chandler|I can¬ít believe you came back.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia978_utt0.wav
+Rachel|Don¬ít say anything.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia978_utt1.wav
+Rachel|I don¬ít wanna speak, I don¬ít wanna think.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia978_utt2.wav
+Rachel|I just want you to take me and kiss me and make love to me right here, right now.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia978_utt3.wav
+Friend No. 2|Rachel! Rachel!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia978_utt4.wav
+Rachel|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia978_utt5.wav
+Friend No. 2|You missed the exit!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia978_utt6.wav
+Rachel|Oh, sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia978_utt7.wav
+Friend No. 1|My God, what were you thinking about?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia978_utt8.wav
+Rachel|Um, Barry.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia978_utt9.wav
+Her-Friends|Awwwww|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia978_utt10.wav

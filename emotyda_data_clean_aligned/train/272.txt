@@ -1,0 +1,9 @@
+Phoebe|How could you pick up a hitchhiker?! He could be a rape¬ó, a rapist or a killer or something!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia272_utt0.wav
+Joey|Don¬ít you think I asked him that before he got in?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia272_utt1.wav
+Phoebe|Y¬íknow what? I¬ím not talking to you! You go back to sleep! And you, are you a rapist?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia272_utt2.wav
+Hitchhiker|No!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia272_utt3.wav
+Phoebe|Do you like car games?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia272_utt4.wav
+Hitchhiker|Yeah, y¬íknow the license plate game?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia272_utt5.wav
+Phoebe|I|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia272_utt6.wav
+Joey|Ooh, I¬íll play! I¬íll play!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia272_utt7.wav
+Phoebe|No-No! You need your sleep. Night-night! Shh!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia272_utt8.wav

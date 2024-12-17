@@ -1,0 +1,8 @@
+Phoebe Sr.|I¬ím your mother.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia324_utt0.wav
+Phoebe|Ehh?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia324_utt1.wav
+Joey|Oh, and then Monica joked that she wouldn¬ít go out with a guy like Chandler...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia324_utt2.wav
+Chandler|Hi there.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia324_utt3.wav
+Joey|...and he couldn¬ít let it go, and... I don¬ít really know what happened with that either.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia324_utt4.wav
+Joey|And then Ross¬ís new girlfriend, Bonnie, shows up and Rachel convinced her to save her head.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia324_utt5.wav
+Joey|And then Ross and Rachel kiss, and now Ross has to choose between Rachel and the bald girl and I don¬ít know what happened there either...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia324_utt6.wav
+Joey|Y'know what, hold on, let me go get Chandler.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia324_utt7.wav

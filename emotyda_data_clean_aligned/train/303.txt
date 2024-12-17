@@ -1,0 +1,2 @@
+Phoebe|I don¬ít have time for this.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia303_utt0.wav
+Monica|No, that is what the game is.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia303_utt1.wav

@@ -1,0 +1,19 @@
+Monica|Phoebe! Rachel! It¬ís Monica! I wonder what you could possibly need me for on such short notice! Oh.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia474_utt0.wav
+Rachel|Oh Monica, we are so sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia474_utt1.wav
+Monica|For what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia474_utt2.wav
+Rachel|Well first, for forgetting to throw you a bridal shower.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia474_utt3.wav
+Phoebe|And then for forgetting to invite you to it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia474_utt4.wav
+Monica|You al-you already had it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia474_utt5.wav
+Phoebe|Well, we called everyone in your phone book and a bunch of people came, but it took us so long to get you here that they-they had to leave.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia474_utt6.wav
+Rachel|Yeah, we wanted to throw you a big surprise and a great shower, and now you don¬ít have either.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia474_utt7.wav
+Phoebe|We ruined everything.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia474_utt8.wav
+Rachel|Ugh|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia474_utt9.wav
+Monica|Well no, wait a minute, that¬ís not true!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia474_utt10.wav
+Monica|No, what did, that was really sweet.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia474_utt11.wav
+Monica|And it kinda works out for the best.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia474_utt12.wav
+Rachel|What do you, what do you mean?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia474_utt13.wav
+Monica|Well now, I get to spend my shower with the only people I really love!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia474_utt14.wav
+Monica|I mean, I get all those presents without having to talk to people I don¬ít even like!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia474_utt15.wav
+Rachel|Surprise|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia474_utt16.wav
+Joey|Surprise|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia474_utt17.wav
+Rachel|Monica.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia474_utt18.wav

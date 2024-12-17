@@ -1,0 +1,19 @@
+Chandler|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia99_utt0.wav
+Monica|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia99_utt1.wav
+Chandler|Y¬íknow I¬ím-I¬ím really glad we decided not to sleep together before the wedding.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia99_utt2.wav
+Monica|Oh boy, me too!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia99_utt3.wav
+Chandler|Y¬íknow I was thinking if we had a¬Öa big fight and uh we broke up for a few hours|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia99_utt4.wav
+Monica|Yeah?|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia99_utt5.wav
+Chandler|Technically we could have sex again. What do you think, bossy and domineering?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia99_utt6.wav
+Monica|The wedding is off, sloppy and immature!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia99_utt7.wav
+Chandler|That¬ís me! Come on!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia99_utt8.wav
+Monica|Okay. But wait, we can¬ít. My Cousin Cassie is in the guest room, we¬íre supposed to have lunch.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia99_utt9.wav
+Chandler|Well, get rid of her, obsessive and shrill.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia99_utt10.wav
+Monica|Shrill?! The wedding is back on!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia99_utt11.wav
+Cassie|I thought I heard voices. You must be Chandler.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia99_utt12.wav
+Chandler|Hi! Nice to meet you!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia99_utt13.wav
+Cassie|Nice to meet you too.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia99_utt14.wav
+Monica|So, are you ready to go?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia99_utt15.wav
+Cassie|Yeah.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia99_utt16.wav
+Monica|Chandler!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia99_utt17.wav
+Chandler|I¬íll be right with you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia99_utt18.wav

@@ -1,0 +1,13 @@
+The Singing Man|Morning¬ís here! Sunshine is here! The sky is clear, the morning¬ís here! The morning¬ís here!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia126_utt0.wav
+Rachel|HEY!! Do you|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia126_utt1.wav
+The Singing Man|Oh come on! Morning¬ís here! Morning¬ís here! The morning is here! Sunshine is here!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia126_utt2.wav
+Rachel|I|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia126_utt3.wav
+Joey|Are you kidding? I love that guy! Morning¬ís here! Morning is here¬ó|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia126_utt4.wav
+Rachel|Stop it! I will kill you. I hate the fact that my room is so small.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia126_utt5.wav
+Monica|Hey, I have all the space I need. Just do what I did.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia126_utt6.wav
+Rachel|Monica, you don¬ít even have a bed, you sleep in a ball on the floor!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia126_utt7.wav
+Monica|Y¬íknow what? I am|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia126_utt8.wav
+Rachel|I¬ím sorry. I¬ím so sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia126_utt9.wav
+Monica|Okay.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia126_utt10.wav
+Joey|See, this is a|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia126_utt11.wav
+Monica|Shut up! This place is a hole!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia126_utt12.wav

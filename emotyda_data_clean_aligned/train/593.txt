@@ -1,0 +1,11 @@
+Ross|Hey, don¬ít we have to...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia593_utt0.wav
+Chandler|Yeah, we got, um-hmm.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia593_utt1.wav
+Phoebe|Umm, I think you¬íre really, really great...|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia593_utt2.wav
+Robert|Oh God!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia593_utt3.wav
+Robert|Here we go again.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia593_utt4.wav
+Robert|Why does this keep happening to me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia593_utt5.wav
+Robert|Is it something I¬ím putting out there?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia593_utt6.wav
+Robert|Is this my fault?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia593_utt7.wav
+Robert|Or am I just nuts?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia593_utt8.wav
+Phoebe|I-I-I-I-I don¬ít know, I don¬ít know what to say.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia593_utt9.wav
+Gunther|Hey buddy, this is a family place, put the mouse back in the house.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia593_utt10.wav

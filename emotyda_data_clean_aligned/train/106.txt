@@ -1,0 +1,6 @@
+Ross|Um uh¬ÖWe¬íre-we¬íre just having this baby together but uh, uh that¬ís all.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia106_utt0.wav
+Janice|Why?!!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia106_utt1.wav
+Ross|Uh well umm¬Öwe¬íre just not in that place, y¬íknow? But we¬íre very excited about this.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia106_utt2.wav
+Janice|Oh. Well then shut me up.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia106_utt3.wav
+Rachel|Just tell me how.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia106_utt4.wav
+Janice|Uh-oh, I feel another one coming.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia106_utt5.wav

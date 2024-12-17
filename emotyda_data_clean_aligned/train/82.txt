@@ -1,0 +1,11 @@
+Monica|Chandler, we still haven¬ít gotten an RSVP from your dad.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia82_utt0.wav
+Chandler|Oh! Right. Umm, maybe that¬ís because I didn¬ít send him an invitation.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia82_utt1.wav
+Monica|Chandler! He¬ís your father. he should be at the wedding.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia82_utt2.wav
+Chandler|I don¬ít even know the man. Okay? We¬íre not that close. I haven¬ít seen him in years.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia82_utt3.wav
+Monica|Well what are you gonna do when he finds out he wasn¬ít even asked?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia82_utt4.wav
+Chandler|It¬ís not like we run in the same circles.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia82_utt5.wav
+Chandler|I hang out with you guys, and he stars in a drag show in Vegas.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia82_utt6.wav
+Phoebe|Ooh, I think I wanna trade circles.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia82_utt7.wav
+Chandler|Nobody is gonna be staring at the bride when the father of the groom is wearing a back-less dress.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia82_utt9.wav
+Monica|So what! As long as he¬ís not wearing a white dress and a veil I don¬ít care.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia82_utt10.wav
+Phoebe|Okay, I think I need to do some shopping.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia82_utt11.wav

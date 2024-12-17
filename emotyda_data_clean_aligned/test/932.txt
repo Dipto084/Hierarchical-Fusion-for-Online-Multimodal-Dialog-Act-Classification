@@ -1,0 +1,17 @@
+Phoebe|Good for you! And hey, I thought your paper on punctuated equilibrium in the Devonian era was top notch!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia932_utt0.wav
+Ross|Stop going through my stuff !|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia932_utt1.wav
+Rachel|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia932_utt2.wav
+Monica|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia932_utt3.wav
+Rachel|I just wanted to let you know I've changed my mind: I'm gonna do it, I'm gonna kiss Joey.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia932_utt4.wav
+Monica|No, you can't! Friends hooking up is a bad idea.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia932_utt5.wav
+Rachel|Please, what about you and Chandler?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia932_utt6.wav
+Monica|That's different! I was drunk and stupid!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia932_utt7.wav
+Rachel|Well hello !|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia932_utt8.wav
+Monica|What about all the guys that you've got the phone numbers from? Why don't you just kiss one of them?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia932_utt9.wav
+Rachel|I could, I could but I don't want to! I want to kiss Joey!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia932_utt10.wav
+Monica|Alright . I think it's a big mistake but it's your decision.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia932_utt11.wav
+Rachel|I'm gonna do it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia932_utt12.wav
+Monica|And I can't stop you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia932_utt13.wav
+Rachel|No.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia932_utt14.wav
+Ross|Hey Rach, have you seen Charlie anywhere?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia932_utt15.wav
+Ross|I'm smarter than|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia932_utt16.wav

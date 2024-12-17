@@ -1,0 +1,8 @@
+Phoebe|Get out of here you lurker! Go on! Get!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia527_utt0.wav
+Chandler|Hey Pheebs!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia527_utt1.wav
+Phoebe|Ohh! You made up!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia527_utt2.wav
+Monica|Yeah, I couldn't be mad at him for too long.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia527_utt3.wav
+Chandler|Yeah, she couldn't live without the Chan Love.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia527_utt4.wav
+Phoebe|Ohh, get a room.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia527_utt5.wav
+Monica|We have one.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia527_utt6.wav
+Phoebe|I know. Use it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia527_utt7.wav

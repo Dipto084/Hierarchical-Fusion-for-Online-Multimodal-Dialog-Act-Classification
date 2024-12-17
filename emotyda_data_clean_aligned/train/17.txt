@@ -1,0 +1,11 @@
+Joey|Okay, see that blind guy right there? I'm gonna bash his head in later.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia17_utt0.wav
+Joey|Oh umm, my big scene is coming up. Big scene coming up.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia17_utt1.wav
+Chandler|If you said, "Big lima bean, bubbling up." Would she understand the difference?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia17_utt2.wav
+Monica|Rach? What are you doing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia17_utt3.wav
+Rachel|Oh boy, I just can't watch. It's too scary!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia17_utt4.wav
+Monica|It's a diaper commercial.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia17_utt5.wav
+Rachel|Oh yeah well, you know me, babies, responsibilities, ahhh!!!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia17_utt6.wav
+Caitlin|Pizza delivery!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia17_utt7.wav
+Ross|I'll get it! I will get that!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia17_utt8.wav
+Caitlin|Hi!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia17_utt9.wav
+Ross|Hi!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia17_utt10.wav

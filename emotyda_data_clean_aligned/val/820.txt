@@ -1,0 +1,22 @@
+Phoebe|Oh hey! How was your audition?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia820_utt0.wav
+Joey|I¬ím sorry, do I know you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia820_utt1.wav
+Phoebe|What are you doing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia820_utt2.wav
+Joey|Nothing, I¬ím just practicing blowing you off because I¬ím gonna be a big movie star!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia820_utt3.wav
+Phoebe|Oh! You got it?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia820_utt4.wav
+Joey|Well no, not yet. But the audition went really good.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia820_utt5.wav
+Monica|What was it for?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia820_utt6.wav
+Joey|Oh, it¬ís this big budget period movie about these three Italian brothers who come to America around the turn of the century.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia820_utt7.wav
+Joey|It¬ís really classy!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia820_utt8.wav
+Joey|Oh, and the director is supposed to be the next next Martin Scorcese.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia820_utt9.wav
+Phoebe|The next next?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia820_utt10.wav
+Joey|Yeah, there¬ís this guy from Chicago who¬ís supposed to be the next Martin Scorcese, all right?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia820_utt11.wav
+Joey|But then this guy¬ís right after him.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia820_utt12.wav
+Joey|Hello!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia820_utt13.wav
+Joey|They loved me!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia820_utt14.wav
+Joey|Oh my God!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia820_utt15.wav
+Joey|Are you kidding me? I never rent a movie without it! Oh. Uh, okay uh let me call you back.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia820_utt16.wav
+Phoebe|What¬ís the matter?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia820_utt17.wav
+Joey|They want me to be totally naked in the movie!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia820_utt18.wav
+Monica|Wow!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia820_utt19.wav
+Joey|I know! My grandmother¬ís gonna see this!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia820_utt20.wav
+Phoebe|Grandma¬ís gonna have to get in line.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia820_utt21.wav

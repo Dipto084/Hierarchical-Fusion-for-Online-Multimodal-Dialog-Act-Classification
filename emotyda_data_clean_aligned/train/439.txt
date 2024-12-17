@@ -1,0 +1,7 @@
+Frank|Well, I don¬ít think this, y'know.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia439_utt0.wav
+Phoebe|No, no, no, I wouldn¬ít do you myself, I mean that would be weird.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia439_utt1.wav
+Phoebe|Yeah, no, I¬íll get one of the other girls to do it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia439_utt2.wav
+Phoebe|Oh, this will be so much fun!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia439_utt3.wav
+Phoebe|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia439_utt4.wav
+Phoebe|Are you excited?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia439_utt5.wav
+Frank|Yeah! Hey, do Monica and Rachel work there?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia439_utt6.wav

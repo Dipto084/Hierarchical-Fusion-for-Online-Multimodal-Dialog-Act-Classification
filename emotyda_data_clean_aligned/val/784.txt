@@ -1,0 +1,2 @@
+Ross|Then we have to await the data from recent MRI scans and DNA testing which call into question information gathered from years of simple carbon dating.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia784_utt0.wav
+Rachel|Look at that woman sitting by the pool getting tan... so leathery and wrinkled, I'm so|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia784_utt1.wav

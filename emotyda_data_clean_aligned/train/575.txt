@@ -1,0 +1,4 @@
+Julie|And my second grade teacher was Ms. Thomas, and my first grade teacher was Mrs. Cobb.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia575_utt0.wav
+Rachel|Mrs., Mrs. Gobb?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia575_utt1.wav
+Julie|No Cobb, as in cobb salad.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia575_utt2.wav
+Rachel|Now, what exactly is in a cobb salad?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia575_utt3.wav

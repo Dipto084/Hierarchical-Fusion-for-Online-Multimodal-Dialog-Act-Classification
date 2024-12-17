@@ -1,0 +1,3 @@
+Joey|Ma! What're you doing here?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia998_utt0.wav
+Mrs. Tribbiani|I came to give you this and this.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia998_utt1.wav
+Joey|Oww! Big ring!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia998_utt2.wav

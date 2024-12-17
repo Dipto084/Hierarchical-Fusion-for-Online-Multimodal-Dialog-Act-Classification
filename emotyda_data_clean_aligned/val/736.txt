@@ -1,0 +1,14 @@
+Ross|Emily!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia736_utt0.wav
+Emily|Oh my God! What are you doing here?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia736_utt1.wav
+Ross|I just, I had to see you one more time before you took-off.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia736_utt2.wav
+Emily|You are so sweet.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia736_utt3.wav
+Ross|That¬ís, that¬ís, that¬ís a big candy bar. (She¬ís holding one of those huge|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia736_utt4.wav
+Emily|Me too.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia736_utt5.wav
+Emily|Well, that¬í me. Here, have this. I¬ím only allowed one piece of carryon anyway.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia736_utt6.wav
+Ross|Wait uh, listen.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia736_utt7.wav
+Ross|I-I, I have to tell you something.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia736_utt8.wav
+Ross|Umm, I¬íve been thinking, I¬ím just gonna come out and say it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia736_utt9.wav
+Ross|Okay?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia736_utt10.wav
+Ross|I-I-I ah, I-I think I love you.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia736_utt11.wav
+Emily|Oh. Thank you.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia736_utt12.wav
+Ross|That¬ís no problem.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia736_utt13.wav

@@ -1,0 +1,14 @@
+Mr. Geller|Well, she¬íll understand right? It¬ís not like I did it on purpose.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia740_utt0.wav
+Ross|Dad, that won¬ít matter to her.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia740_utt1.wav
+Ross|Look, all my stuff is safe and dry and all hers is-is, is growing new stuff!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia740_utt2.wav
+Ross|See, this is exactly the kind of thing that makes her think you guys love me more than you love her.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia740_utt3.wav
+Mr. Geller|Oh my God, does she really thinks that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia740_utt4.wav
+Ross|Well, can you blame her?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia740_utt5.wav
+Mr. Geller|Well I don¬ít know, I-I suppose we may have favored you unconsciously, you were a medical marvel! The doctor said your mother could|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia740_utt6.wav
+Ross|Dad, dad I don¬ít want to hear about it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia740_utt7.wav
+Mr. Geller|Really?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia740_utt8.wav
+Ross|Well, not right now.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia740_utt9.wav
+Ross|Okay look, Monica came here for some memories and damnit, we¬íre gonna give her some!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia740_utt10.wav
+Ross|Okay, grab¬Ögrab some empty boxes.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia740_utt11.wav
+Ross|Okay?|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia740_utt12.wav
+Ross|We¬íll-we¬íll take stuff from mine and whatever we can pass off as hers we¬íll-we¬íll put ¬ëem in there.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia740_utt13.wav

@@ -1,0 +1,14 @@
+Ursula|No I¬ím not.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia839_utt0.wav
+Phoebe|You¬íre making one right now!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia839_utt1.wav
+Phoebe|And-|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia839_utt2.wav
+Ursula|Yeah, can I help you with something?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia839_utt3.wav
+Phoebe|Look, I¬ím talking right now! You¬íre¬óyou mean her.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia839_utt4.wav
+Ursula|Y¬íknow, twin stuff is always a real big seller.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia839_utt5.wav
+Phoebe|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia839_utt6.wav
+Ursula|Yeah, I can talk them into giving you like, 30 dollars.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia839_utt7.wav
+Phoebe|No!!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia839_utt8.wav
+Phoebe|And stop using my name!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia839_utt11.wav
+Phoebe|And shame on you!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia839_utt12.wav
+Phoebe|And shame on all of you!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia839_utt13.wav
+Phoebe|You¬íre disgusting!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia839_utt14.wav
+Phoebe|Especially you with that!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia839_utt15.wav

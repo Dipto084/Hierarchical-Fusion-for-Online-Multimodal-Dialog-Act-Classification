@@ -1,0 +1,17 @@
+Joey|I know it doesn't make much sense|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia722_utt0.wav
+Chandler|Much|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia722_utt1.wav
+Joey|Look Chandler, it was instinct! Okay? I just went for it!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia722_utt2.wav
+Chandler|So you risked your life, for a sandwich!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia722_utt3.wav
+Joey|I know it sounds crazy, but Chandler this is the greatest sandwich in the world!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia722_utt4.wav
+Chandler|So you didn't uh, choose Ross before me.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia722_utt5.wav
+Joey|No! I would never do that! You-you're like my brother!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia722_utt6.wav
+Chandler|Really?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia722_utt7.wav
+Joey|Yeah! In fact, to prove how much you mean to me, here.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia722_utt8.wav
+Chandler|Thanks.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia722_utt9.wav
+Joey|No, eh, oh-oi, easy, it's not a hot dog!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia722_utt10.wav
+Joey|How good is that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia722_utt11.wav
+Chandler|Oh-oi-ho, yeah!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia722_utt12.wav
+Joey|See?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia722_utt13.wav
+Joey|Oh-whoa-hey, dude, what are you doing?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia722_utt14.wav
+Chandler|I thought you were showing me how much you mean to me.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia722_utt15.wav
+Joey|Yeah. With a bite! Gee-e-e-eez!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia722_utt16.wav

@@ -1,0 +1,16 @@
+Monica|Hi! Umm, I¬ím Monica Geller, I¬ím the chef at Alessandro¬ís.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia947_utt0.wav
+The Food Critic|Still?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia947_utt1.wav
+Monica|I think the things that you said about me are really unfair, and I would like for you to give my bouillabaisse another chance.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia947_utt2.wav
+The Food Critic|I don¬ít see any reason why I would do that to myself again.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia947_utt3.wav
+Joey|Either eat it, or be in it.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia947_utt4.wav
+Monica|Spoon? So, what do you think?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia947_utt5.wav
+The Food Critic|I¬ím torn, between my integrity and my desire to avoid a beating. But I must be honest, your soap is abysmal.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia947_utt6.wav
+Joey|Thata girl! Huh? We should get out of here.. there¬ís a new class comin¬í in.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia947_utt7.wav
+The Cooking Teacher|Welcome to introduction to cooking. Now, before we start, can anyone tell me the difference between a hollandaise sauce and a bearnaise sauce?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia947_utt8.wav
+Monica|I can.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia947_utt9.wav
+The Cooking Teacher|Okay, go ahead.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia947_utt10.wav
+Monica|Well umm, they both have a egg yolk and butter base, but a bearnaise has shallots, shirvel, and most importantly tarragon.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia947_utt11.wav
+The Cooking Teacher|That¬ís very good, what¬ís your name?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia947_utt12.wav
+Monica|Monica.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia947_utt13.wav
+The Cooking Teacher|Monica, you go to the head of the class.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia947_utt14.wav
+Monica|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia947_utt15.wav

@@ -1,0 +1,7 @@
+Phoebe|Oh, hey, Mon, do you still have your like old blouses and dresses from high school?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia310_utt0.wav
+Monica|Yeah, I think I have some around here somewhere. Why?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia310_utt1.wav
+Phoebe|Well, it¬ís just that maternity clothes are so expensive.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia310_utt2.wav
+Monica|Hey, Rach! I made a pile of your stuff over on this side of the room. If you could just¬Ö¬Öthrow your purses at it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia310_utt3.wav
+Rachel|Bloomingdale¬ís|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia310_utt4.wav
+Monica|Oh my God, are you out of a job?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia310_utt5.wav
+Rachel|No, but they stuck me in personal shopping. Which is just a|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia310_utt6.wav

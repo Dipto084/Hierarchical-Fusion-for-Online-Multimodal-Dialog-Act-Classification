@@ -1,0 +1,1 @@
+Chandler|That¬ís great.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia711_utt0.wav

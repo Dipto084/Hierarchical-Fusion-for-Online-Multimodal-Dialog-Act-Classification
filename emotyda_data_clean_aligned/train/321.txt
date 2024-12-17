@@ -1,0 +1,12 @@
+Phoebe|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia321_utt0.wav
+Eric|Welcome back!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia321_utt1.wav
+Phoebe|Hey! Can we pick up where we left off?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia321_utt2.wav
+Eric|I don¬ít know, I¬ím still pretty tired out from this afternoon.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia321_utt3.wav
+Phoebe|Why?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia321_utt4.wav
+Eric|Uh, the sex.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia321_utt5.wav
+Phoebe|What sex?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia321_utt6.wav
+Eric|Our sex.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia321_utt7.wav
+Phoebe|We didn¬ít have sex.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia321_utt8.wav
+Eric|Well if I didn¬ít have sex with you, I had sex with someone that looked an awful lot like|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia321_utt9.wav
+Phoebe|Ew! Ew! Ew! Ew! Ew! Ew!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia321_utt10.wav
+Eric|Oh no! Oh no! Oh no! Oh no! No! No! No!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia321_utt11.wav

@@ -1,0 +1,4 @@
+Hoshi|You are iron.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia535_utt0.wav
+Hoshi|You are steel!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia535_utt1.wav
+Hoshi|Let me ask you something, how come when I call your computer support line, I have to wait an hour and a half?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia535_utt2.wav
+Pete|I told you, we¬íre adding new operators all the time. Could we concentrate on my training?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia535_utt3.wav

@@ -1,0 +1,13 @@
+Phoebe|Drum roll.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia918_utt0.wav
+Chandler|Okay. Okay. All right. Help! Am I a Mark, or a John?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia918_utt1.wav
+Joey|Nah, you¬íre not tall enough to be a Mark, but you might make a good Barney.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia918_utt2.wav
+Chandler|All right look, am I serious, okay? Tomorrow at 3:30 I am going down to the courthouse.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia918_utt3.wav
+Phoebe|You¬íre actually going through with this?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia918_utt4.wav
+Chandler|Hey, look, this name has been holding me back my entire life.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia918_utt5.wav
+Chandler|Okay, it¬ís probably why kids picked on me in school, and why I never do well with women¬Ö So, as of 4 o¬íclock tomorrow, I¬ím either gonna be Mark Johnson or John Markson.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia918_utt6.wav
+Phoebe|You got problems because of you!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia918_utt7.wav
+Phoebe|Not your name!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia918_utt8.wav
+Phoebe|All right, this has got to stop!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia918_utt9.wav
+Phoebe|Chandler is a great name!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia918_utt10.wav
+Phoebe|In fact¬óyes, I¬ím, I¬ím sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia918_utt11.wav
+Phoebe|I know you really wanted me to name the baby Joey, but eh, so, I¬ím-I¬ím, I¬ím gonna, I¬ím gonna name the baby Chandler.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia918_utt12.wav

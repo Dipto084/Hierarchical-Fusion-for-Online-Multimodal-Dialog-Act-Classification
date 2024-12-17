@@ -1,0 +1,18 @@
+Ross|Where exactly is your zoo?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia252_utt0.wav
+Dr. Baldhara|Well, it's technically not a zoo per se, it's more of an interactive wildlife experience.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia252_utt1.wav
+Dr. Baldhara|Let me ask you some questions about, is it, uh, Marcel?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia252_utt2.wav
+Ross|Yes.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia252_utt3.wav
+Dr. Baldhara|Does he, uh, fight with other animals?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia252_utt4.wav
+Ross|No-no, he's, he's very docile.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia252_utt5.wav
+Dr. Baldhara|Even if he were... cornered?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia252_utt6.wav
+Ross|Well I, I don't know. Why?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia252_utt7.wav
+Dr. Baldhara|Uh, how is he at handling small objects?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia252_utt8.wav
+Ross|He can hold a banana, if that's whatcha mean...|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia252_utt9.wav
+Dr. Baldhara|How about a hammer, or a small blade?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia252_utt10.wav
+Dr. Baldhara|Otherwise it's just cruel.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia252_utt13.wav
+Joey|He- he- he got in, he- he got in to San Diego.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia252_utt14.wav
+Joey|We, we come back from our walk and the- the phone was ringing...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia252_utt15.wav
+Chandler|...He's in.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia252_utt16.wav
+Ross|He's in! Oh, did you hear that, Marcel? San Diego. San Diego!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia252_utt17.wav
+Dr. Baldhara|You're making a big mistake here.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia252_utt18.wav
+Dr. Baldhara|I mean, San Diego's all well and good, but if you give him to me, I'll start him off against a blind rabbit and give you twenty percent of the gains.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia252_utt19.wav

@@ -1,0 +1,9 @@
+Joey|Hello.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia316_utt0.wav
+Chandler|Hey, it¬ís me.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia316_utt1.wav
+Chandler|I know you can¬ít stand to be in the same room as me, so I just thought I¬íd try and apologize over the phone.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia316_utt2.wav
+Joey|Hello.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia316_utt3.wav
+Chandler|Look I never should have kissed your girlfriend, but I¬ím|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia316_utt4.wav
+Joey|Stop callin¬í!!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia316_utt5.wav
+Voice|Hey! Hey! Hey! This is 92.3, WXRK, K-Rock for our $1,000 daily challenge.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia316_utt6.wav
+Joey|All right!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia316_utt7.wav
+Voice|What is the name of your roommate who is very, very sorry and would do anything|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia316_utt8.wav

@@ -1,0 +1,8 @@
+Rachel|Hi. Tag, I have a conference call today is that correct?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia687_utt0.wav
+Tag|Yes, at 4:00.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia687_utt1.wav
+Rachel|Okay, thank you.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia687_utt2.wav
+Rachel|That¬íll be all.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia687_utt3.wav
+Rachel|Wait!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia687_utt4.wav
+Rachel|Wait!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia687_utt5.wav
+Rachel|Did you see that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia687_utt6.wav
+Rachel|That mail guy had no idea there was something going on between us.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia687_utt7.wav

@@ -1,0 +1,12 @@
+Ross|Sorry I ah, I scared you in there.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia476_utt0.wav
+Monica|Oh, that¬ís okay. By the way, I was just checking the shower massager.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia476_utt1.wav
+Ross|Yeah.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia476_utt2.wav
+Phoebe|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia476_utt3.wav
+Monica|I tried to reach you at work. There¬ís....been a fire.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia476_utt4.wav
+Phoebe|What?! Oh my... Oh my God!! What happened?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia476_utt5.wav
+Ross|Well, we believe it originated here. In the Aroma Room.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia476_utt6.wav
+Phoebe|All right. Did everyone get out okay?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia476_utt7.wav
+Monica|Well, the giraffe¬ís okay. And so is the pirate.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia476_utt8.wav
+Phoebe|Ohh. What is this?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia476_utt9.wav
+Ross|No Phoebe, don¬ít look! You don¬ít want to see what¬ís under there!!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia476_utt10.wav
+Phoebe|Ohh, the-the Foster puppets!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia476_utt11.wav

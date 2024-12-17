@@ -1,0 +1,15 @@
+All|Hey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia823_utt0.wav
+Ross|How's the maniac?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia823_utt1.wav
+Phoebe|Oh, well he's yummy. We did a little kissin'.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia823_utt2.wav
+Rachel|Phoebe, what are you doing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia823_utt3.wav
+Phoebe|Oh, no, no, no, no. You know what, he's not into that stuff anymore. He quit for me.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia823_utt4.wav
+Rachel|Pheebs, this guy has been obsessed with your sister, for God knows how long, okay, you don't just give up something like that.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia823_utt5.wav
+Phoebe|Look, he gave me his night vision goggles and everything.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia823_utt6.wav
+Ross|You're taking the word of a guy who has night vision goggles?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia823_utt7.wav
+Phoebe|What, he's not still following her. Do you think he is still following her?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia823_utt8.wav
+Chandler|Pheebs, wake up and smell the restraining order.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia823_utt9.wav
+Phoebe|What are you saying I should do?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia823_utt10.wav
+Monica|I think, that if you really like this guy, you should just trust him.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia823_utt11.wav
+Phoebe|Thank you, Monica.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia823_utt12.wav
+Joey|Orrr, you could follow him and see where he goes.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia823_utt13.wav
+Monica|Oh, that's what I would do, forget mine.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia823_utt14.wav

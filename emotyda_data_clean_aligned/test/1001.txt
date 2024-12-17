@@ -1,0 +1,12 @@
+Rachel|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1001_utt0.wav
+Monica|I'm at work, ordinary day, you know, chop chop chop, sauti, sauti, sauti.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1001_utt1.wav
+Monica|All of a sudden, Leon, the manager, calls me into his office.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1001_utt2.wav
+Monica|It turns out they fired the head lunch chef, and guess who got the job.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1001_utt3.wav
+Joey|If it's not you, this is a horrible story.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1001_utt4.wav
+Monica|Fortunately, it is me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1001_utt5.wav
+Monica|And, they made me head of purchasing, thank you very much.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1001_utt6.wav
+Monica|Anyway, I just ran into Ross and Chandler downstairs, and they think we should go out and celebrate.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1001_utt7.wav
+Monica|Y'know, someplace nice.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1001_utt8.wav
+Joey|Yeah, someplace nice.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1001_utt9.wav
+Rachel|Yeah!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1001_utt10.wav
+Joey|How much do you think I can get for my kidney?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1001_utt11.wav

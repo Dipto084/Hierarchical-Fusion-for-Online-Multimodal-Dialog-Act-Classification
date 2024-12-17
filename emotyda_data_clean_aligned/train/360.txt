@@ -1,0 +1,6 @@
+Monica|You know what? I'm not gonna be able to enjoy this.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia360_utt0.wav
+Ross|Yeah, I know, it's my birthday. We all should be here.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia360_utt1.wav
+Chandler|So, let's go.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia360_utt2.wav
+Ross|Well maybe, you know, maybe we should stay for one song.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia360_utt3.wav
+Chandler|Yeah, I mean, it would be rude to them for us to leave now.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia360_utt4.wav
+Monica|You know, the guys are probably having a great time.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia360_utt5.wav

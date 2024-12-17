@@ -1,0 +1,10 @@
+Rachel|Oh, are you sure you're ok?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia87_utt0.wav
+Ross|Yeah.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia87_utt1.wav
+Rachel|Does it still hurt?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia87_utt2.wav
+Ross|Yeah.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia87_utt3.wav
+Phoebe|What a neat idea. All your clothes match. I'm gonna do this.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia87_utt4.wav
+Monica|Hi.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia87_utt5.wav
+Phoebe|Hey, how'd it go?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia87_utt6.wav
+Joey|Excellent.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia87_utt7.wav
+Monica|We ripped that couple apart, and kept the pieces for ourselves.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia87_utt8.wav
+Ross|What a beautiful story. Hey, I'm fine by the way.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia87_utt9.wav

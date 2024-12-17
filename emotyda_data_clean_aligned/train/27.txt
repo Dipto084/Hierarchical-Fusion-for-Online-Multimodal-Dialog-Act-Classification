@@ -1,0 +1,2 @@
+Monica|Okay, come on, I can't get married until I get something old, something new, something borrowed, and something blue.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia27_utt0.wav
+Chandler|Okay, all right, all right, all right! Okay! Okay, here's something, here's something blue and new.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia27_utt1.wav

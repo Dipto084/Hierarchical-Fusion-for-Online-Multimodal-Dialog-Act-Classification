@@ -1,0 +1,15 @@
+Rachel|Hi.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia365_utt0.wav
+Flight Attendant|May I see your boarding pass?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia365_utt1.wav
+Rachel|Oh, no, no, I don't have one. I just need to talk to my friend.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia365_utt2.wav
+Flight Attendant|Oh, oooh. I'm sorry. You are not allowed on the jetway unless you have a boarding pass.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia365_utt3.wav
+Rachel|No, I know, but I¬óhe just went on.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia365_utt4.wav
+Rachel|He's right there, he's got the blue jacket on, I... can I j-just...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia365_utt5.wav
+Flight Attendant|No no no! Federal regulations!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia365_utt6.wav
+Rachel|OK, alright, OK, um... then could you please, uh... just give him a message for me? Please? This is|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia365_utt7.wav
+Flight Attendant|Alright. What's the message?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia365_utt8.wav
+Rachel|Uh... I don't know.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia365_utt9.wav
+Flight Attendant|Sir? Sir? Excuse me, sir? Uh... I have a message for you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia365_utt10.wav
+Man|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia365_utt11.wav
+Flight Attendant|It's from Rachel. She said that she loved the present, and she will see you when you get back.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia365_utt12.wav
+Man|: Toby... Oh, for God's sake, I don't know what she's talking about!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia365_utt13.wav
+Man|There's no Rachel!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia365_utt14.wav

@@ -1,0 +1,9 @@
+Rachel|Excuse me, pardon me, excuse me, excuse me, sorry. Hi.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia605_utt0.wav
+Man|For God's sake, will you let it go? There's no Rachel!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia605_utt1.wav
+Ross|Oh, hey, hey, I got that.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia605_utt2.wav
+Julie|Oh, thanks, sweetie.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia605_utt3.wav
+Ross|No problem. I cannot wait for you to meet my friends.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia605_utt4.wav
+Julie|Really?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia605_utt5.wav
+Julie|You don't think they'll judge and ridicule me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia605_utt6.wav
+Ross|No, no, they will. I just... uh...|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia605_utt7.wav
+Julie|Can't wait.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia605_utt8.wav

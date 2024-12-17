@@ -1,0 +1,4 @@
+Elizabeth|Ross, umm, you've been in there for a long time. I'm starting to get kinda freaked out.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia569_utt0.wav
+Ross|All right, I'm coming out. Hey, can you turn the lights off.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia569_utt1.wav
+Elizabeth|No, let's just leave the lights on.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia569_utt2.wav
+Elizabeth|Oh my God!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia569_utt3.wav

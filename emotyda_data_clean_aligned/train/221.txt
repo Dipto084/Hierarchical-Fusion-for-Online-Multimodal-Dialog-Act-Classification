@@ -1,0 +1,6 @@
+Rachel|Your parents¬í?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia221_utt0.wav
+Joshua|Yeah, they¬íre out of town.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia221_utt1.wav
+Rachel|Ohh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia221_utt2.wav
+Joshua|Yeah-yeah, it¬ís this|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia221_utt3.wav
+Rachel|Yeah that works.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia221_utt4.wav
+Joshua|They-they-they can smell fear.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia221_utt5.wav

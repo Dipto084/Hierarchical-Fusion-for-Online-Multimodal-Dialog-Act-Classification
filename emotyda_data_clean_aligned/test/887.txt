@@ -1,0 +1,14 @@
+Ross|Yes that¬ís right.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia887_utt0.wav
+The Instructor|Why?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia887_utt1.wav
+Ross|I tired attacking two women, did not work.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia887_utt2.wav
+The Instructor|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia887_utt3.wav
+Ross|No, I mean it¬ís okay, I mean, they¬íre-they¬íre my friends.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia887_utt4.wav
+Ross|In fact, I-I-I was married to one of them.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia887_utt5.wav
+The Instructor|Let me get this straight man, you attacked your ex-wife?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia887_utt6.wav
+Ross|Oh, no!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia887_utt7.wav
+Ross|No-no!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia887_utt8.wav
+Ross|No, I tired!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia887_utt9.wav
+Ross|But I couldn¬ít.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia887_utt10.wav
+Ross|That¬ís why I¬ím here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia887_utt11.wav
+Ross|Maybe we could attack them together?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia887_utt12.wav
+Ross|That-that¬ís a no.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia887_utt13.wav

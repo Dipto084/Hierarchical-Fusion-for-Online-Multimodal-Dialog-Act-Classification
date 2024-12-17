@@ -1,0 +1,16 @@
+Rachel|Hey Joey, what ¬ëcha doing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1022_utt0.wav
+Joey|Sweepin¬í. Why? Turn you on?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1022_utt1.wav
+Rachel|No.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1022_utt2.wav
+Joey|Huh. What if I was sweeping a chimney?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1022_utt3.wav
+Rachel|Joey, did|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1022_utt4.wav
+Joey|Where are you going? The vicar won¬ít be home for hours.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1022_utt5.wav
+Rachel|Joey, where did you learn that word?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1022_utt6.wav
+Joey|Where do you think, Zelda?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1022_utt7.wav
+Rachel|You found my book?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1022_utt8.wav
+Joey|Yeah I did!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1022_utt9.wav
+Rachel|Joey, what-what are you doing going into my bedroom?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1022_utt10.wav
+Joey|Okay, look I¬ím sorry, I went in there to take a nap and I know I shouldn¬ít have, but you got porn!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1022_utt11.wav
+Rachel|Hey-hey, y¬íknow what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1022_utt12.wav
+Rachel|There¬ís nothing wrong with a woman enjoying a little¬Öerotica.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1022_utt15.wav
+Rachel|It¬ís just a healthy expression of female sexuality, which by the way, you will never understand.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1022_utt16.wav
+Joey|You got porn!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1022_utt17.wav

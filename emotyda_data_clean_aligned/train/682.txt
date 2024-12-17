@@ -1,0 +1,15 @@
+Ross|Ben, I want you to know that there may be some times when I may not be around, like this.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia682_utt0.wav
+Ross|But I'll still always come back, like this.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia682_utt1.wav
+Ross|And sometimes I may be away longer, like this.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia682_utt2.wav
+Ross|But I'll still always come back, like this.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia682_utt3.wav
+Chandler|And sometimes, I'll want you to steal third, and I'll go like this.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia682_utt4.wav
+Monica|He is so amazing.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia682_utt5.wav
+Rachel|Oh, I know. Look at him.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia682_utt6.wav
+Joey|Ben, Ben, hey Ben. Nothing. I don't think that's his name.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia682_utt7.wav
+Phoebe|Oh, look, look, he's closing his eyes. Look, he's opening his eyes.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia682_utt8.wav
+Joey|He doesn't do much, does he?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia682_utt9.wav
+Ross|No, this is pretty much it.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia682_utt10.wav
+Rachel|You guys wanna get some coffee?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia682_utt11.wav
+All|Yeah.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia682_utt12.wav
+Ross|All right, I'll see you guys later.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia682_utt13.wav
+Phoebe|Oh, look, he's closing his eyes again.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia682_utt14.wav

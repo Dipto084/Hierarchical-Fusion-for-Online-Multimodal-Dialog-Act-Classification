@@ -1,0 +1,15 @@
+Ross|is for me not to see you anymore.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia676_utt0.wav
+Rachel|That's crazy!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia676_utt1.wav
+Rachel|You can't do that!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia676_utt2.wav
+Rachel|What are you going to tell her?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia676_utt3.wav
+Rachel|Oh God.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia676_utt4.wav
+Rachel|Ohh, you already agreed to this, haven't you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia676_utt5.wav
+Ross|It's awful I know, I mean, I feel terrible but I have to do this if I want my marriage to work.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia676_utt6.wav
+Ross|And I do, I have to make|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia676_utt7.wav
+Rachel|Ohh! Lucky me! Oh my God! That|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia676_utt8.wav
+Ross|You have no idea what a nightmare this has been. This is so hard.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia676_utt9.wav
+Rachel|Oh yeah, really? Is it Ross? Yeah? Okay, well let me make this a just a little bit easier for you.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia676_utt10.wav
+Ross|What are you doing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia676_utt11.wav
+Rachel|Storming out!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia676_utt12.wav
+Ross|Rachel, this is your apartment.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia676_utt13.wav
+Rachel|Yeah, well that's how mad I am!!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia676_utt14.wav

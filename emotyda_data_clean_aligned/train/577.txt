@@ -1,0 +1,8 @@
+Joey|Okay, some tricks of the trade.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia577_utt0.wav
+Joey|Now, I¬íve never been able to cry as an actor, so if I¬ím in a scene where I have to cry, I cut a hole in my pocket, take a pair of tweezers, and just start pulling.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia577_utt1.wav
+Joey|Or ah, or, let¬ís say I wanna convey that I¬íve just done something evil.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia577_utt2.wav
+Joey|That would be the basic ¬ëI have a fishhook in my eyebrow and I like it¬í Okay, let¬ís say I¬íve just gotten bad news, well all I do there is try and divide 232 by 13.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia577_utt3.wav
+Joey|And that¬ís how it¬ís done.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia577_utt4.wav
+Joey|Great soap opera acting tonight everybody, class dismissed.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia577_utt5.wav
+Student|Hey, Mr. Trib.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia577_utt6.wav
+Joey|Hey-hey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia577_utt7.wav

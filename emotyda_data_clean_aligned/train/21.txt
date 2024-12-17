@@ -1,0 +1,14 @@
+Monica|How does she do that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia21_utt0.wav
+Ross|I cannot sleep in a public place.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia21_utt1.wav
+Monica|Would you look at her? She is so peaceful.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia21_utt2.wav
+Phoebe|Oh! What what what! ...Hi.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia21_utt3.wav
+Ross|It's okay, y'know, you just nodded off again.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia21_utt4.wav
+Monica|What's going on with you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia21_utt5.wav
+Phoebe|I got no sleep last night!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia21_utt6.wav
+Ross|Why?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia21_utt7.wav
+Phoebe|My grandmother has this new boyfriend, and they're both kind of insecure in bed.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia21_utt8.wav
+Phoebe|Oh, and deaf.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia21_utt9.wav
+Phoebe|So they're constantly, like, having to reassure each other that they're having a good time.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia21_utt10.wav
+Phoebe|You have no idea how loud they are!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia21_utt11.wav
+Monica|Well, if you want, you can stay with Rachel and me tonight.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia21_utt12.wav
+Phoebe|Thanks.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia21_utt13.wav

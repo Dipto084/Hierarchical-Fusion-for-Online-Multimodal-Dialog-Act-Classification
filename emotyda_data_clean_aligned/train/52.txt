@@ -1,0 +1,12 @@
+Monica|I know.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia52_utt0.wav
+Phoebe|Ooh, I have to tell you something.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia52_utt1.wav
+Monica|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia52_utt2.wav
+Phoebe|But I can¬ít tell you.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia52_utt3.wav
+Monica|Okay, but wouldn¬ít it be easier if you had to tell me something that you could tell me.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia52_utt4.wav
+Phoebe|Well, sure in a perfect world. But, no, I promised I wouldn¬ít tell, and I swore to like all my gods.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia52_utt5.wav
+Monica|Okay. Does it have to do with Ross and Rachel?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia52_utt6.wav
+Phoebe|No.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia52_utt7.wav
+Monica|Does it have to do with Joey?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia52_utt8.wav
+Phoebe|No.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia52_utt9.wav
+Monica|Does it have to do with-with Chandler and that sock that he keeps by his bed?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia52_utt10.wav
+Phoebe|No, but let¬ís come back to that later!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia52_utt11.wav

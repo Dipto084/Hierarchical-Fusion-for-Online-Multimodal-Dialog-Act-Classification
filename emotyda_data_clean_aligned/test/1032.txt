@@ -1,0 +1,12 @@
+Chip|So you still in touch with anyone from high school?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1032_utt0.wav
+Monica|Umm. Well, there¬ís Rachel, and umm, I think that¬ís it. How bout you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1032_utt1.wav
+Chip|Oh yeah, I still hang with Simmons and Zana, y'know.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1032_utt2.wav
+Chip|I see Spindler a lot.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1032_utt3.wav
+Chip|Devane, Kelly, and I run into Goldie from time to time.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1032_utt4.wav
+Chip|Stick, Brown, Sulkov, McGuire, J.T., Beardsley.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1032_utt5.wav
+Monica|Is that all?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1032_utt6.wav
+Chip|Ehh, y'know after high school, you just kinda lose touch. Oh yeah! I ran into Richard Dorfman.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1032_utt7.wav
+Monica|Ohh, how is he?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1032_utt8.wav
+Chip|Not so good, Simmons and I gave him a wedgie.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1032_utt9.wav
+Monica|Isn¬ít he an architect now?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1032_utt10.wav
+Chip|Yeah, they still wear underwear.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1032_utt11.wav

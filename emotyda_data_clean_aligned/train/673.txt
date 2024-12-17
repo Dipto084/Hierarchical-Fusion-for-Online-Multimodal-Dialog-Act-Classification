@@ -1,0 +1,21 @@
+Russell|You got married again.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia673_utt0.wav
+Ross|Yes.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia673_utt1.wav
+Russell|So that¬ís your second marriage in two years.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia673_utt2.wav
+Ross|Yes, second in two years. Third overall.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia673_utt3.wav
+Russell|Ross, I have been a divorce attorney for 23 years and never had I so much business from one client.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia673_utt4.wav
+Russell|Why don¬ít you tell me what happened.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia673_utt5.wav
+Ross|Basically, Rachel and I were in Vegas and we got drunk|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia673_utt6.wav
+Russell|I¬ím sorry, is this the same Rachel who¬ís name you said at the altar in the second marriage?|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia673_utt7.wav
+Ross|Yes-yes-yes! But, I-I do|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia673_utt8.wav
+Russell|Oh, that¬ís better then.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia673_utt9.wav
+Ross|This was just a drunken mistake and I need to get it annulled.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia673_utt10.wav
+Russell|I see. Have you considered therapy?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia673_utt11.wav
+Ross|I think just the|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia673_utt12.wav
+Russell|There are a couple of forms to fill out.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia673_utt13.wav
+Ross|Easy.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia673_utt14.wav
+Russell|And we¬íll need to have witnesses who can testify that you were not of uh, sound mind.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia673_utt15.wav
+Ross|No problem.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia673_utt16.wav
+Russell|And we¬íll need you and Rachel to testify before a judge.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia673_utt17.wav
+Ross|Ooh!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia673_utt18.wav
+Ross|There¬ís no way to do this without her?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia673_utt19.wav
+Ross|¬ëCause I kinda all ready told her uh, it was, it was already taken care of.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia673_utt20.wav

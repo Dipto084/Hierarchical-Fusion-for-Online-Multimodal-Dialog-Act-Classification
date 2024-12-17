@@ -1,0 +1,14 @@
+Mrs. Geller|So Chandler, your parents must¬íve been thrilled when you told them you were engaged.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia211_utt0.wav
+Chandler|Oh yeah, I should probably call them.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia211_utt1.wav
+Mr. Geller|I remember when we first got engaged.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia211_utt2.wav
+Chandler|Oh, I don¬ít think I ever heard that story.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia211_utt3.wav
+Mr. Geller|Well, I¬íd gotten Judy pregnant. I still don¬ít know how that happened.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia211_utt5.wav
+Mrs. Geller|You don¬ít know how that happened?! Your dog thought my diaphragm was a chew toy!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia211_utt6.wav
+Chandler|What a sweet story.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia211_utt7.wav
+Monica|Well, at least you¬íre not hearing it for the first time at your fifth grade Halloween party.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia211_utt8.wav
+Mr. Geller|What?! They wanted a scary story!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia211_utt9.wav
+Monica|Anyway, we¬íre really excited about our wedding plans, and well I guess pretty soon we¬íll be making a big withdrawal from the Monica wedding fund.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia211_utt10.wav
+Monica|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia211_utt11.wav
+Mrs. Geller|You tell her Jack, I can¬ít do it.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia211_utt12.wav
+Monica|What happened? You still have the Monica wedding fund don¬ít you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia211_utt13.wav
+Mr. Geller|We have it. Only now, we call it the beach house.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia211_utt14.wav

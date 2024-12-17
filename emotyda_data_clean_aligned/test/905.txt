@@ -1,0 +1,17 @@
+Chandler|Are there no conscious men in the city for you two?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia905_utt0.wav
+Monica|He doesn't have anyone.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia905_utt1.wav
+Phoebe|Yeah, we-we feel kinda responsible.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia905_utt2.wav
+Joey|I can't believe you said woowoo. I don't even say woowoo.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia905_utt3.wav
+Rachel|Oh, she's coming up! She's coming up!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia905_utt4.wav
+Jay Leno|Folks, when we come back we'll be talking about her new book, 'Euphoria Unbound': the always interesting Nora Tyler Bing.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia905_utt5.wav
+Jay Leno|You might wanna put the kids to bed for this one.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia905_utt6.wav
+Chandler|Y'know, we don't have to watch this.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia905_utt7.wav
+Rachel|No way, forget it.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia905_utt8.wav
+Joey|C'mon, she's your mom!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia905_utt9.wav
+Chandler|Exactly.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia905_utt10.wav
+Rachel|Chandler, I gotta tell you, I love your mom's books!|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia905_utt11.wav
+Rachel|I love her books!|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia905_utt12.wav
+Rachel|I cannot get on a plane without one!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia905_utt13.wav
+Rachel|I mean, this is so cool!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia905_utt14.wav
+Chandler|Yeah, well, you wouldn't think it was cool if you're eleven years old and all your friends are passing around page 79 of 'Mistress Bitch.'|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia905_utt15.wav
+Ross|C'mon, Chandler, I love your mom. I think she's a blast.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia905_utt16.wav

@@ -1,0 +1,18 @@
+Joey|So, did you uh, find anyone to marry you guys yet?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia893_utt0.wav
+Chandler|No, but Horny for Monica Minister called, wanting to know if we were still together.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia893_utt1.wav
+Monica|We¬íre never gonna find anybody.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia893_utt2.wav
+Joey|Well then let me do it!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia893_utt3.wav
+Chandler|Joe|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia893_utt4.wav
+Joey|No-no-no!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia893_utt5.wav
+Joey|Look, I¬íve been thinking about it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia893_utt6.wav
+Joey|I¬ím an actor right?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia893_utt7.wav
+Joey|So I won¬ít get nervous talking in front of people.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia893_utt8.wav
+Joey|I won¬ít spit, and I won¬ít stare at Monica¬ís breasts!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia893_utt9.wav
+Joey|Everyone knows I¬ím an ass man!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia893_utt10.wav
+Monica|That is true.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia893_utt11.wav
+Joey|Yeah and the most important thing is that it won¬ít be some like, stranger up there who barely knows you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia893_utt12.wav
+Joey|It¬íll be me!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia893_utt13.wav
+Joey|And I swear I¬íll do a really good job.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia893_utt14.wav
+Joey|Plus, y¬íknow I love you guys and-and it would really mean a lot to me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia893_utt15.wav
+Monica|It might be kinda cool.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia893_utt16.wav
+Joey|So I can do it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia893_utt17.wav

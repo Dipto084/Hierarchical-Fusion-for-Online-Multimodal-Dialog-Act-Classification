@@ -1,0 +1,2 @@
+Chandler|Hey Joe! You wanna shoot some hoops?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia709_utt0.wav
+Joey|Oh no, I can¬ít go. I¬ím practicing; I got an audition to be the host of a new game show.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia709_utt1.wav

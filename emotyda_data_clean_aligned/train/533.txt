@@ -1,0 +1,10 @@
+Rachel|Okay, I think we can get the evaluation back before they see it, but we¬íre gonna have to get into Mr. Zelner¬ís office.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia533_utt0.wav
+Rachel|Now, he doesn¬ít get in until 10, so he¬ís no problem, but his assistant, Betty, she comes in early to eat her breakfast at her desk.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia533_utt1.wav
+Tag|That¬ís kinda sad.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia533_utt2.wav
+Rachel|Yeah, well Betty is kinda sad. Which is why I believe I can lure her away with these chocolates. Now, while I distract her,|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia533_utt3.wav
+Tag|Got it!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia533_utt4.wav
+Rachel|Let¬ís roll!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia533_utt5.wav
+Mr. Zelner|Hello Rachel, you uh, got a minute?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia533_utt6.wav
+Rachel|Yeah, sure Mr. Zelner, for you anything¬óminute. Okay. Fine. Abort the plan, abort the plan.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia533_utt7.wav
+Mr. Zelner|Uh actually, I¬íd like to speak with both of you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia533_utt8.wav
+Rachel|Okay. Uh, well can we, can we get you anything Mr. Zelner? Maybe some chocolates?|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia533_utt9.wav

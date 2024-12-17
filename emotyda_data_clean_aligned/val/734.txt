@@ -1,0 +1,3 @@
+Joey|Hey! Are you okay?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia734_utt0.wav
+Kate|Fabulous.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia734_utt1.wav
+Joey|Listen, drama critics they¬íre nothing but, but people who couldn¬ít make it as actors. You know what you should do?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia734_utt2.wav

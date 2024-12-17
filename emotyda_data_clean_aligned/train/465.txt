@@ -1,0 +1,6 @@
+Phoebe|Hey, Joey. What's going on?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia465_utt0.wav
+Joey|Clear the tracks for the boobie payback express. Next stop: Rachel Green.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia465_utt1.wav
+Monica|Joey!! What the hell were you doing?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia465_utt2.wav
+Joey|Sorry. Wrong boobies.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia465_utt3.wav
+Monica|Hello, Joey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia465_utt4.wav
+Mr. Tribbiani|Oh! ...Hello, dear.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia465_utt5.wav

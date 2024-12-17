@@ -1,0 +1,8 @@
+Joey|How ya doin'? Welcome. Good to see ya!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia514_utt0.wav
+Stage Director|This will be your phone.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia514_utt1.wav
+Joey|That's great. But uh, I'm not really expecting a lot of calls.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia514_utt2.wav
+Stage Director|No you answer it and take pledges.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia514_utt3.wav
+Joey|But I'm the host!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia514_utt4.wav
+Stage Director|No, Gary Collins is the host. You'll be answering the phones.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia514_utt5.wav
+Joey|You don't seem to understand. See, I was Dr. Drake Remoray.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia514_utt6.wav
+Stage Director|Well, here's your phone doctor.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia514_utt7.wav

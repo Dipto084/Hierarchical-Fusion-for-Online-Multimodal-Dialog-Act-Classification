@@ -1,0 +1,5 @@
+Joey|Seven hundred bucks!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia898_utt0.wav
+Chandler|Alright, you did it! Do we have any fruit?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia898_utt1.wav
+Joey|Man, hell of a two weeks, huh? Y'know what, though? I really feel like I learned something.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia898_utt2.wav
+Chandler|Really? So, you're gonna stick with this 'it's all for her' thing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia898_utt3.wav
+Joey|What, are you crazy? When a blind man gets his sight back, does he walk around like this?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia898_utt4.wav

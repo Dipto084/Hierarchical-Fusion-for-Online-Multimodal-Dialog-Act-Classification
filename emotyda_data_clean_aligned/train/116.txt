@@ -1,0 +1,8 @@
+Ross|So, this must be kinda neat for ya, huh?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia116_utt0.wav
+Ross|I mean, your Dad tells me that you get a couple of days off school, and you, you ah, don¬ít have to sell those cookies anymore.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia116_utt1.wav
+Sarah|Well, I kinda wanted to sell the cookies. The girl who sells the most wins a trip to Spacecamp, and gets to sit in a|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia116_utt2.wav
+Ross|Wow, you ah, you really like all this space stuff, huh?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia116_utt3.wav
+Sarah|Yeah.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia116_utt4.wav
+Sarah|My Dad says if I spend as much time helping him clean apartments, as I do daydreaming about outer space, he¬íd be able to afford a trip to the Taj Mahal.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia116_utt5.wav
+Ross|I think you would have to clean a whole lot of apartments to go all the way to India.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia116_utt6.wav
+Sarah|No. The one in Atlantic City, Dad loves the slots. He says he¬ís gonna double the college money my Grandma left me.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia116_utt7.wav

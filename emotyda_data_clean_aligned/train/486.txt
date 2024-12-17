@@ -1,0 +1,18 @@
+Chandler|Hey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia486_utt0.wav
+Joey|Hey! Any good mail?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia486_utt1.wav
+Chandler|Yes, you got something from the Screen Actor¬ís Guild.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia486_utt2.wav
+Joey|Ooh, it¬ís probably a residual check, hey can you open it for me, I¬ím kinda¬Ö.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia486_utt3.wav
+Chandler|"Benefits lapsed."|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia486_utt4.wav
+Joey|Hmm that¬ís weird. I don¬ít remember being in a move called benefits lapsed.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia486_utt5.wav
+Chandler|Okay, it¬ís not a check. They¬íre saying your health insurance expired because, you didn¬ít work enough last year.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia486_utt6.wav
+Joey|Let me see that!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia486_utt7.wav
+Chandler|All right.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia486_utt8.wav
+Joey|Oh, I can¬ít believe this!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia486_utt9.wav
+Joey|This sucks!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia486_utt10.wav
+Joey|When I had insurance I could get hit by a bus or catch on fire, y¬íknow?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia486_utt11.wav
+Joey|And it wouldn¬ít matter.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia486_utt12.wav
+Joey|Now I gotta be careful?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia486_utt13.wav
+Chandler|I¬ím sorry man, there¬ís never a good time to stop catching on fire.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia486_utt14.wav
+Joey|All right well, I guess I gotta go get a job. I¬ím gonna go see my agent.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia486_utt15.wav
+Chandler|Okay, make sure you look both ways before you cross the street.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia486_utt16.wav
+Joey|look both ways before you cross the street.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia486_utt17.wav

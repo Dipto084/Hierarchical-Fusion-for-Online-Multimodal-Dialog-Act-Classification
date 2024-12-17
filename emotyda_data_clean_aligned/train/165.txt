@@ -1,0 +1,20 @@
+Chandler|Well, I just thought it¬íd make me feel good to do something nice for my friend.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia165_utt0.wav
+Joey|Well, you¬íre amazing.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia165_utt1.wav
+Chandler|Oh no-no-no.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia165_utt2.wav
+Joey|A TV as if it appears from nowhere! That¬ís the dream! Man, how did you afford this stuff?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia165_utt3.wav
+Chandler|Well, y¬íknow I¬ím 29. I mean who needs a savings account.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia165_utt4.wav
+Joey|Oh, you are the best friends anyone has ever had.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia165_utt5.wav
+Chandler|Oh, I don¬ít know.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia165_utt6.wav
+Joey|Oh-no-no-no, you are!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia165_utt7.wav
+Joey|You do this, you give me the great advice, and hey listen, I was thinking about what you said yesterday about focusing on one woman, I¬ím gonna do that.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia165_utt8.wav
+Chandler|You mean with Casey.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia165_utt9.wav
+Joey|No-no-no, I think I¬ím gonna see how things go with Kathy. She¬ís pretty cool.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia165_utt10.wav
+Chandler|Or Casey.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia165_utt11.wav
+Joey|No-no, Kathy.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia165_utt12.wav
+Chandler|Could be Casey.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia165_utt13.wav
+Joey|No. No, Kathy.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia165_utt14.wav
+Chandler|Consider Casey.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia165_utt15.wav
+Joey|I think somebody¬ís got a little crush on Casey.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia165_utt16.wav
+Joey|How ¬ëbout I fix you two up?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia165_utt17.wav
+Joey|What do you think?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia165_utt18.wav
+Chandler|That all the pieces of my life are falling right into place!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia165_utt19.wav

@@ -1,0 +1,17 @@
+Phoebe|Do you think they have yesterday's daily news?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia946_utt0.wav
+Monica|Why?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia946_utt1.wav
+Phoebe|Just wanna check my horoscope, see if it was right.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia946_utt2.wav
+Monica|Oh my God.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia946_utt3.wav
+Monica|Phoebe.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia946_utt4.wav
+Monica|Don't look now, but behind us is a guy who has the potential to break our hearts and plunge us into a pit of depression.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia946_utt5.wav
+Phoebe|Where? Ooh, come to Momma.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia946_utt6.wav
+Monica|He's coming. Be cool, be cool, be cool.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia946_utt7.wav
+Phoebe|We should do something. Whistle.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia946_utt8.wav
+Monica|We are not going to whistle.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia946_utt9.wav
+Phoebe|Come on, do it.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia946_utt10.wav
+Monica|No!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia946_utt11.wav
+Phoebe|Do it!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia946_utt12.wav
+Monica|No!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia946_utt13.wav
+Phoebe|Do it do it do it!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia946_utt14.wav
+Monica|Woo-woo!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia946_utt15.wav
+Phoebe|I can't believe you did that!|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia946_utt16.wav

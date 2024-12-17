@@ -1,0 +1,3 @@
+Julie|Rachel, do you have any muffins left?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1037_utt0.wav
+Rachel|Yeah, I forget which ones.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1037_utt1.wav
+Julie|Oh, you're busy, that's ok, I'll get it. Anybody else want one?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1037_utt2.wav

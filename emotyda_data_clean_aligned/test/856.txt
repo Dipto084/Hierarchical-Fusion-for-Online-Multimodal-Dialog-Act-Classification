@@ -1,0 +1,5 @@
+Joey|Hi.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia856_utt0.wav
+Chandler|Hey man, how did the audition go?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia856_utt1.wav
+Joey|Estelle said I didn't get it.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia856_utt2.wav
+Rachel|What?! Why? Joey you were so ready for it!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia856_utt3.wav
+Joey|Yeah, I thought so too but, she said the casting people had some problems with me.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia856_utt4.wav

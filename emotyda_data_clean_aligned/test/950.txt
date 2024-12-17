@@ -1,0 +1,18 @@
+Chandler|Oh my God!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia950_utt0.wav
+Monica|We heard about your pants, I'm so sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia950_utt1.wav
+Ross|This year was supposed to be great!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia950_utt2.wav
+Ross|But, it's only the second day and I'm a loser with stupid leather pants that don't even fit!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia950_utt3.wav
+All|No. No, you're not a loser.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia950_utt4.wav
+Ross|Look at me!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia950_utt5.wav
+Monica|Hey, hey, look. Look Ross, Ben drew a picture of you! Huh? You're-you're a cowboy!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia950_utt6.wav
+Ross|Oh, be-because of the leather pants.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia950_utt7.wav
+Monica|See? Ben doesn't think you're a loser, he thinks you're a cowboy! Now that's something.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia950_utt8.wav
+Rachel|That really is something.. that's really cool.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia950_utt9.wav
+Joey|Howdy partner!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia950_utt10.wav
+Ross|Maybe I should get another pair!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia950_utt11.wav
+Ross|Ooh, y'know, they-they had some with fringe all down the sides.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia950_utt12.wav
+Ross|I'm gonna go kiss Ben goodnight.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia950_utt13.wav
+Ross|I can't believe he thinks I'm a cowboy.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia950_utt14.wav
+Ross|I would make a good cowboy.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia950_utt15.wav
+Monica|Okay, now that everything's wrapped up here, I think I'm, I'm gonna go do my laundry.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia950_utt16.wav
+Chandler|Oh yeah, me too. Y'know if this shirt is dirty. Yep.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia950_utt17.wav

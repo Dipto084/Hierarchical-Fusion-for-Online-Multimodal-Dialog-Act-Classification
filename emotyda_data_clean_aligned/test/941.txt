@@ -1,0 +1,15 @@
+Jeannine|Night Mon. Night Julio.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia941_utt0.wav
+Julio|Adi√≥s.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia941_utt1.wav
+Monica|Look Julio, someone left their book here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia941_utt2.wav
+Julio|Ah actually, that is mine.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia941_utt3.wav
+Monica|Oh yeah, what are you reading?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia941_utt4.wav
+Julio|Flowers of Evil, by Beaudalire. Have you read it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia941_utt5.wav
+Monica|Have I read it? No, are you enjoying it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia941_utt6.wav
+Julio|I thought I would, but the translation's no good.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia941_utt7.wav
+Monica|Your a poet and don't know it.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia941_utt8.wav
+Julio|Actually I ah, I am a poet.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia941_utt9.wav
+Monica|Oh, then you do know it. So um what kind of things do you write about?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia941_utt10.wav
+Julio|Things that move me. The, the shadow of a tree, a child laughing, or this lip.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia941_utt11.wav
+Monica|Mine? Right here?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia941_utt12.wav
+Julio|I can write an epic poem about this lip.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia941_utt13.wav
+Monica|How would that go? Well, it didn't rhyme, but I liked it.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia941_utt14.wav

@@ -1,0 +1,10 @@
+Phoebe|Then I¬ím gonna have to ask you to keep it down.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia578_utt0.wav
+Mr. Heckles|Who are you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia578_utt1.wav
+Eric|Hi, I¬ím Eric, I¬ím gonna be Chandler¬ís new roommate.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia578_utt2.wav
+Mr. Heckles|I¬ím Chandler¬ís new roommate.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia578_utt3.wav
+Eric|I-I-I don¬ít think so.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia578_utt4.wav
+Mr. Heckles|I could be Chandler¬ís new roommate.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia578_utt5.wav
+Eric|But, he told me over the phone.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia578_utt6.wav
+Mr. Heckles|He told me in person.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia578_utt7.wav
+Eric|That¬ís weird.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia578_utt8.wav
+Mr. Heckles|Well, I¬ím going to go into my new apartment now. Ehh!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia578_utt9.wav

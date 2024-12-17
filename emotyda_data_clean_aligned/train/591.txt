@@ -1,0 +1,4 @@
+Chandler|Well, I-I-I'm done with this. You want anything Ross? Sports? International? Apartment listings?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia591_utt0.wav
+Ross|I'll take sports.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia591_utt1.wav
+Joey|Mine!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia591_utt2.wav
+Ross|All right. Uhh, international.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia591_utt3.wav

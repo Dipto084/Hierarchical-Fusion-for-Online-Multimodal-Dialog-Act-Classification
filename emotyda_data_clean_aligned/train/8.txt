@@ -1,0 +1,7 @@
+Phoebe|Yes, and it is my dying wish to have that ring.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia8_utt0.wav
+Phoebe|See, if I¬ím not buried with that ring then my spirit is going to wander the nether world for all eternity|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia8_utt1.wav
+Chandler|Okay, that¬ís enough honey!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia8_utt2.wav
+Customer|I don¬ít know. Let me see the ring.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia8_utt3.wav
+Chandler|Great! Okay, here.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia8_utt4.wav
+Customer|All right.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia8_utt5.wav
+Chandler|Thank you. Thank you. Thank you! And|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia8_utt6.wav

@@ -1,0 +1,7 @@
+Chandler|Oh come on guys, it¬ís not like I moved to Europe! I just moved across the hall! And|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia346_utt0.wav
+Monica|Ahh! Aren¬ít you dressed yet?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia346_utt1.wav
+Chandler|Am I naked again?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia346_utt2.wav
+Monica|We¬íre supposed to meet my parents in 15 minutes.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia346_utt3.wav
+Chandler|Yeah okay, I was just talking to the guys. Just look at them I mean, is it okay if they come visit?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia346_utt4.wav
+Monica|Wh?! What about my allergies?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia346_utt5.wav
+Chandler|Oh right, your allergies. All her, she hates you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia346_utt6.wav

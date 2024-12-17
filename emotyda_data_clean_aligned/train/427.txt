@@ -1,0 +1,2 @@
+Monica|All right, well why don¬ít I go out with an ex-boyfriend and do Joey a favor?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia427_utt0.wav
+Joey|Hey, you wanna do Joey a favor, maybe you go out with Joey.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia427_utt1.wav

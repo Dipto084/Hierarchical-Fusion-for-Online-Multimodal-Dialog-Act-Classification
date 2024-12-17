@@ -1,0 +1,6 @@
+Chandler|Okay, ten blocks down. Five to go.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia516_utt0.wav
+Monica|Oh wait! Stop! Stop! Stop!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia516_utt1.wav
+Chandler|Oh I¬ím sorry! Do you need a break?|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia516_utt2.wav
+Monica|My boots in tan! Hey! Can you get a little closer so I can see the price?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia516_utt3.wav
+Chandler|I can see it from right here. It¬íll cost you one husband.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia516_utt4.wav
+Monica|Okay, I¬ím sorry. I think I can walk the rest of the way now. Just-just give me my boots.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia516_utt5.wav

@@ -1,0 +1,10 @@
+Ross|I didn¬ít even realise how late it was, until I noticed the 5 o¬íclock shadow on her head.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia959_utt0.wav
+Ross|Anyway, she didn¬ít want to stay.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia959_utt1.wav
+Ross|I called a cab. she just left.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia959_utt2.wav
+Rachel|I wrote you a letter.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia959_utt3.wav
+Ross|Ohh! Thank you! I like mail.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia959_utt4.wav
+Rachel|It¬ís just some things I¬íve been thinking about.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia959_utt5.wav
+Rachel|Some things about us, and before we can even think about the two of us getting back together, I just need to know how you feel about this stuff.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia959_utt6.wav
+Ross|Okay. Wow, it¬ís-it¬ís 5:30 in the morning. So, I¬íd better get cracking on this baby.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia959_utt7.wav
+Rachel|Well, I¬íll be waiting for you, just come up when you¬íre done.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia959_utt8.wav
+Ross|Okay, I¬íll be up in, 18 pages. Front and back. Very exciting.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia959_utt9.wav

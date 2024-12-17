@@ -1,0 +1,15 @@
+Monica|I'm telling you, something's wrong! My brother does not stay out all night.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia189_utt0.wav
+Joey|Maybe we should check the trash chute.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia189_utt1.wav
+Rachel|Ross couldn't fit down the trash chute.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia189_utt2.wav
+Joey|That's right, he almost could. Which is exactly how I got stuck there.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia189_utt3.wav
+Phoebe|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia189_utt4.wav
+Rachel|There he is!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia189_utt5.wav
+Monica|Oh my God! Where the hell have you been?!!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia189_utt6.wav
+Ross|Just, y'know out.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia189_utt7.wav
+Rachel|Ohh, out, oh God, I don't know why we didn't think to check there!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia189_utt8.wav
+Phoebe|What were you doing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia189_utt9.wav
+Ross|I uh, went to a bar. And then I just uh, just walked around for a while.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia189_utt10.wav
+Joey|He hooked up! He hooked up with someone.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia189_utt12.wav
+Ross|Look, I don't have to answer your questions! Okay? I'm a big boy, I can do whatever I want!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia189_utt13.wav
+Joey|He hooked up!! Tell us about her!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia189_utt14.wav
+Janice|Ross you left you scarf in¬Ö Hey you guys.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia189_utt15.wav

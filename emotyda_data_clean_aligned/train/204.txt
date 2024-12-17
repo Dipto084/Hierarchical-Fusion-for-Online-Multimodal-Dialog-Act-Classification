@@ -1,0 +1,14 @@
+Rachel|So c'mon, you guys, tell me all the dirt!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia204_utt0.wav
+Kiki|Well, the biggest news is still you dumping Barry at the altar!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia204_utt1.wav
+Joanne|Alright. Let's talk reality for a second.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia204_utt2.wav
+Rachel|Okay.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia204_utt3.wav
+Joanne|When are you coming home?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia204_utt4.wav
+Rachel|What? Guys, I'm not.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia204_utt5.wav
+Joanne|C'mon, this is us.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia204_utt6.wav
+Rachel|I'm not! This is what I'm doing now. I've got this job-|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia204_utt7.wav
+Kiki|Waitressing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia204_utt8.wav
+Rachel|Okay, I'm not just waitressing.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia204_utt9.wav
+Rachel|I'm..|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia204_utt10.wav
+Rachel|I, um...|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia204_utt11.wav
+Rachel|I write the specials on the specials board, and, uh... and I, uh...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia204_utt12.wav
+Rachel|I take the uh dead flowers out of the vase... Oh, and, um, sometimes Artelle lets me put the little chocolate blobbies on the cookies.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia204_utt13.wav

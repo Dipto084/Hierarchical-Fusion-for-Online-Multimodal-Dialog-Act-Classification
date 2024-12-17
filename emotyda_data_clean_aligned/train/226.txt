@@ -1,0 +1,19 @@
+Rachel|Hey! Oh right, tonight was your party.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia226_utt0.wav
+Danny|Oh wow, you look great! Glad you could make it.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia226_utt1.wav
+Rachel|Oh well, y'know, the gala had to end sometime.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia226_utt2.wav
+Danny|Don't go anywhere, I'll be right back.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia226_utt3.wav
+Rachel|Yeah, sure. All right, whose court is the ball in now?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia226_utt4.wav
+Monica|I thought there wasn't a ball?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia226_utt5.wav
+Rachel|Oh, come on! He's glad that I came, he doesn't want me to go anywhere, balls flying all over the place!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia226_utt6.wav
+Danny|Rachel, this is my friend Tom.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia226_utt7.wav
+Rachel|Oh, go on! You telling people about me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia226_utt8.wav
+Danny|You two could really hit it off! I'm gonna go mingle.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia226_utt9.wav
+Tom|So you work at|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia226_utt10.wav
+Rachel|Yeah, okay, at ease solider!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia226_utt11.wav
+Tom|I'm sorry?|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia226_utt12.wav
+Rachel|No, it's all right, you can just drop the act Tommy.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia226_utt13.wav
+Tom|I'm gonna go talk to uh, a friend.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia226_utt17.wav
+Rachel|Yeah, yeah, you go talk to your friend. You tell him, "Nice try."|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia226_utt18.wav
+Rachel|Man! He just keeps lobbing them up and I just keep knocking them right out of the park!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia226_utt19.wav
+Monica|I think I need a drink.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia226_utt20.wav
+Rachel|Yeah!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia226_utt21.wav

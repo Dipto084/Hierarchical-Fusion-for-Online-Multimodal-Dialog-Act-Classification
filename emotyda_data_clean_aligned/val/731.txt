@@ -1,0 +1,1 @@
+Ross|Ok, when you walk in the museum, take the right, that's the antiquities wing.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia731_utt0.wav

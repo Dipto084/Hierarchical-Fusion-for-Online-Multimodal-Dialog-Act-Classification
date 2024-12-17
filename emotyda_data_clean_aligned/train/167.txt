@@ -1,0 +1,13 @@
+Singer|¬ëCause every time I see your face, I can¬ít help but fall from grace. I know.....|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia167_utt0.wav
+Joey|Wow! This girl is good.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia167_utt1.wav
+Phoebe|Oh-ho yeah! A song with rhyming words. Oo, I never thought of that before.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia167_utt2.wav
+Chandler|I like her.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia167_utt3.wav
+Phoebe|Why? Because she can sing and play guitar and do both at the same time?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia167_utt4.wav
+Chandler|Well, that¬ís pretty much all I¬ím looking for from these people.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia167_utt5.wav
+Monica|Look at you. All jealous.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia167_utt6.wav
+Ross|Yeah Pheebs, come on, you two have completely different styles. Y'know, she¬ís more.. y'know, and you¬íre more|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia167_utt7.wav
+Joey|Say you'll stay beside me|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia167_utt8.wav
+Phoebe|Okay, see, see, everyone else is happy she¬ís done.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia167_utt9.wav
+Singer|Okay, my next song¬ís called: Phoebe Buffay, What Can I Say.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia167_utt10.wav
+Singer|I Really Loved When We Were Singing Partners, And I Shouldn¬ít Have Left You That Way.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia167_utt11.wav
+Phoebe|Oh no, one of those ¬ëlook for the hidden meaning¬í songs.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia167_utt12.wav

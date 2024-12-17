@@ -1,0 +1,15 @@
+Joey|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia236_utt0.wav
+The Vendor|So, what are you guys in the market for? We¬íve got uh, scarves, tulip post cards...|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia236_utt1.wav
+Joey|Check this out? Huh? Yeah. That¬ís the stuff. What do you think?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia236_utt2.wav
+Chandler|Well, I don¬ít have to buy that, "I¬ím with stupid" T-shirt anymore.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia236_utt3.wav
+Joey|Well, I like it. Here you go.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia236_utt4.wav
+Chandler|All right, look, you¬íre not really gonna buy that are you? Don¬ít you think you¬íve embarrassed me enough for one day?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia236_utt5.wav
+Joey|Oh, I embarrass you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia236_utt6.wav
+Chandler|How can I answer that when I¬ím pretending I don¬ít know you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia236_utt7.wav
+Chandler|Oh really? Then how come no one here is wearing them?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia236_utt9.wav
+The Vendor|They¬íre all tourists.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia236_utt10.wav
+Chandler|All right, look, if you insist on wearing that, in public, y¬íknow, you¬íre gonna spend the rest of the afternoon all by yourself.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia236_utt11.wav
+Joey|Oh yeah? If you¬íre gonna make me choose between you and the hat? I choose the hat.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia236_utt12.wav
+The Vendor|Good choice.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia236_utt13.wav
+Joey|Thanks.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia236_utt14.wav
+Chandler|Okay, wait. All right, that¬ís it, okay, I¬ím out of here. I am not going to be embarrassed anymore!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia236_utt15.wav

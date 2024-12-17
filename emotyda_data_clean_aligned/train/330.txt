@@ -1,0 +1,4 @@
+Joshua|Okay!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia330_utt0.wav
+Rachel|Oh, here¬ís that trench-coat that you wanted.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia330_utt1.wav
+Joshua|Oh great! Wow! Yeah, it¬ís comfortable.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia330_utt2.wav
+Rachel|Yeah?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia330_utt3.wav

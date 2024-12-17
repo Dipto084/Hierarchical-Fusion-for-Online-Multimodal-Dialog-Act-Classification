@@ -1,0 +1,4 @@
+Joey|Ew! What is that? Something exploded!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia22_utt0.wav
+Nurse|It's just her water breaking. Calm down, will you?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia22_utt1.wav
+Joey|Water breaking, what do you mean? What's that, water breaking?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia22_utt2.wav
+Nurse|Breathe, breathe, breathe.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia22_utt3.wav

@@ -1,0 +1,1 @@
+Monica|Totally!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia764_utt0.wav

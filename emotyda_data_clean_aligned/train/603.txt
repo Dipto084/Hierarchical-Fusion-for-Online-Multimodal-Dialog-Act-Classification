@@ -1,0 +1,14 @@
+Ross|and the miracle was that that little bit of oil that should¬íve just lasted just one day, burned for|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia603_utt0.wav
+Ben|Eight whole days.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia603_utt1.wav
+Ross|That¬ís right, and that¬ís why we celebrate Hanukkah today. The end.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia603_utt2.wav
+Ben|Awesome!|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia603_utt3.wav
+Ross|Yeah?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia603_utt4.wav
+Chandler|My favorite part was when|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia603_utt5.wav
+Ross|The Armadillo was actually not so|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia603_utt6.wav
+Rachel|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia603_utt7.wav
+Phoebe|Oh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia603_utt8.wav
+Rachel|Wow! It looks like the Easter Bunny¬ís funeral in here.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia603_utt9.wav
+Ross|Come on, come on, we¬íre-we¬íre-we¬íre lighting the candles!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia603_utt10.wav
+Rachel|Oh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia603_utt11.wav
+Phoebe|Oh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia603_utt12.wav
+Phoebe|Okay, I understand why|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia603_utt13.wav

@@ -1,0 +1,2 @@
+Ross|I've no idea, could be. Listen, I'm sorry I had to work tonight.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia692_utt0.wav
+Rachel|Oh it's OK. You were worth the wait, and I don't just mean tonight.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia692_utt1.wav

@@ -1,0 +1,5 @@
+Phoebe|Yeah, if you get married in Vegas, you¬íre only married in Vegas.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia927_utt0.wav
+Monica|What are you talking about? If you get married in Vegas you¬íre married everywhere.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia927_utt1.wav
+Phoebe|Really?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia927_utt2.wav
+Monica|Yeah!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia927_utt3.wav
+Phoebe|Oh my God!¬óEh! Well|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia927_utt4.wav

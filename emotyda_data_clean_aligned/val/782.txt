@@ -1,0 +1,12 @@
+Gunther|Here you go.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia782_utt0.wav
+Rachel|Thank you.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia782_utt1.wav
+Mark|Hi!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia782_utt2.wav
+Rachel|Hi! All right, let¬ís go shoppin¬í!!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia782_utt3.wav
+Mark|Um, y'know, before we go ah, there¬ís something I need to say.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia782_utt4.wav
+Rachel|Oh, okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia782_utt5.wav
+Mark|I¬íve kinda of had this ah, this crush on you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia782_utt6.wav
+Mark|But since you were with Ross, I-I didn¬ít do anything about it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia782_utt7.wav
+Mark|But, now that you¬íre not, I¬íd really like to ask you out sometime.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia782_utt8.wav
+Mark|So-so that¬ís-that¬ís what I¬ím doing, now.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia782_utt9.wav
+Rachel|Wow! Umm....|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia782_utt10.wav
+Gunther|I dropped a cup.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia782_utt11.wav

@@ -1,0 +1,3 @@
+Phoebe|Cause it's good money! But that doesn't change the fact that this is an evil blood sucking corporate machine!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia829_utt0.wav
+Receptionist|Well, I think this is a great place to work!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia829_utt1.wav
+Phoebe|Ok, are they listening?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia829_utt2.wav

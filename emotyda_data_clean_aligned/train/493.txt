@@ -1,0 +1,13 @@
+Rachel|Oh my God! Oh my God!!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia493_utt0.wav
+Monica|Still crying?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia493_utt1.wav
+Rachel|Like a|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia493_utt2.wav
+Monica|Y¬íknow, I only know of two surefire ways to shut a man up. And one of them is sex.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia493_utt3.wav
+Rachel|What¬ís the other one?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia493_utt4.wav
+Monica|I don¬ít know, I¬íve never had to use the other one.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia493_utt5.wav
+Monica|I¬ím just saying y¬íknow, if we¬íre having sex, he¬ís not gonna be talking.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia493_utt6.wav
+Rachel|Oh that¬ís right.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia493_utt7.wav
+Rachel|You¬íre the talker.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia493_utt8.wav
+Rachel|Anyway uh, great idea!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia493_utt9.wav
+Rachel|Umm, I gotta go to the store; I told him that I would buy him some more tissues.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia493_utt10.wav
+Monica|Oh, we have some|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia493_utt11.wav
+Rachel|No you don¬ít!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia493_utt12.wav

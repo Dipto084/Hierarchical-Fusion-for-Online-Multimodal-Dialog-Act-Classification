@@ -1,0 +1,17 @@
+Phoebe|...DUMB, DRUNKEN, BITCH!!! Thank you, thanks.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia412_utt0.wav
+Ross|Hey, here¬ís a question; where did you guys get the finest oak East of the Mississippi?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia412_utt1.wav
+Chandler|Uh-huh, first you tell us where you got the prettiest lace in all the land.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia412_utt2.wav
+Ross|I¬ím reading your ad.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia412_utt3.wav
+Joey|Looks good, uh?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia412_utt4.wav
+Ross|Yeah.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia412_utt5.wav
+Chandler|Stunning entertainment center. Fine, fine Italian craftsmanship.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia412_utt6.wav
+Phoebe|Oh my God, you guys are selling the entertainment center?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia412_utt7.wav
+Rachel|Why? I love that thing.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia412_utt8.wav
+Chandler|You want it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia412_utt9.wav
+Phoebe and Rachel|Oh no.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia412_utt10.wav
+Chandler|Ahh, Gepeto, $5,000 dollars? Are you insane?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia412_utt11.wav
+Joey|Hey, the ad alone cost 300 bucks!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia412_utt12.wav
+Chandler|All right look, I¬ím changing it to 50 bucks, or your best offer.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia412_utt13.wav
+Joey|What kind of profit is that?! And you call yourself an accountant.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia412_utt14.wav
+Chandler|Nooo.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia412_utt15.wav
+Joey|Oh. What do you do?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia412_utt16.wav

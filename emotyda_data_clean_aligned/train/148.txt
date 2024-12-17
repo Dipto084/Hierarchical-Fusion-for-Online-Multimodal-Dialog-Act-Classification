@@ -1,0 +1,21 @@
+Chandler|Ok, so it's just because it was my table, I have to buy a new one?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia148_utt0.wav
+Joey|That's the rule.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia148_utt1.wav
+Chandler|What rule? There's no rule, if anything, you owe me a table!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia148_utt2.wav
+Joey|How'd you get to that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia148_utt3.wav
+Chandler|Well, I believe the piece of furniture was fine until your little breakfast adventure with Angela Delvecchio|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia148_utt4.wav
+Joey|You knew about that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia148_utt5.wav
+Chandler|Well, let's just say the impressions you made in the butter left little to the imagination.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia148_utt6.wav
+Joey|Ok, ok, How about if we split it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia148_utt7.wav
+Chandler|What do you mean, like, buy it together?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia148_utt8.wav
+Joey|Yeah|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia148_utt9.wav
+Chandler|You think we're ready for something like that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia148_utt10.wav
+Joey|Why not?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia148_utt11.wav
+Chandler|Well, it's a pretty big commitment, I mean, what if one of us wants to move out?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia148_utt12.wav
+Joey|Why, are you moving out?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia148_utt13.wav
+Chandler|I'm not moving out.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia148_utt14.wav
+Joey|You'd tell me if you were moving out right|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia148_utt15.wav
+Chandler|Yeah, yeah, it's just that with my last roommate Kip...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia148_utt16.wav
+Joey|Aw, I know all about Kip!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia148_utt17.wav
+Chandler|It's just that we bought a hibachi together, and then he ran off and got married, and things got pretty ugly.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia148_utt18.wav
+Joey|Well, let me ask you something, was Kip a better roommate than me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia148_utt19.wav
+Chandler|Aw, don't do that|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia148_utt20.wav

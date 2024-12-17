@@ -1,0 +1,13 @@
+Chandler|You did look like an idiot.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia219_utt0.wav
+Joey|Hey, I wasn't the only one who looked like an idiot.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia219_utt1.wav
+Joey|All right?|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia219_utt2.wav
+Joey|Remember when Ross tried to say, "Butternut squash?"|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia219_utt3.wav
+Joey|And it came out, "Squatternut buash?"|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia219_utt4.wav
+Ross|Yeah that's the same.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia219_utt5.wav
+Monica|That's it. That's my worse Thanksgiving.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia219_utt6.wav
+Phoebe|Oh wait! That can't be the one Rachel's talking about. She didn't even know that happened. So which one was it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia219_utt7.wav
+Monica|Umm, I-I really don't want to tell this story.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia219_utt8.wav
+Chandler|Oh, come on Monica, reliving past pain and getting depressed is what Thanksgiving is all about.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia219_utt9.wav
+Chandler|Y'know, for me anyway.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia219_utt10.wav
+Chandler|And of course, the Indians.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia219_utt11.wav
+Monica|Look umm, of all people, you do not want me to tell this story!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia219_utt12.wav

@@ -1,0 +1,4 @@
+Charlton Heston|Hello! Who¬ís in there?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia83_utt0.wav
+Joey|How ya doin¬í?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia83_utt1.wav
+Charlton Heston|Who in the hell are you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia83_utt2.wav
+Joey|I guess you wouldn¬ít believe me if I said I was Kurt Douglas, huh?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia83_utt3.wav

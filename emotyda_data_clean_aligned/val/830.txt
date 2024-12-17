@@ -1,0 +1,8 @@
+Chandler|Varrrrrroom!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia830_utt0.wav
+Chandler|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia830_utt1.wav
+Chandler|Watch it lady!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia830_utt2.wav
+Chandler|Varrrrrrrrrrom!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia830_utt3.wav
+Chandler|Hey-hey good lookin¬í!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia830_utt4.wav
+Chandler|Varrrrrrrrroom.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia830_utt5.wav
+Chandler|All right, I¬íll leave.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia830_utt6.wav
+Chandler|My bed¬ís so boring.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia830_utt7.wav

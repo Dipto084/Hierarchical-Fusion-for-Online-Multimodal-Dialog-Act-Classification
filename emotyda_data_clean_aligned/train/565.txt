@@ -1,0 +1,5 @@
+Janice|Uh-oh-okay. Uh-oh-okay. I know what you all are thinking. But Chandler is in|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia565_utt0.wav
+Rachel|Yeah! No that's what I was thinking.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia565_utt1.wav
+Janice|So I'm asking you please, take a moment before you judge me.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia565_utt2.wav
+Phoebe|Oh, nobody's judging you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia565_utt3.wav
+Janice|Oh! Okay! You, Mister Right Place at the Right Time, call me!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia565_utt4.wav

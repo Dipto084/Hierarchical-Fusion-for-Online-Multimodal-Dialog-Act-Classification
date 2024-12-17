@@ -1,0 +1,6 @@
+Joey|Well I had a great time! Learned how to bake, ate great food, that¬ís the first A I¬íve gotten since seventh grade,|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia911_utt0.wav
+Monica|Oh, look! Acting for Beginners! Want to feel good about yourself?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia911_utt1.wav
+Joey|What the hell!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia911_utt2.wav
+Monica|Okay.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia911_utt3.wav
+The Acting Teacher|All right, let¬ís start with some basics. Can anybody tell me what the difference between upstage and downstage is?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia911_utt4.wav
+Joey|Yeah, this was a stupid idea.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia911_utt5.wav

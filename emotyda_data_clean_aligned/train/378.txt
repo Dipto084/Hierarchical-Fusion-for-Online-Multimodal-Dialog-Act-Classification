@@ -1,0 +1,3 @@
+Phoebe|Jason?|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia378_utt0.wav
+Jason|Yeah, come on in.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia378_utt1.wav
+Jason|So Phoebe, you ah, sounded kinda serious on the phone, is ah, is anything wrong?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia378_utt2.wav

@@ -1,0 +1,12 @@
+Rachel|Its still there!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia989_utt0.wav
+Chandler|Mrs. Braverman must be out.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia989_utt1.wav
+Rachel|She could be out of town. Maybe she¬íll be gone for months.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia989_utt2.wav
+Chandler|By then, the cheesecake may have gone bad. We don¬ít want her to come back to bad cheesecake.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia989_utt3.wav
+Rachel|No that could kill her.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia989_utt4.wav
+Chandler|Well, we don¬ít want that.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia989_utt5.wav
+Rachel|No, so we¬íre protecting her.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia989_utt6.wav
+Chandler|But we should take it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia989_utt7.wav
+Rachel|But we should move quick.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia989_utt8.wav
+Chandler|Why?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia989_utt9.wav
+Rachel|Because I think I just heard her moving around in there.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia989_utt10.wav
+Chandler|Go! Go! Go! Go! Go! Go! Go! Go! Go! Go!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia989_utt11.wav

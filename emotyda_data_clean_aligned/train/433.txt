@@ -1,0 +1,2 @@
+Ross|Yeah. She¬ís putting her down now, that¬ís her.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia433_utt0.wav
+Rachel|Oh it¬ís all right.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia433_utt1.wav

@@ -1,0 +1,22 @@
+Joey|Of course! Only an idiot would wear this stuff if you didn¬ít have the car! Right?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia596_utt0.wav
+Chandler|That is true.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia596_utt1.wav
+Phoebe|Yeah, but only a genius would swallow a sonic blaster gun.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia596_utt2.wav
+Joey|Oh, I¬íve been there. Yeah, I am gonna go drive my Porsche.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia596_utt3.wav
+Monica|Joey, you know you don¬ít actually have one.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia596_utt4.wav
+Joey|Come on! What are you doing?! I¬ím in character! Would you talk to her!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia596_utt5.wav
+Chandler|Ahh, I think it just moved. It¬ís really poking me.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia596_utt6.wav
+Monica|All right, that¬ís it, we¬íre going to the emergency room.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia596_utt7.wav
+Phoebe|What?! No, you can¬ít, you can¬ít leave me here with them! We¬íre baby-sitting!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia596_utt8.wav
+Monica|The babies are asleep, I¬ím sure you¬íll be okay on your own for a while!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia596_utt9.wav
+Phoebe|But you-you can¬ít leave me with them! We-we¬íre a team! We¬íre playing a zone! They¬íre gonna triple team me!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia596_utt10.wav
+Monica|He¬ís got something plastic lodged in his throat, we¬íve got to go to the hospital.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia596_utt11.wav
+Phoebe|But no, because a doctor won¬ít be able to help him, it¬ís just gonna y¬íknow naturally pass through his system in like seven years.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia596_utt12.wav
+Chandler|I think that¬ís gum.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia596_utt13.wav
+Phoebe|I¬ím pretty sure it¬ís gun.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia596_utt14.wav
+Chandler|Okay, listen this really hurts. Let¬ís go.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia596_utt15.wav
+Phoebe|A real man wouldn¬ít just run to the hospital! No! What would, what would Krog do?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia596_utt16.wav
+Ross|That was the only way I could get him to|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia596_utt17.wav
+Joey|Hi! How are the Gellers?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia596_utt18.wav
+Rachel|Don¬ít call us that!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia596_utt19.wav
+Ross|The judge wouldn¬ít let us get an annulment! Now we gotta get a divorce!! Did a Porsch throw up on you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia596_utt20.wav
+Joey|Hey! It¬ís Porsche!!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia596_utt21.wav

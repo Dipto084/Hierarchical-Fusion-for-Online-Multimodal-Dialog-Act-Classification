@@ -1,0 +1,10 @@
+Rachel|Oh! Hey, Mr. Treeger.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia804_utt0.wav
+Mr. Treeger|: What are you doing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia804_utt1.wav
+Rachel|Ummm. Oh! I¬ím sorry. It¬ís a little old but|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia804_utt2.wav
+Mr. Treeger|: No! You¬íre clogging up the chute that I spent a half-hour unclogging!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia804_utt3.wav
+Rachel|I¬ím sorry. I didn¬ít¬óI don¬ít come in here a lot.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia804_utt4.wav
+Mr. Treeger|: Oh yeah, of course you don¬ít!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia804_utt5.wav
+Mr. Treeger|: ¬ëCause you¬íre a little princess! "Daddy, buy me a pizza. Daddy, buy me a candy factory. Daddy, make the cast of|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia804_utt6.wav
+Mr. Treeger|: You think you could make a mess and the big man in coveralls will come in here and clean it up, huh?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia804_utt7.wav
+Mr. Treeger|Well, why don¬ít think of someone else for a change?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia804_utt8.wav
+Rachel|Okay, I¬ím sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia804_utt9.wav

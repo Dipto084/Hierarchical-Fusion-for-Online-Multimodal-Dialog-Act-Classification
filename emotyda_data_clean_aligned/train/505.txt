@@ -1,0 +1,16 @@
+Ross|Phoebe, oh my God! Wh-wh-what are you doing here?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia505_utt0.wav
+Phoebe|I need to talk to you, it¬ís pretty urgent. It¬ís about Monica and Chandler.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia505_utt1.wav
+Ross|Oh my God!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia505_utt2.wav
+Ross|Of course, of course.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia505_utt3.wav
+Ross|Umm, would you please excuse me for a moment?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia505_utt4.wav
+Ross|Umm, do you know each other¬ís hometowns?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia505_utt5.wav
+Ross|Why don¬ít you¬Ö Wh-what¬ís going on?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia505_utt6.wav
+Phoebe|Well, umm, not much.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia505_utt7.wav
+Phoebe|But, I was just thinking that since those guys just got engaged that maybe it would be nice if they had some privacy, y¬íknow?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia505_utt8.wav
+Phoebe|So, could I just move in with you for a couple days?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia505_utt9.wav
+Ross|Umm, okay, yeah, sure. But wh-what¬ís wrong with Monica and Chandler?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia505_utt10.wav
+Phoebe|Nothing..Why?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia505_utt11.wav
+Ross|Phoebe, you said it was urgent!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia505_utt12.wav
+Phoebe|Oh yeah it is! I¬ím going to the movies and it starts in like five minutes.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia505_utt13.wav
+Ross|Do you realize I have a classroom full of students?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia505_utt14.wav
+Phoebe|Oh, I¬ím sorry. I¬ím so rude. Does anyone want to come to the movies?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia505_utt15.wav

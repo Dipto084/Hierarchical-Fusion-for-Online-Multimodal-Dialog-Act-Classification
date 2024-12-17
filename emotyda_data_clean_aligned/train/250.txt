@@ -1,0 +1,7 @@
+Phoebe|Wow! It's huge! It's so much bigger than the cubicle. Oh, this is a cube.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia250_utt0.wav
+Chandler|Look at this!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia250_utt1.wav
+Phoebe|Oh! You have a window!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia250_utt2.wav
+Chandler|Yes indeedy! With a beautiful view of...|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia250_utt3.wav
+Phoebe|Oh look! That guy's peeing!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia250_utt4.wav
+Monica|Hi.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia250_utt5.wav
+Rachel|Hi.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia250_utt6.wav

@@ -1,0 +1,14 @@
+Joey|This sucks! I didn¬ít know I had to stay up all night before I went to this stupid sleep clinic! I¬ím so tired!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia89_utt0.wav
+Chandler|It¬ís 6:00.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia89_utt1.wav
+Rachel|Hi!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia89_utt2.wav
+Joey|Yeah, Rach, I think you¬íre handling that really well.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia89_utt4.wav
+Rachel|Handling it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia89_utt5.wav
+Rachel|What do you mean, handling it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia89_utt6.wav
+Rachel|There¬ís nothing to handle.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia89_utt7.wav
+Rachel|Now, maybe I would have a problem with this if it wasn¬ít for me and Joshua.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia89_utt8.wav
+Rachel|Y¬íknow, they¬íre not gonna get married anyway!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia89_utt9.wav
+Chandler|What?|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia89_utt10.wav
+Rachel|Come on!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia89_utt11.wav
+Rachel|They rushed into this thing so fast it¬ís ridiculous!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia89_utt12.wav
+Rachel|And somewhere along the way, one of them is gonna realise what they¬íve done and they¬íre call the whole thing off.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia89_utt15.wav
+Rachel|I¬ím telling ya, you¬íre gonna be dancing at my wedding before you¬íre dancing at there¬ís.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia89_utt16.wav

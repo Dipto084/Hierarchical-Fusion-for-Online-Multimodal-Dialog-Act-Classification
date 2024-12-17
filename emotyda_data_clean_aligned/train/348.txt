@@ -1,0 +1,4 @@
+Rachel|Open it! Open it! Open it!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia348_utt0.wav
+Ross|Yeah baby!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia348_utt1.wav
+Man|So we never got to hear about your wedding!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia348_utt2.wav
+Ross|No, no, it was just our parents and 1 or 2 friends. It was a small wedding.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia348_utt4.wav

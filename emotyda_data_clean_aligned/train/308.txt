@@ -1,0 +1,6 @@
+Supervisor|So basically this is very easy. You read from the script and try to sell as much toner as you possibly can.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia308_utt0.wav
+Phoebe|Okay, I can do that! Oh, by the way, I|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia308_utt1.wav
+Supervisor|Why don¬ít we do a trial run.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia308_utt2.wav
+Phoebe|Oh okay. Umm, all right. Hi, this is Phoebe from Empire Office Supplies, can I speak to your supply manager please?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia308_utt3.wav
+Supervisor|I¬ím the supply manager.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia308_utt4.wav
+Phoebe|Umm, okay I would like to talk to you about your toner needs.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia308_utt5.wav

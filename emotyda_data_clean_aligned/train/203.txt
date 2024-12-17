@@ -1,0 +1,6 @@
+Joey|Hey Ross! The baby¬ís kicking!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia203_utt0.wav
+Ross|What?! It is?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia203_utt1.wav
+Rachel|It¬ís not kicking right now. Although we would love to see you do that again.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia203_utt2.wav
+Ross|Hey, when-when was it kicking? What happened?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia203_utt3.wav
+Rachel|Last night! I just felt it and I went into Joey¬ís room and he was sleeping|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia203_utt4.wav
+Joey|A dreamless sleep.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia203_utt5.wav

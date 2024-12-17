@@ -1,0 +1,11 @@
+Rachel|Mom, would you relax.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia774_utt0.wav
+Rachel|That was 10 blocks from here and, the, the woman was walking alone at night, I would never do that.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia774_utt1.wav
+Rachel|Mom, c'mon, stop worrying.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia774_utt2.wav
+Rachel|This is a safe street, this is a safe building, there's nothing|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia774_utt3.wav
+Stranger|Hi.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia774_utt4.wav
+Rachel|Hi, hi can I help you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia774_utt5.wav
+Stranger|Yeah, I'm looking for Phoebe, does she still live here?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia774_utt6.wav
+Rachel|Uh, no she doesn't but I can, I can get a message to her.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia774_utt7.wav
+Stranger|Great. Uhh, just tell her her husband stopped by.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia774_utt8.wav
+Rachel|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia774_utt9.wav
+Stranger|Hey, how, how did you do that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia774_utt10.wav

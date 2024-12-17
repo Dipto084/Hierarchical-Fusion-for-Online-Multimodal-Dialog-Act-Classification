@@ -1,0 +1,4 @@
+Chandler|Can you see my nipples through this shirt?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia286_utt0.wav
+Rachel|No. But don't worry, I'm sure they're still there.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia286_utt1.wav
+Phoebe|Where are you going, Mr. Suity-Man?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia286_utt2.wav
+Chandler|Well, I have an appointment to see Dr. Robert Pillman, career counselor a-gogo. I added the "a-gogo."|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia286_utt3.wav

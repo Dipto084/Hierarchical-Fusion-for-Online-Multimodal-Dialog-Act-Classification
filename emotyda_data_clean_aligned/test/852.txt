@@ -1,0 +1,9 @@
+Phoebe|Hey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia852_utt0.wav
+Phoebe|Listen, um...|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia852_utt1.wav
+Phoebe|I'm sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia852_utt2.wav
+Phoebe|: Yeah, um... You know you, you should just forget about what I said under the bridge, I was talkin'|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia852_utt3.wav
+Phoebe|That's right, I don't... But I was, I was drunk on you!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia852_utt4.wav
+Phoebe|Okay, yeah, so it's not gonna work.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia852_utt5.wav
+Phoebe|If it was, would you stop hanging out with her?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia852_utt6.wav
+Phoebe|Um, then yes, it's 'cause of Phoebe! So, you know, it's either her or me.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia852_utt7.wav
+Phoebe|You know... You're gonna be really, really hard to get over.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia852_utt8.wav

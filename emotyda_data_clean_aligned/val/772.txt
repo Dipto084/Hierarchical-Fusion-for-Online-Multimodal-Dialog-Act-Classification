@@ -1,0 +1,16 @@
+Dr. Wesley|Good-bye and God speed, Hope Brady.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia772_utt0.wav
+Dr. Drake Remoray|Not so fast Wesley!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia772_utt1.wav
+Dr. Wesley|Ramoray!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia772_utt2.wav
+Dr. Drake Remoray|That¬ís right Wesley! I just stopped by to say that, you¬íre not a real doctor! And that woman¬ís brain, is fine!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia772_utt3.wav
+Rachel|Oh! Thank God!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia772_utt4.wav
+Dr. Drake Remoray|Hope! Hope!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia772_utt5.wav
+Hope|Drake!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia772_utt6.wav
+Dr. Drake Remoray|You¬íre not dying Hope, you¬íre gonna live a long, healthy life. With me.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia772_utt7.wav
+Hope|Oh Drake.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia772_utt8.wav
+Rachel|Okay!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia772_utt9.wav
+Rachel|Here we go!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia772_utt10.wav
+Rachel|Okay!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia772_utt11.wav
+Rachel|Hi, Joey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia772_utt12.wav
+Rachel|It¬ís Rachel!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia772_utt13.wav
+Rachel|Umm, I am free tomorrow night.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia772_utt14.wav
+Rachel|Yeah, sure, sure I can bring some sandwiches.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia772_utt15.wav

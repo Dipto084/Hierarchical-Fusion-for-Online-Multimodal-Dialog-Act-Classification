@@ -1,0 +1,9 @@
+Monica|Light still out?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia525_utt0.wav
+Rachel|Yeah.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia525_utt1.wav
+Monica|Oh. Maybe they're- napping.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia525_utt2.wav
+Rachel|Oh please, they're having sex.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia525_utt3.wav
+Monica and Phoebe|Shut up!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia525_utt4.wav
+Rachel|So, whaddya think George is like?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia525_utt5.wav
+Monica|I think he's shy.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia525_utt6.wav
+Phoebe|Yeah?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia525_utt7.wav
+Monica|Yeah. I think you have to draw him out. And then- when you do- he's a preppy animal.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia525_utt8.wav

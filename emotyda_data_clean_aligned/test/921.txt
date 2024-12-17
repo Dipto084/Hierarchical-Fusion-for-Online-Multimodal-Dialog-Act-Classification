@@ -1,0 +1,11 @@
+Phoebe|You-you¬Öyou had sex with Ursula?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia921_utt0.wav
+Eric|Uh, a little bit. She-she-she walked in and I thought she was you and I kissed her and|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia921_utt1.wav
+Phoebe|You didn¬ít notice she was wearing different clothes?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia921_utt2.wav
+Eric|Well I was just so excited to see you.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia921_utt3.wav
+Phoebe|Oh. Ew! Ew! Ew! Ugh! Y¬íknow what? This is too weird.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia921_utt4.wav
+Eric|No-no it¬ís not!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia921_utt5.wav
+Eric|I don¬ít want to lose you!|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia921_utt6.wav
+Eric|It¬ís-it¬ís like I was saying to Ursula when I was making love to her and I thought she was you¬óYeah it is too weird.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia921_utt7.wav
+Phoebe|So I guess this is it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia921_utt8.wav
+Eric|Yeah. Maybe it¬ís for the best. You smell just like her.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia921_utt9.wav
+Phoebe|Yeah, so do you.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia921_utt10.wav

@@ -1,0 +1,11 @@
+Rick|Wow, you have really pretty feet.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia778_utt0.wav
+Phoebe|These old things.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia778_utt1.wav
+Rick|Would you mind spending some time on my siadic area, it¬ís been killing me today.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia778_utt2.wav
+Phoebe|You mean the¬óOkay by siadic, you mean the towel covered portion.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia778_utt3.wav
+Rick|Yeah.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia778_utt4.wav
+Phoebe|Sure, yeah, no I can do that, yeah, because umm, y'know, the muscles in the siadic area can get y¬íknow, real nice and tight.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia778_utt5.wav
+Phoebe|So umm, tell me Rick, how umm, how did you injure the area.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia778_utt6.wav
+Rick|Oh, a 16-hour sit-in for Greenpeace.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia778_utt7.wav
+Phoebe|Oh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia778_utt8.wav
+Rick|Ow! Did you just bite me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia778_utt9.wav
+Phoebe|No!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia778_utt10.wav

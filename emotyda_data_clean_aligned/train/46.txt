@@ -1,0 +1,15 @@
+Monica|Because we won our apartment back!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia46_utt0.wav
+Joey|What? Ace is high! Jack, queen, king, ace!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia46_utt1.wav
+Monica|No! Ace is low! Ace, two, three, four!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia46_utt2.wav
+Phoebe|I don¬ít know. Ooh! Ooh! Look it! Ah-ha!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia46_utt3.wav
+Rachel|All right, cut, let¬ís pick again, pick again.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia46_utt4.wav
+Joey|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia46_utt5.wav
+Rachel|Come on apartment! Come on apartment! Oh! I know queen is high!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia46_utt6.wav
+Joey|Uh-huh, not as high as¬Ö It worked! King!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia46_utt7.wav
+Chandler|Yeah baby!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia46_utt8.wav
+Monica|But, we pick again! We pick again!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia46_utt9.wav
+Joey|Why?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia46_utt10.wav
+Monica|I don¬ít know!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia46_utt11.wav
+Chandler|Tickets please! That¬ís courtside baby!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia46_utt12.wav
+Joey|Seriously, good game though. Good game. What are they so mad about? They get the apartment back!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia46_utt13.wav
+Chandler|No they didn¬ít!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia46_utt14.wav

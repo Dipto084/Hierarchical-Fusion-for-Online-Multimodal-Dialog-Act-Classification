@@ -1,0 +1,13 @@
+Ross|Dad?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia638_utt0.wav
+Mr. Geller|I¬ím here!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia638_utt1.wav
+Ross|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia638_utt2.wav
+Mr. Geller|Hi. God, it seems like just yesterday you guys used to come out to watch me work.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia638_utt3.wav
+Ross|Dad, we-we can¬ít believe you¬íre selling the house.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia638_utt4.wav
+Mr. Geller|Well, it¬ís time for a new family to start their memories here and hopefully their check will clear before they find the crack in the foundation and the asbestos in the ceiling.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia638_utt5.wav
+Ross|Let¬ís grab our stuff and get the hell out of here.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia638_utt6.wav
+Mr. Geller|I¬ím sorry we can¬ít store your childhood things anymore.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia638_utt7.wav
+Monica|Oh, that¬ís okay, I can¬ít wait to see everything again! All of the memories|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia638_utt8.wav
+Mr. Geller|Well, I don¬ít know what¬ís in the boxes down here, but I do know there are six or seven|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia638_utt9.wav
+Monica|I used to|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia638_utt10.wav
+Ross|Yeah, not as much as you used to love to play uncooked batter eater.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia638_utt11.wav
+Monica|Hey, it is unreasonable to expect a child to wait for a|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia638_utt12.wav

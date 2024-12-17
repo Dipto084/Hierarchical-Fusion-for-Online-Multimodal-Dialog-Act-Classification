@@ -1,0 +1,6 @@
+Joey|Hmmm, soup!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia954_utt0.wav
+Carol|Joey, Ross is gonna be here any second, would you mind watching Ben for me while I use the ladies' room?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia954_utt1.wav
+Joey|Oh yeah, no problem.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia954_utt2.wav
+Carol|Thanks.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia954_utt3.wav
+Joey|Hi Ben! So you wanna be an actor huh? I gotta tell ya, it's no picnic. There's tons of rejection.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia954_utt4.wav
+Ross|Joey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia954_utt5.wav

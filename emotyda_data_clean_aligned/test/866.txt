@@ -1,0 +1,11 @@
+Emily|Monica, why have you brought me here of all places?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia866_utt0.wav
+Monica|You¬íll see.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia866_utt1.wav
+Emily|I tell you, this wedding is not going to happen.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia866_utt2.wav
+Ross|Okay? But-but imagine a lot more lights, okay? And-and y¬íknow fewer bricks, and-and-and flowers, and candles|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia866_utt3.wav
+Monica|And the musicians, look, they can go over here , okay? And the chairs can face this way , and¬Ö You go.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia866_utt4.wav
+Ross|But-but, if you don¬ít love this, we¬íll do it in any other place at any other time.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia866_utt5.wav
+Ross|Really, it¬ís fine, whatever you want.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia866_utt6.wav
+Emily|It¬ís perfect.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia866_utt7.wav
+Ross|And, I don¬ít know, if it starts to rain|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia866_utt8.wav
+Emily|Well then we¬íll get wet.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia866_utt9.wav
+Monica|Ohh. And I don¬ít even have a date.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia866_utt10.wav

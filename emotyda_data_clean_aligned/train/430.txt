@@ -1,0 +1,9 @@
+Ross|Well, okay so, I don¬ít have it all worked out quite yet. Just don¬ít say anything to Rachel, please?|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia430_utt0.wav
+Phoebe|Rachel is one of my closest friends. Although, being the only one who knows anything about this does makes me feel special. Okay!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia430_utt1.wav
+Rachel|Okay, stop-stop! Phoebe?!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia430_utt2.wav
+Phoebe|Hey Rach!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia430_utt3.wav
+Rachel|What was that?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia430_utt4.wav
+Phoebe|Sorry, mix up. Hey, how was the movie?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia430_utt5.wav
+Rachel|I haven¬ít seen it yet!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia430_utt6.wav
+Phoebe|Well then you¬íd better hurry! The Angelica! Go! Go!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia430_utt7.wav
+Joey|No|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia430_utt8.wav

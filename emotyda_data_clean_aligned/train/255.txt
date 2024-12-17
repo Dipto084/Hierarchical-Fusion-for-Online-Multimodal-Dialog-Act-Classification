@@ -1,0 +1,16 @@
+Monica|What we did was wrong. Oh god, I just had sex with somebody that wasn't alive during the Bicentennial.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia255_utt0.wav
+Young Ethan|I just had sex.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia255_utt1.wav
+Monica|Ethan, focus. How could you not tell me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia255_utt2.wav
+Young Ethan|Well, you never told me how old you were.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia255_utt3.wav
+Monica|Well, that's different. My lie didn't make one of us a felon in 48 states. What were you thinking?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia255_utt4.wav
+Young Ethan|I wasn't thinking. I was too busy fallin'...|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia255_utt5.wav
+Monica|Don't say it.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia255_utt6.wav
+Young Ethan|...in love with you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia255_utt7.wav
+Monica|Really?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia255_utt8.wav
+Young Ethan|Sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia255_utt9.wav
+Monica|Well,fall out of it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia255_utt10.wav
+Monica|You know, you shouldn't even be here, it's a school night.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia255_utt11.wav
+Monica|Oh god, oh god.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia255_utt12.wav
+Monica|I'm like those women that you see with shiny guys named Chad.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia255_utt13.wav
+Monica|I'm Joan Collins.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia255_utt14.wav
+Young Ethan|Who?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia255_utt15.wav

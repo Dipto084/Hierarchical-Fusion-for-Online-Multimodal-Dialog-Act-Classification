@@ -1,0 +1,5 @@
+Joey|Dude, I am sorry about what I said!|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia45_utt0.wav
+Chandler|No, no, you¬íre right, it is a ridiculous name!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia45_utt1.wav
+Joey|It¬ís not that bad.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia45_utt2.wav
+Chandler|Yes it is! From now on, I have no first name.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia45_utt3.wav
+Joey|So, you¬íre just Bing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia45_utt4.wav

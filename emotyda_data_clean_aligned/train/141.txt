@@ -1,0 +1,8 @@
+Mr. Franklin|Okay, I hear you loud and clear. Bob will stay put.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia141_utt0.wav
+Chandler|I think it¬ís best sir.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia141_utt1.wav
+Mr. Franklin|But we really do need to find someone up here.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia141_utt2.wav
+Mr. Franklin|The work is starting to pile up.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia141_utt3.wav
+Mr. Franklin|I¬íve got a stack of documents on my desk this high.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia141_utt4.wav
+Chandler|Y¬íknow what you should do, just toss ¬ëem in the shedder and claim you never got ¬ëem.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia141_utt5.wav
+Mr. Franklin|That¬ís a good one.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia141_utt6.wav
+Chandler|What does a guy have to|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia141_utt7.wav

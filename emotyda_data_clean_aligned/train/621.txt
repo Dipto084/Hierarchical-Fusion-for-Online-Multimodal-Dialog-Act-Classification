@@ -1,0 +1,8 @@
+Ross|Hey. Who¬ís that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia621_utt0.wav
+Rachel|New people.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia621_utt1.wav
+Ross|What happened to the Disgustingtons?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia621_utt2.wav
+Rachel|They¬íre having their baby!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia621_utt3.wav
+Rachel|It¬ís not fair Ross we got here first!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia621_utt4.wav
+Rachel|Right after you left they wheeled her off into delivery.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia621_utt5.wav
+Rachel|Oh but not before she gave me a juicy shot of little Jamie just crowning away.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia621_utt6.wav
+Ross|Wow! Sorry. So uh, how are the new people?|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia621_utt7.wav

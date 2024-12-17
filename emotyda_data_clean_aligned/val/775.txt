@@ -1,0 +1,14 @@
+Rachel|Alright, somebody.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia775_utt0.wav
+Monica|OK, I'll go. OK, senior year of college... on a pool table.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia775_utt1.wav
+All|Whoooaa!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia775_utt2.wav
+Ross|That's my sister.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia775_utt3.wav
+Joey|OK... my weirdest place would have to be... the women's room on the second floor of the New York CIty public library.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia775_utt4.wav
+Monica|Oh my God! What were you doing in a library?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia775_utt5.wav
+Ross|Pheebs, what about you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia775_utt6.wav
+Phoebe|Oh... Milwaukee.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia775_utt7.wav
+Rachel|Um... Ross?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia775_utt8.wav
+Ross|Disneyland, 1989, 'It's a Small World After All.'|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia775_utt9.wav
+All|No way!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia775_utt10.wav
+Ross|The ride broke down.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia775_utt11.wav
+Ross|So, Carol and I went behind a couple of those mechanical Dutch children... then they fixed the ride, and we were asked never to return to the Magic Kingdom.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia775_utt12.wav
+Phoebe|Oh, Rachel.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia775_utt13.wav

@@ -1,0 +1,8 @@
+Phoebe|Hey! You guys, I¬ím writing a holiday song for everyone. Do you want to hear it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia420_utt0.wav
+Rachel|Pheebs, that¬ís great!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia420_utt1.wav
+Phoebe|Oh, yay!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia420_utt2.wav
+Rachel|But y¬íknow umm, Rachel doesn¬ít rhyme with draddle.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia420_utt3.wav
+Phoebe|I know but it¬ís so hard! Nothing rhymes with your stupid name!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia420_utt4.wav
+Joey|What are you talking about? Lots of things rhyme with Rachel. Bagel. Mail. Jail. Bail. Able. May-pole.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia420_utt5.wav
+Phoebe|All good, thanks. Do you maybe have a nickname have like a nickname that¬ís easier to rhyme?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia420_utt6.wav
+Monica|Didn¬ít your dad used to call you Pumpkin?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia420_utt7.wav

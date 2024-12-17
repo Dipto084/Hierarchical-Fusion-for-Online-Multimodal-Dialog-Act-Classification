@@ -1,0 +1,14 @@
+Phoebe|Are you okay?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia398_utt0.wav
+Rachel|I need some milk.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia398_utt1.wav
+Phoebe|Ok, I've got milk Here you go... Oh! Better?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia398_utt2.wav
+Rachel|No...|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia398_utt3.wav
+Phoebe|I'm so embarrassed, I'm the one he hit on!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia398_utt4.wav
+Rachel|Pheebs, if I had never met him this never would have happened!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia398_utt5.wav
+Phoebe|I'm so sorry! No I'm sorry! No I'm sorry! No I'm sorry!|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia398_utt6.wav
+Phoebe|No, wait, oh, what are we sorry about?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia398_utt7.wav
+Rachel|I don't know...right, he's the pig!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia398_utt8.wav
+Phoebe|Such a pig!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia398_utt9.wav
+Rachel|Oh, God, he's such a pig,|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia398_utt10.wav
+Phoebe|Oh he's like a...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia398_utt11.wav
+Rachel|He's like a big disgusting...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia398_utt12.wav
+Phoebe|...like a...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia398_utt13.wav

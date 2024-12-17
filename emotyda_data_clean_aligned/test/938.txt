@@ -1,0 +1,10 @@
+Joey|Well, so anyway Beth, what I¬ím saying is I should¬íve considered your feelings before I went home with you that night.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia938_utt0.wav
+Joey|I¬íve ah, I¬íve recently learned what¬ís it like to be on your side of it, and I¬ím sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia938_utt1.wav
+Joey|So, do you think you can forgive me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia938_utt2.wav
+Joey|Great.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia938_utt3.wav
+Joey|Thanks.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia938_utt4.wav
+Joey|Okay, bye.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia938_utt5.wav
+Joey|Hello, Jennifer?|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia938_utt6.wav
+Joey|Oh hi, Mrs. Loreo, is Jennifer there?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia938_utt7.wav
+Joey|Oh, she¬ís not home huh?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia938_utt8.wav
+Joey|Well ah, actually I kinda need to talk to you too.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia938_utt9.wav

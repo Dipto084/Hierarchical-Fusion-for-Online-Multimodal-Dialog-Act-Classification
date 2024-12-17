@@ -1,0 +1,7 @@
+Lydia|So how did you know I was even here?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia444_utt0.wav
+Guy|Your mom called me. So is this her?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia444_utt1.wav
+Lydia|No, this is a loaner.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia444_utt2.wav
+Guy|I'm sorry you had to do this by yourself.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia444_utt3.wav
+Lydia|I wasn't by myself. I had a doctor, a nurse, and a helper guy. So, did you see who won the game?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia444_utt4.wav
+Guy|Yeah, the Knicks by 10. They suck.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia444_utt5.wav
+Lydia|Yeah, they're not so bad.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia444_utt6.wav

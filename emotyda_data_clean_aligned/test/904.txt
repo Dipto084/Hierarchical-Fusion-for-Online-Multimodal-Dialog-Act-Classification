@@ -1,0 +1,8 @@
+Monica|All right.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia904_utt0.wav
+Monica|The super couldn¬ít figure out what it did.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia904_utt1.wav
+Monica|A $200 an hour electrician couldn¬ít figure out what it did.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia904_utt2.wav
+Monica|I¬íve had seven pretty serious shocks.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia904_utt3.wav
+Monica|I officially give up.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia904_utt4.wav
+Rachel|Thank God.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia904_utt5.wav
+Monica|I guess Joey was right, it does nothing.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia904_utt6.wav
+Phoebe|See? I¬ím doing it. I am totally doing it. I lost it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia904_utt7.wav

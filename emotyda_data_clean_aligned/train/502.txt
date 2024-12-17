@@ -1,0 +1,3 @@
+Monica|Phoebe, we are so proud of you! You're amazing!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia502_utt0.wav
+Phoebe|I know.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia502_utt1.wav
+Rachel|So does it really hurt as bad as they say?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia502_utt2.wav

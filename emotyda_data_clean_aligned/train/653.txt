@@ -1,0 +1,5 @@
+Chandler|OK, that's enough of the view. Check this out, look at this. Sit down, sit down.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia653_utt0.wav
+Phoebe|OK.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia653_utt1.wav
+Chandler|This is great! Helen, could you come in here for a moment?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia653_utt2.wav
+Chandler|Thank you Helen, that'll be all.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia653_utt3.wav
+Chandler|Last time I do that, I promise.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia653_utt4.wav

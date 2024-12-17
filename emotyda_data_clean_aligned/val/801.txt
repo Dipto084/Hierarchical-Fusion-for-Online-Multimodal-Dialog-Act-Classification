@@ -1,0 +1,9 @@
+Monica|Um, the doctor says it's gotta be a needle.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia801_utt0.wav
+Monica|You're just gonna have to be brave, ok?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia801_utt1.wav
+Monica|Can you do that for me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia801_utt2.wav
+Ross|Ok.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia801_utt3.wav
+Monica|Ok. Oh boy. You are doin' so good. You wanna squeeze my hand?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia801_utt4.wav
+Ross|Yes!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia801_utt5.wav
+Monica|All right, Ross, don't squeeze it so hard.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia801_utt6.wav
+Monica|Honey, really, don't squeeze it so hard!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia801_utt7.wav
+Monica|Let go of my hand!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia801_utt8.wav

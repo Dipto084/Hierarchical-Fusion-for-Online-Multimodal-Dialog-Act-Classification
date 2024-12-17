@@ -1,0 +1,16 @@
+Paul|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia660_utt0.wav
+Paul|When I was six years old.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia660_utt1.wav
+Rachel|Hm-mm|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia660_utt2.wav
+Paul|I wanted a big wheel.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia660_utt3.wav
+Paul|And instead my parents got me this little plastic chicken that you hop around on.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia660_utt4.wav
+Paul|It was embarrassing, kids made fun of me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia660_utt5.wav
+Paul|That was a pretty tough year.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia660_utt6.wav
+Rachel|That¬ís-that¬ís great!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia660_utt7.wav
+Rachel|See?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia660_utt8.wav
+Rachel|I already feel like I know you a little better!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia660_utt9.wav
+Rachel|Thank you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia660_utt10.wav
+Rachel|Okay, come on.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia660_utt11.wav
+Rachel|Now we can go eat.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia660_utt12.wav
+Rachel|Let¬ís go.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia660_utt13.wav
+Paul|It was horrible. They called me chicken boy.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia660_utt14.wav
+Rachel|Oh!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia660_utt15.wav

@@ -1,0 +1,14 @@
+Phoebe|Ok, so now we need, um sage branches and the sacramental wine.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia440_utt0.wav
+Monica|All I have is, is oregano and a|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia440_utt1.wav
+Phoebe|Um, that's ok! Ok. All right. Now we need the semen of a righteous man.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia440_utt2.wav
+Rachel|Ok, Pheebs, you know what, if we had that, we wouldn't be doing the ritual in the first place.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia440_utt3.wav
+Monica|Can we just start throwing things in?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia440_utt4.wav
+Phoebe|Ok, yeah, ok. Oh, OK.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia440_utt5.wav
+Rachel|Ok, Barry's letters. Adam Ritter's boxer shorts.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia440_utt6.wav
+Phoebe|Ok, and I have the, uh receipt for my dinner with Nokululu Oon Ah Ah.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia440_utt7.wav
+Monica|Look, here's a picture of Scotty Jared naked.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia440_utt8.wav
+Rachel|Hey he's wearing a sweater.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia440_utt9.wav
+Monica|No.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia440_utt10.wav
+Rachel and Phoebe|Eww!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia440_utt11.wav
+Rachel|And here we have the last of Paulo's grappa.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia440_utt12.wav
+Monica|Hey, Rachel, isn't that stuff almost pure...|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia440_utt13.wav

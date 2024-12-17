@@ -1,0 +1,9 @@
+Phoebe|Hello, tiny embryos.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia783_utt0.wav
+Phoebe|Well, I¬ím-I¬ím Phoebe Buffay, hi!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia783_utt1.wav
+Phoebe|I¬ím-I¬ím-I¬ím hoping to be your uterus for the next nine months.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia783_utt2.wav
+Phoebe|You should know, that we¬íre doing this for Frank and Alice, who you know, you¬íve been there!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia783_utt3.wav
+Phoebe|Umm, y¬íknow they want you so much, so when you guys get in there, really grab on.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia783_utt4.wav
+Phoebe|Okay, and-and I promise that I¬íll keep you safe and warm until you¬íre ready to have them take you home, so¬Ö Oh!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia783_utt5.wav
+Phoebe|And also, umm next time you see me, I¬ím screaming, don¬ít worry, that¬ís what¬ís supposed to happen.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia783_utt6.wav
+Dr. Zane|Ready?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia783_utt7.wav
+Phoebe|Uh-huh. Good luck.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia783_utt8.wav

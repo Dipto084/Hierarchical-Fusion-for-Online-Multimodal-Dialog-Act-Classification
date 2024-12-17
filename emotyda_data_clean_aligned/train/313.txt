@@ -1,0 +1,4 @@
+Joey|What are you doing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia313_utt0.wav
+Chandler|The key¬ís stuck in the lock.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia313_utt1.wav
+Joey|I can fix it. Hold on. Look out. Look out.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia313_utt2.wav
+Chandler|It still doesn¬ít work.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia313_utt3.wav

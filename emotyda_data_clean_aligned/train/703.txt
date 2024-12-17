@@ -1,0 +1,7 @@
+Monica|He is so cute. So, where did you guys grow up?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia703_utt0.wav
+Angela|Brooklyn Heights.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia703_utt1.wav
+Bob|Cleveland.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia703_utt2.wav
+Monica|How, how did that happen?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia703_utt3.wav
+Joey|Oh my god.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia703_utt4.wav
+Monica|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia703_utt5.wav
+Joey|I suddenly had the feeling that I was falling. But I'm not.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia703_utt6.wav

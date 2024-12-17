@@ -1,0 +1,18 @@
+Julie|So.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia455_utt0.wav
+Rachel|So.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia455_utt1.wav
+Rachel|I just thought the two of us should hang out for a bit.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia455_utt2.wav
+Rachel|I mean, you know, we've never really talked.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia455_utt3.wav
+Rachel|I guess you'd know that, being one of the two of us, though, right?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia455_utt4.wav
+Julie|I know, I probably shouldn't even tell you this, but I'm pretty much totally intimidated by you.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia455_utt5.wav
+Rachel|Really? Me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia455_utt6.wav
+Julie|Oh my god, are you kidding?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia455_utt7.wav
+Julie|Ross is so crazy about you, and I really wanted you to like me, and, it's probably me being totally paranoid, but I kinda got the feeling that maybe you don't.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia455_utt8.wav
+Rachel|Well, you're not totally paranoid.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia455_utt9.wav
+Julie|Oy.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia455_utt10.wav
+Rachel|Um, ok, uh, oh god, um, when you and uh Ross first started going out, it was really hard for me, um, for many reasons, which I'm not gonna bore you with now, but um, I just, I see how happy he is, you know, and how good you guys are together, and um, Monica's always saying how nice you are, and god I hate it when she's right.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia455_utt11.wav
+Julie|Thanks. Hey, listen, would you like to go to a movie sometime or something?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia455_utt12.wav
+Rachel|Yeah, that'd be great. I'd love it.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia455_utt13.wav
+Julie|I'd love it too. Shoot, I gotta go. So, I'll talk to you later.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia455_utt14.wav
+Rachel|All right, Julie.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia455_utt15.wav
+Julie|Bye.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia455_utt16.wav
+Rachel|Bye. What a manipulative bitch.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia455_utt17.wav

@@ -1,0 +1,11 @@
+Tag|So, what¬ís this about?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia177_utt0.wav
+Phoebe|Rachel has something that she wants to tell you and umm, I believe that this is your red sweater.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia177_utt1.wav
+Tag|No. This is my red sweater.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia177_utt2.wav
+Phoebe|Oh no. Could I get anyone a coffee or¬Öpoison? No? Just for me? Okay.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia177_utt3.wav
+Tag|What¬ís going on Rach?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia177_utt4.wav
+Rachel|Nothing! Phoebe kinda made a mistake. But y¬íknow you do wear that sweater a lot, are you involved in some kind of dare?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia177_utt5.wav
+Tag|Y¬íknow, I¬ím actually glad Phoebe called.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia177_utt6.wav
+Tag|I know we broke up because you thought I wasn¬ít mature enough, but I¬íve really grown up and think we should get back together.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia177_utt7.wav
+Rachel|Oh, it¬ís just not the right time.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia177_utt8.wav
+Tag|It is the right time.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia177_utt9.wav
+Rachel|Okay.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia177_utt10.wav

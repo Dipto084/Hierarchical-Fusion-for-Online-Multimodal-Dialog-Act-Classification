@@ -1,0 +1,3 @@
+Phoebe|Yeah, okay let¬ís leave these two alone.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia454_utt0.wav
+Rachel|No! I do not care what my hormones are doing, I am not going to just do it with some random guy!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia454_utt1.wav
+Phoebe|Fine! Then you tell Roger because he was really looking forward to this!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia454_utt2.wav

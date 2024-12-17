@@ -1,0 +1,7 @@
+Monica|No-no, Rachel, don¬ít get it! He can¬ít see us!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia84_utt0.wav
+Phoebe|No, yeah! The groom cannot see the bride!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia84_utt1.wav
+Rachel|I¬ím not gonna marry Chandler!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia84_utt2.wav
+Phoebe|Not after this!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia84_utt3.wav
+Rachel|Okay, you guys, just relax. I doooo.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia84_utt4.wav
+Joshua|I gotta go.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia84_utt5.wav
+Rachel|Oh, wait, Joshua! Joshua! Yeah, well, that oughta do it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia84_utt6.wav

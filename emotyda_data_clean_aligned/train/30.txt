@@ -1,0 +1,16 @@
+Elizabeth|This is my father, Paul Stevens. Dad, this is Ross Geller.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia30_utt0.wav
+Ross|It-it¬ís great to meet you Paul.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia30_utt1.wav
+Paul|I usually prefer Elizabeth¬ís boyfriends to address me as Mr. Stevens.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia30_utt2.wav
+Ross|Of course, of course, Mr. Stevens.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia30_utt3.wav
+Paul|So Ross, what your problem?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia30_utt4.wav
+Ross|Eh-wh¬óExcuse me?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia30_utt5.wav
+Paul|Why can¬ít you get a girlfriend your own age?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia30_utt6.wav
+Ross|That¬ís funny. Umm¬Ö. It¬ís not funny.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia30_utt7.wav
+Paul|I|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia30_utt8.wav
+Ross|Okay.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia30_utt9.wav
+Ross|I can, I can see that.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia30_utt10.wav
+Ross|Umm, but I think if you give me umm, one chance I can, I can change your mind.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia30_utt11.wav
+Paul|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia30_utt12.wav
+Ross|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia30_utt13.wav
+Paul|Okay. I¬íll give you one chance to change my mind. You got one minute.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia30_utt14.wav
+Elizabeth|Daddy!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia30_utt15.wav

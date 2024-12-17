@@ -1,0 +1,14 @@
+Joey|Oh, that's what she meant!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia730_utt0.wav
+Joey|You know, if they're gonna shorten it, they should call it the MUSE!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia730_utt1.wav
+Joey|You know, short for museum, and avoid all the confusion!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia730_utt2.wav
+Ross|Yeah, most of it it's a place|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia730_utt3.wav
+Joey|Ok, all right, so I'll take her to the MET.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia730_utt4.wav
+Ross|Yeah, uh, uh, ok, there's this great rare bookstore on Madison Avenue.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia730_utt5.wav
+Ross|You know what?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia730_utt6.wav
+Ross|She loves architecture, you know what you should do?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia730_utt7.wav
+Ross|You should take a walk down fifth to the Saint Patrick's Cathedral and there there's this great little pastry shop that she'd love.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia730_utt8.wav
+Joey|Geez, sounds like you should be going on this date!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia730_utt9.wav
+Ross|But I'm not! . You know what if you're in the mood for Thai food...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia730_utt10.wav
+Joey|Whoa, whoa, whoa! Slow down, you go|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia730_utt11.wav
+Ross|Ok.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia730_utt12.wav
+Joey|You got to tell me exactly what to do there.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia730_utt13.wav

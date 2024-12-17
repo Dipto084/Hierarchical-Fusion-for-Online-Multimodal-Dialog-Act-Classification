@@ -1,0 +1,16 @@
+Ross|Four letters: "Circle or hoop".|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia483_utt0.wav
+Chandler|Ring dammit, ring!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia483_utt1.wav
+Ross|Thanks.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia483_utt2.wav
+Joey|Hey, you know our phone's not working?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia483_utt3.wav
+Chandler|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia483_utt4.wav
+Joey|I tried to call you from the coffee shop, and there was no answer.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia483_utt5.wav
+Chandler|I turned it off. Mother of God, I turned it off!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia483_utt6.wav
+Monica|Just like you told her you did! ... Just pointing out the irony.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia483_utt7.wav
+Joey|Hey, so listen, I went across the street and talked to the doorman- I got the peeper's name! Can I use the phone?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia483_utt8.wav
+Joey|Nngghhh!!!!!!!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia483_utt9.wav
+Joey|Can I use your phone? Yeah, the number for a Sidney Marks, please.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia483_utt10.wav
+Ross|"Heating device."|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia483_utt11.wav
+Phoebe|Radiator.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia483_utt12.wav
+Ross|Five letters.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia483_utt13.wav
+Phoebe|Rdtor.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia483_utt14.wav
+Joey|Yeah, is Sidney there? Oh, this is? Sidney's a woman.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia483_utt15.wav

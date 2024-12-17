@@ -1,0 +1,8 @@
+Chandler|All right, there¬ís a nuclear holocaust, I¬ím the last man on Earth. Would you go out with me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia93_utt0.wav
+Monica|Enhh|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia93_utt1.wav
+Chandler|I¬íve got canned goods.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia93_utt2.wav
+Joey|Hey, you guys! Take a look at this! Check this baby out, dug me a hole!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia93_utt3.wav
+Chandler|Excellent hole, Joe.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia93_utt4.wav
+Joey|Oh no! No!! My hole!!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia93_utt5.wav
+Monica|Ow!! Ow!!!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia93_utt6.wav
+Joey|What?! What?!! What is it?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia93_utt7.wav

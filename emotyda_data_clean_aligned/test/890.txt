@@ -1,0 +1,5 @@
+Rachel|Hello?|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia890_utt0.wav
+Russell|Hello, is Ross there?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia890_utt1.wav
+Rachel|Uh no, he¬ís not. Can I take a message?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia890_utt2.wav
+Russell|Yes, this Russell, Ross¬ís divorce lawyer, just tell him that since I haven¬ít heard from him, I assume he¬ís decided to give the marriage a try.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia890_utt3.wav
+Rachel|Ross got married again¬óNooooooo!!!!!!!!!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia890_utt4.wav

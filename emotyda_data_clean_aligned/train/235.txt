@@ -1,0 +1,10 @@
+Monica|We were on the platform, ready to dance the world into the new Millennium, and the guy yelled ¬ëCUT!¬í|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia235_utt0.wav
+Rachel|Uh, wait, so you guys are telling me you actually did the routine from eighth grade?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia235_utt1.wav
+Monica|Yeah. But of course we had to update it a little bit. Hey, by the way, great thinking about catching me!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia235_utt2.wav
+Rachel|¬ëCos I was gonna say there¬ís no way you could¬íve done the end the way you guys did it back then!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia235_utt3.wav
+Monica|What? We could do it!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia235_utt4.wav
+Ross|I don¬ít know, I mean you were a lot bigger, I mean, stronger back then.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia235_utt5.wav
+Monica|I can do it, okay? Come on, let¬ís go.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia235_utt6.wav
+Monica and Ross|1, 2, 3, 4, 5, 6, 7, 8|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia235_utt7.wav
+Monica|I can¬ít do it!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia235_utt8.wav
+Chandler|Now you do that, you¬íre on TV.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia235_utt9.wav

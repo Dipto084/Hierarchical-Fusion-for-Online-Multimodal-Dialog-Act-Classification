@@ -1,0 +1,3 @@
+Ross|Hey, uh, I¬ím really, really sorry about what happened in the cafeteria today.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia216_utt0.wav
+Joey|It¬ís no big deal. Hey, y¬íknow, you do what you gotta do. Right?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia216_utt1.wav
+Ross|But hey, it¬ís not just me, I mean the scientists and the tour guides|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia216_utt2.wav

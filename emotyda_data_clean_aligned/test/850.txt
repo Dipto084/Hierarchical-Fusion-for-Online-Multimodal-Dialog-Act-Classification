@@ -1,0 +1,7 @@
+Monica|That really was some of your best work.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia850_utt0.wav
+Chandler|Hm-hmm, I told you! I can¬ít believe that I¬íve only got two hours before I call in sick for work.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia850_utt1.wav
+Monica|I have to be up in seven minutes.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia850_utt2.wav
+Chandler|Well, you¬íre not gonna believe this, but if you have seven minutes|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia850_utt3.wav
+Monica|Really?!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia850_utt4.wav
+Chandler|Do you wanna?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia850_utt5.wav
+Monica|Okay! You get the vacuum cleaner and I¬íll get the furniture polish!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia850_utt6.wav

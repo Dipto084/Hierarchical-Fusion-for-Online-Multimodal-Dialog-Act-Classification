@@ -1,0 +1,3 @@
+Phoebe|Yeah, what town are we near?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia495_utt0.wav
+Monica|Freemont. West-Westmont, ah Westburg?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia495_utt1.wav
+Phoebe|Then why are you answering? Do you at least know what route we¬íre on?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia495_utt2.wav

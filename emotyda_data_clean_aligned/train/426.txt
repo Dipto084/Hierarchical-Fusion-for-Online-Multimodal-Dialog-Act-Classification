@@ -1,0 +1,8 @@
+Phoebe|Hi.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia426_utt0.wav
+Phoebe|Listen, I¬ím sorry about that whole thing with Roger.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia426_utt1.wav
+Phoebe|It really wasn¬ít right, and I, and I want to make it up to you, so umm, I brought you something that I think you¬íll really enjoy.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia426_utt2.wav
+Phoebe|Now, this is just a loan.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia426_utt3.wav
+Phoebe|Okay?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia426_utt4.wav
+Phoebe|I¬ím gonna, I¬ím gonna want him back.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia426_utt5.wav
+Phoebe|So¬Ö I¬ím gonna go now.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia426_utt6.wav
+Phoebe|I¬ím sorry, I thought I could do it and I can¬ít!|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia426_utt7.wav

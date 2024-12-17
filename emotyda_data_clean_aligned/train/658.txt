@@ -1,0 +1,21 @@
+Chandler|I am telling you, years from now, schoolchildren will study it as one of the greatest first dates of all time.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia658_utt0.wav
+Chandler|It was unbelievable!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia658_utt1.wav
+Chandler|We could totally be ourselves, we didn't have to play any games...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia658_utt2.wav
+Monica|So have you called her yet?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia658_utt3.wav
+Chandler|Let her know I like her?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia658_utt4.wav
+Chandler|What are you, insane?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia658_utt5.wav
+Chandler|It's the next day!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia658_utt6.wav
+Chandler|How needy do I want to seem?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia658_utt7.wav
+Chandler|I'm right, right?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia658_utt8.wav
+Joey and Ross|Oh, yeah. Yeah. Let her dangle.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia658_utt9.wav
+Monica|I can't believe my parents are actually pressuring me to find one of you people.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia658_utt10.wav
+Phoebe|Oh, God, just do it! Call her! Stop being so testosteroney!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia658_utt11.wav
+Chandler|Which, by the way, is the real San Francisco treat. I got her machine.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia658_utt12.wav
+Joey|Her answer machine?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia658_utt13.wav
+Chandler|No, interestingly enough her leaf blower picked up.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia658_utt14.wav
+Phoebe|So, uh, why didn't you say anything?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia658_utt15.wav
+Chandler|Oh, no-no-no-no. Last time I left a spontaneous message I ended up using the phrase "Yes indeedy-o."|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia658_utt16.wav
+Monica|Look look! It's Rachel and Barry. No, don't everybody look at once!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia658_utt17.wav
+Ross|Okay, okay, what's going on?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia658_utt18.wav
+Phoebe|Okay, they're just talking...|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia658_utt19.wav
+Ross|Yeah, well, does he look upset? Does he look like he was just told to shove anything?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia658_utt20.wav

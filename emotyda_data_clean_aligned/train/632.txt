@@ -1,0 +1,18 @@
+Monica|Is he crazy?! You just had Ross‚Äôs baby!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia632_utt0.wav
+Rachel|Well, I-I said yes.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia632_utt1.wav
+Monica|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia632_utt2.wav
+Monica|Are you crazy?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia632_utt3.wav
+Monica|You just had Ross‚Äôs baby!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia632_utt4.wav
+Monica|It‚Äôs-it‚Äôs so inappropriate.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia632_utt5.wav
+Monica|No, it‚Äôs worse than that.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia632_utt6.wav
+Monica|It‚Äôs wrong.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia632_utt7.wav
+Monica|It‚Äôs‚Ä¶ It is bigger than mine!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia632_utt8.wav
+Rachel|I know.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia632_utt9.wav
+Monica|You can‚Äôt marry him!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia632_utt10.wav
+Rachel|Why not? I don‚Äôt want to do this alone! And he‚Äôs such a sweet guy and he loves me so much.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia632_utt11.wav
+Monica|Well do you love him?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia632_utt12.wav
+Rachel|Sure.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia632_utt13.wav
+Monica|Sure?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia632_utt14.wav
+Rachel|Yeah, I mean whatever.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia632_utt15.wav
+Monica|Honey, the question is‚Ä¶do you really want to marry Joey?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia632_utt16.wav
+Rachel|No. No, I don‚Äôt. Could you be a dear and go tell him?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia632_utt17.wav

@@ -1,0 +1,11 @@
+Chandler|Hey, y¬íknow what, if you¬íre gonna do that, if you¬íre gonna name him Joey, you should name him Chandler.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia871_utt0.wav
+Chandler|Oh, come on!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia871_utt1.wav
+Chandler|Chandler¬ís funny, sophisticated, and he¬ís very loveable, once you get to know him.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia871_utt2.wav
+Joey|Oh well, hey, Joey¬ís loveable too! But the thing about Joey is, if you need him, he¬íll be there.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia871_utt3.wav
+Chandler|Well, Chandler will be there for you too.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia871_utt4.wav
+Chandler|I mean, well, he might be a little late, but-but, he¬íll be there.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia871_utt5.wav
+Chandler|And he¬íll bring you some cold soda, if want you need him for is that you¬íre really hot.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia871_utt6.wav
+Joey|What do ya say? What do ya say?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia871_utt7.wav
+Phoebe|Well, I, I like the idea of naming him after someone I love, and Joey and Chandler are great names.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia871_utt8.wav
+Phoebe|But, all right, I don¬ít¬ómaybe I¬íll just name him The Hulk.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia871_utt9.wav
+Joey|I knew I shouldn¬ít have mentioned it! That¬ís what I wanted to name my kid!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia871_utt10.wav

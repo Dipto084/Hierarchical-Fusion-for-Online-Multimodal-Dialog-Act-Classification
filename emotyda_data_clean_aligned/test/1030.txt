@@ -1,0 +1,6 @@
+Ross|Chloe? Hi..|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1030_utt0.wav
+Chloe|Is this about me taking your watch?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1030_utt1.wav
+Ross|You took my watch?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1030_utt2.wav
+Chloe|I¬ím sorry, I do that.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1030_utt3.wav
+Ross|Just you keep it, listen did you, did you tell anyone about us?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1030_utt4.wav
+Chloe|Oh no. I feel it isn¬ít really anybody¬ís business, y'know.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1030_utt5.wav

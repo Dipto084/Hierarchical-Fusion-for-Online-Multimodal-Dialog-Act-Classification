@@ -1,0 +1,2 @@
+Rachel|Oh, that¬ís very¬óReally very-very okay.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia469_utt0.wav
+Marc|Julie¬ís cervix is dilated a seven centimeters, that¬ís about four fingers. The doctor let me feel it myself.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia469_utt1.wav

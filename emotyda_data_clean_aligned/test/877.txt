@@ -1,0 +1,5 @@
+Phoebe|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia877_utt0.wav
+David|Hey! Oh, I was just about to leave. I-I-I-I didn¬ít think you were coming.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia877_utt1.wav
+Phoebe|Oh, I wouldn¬ít miss this.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia877_utt2.wav
+David|Well, I¬ím very glad you¬íre here.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia877_utt3.wav
+Phoebe|Oh, you¬íre such a gentleman. Come on! We¬íre going to my place!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia877_utt4.wav

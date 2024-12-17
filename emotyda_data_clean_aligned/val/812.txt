@@ -1,0 +1,14 @@
+Monica|What about these? These look the same?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia812_utt0.wav
+Phoebe|Definitely!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia812_utt1.wav
+Monica|Not as each other!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia812_utt2.wav
+Phoebe|Oh, then no.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia812_utt3.wav
+Chandler|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia812_utt4.wav
+Monica|Hi!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia812_utt5.wav
+Chandler|You look amazing. I'm the luckiest man in the world.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia812_utt8.wav
+Monica|Ohh, you're about to get a little luckier.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia812_utt9.wav
+Chandler|Let me see the earrings.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia812_utt10.wav
+Monica|Oh, honey, the earrings|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia812_utt11.wav
+Chandler|They look great! Does your boyfriend have the best taste or what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia812_utt12.wav
+Monica|My boyfriend really does have good taste!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia812_utt13.wav
+Chandler|Thanks for picking out the earrings man.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia812_utt14.wav
+Ross|Mm-Hm|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia812_utt15.wav

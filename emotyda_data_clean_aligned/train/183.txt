@@ -1,0 +1,20 @@
+Phoebe|Hi.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia183_utt0.wav
+Duncan|Phoebe!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia183_utt1.wav
+Phoebe|Ta-da.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia183_utt2.wav
+Duncan|Hey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia183_utt3.wav
+Phoebe|Hi.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia183_utt4.wav
+Duncan|Ahh, look at you, you look great.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia183_utt5.wav
+Phoebe|Do I? Thank you, so do you.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia183_utt6.wav
+Duncan|Thanks.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia183_utt7.wav
+Phoebe|Sparkly.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia183_utt8.wav
+Phoebe|So, wow, this is pretty wonerful, huh.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia183_utt9.wav
+Phoebe|Mr. major capades guy.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia183_utt10.wav
+Phoebe|I, I remember when you were just, like, King Friday in Mr. Roger's Ice is Nice.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia183_utt11.wav
+Duncan|You always said I'd make it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia183_utt12.wav
+Phoebe|Yeah, well, ya know, I'm kind of spooky that way. Wooo.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia183_utt13.wav
+Duncan|I missed you. I'm gonna get changed.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia183_utt14.wav
+Phoebe|OK.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia183_utt15.wav
+Duncan|Um, now. Phoebs.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia183_utt16.wav
+Phoebe|Oh, right, OK. Ole.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia183_utt17.wav
+Duncan|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia183_utt18.wav
+Phoebe|Um, the matador. Ole, ha ha ha.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia183_utt19.wav

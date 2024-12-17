@@ -1,0 +1,8 @@
+Monica|Thank you. Just make yourself comfortable.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1003_utt0.wav
+Joey|Gotcha.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1003_utt1.wav
+Monica|This place is really my Grandmother¬ís.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1003_utt2.wav
+Monica|I got it from her when she moved to Florida, otherwise I could never afford a place like this.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1003_utt3.wav
+Monica|So if the landlord ever asks, I¬ím 87 year old woman, who¬ís afraid of her VCR.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1003_utt4.wav
+Monica|So are you thirsty?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1003_utt5.wav
+Joey|Oh, you bet I am!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1003_utt6.wav
+Monica|Okay, here¬ís your penis!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1003_utt7.wav

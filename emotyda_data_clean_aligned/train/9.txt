@@ -1,0 +1,14 @@
+Chandler|What've you been up to?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia9_utt0.wav
+Jade|Oh, you know, the usual, teaching aerobics, partying way too much.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia9_utt1.wav
+Jade|Oh, and in case you were wondering, those are my legs on the new James Bond poster.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia9_utt2.wav
+Chandler|Can you hold on a moment? I have another call. I love her.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia9_utt3.wav
+Ross|I know.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia9_utt4.wav
+Chandler|I'm back.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia9_utt5.wav
+Jade|So, are we gonna get together or what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia9_utt6.wav
+Chandler|Um, absolutely. Uh, how 'bout tomorrow afternoon? Do you know uh, Central Perk in the Village, say, five-ish?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia9_utt7.wav
+Jade|Great, I'll see you then.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia9_utt8.wav
+Chandler|Ok. Ok. Having a phone has finally paid off.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia9_utt9.wav
+Ross|Even though you do do a good Bob impression, I'm thinkin' when she sees you tomorow, she's probably gonna realize, "Hey, you're not Bob."|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia9_utt10.wav
+Chandler|I'm hoping that when Bob doesn't show up, she will seek comfort in the open arms of the wry stranger at the next table.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia9_utt11.wav
+Ross|Oh my god. You are pure evil.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia9_utt12.wav
+Chandler|Ok, pure evil , horny and alone . I've done this|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia9_utt13.wav

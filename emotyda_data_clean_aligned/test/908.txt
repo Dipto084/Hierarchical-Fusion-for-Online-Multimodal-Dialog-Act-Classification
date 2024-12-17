@@ -1,0 +1,17 @@
+Phoebe|Shh! Get me out of here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia908_utt0.wav
+Rachel|Oh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia908_utt1.wav
+Joey|Ross!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia908_utt2.wav
+Ross|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia908_utt3.wav
+Joey|Come here, check this out!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia908_utt4.wav
+Ross|What? Is it the comet?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia908_utt5.wav
+Joey|No! No-no. Look, there¬ís a bug stuck in tar right here.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia908_utt6.wav
+Ross|Joey come¬óI can¬ít believe¬óI bring you here to see the Bapstein-King comet, one of nature¬ís most spectacular phenomenon, and all you care about are bugs stuck in tar and-and some woman!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia908_utt7.wav
+Joey|Y¬íknow, there¬ís|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia908_utt8.wav
+Ross|Show me where?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia908_utt9.wav
+Joey|Right-right up here.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia908_utt10.wav
+Ross|Joey where¬ís the pipe that was holding the door open?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia908_utt11.wav
+Joey|I don¬ít know! Yeah, I do.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia908_utt12.wav
+Ross|Joey!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia908_utt13.wav
+Joey|What?! All right¬óHey! Don¬ít look at me! You¬íre the one who wanted to come up and look for some stupid|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia908_utt14.wav
+Ross|It¬ís called the Bapstein-King comet, okay? Hey! Hey! Bapstein was a very well respected astronomer!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia908_utt15.wav
+Joey|Oh no! No! No!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia908_utt16.wav

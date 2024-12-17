@@ -1,0 +1,22 @@
+Jane|Hi Joey it's Jane Rogers, can't wait for your party tonight.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia184_utt0.wav
+Jane|Listen, I forgot your address, can you give me a call?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia184_utt1.wav
+Jane|Thanks, bye.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia184_utt2.wav
+Joey|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia184_utt3.wav
+Rachel|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia184_utt4.wav
+Joey|What's happening?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia184_utt5.wav
+Rachel|Yeah, it's a real shame you can't make it to that one-woman show tonight.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia184_utt6.wav
+Joey|Oh, I'd love to, but I gotta get up so early the next day and so, you know me, work comes first|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia184_utt7.wav
+Rachel|Oh, yeah, yeah, yeah...|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia184_utt8.wav
+Message|"Hi Joey, it's Jane Rogers can't wait for your party tonight"|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia184_utt9.wav
+Joey|Stupid Jane Rogers!!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia184_utt10.wav
+Rachel|You are having a party tonight??|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia184_utt11.wav
+Joey|Kinda have a... a thing for the Days Of Our Life's people.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia184_utt12.wav
+Rachel|And you weren't going to tell us? How did you think you were gonna get away with that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia184_utt13.wav
+Joey|I do it every year.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia184_utt14.wav
+Rachel|You do that every year??|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia184_utt15.wav
+Joey|I didn't have to tell you that!! I'm stupider than Jane Rogers!!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia184_utt16.wav
+Rachel|Oh, that's why you got these tickets to that play, to get rid of us??|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia184_utt17.wav
+Joey|Yeah...|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia184_utt18.wav
+Rachel|And last year is that why you sent us to that medieval times restaurant?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia184_utt19.wav
+Joey|Yeah...|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia184_utt20.wav
+Rachel|OH! And the year before that, when you set up that nighttime tour of that button factory?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia184_utt21.wav

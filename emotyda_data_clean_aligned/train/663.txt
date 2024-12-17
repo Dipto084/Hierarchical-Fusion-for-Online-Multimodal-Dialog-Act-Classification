@@ -1,0 +1,10 @@
+Chandler|That was amazing!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia663_utt0.wav
+Monica|Phoebe and Gary are|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia663_utt1.wav
+Chandler|That was amazing.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia663_utt2.wav
+Monica|We are the hottest! Huh?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia663_utt3.wav
+Chandler|No, you're the best.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia663_utt4.wav
+Monica|No, you're the best.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia663_utt5.wav
+Chandler|No, you're the best.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia663_utt6.wav
+Monica|I|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia663_utt7.wav
+Joey|Hey guys! What 'cha been doin'?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia663_utt8.wav
+Monica|Hey Joey! Isn't that the girl that waved at you the other day?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia663_utt9.wav

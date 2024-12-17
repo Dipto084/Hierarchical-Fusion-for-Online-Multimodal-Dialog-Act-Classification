@@ -1,0 +1,18 @@
+Ross|Hi.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia160_utt0.wav
+Rachel|Hi, sweetie!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia160_utt1.wav
+Ross|Hello.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia160_utt2.wav
+Mark|Hi, Ross.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia160_utt3.wav
+Ross|Yeah, huh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia160_utt4.wav
+Rachel|I?ve got some bad news.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia160_utt5.wav
+Ross|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia160_utt6.wav
+Rachel|I can get a quick bite to eat, but then I have to come back up here.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia160_utt7.wav
+Ross|Come on sweetie! You?ve had to work late every night for the past two weeks, what is it this time?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia160_utt8.wav
+Ross|But work comes first! Oh hey, but that?s sad about you though, what happened? Burn out? Burn all out, did ya?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia160_utt10.wav
+Rachel|Nooo, he?s leaving for a better job.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia160_utt11.wav
+Ross|Oh well that?s great, so I guess this is ah, this is good bye then. Huh? Good bye.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia160_utt12.wav
+Mark|Okay, then.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia160_utt13.wav
+Ross|Okay.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia160_utt14.wav
+Rachel|Well we?re gonna miss you around here.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia160_utt15.wav
+Mark|Yeah, me too.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia160_utt16.wav
+Mark|So, see ya on Saturday.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia160_utt17.wav
+Rachel|Yeah, you bet.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia160_utt18.wav

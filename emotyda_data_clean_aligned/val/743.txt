@@ -1,0 +1,6 @@
+Monica|Count in our heads as-as good|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia743_utt0.wav
+Joey|I guess I'm done.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia743_utt1.wav
+Chandler|Fun‚Äôs over|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia743_utt2.wav
+Monica|Wait-wait, guys! If-if we follow the rules, it's still fun and it means something!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia743_utt3.wav
+Joey|I think I'm gonna take-off.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia743_utt4.wav
+Monica|Guys, rules are good! Rules help control the fun! Ohhh!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia743_utt5.wav

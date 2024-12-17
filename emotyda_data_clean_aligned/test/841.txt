@@ -1,0 +1,23 @@
+Monica|I¬ím so sorry. Please, stop freaking out.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia841_utt0.wav
+Chandler|I¬ím not freaking out.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia841_utt1.wav
+Chandler|Why would I be freaking out?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia841_utt2.wav
+Chandler|A woman named Heldi called and said we were getting married, but that happens everyday.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia841_utt3.wav
+Monica|Honey, we were at this beautiful place, and I-I-I just put our names down for fun!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia841_utt4.wav
+Monica|I mean, what¬ís the harm in that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia841_utt5.wav
+Chandler|Right here!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia841_utt6.wav
+Monica|Chandler, please don¬ít think I was trying to pressure you. Phoebe and Rachel|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia841_utt7.wav
+Chandler|Phoebe and Rachel!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia841_utt8.wav
+Chandler|So the people that knew about our wedding before me were you, Phoebe and Rachel, Heldi, and apparently some band called Starlight Magic 7 who are available by the way!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia841_utt9.wav
+Monica|It was a mistake. Please don¬ít take this to mean anything, because it doesn¬ít.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia841_utt10.wav
+Chandler|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia841_utt11.wav
+Monica|Really?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia841_utt12.wav
+Chandler|Yes, if it really doesn¬ít mean anything, because you know that I¬ím just not ready|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia841_utt13.wav
+Monica|I know! I know.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia841_utt14.wav
+Chandler|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia841_utt15.wav
+Monica|I¬ím gonna go tell Joey that that you¬íre back. I was really worried about you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia841_utt16.wav
+Phoebe|Hey, did she buy it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia841_utt17.wav
+Chandler|Totally.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia841_utt18.wav
+Phoebe|So did Heldi show you the place?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia841_utt19.wav
+Chandler|Yeah, it¬ís beautiful.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia841_utt20.wav
+Phoebe|I can¬ít believe you¬íre gonna ask Monica to marry you!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia841_utt21.wav
+Chandler|I know.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia841_utt22.wav

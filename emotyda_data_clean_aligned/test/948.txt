@@ -1,0 +1,16 @@
+Phoebe|And there's a country called Argentinaaaa, it's a place I've never seeeeen.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia948_utt0.wav
+Phoebe|But I'm told for fifty pesos you can buy a human spleen.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia948_utt1.wav
+Phoebe|Human spleeeen.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia948_utt2.wav
+Phoebe|Ol√©!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia948_utt3.wav
+Monica|What are you doing here!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia948_utt4.wav
+Phoebe|Well, you said that you had customers lined up in the street, so I am here to entertain!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia948_utt5.wav
+Monica|Great!|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia948_utt6.wav
+Phoebe|Yeah!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia948_utt7.wav
+Phoebe|It really has been great too, you know, some of this people must have seen me play before because they were requesting a bunch of my songs!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia948_utt8.wav
+Phoebe|Yeah, "You suck" and "shut up and go home".|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia948_utt9.wav
+Monica|Listen Phoebe...|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia948_utt10.wav
+Phoebe|Yeah.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia948_utt11.wav
+Monica|You know how much I love listening to your music, you know, but...|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia948_utt12.wav
+Phoebe|But what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia948_utt13.wav
+Monica|This is kind of a classy place.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia948_utt14.wav
+Phoebe|Ok, say no more.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia948_utt15.wav

@@ -1,0 +1,20 @@
+All|Pheebs! Hey Pheebs!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia431_utt0.wav
+Joey|Uh, okay, Pheebs?|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia431_utt1.wav
+Phoebe|Yeah?|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia431_utt2.wav
+Joey|Umm, y'know how the other day you were talking about how you didn't get to go to London and how you were kinda feeling left out?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia431_utt3.wav
+Phoebe|Yeah?|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia431_utt4.wav
+Joey|All right, well, we felt really bad about that so we decided we should all take a little trip together!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia431_utt5.wav
+Phoebe|Ohh, that's so nice! How great! Well, where? Where's the trip?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia431_utt6.wav
+Monica|Well, we thought we would all go to a picnic , in Central Park!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia431_utt7.wav
+Joey|Yeah, all of us! All day!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia431_utt8.wav
+Phoebe|That sucks!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia431_utt9.wav
+Phoebe|That's not a trip!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia431_utt10.wav
+Phoebe|I just came from the park!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia431_utt11.wav
+Phoebe|What are we gonna high five about at the stupid Central Park?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia431_utt12.wav
+Phoebe|"Well, it's right by my house, all right!"|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia431_utt13.wav
+Chandler|Well, I'm gonna go home and bask in the triumph of my Central Park idea.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia431_utt14.wav
+Rachel|Ho-ho-hold on a sec there, Mr. Kissey!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia431_utt15.wav
+Rachel|Y'know, I've been meaning to talk to you about this whole, little, new European thing you got going on, and I just need to tell you that it makes me very uncomfortable and I just¬óy'know¬óstop it!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia431_utt16.wav
+Chandler|I was just trying to bring a little culture to the group.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia431_utt17.wav
+Phoebe|That's fine, just don't bring it in my mouth.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia431_utt18.wav
+Monica|Makes me wanna puke!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia431_utt19.wav

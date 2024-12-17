@@ -1,0 +1,23 @@
+Monica|Hey, look at me. I'm making jam, been at it since 4 o'clock this morning.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia356_utt0.wav
+Ross|Where'd you get fruit at four in the morning?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia356_utt1.wav
+Monica|Went down to the docks. Bet ya didn't know you could get it wholesale.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia356_utt2.wav
+Rachel|I didn't know there were docks.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia356_utt3.wav
+Joey|Hey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia356_utt4.wav
+Chandler|Hey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia356_utt5.wav
+Ross|Aww, is it broken?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia356_utt6.wav
+Joey|No, I gotta wear this thing for a couple weeks.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia356_utt7.wav
+Rachel|Did you tell the doctor you did it jumping up and down on your bed?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia356_utt8.wav
+Joey|Nooo. I had a story all worked out but then Chandler sold me out.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia356_utt9.wav
+Chandler|Well, I'm sorry Joe. I didn't think the doctor was gonna buy that it just *fell* out of the socket.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia356_utt10.wav
+Joey|What is this? Fruit?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia356_utt11.wav
+Rachel|Monica's making jam.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia356_utt12.wav
+Joey|Whoa, jam! I love jam! Hey, how come we never have jam at our place?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia356_utt13.wav
+Chandler|Because the kids need new shoes.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia356_utt14.wav
+Monica|I'm going into business people.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia356_utt15.wav
+Monica|I'm sick and tired of being depressed about Richard.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia356_utt16.wav
+Monica|I needed a plan, a plan to get over my man.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia356_utt17.wav
+Monica|What's the opposite of man?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia356_utt18.wav
+Monica|Jam.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia356_utt19.wav
+Monica|Oh Joey don't!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia356_utt20.wav
+Monica|It's way to hot.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia356_utt21.wav
+Joey|This will just be my batch.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia356_utt22.wav

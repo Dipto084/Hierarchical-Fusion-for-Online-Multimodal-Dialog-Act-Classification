@@ -1,0 +1,7 @@
+Ross|So is everybody here?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia937_utt0.wav
+Ross|I got here a little early myself.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia937_utt1.wav
+Ross|Let us begin.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia937_utt2.wav
+Ross|Now, the hydrosaurids have been unearthed in two main locations.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia937_utt3.wav
+Ross|Here.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia937_utt4.wav
+Ross|Here.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia937_utt5.wav
+Ross|Now as for the hydrosaurs|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia937_utt6.wav

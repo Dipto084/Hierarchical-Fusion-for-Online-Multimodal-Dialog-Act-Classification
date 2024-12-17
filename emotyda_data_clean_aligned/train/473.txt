@@ -1,0 +1,5 @@
+Monica|Try feeding her again.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia473_utt0.wav
+Rachel|I already fed her.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia473_utt1.wav
+Monica|I know, that‚Äôs why I said again!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia473_utt2.wav
+Phoebe|Alright you guys, we can‚Äôt turn on each other, Okay?¬† That‚Äôs just what she wants.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia473_utt3.wav
+Chandler|Hey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia473_utt4.wav

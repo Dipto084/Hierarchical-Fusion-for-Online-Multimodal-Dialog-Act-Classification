@@ -1,0 +1,2 @@
+Monica|It¬ís actually going to be just family.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia269_utt0.wav
+Janice|Oh¬Öwait¬Öyou two think of me as family?! Oh, I have to ask you something now and be honest; do you want me to sing|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia269_utt1.wav

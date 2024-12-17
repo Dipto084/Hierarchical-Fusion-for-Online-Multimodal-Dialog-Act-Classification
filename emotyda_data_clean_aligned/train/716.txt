@@ -1,0 +1,6 @@
+The Head Librarian|But as far as increasing security, I¬ím afraid the library is very understaffed.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia716_utt0.wav
+The Head Librarian|I, I can¬ít help you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia716_utt1.wav
+Ross|Well, fine.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia716_utt2.wav
+Ross|Fine!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia716_utt3.wav
+Ross|If-if I¬ím the only person with any appreciation of the sanctity of the written word, I¬íll go up there and defend it myself!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia716_utt4.wav
+Ross|And don¬ít you follow me!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia716_utt5.wav

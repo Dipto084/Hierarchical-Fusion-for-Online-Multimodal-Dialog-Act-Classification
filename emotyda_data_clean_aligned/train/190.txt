@@ -1,0 +1,8 @@
+Chandler|Oh yeah, that looks good.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia190_utt0.wav
+Phoebe|You guys make a|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia190_utt1.wav
+Joey|Yeah, we look great together.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia190_utt2.wav
+Chandler|Okay.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia190_utt3.wav
+Monica|Wow! Imagine what our kids would look like!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia190_utt4.wav
+Joey|Y¬íknow, we don¬ít have to imagine.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia190_utt5.wav
+Chandler|I¬ím marrying her.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia190_utt6.wav
+Joey|We¬íll just see.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia190_utt7.wav

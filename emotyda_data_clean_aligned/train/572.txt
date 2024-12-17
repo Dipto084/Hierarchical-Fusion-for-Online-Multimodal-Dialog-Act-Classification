@@ -1,0 +1,19 @@
+Rachel|Well they have uh, some unusual pet names for each other.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia572_utt0.wav
+Rachel|Including umm, evil bitch and uh, sick bastard.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia572_utt1.wav
+Rachel|Oh God oh!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia572_utt2.wav
+Rachel|Contraction!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia572_utt3.wav
+Evil Bitch|Are you looking at her?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia572_utt6.wav
+Sick Bastard|No!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia572_utt7.wav
+Evil Bitch|Don¬ít you look at her you sick bastard!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia572_utt8.wav
+Sick Bastard|Honey I swear! I wasn¬ít looking at her!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia572_utt9.wav
+Evil Bitch|She¬ís in labor! You like that you sick son of a bitch!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia572_utt10.wav
+Ross|Umm. Umm, I¬ím-I¬ím just gonna¬ó|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia572_utt11.wav
+Evil Bitch|See? See? It was because you were looking fat pervert!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia572_utt12.wav
+Ross|No-no, I¬ím¬ÖI¬ím sure no one was looking. Just want some privacy.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia572_utt13.wav
+Evil Bitch|You miss your girlfriend?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia572_utt14.wav
+Ross|Just ignore them.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia572_utt15.wav
+Rachel|Ross.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia572_utt16.wav
+Ross|What? What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia572_utt17.wav
+Rachel|He¬ís looking at me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia572_utt18.wav
+Ross|Hey! You wanna live to see your baby?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia572_utt19.wav
+Evil Bitch|Don¬ít you talk to my husband like that you stupid bastard!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia572_utt20.wav

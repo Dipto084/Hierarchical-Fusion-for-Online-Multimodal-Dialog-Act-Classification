@@ -1,0 +1,12 @@
+Doug|So thanks for the warm welcome.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia845_utt0.wav
+Doug|It¬ís good to have you guys on my team, and I come to play.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia845_utt1.wav
+Doug|I hope you do too.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia845_utt2.wav
+Doug|Now, let¬ís go out there and get ¬ëem!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia845_utt3.wav
+Doug|And remember, there is no ¬ëI¬í in team.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia845_utt4.wav
+Chandler|Yes, but there¬ís two in martini, soo everybody|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia845_utt5.wav
+Doug|You! Chuckles! What¬ís your name?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia845_utt6.wav
+Chandler|Oh it¬ís Bing, sir. I¬ím sorry , I was just ah...|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia845_utt7.wav
+Doug|No-no, I heard what you said, funny.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia845_utt8.wav
+Doug|I like funny.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia845_utt9.wav
+Doug|This team is about hard work, but it¬ís also about having fun.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia845_utt10.wav
+Doug|Good to have you aboard Bing!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia845_utt11.wav

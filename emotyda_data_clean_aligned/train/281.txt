@@ -1,0 +1,11 @@
+Joey|Pheebs!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia281_utt0.wav
+Phoebe|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia281_utt1.wav
+Joey|Listen, you know how uh, when you¬íre wearing pants and you lean forward I check out your underwear?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia281_utt2.wav
+Phoebe|Yeah!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia281_utt3.wav
+Joey|Well, when Jake did it I saw that¬Öhe was wearing women¬ís underwear!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia281_utt4.wav
+Phoebe|I know. They were mine.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia281_utt5.wav
+Joey|Oh. No! No wait, that¬ís weird!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia281_utt6.wav
+Phoebe|No, it¬ís not! We were just goofing around and I dared him to try them on.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia281_utt7.wav
+Joey|That¬ís weird!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia281_utt8.wav
+Phoebe|I¬ím wearing his briefs right now.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia281_utt9.wav
+Joey|That¬ís¬Ökinda hot.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia281_utt10.wav

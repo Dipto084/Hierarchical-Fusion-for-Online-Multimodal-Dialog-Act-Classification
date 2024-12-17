@@ -1,0 +1,5 @@
+Susan|Yeah, all the time. I want the baby to know my voice.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia999_utt0.wav
+Ross|Do you uh, do you talk about me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia999_utt1.wav
+Susan|Yeah, yeah, all the time.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia999_utt2.wav
+Ross|Really?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia999_utt3.wav
+Susan|But um, we just refer to you as Bobo the Sperm Guy.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia999_utt4.wav

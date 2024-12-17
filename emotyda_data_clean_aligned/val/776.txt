@@ -1,0 +1,8 @@
+Monica|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia776_utt0.wav
+Rachel|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia776_utt1.wav
+Phoebe|Oh, is the play over?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia776_utt2.wav
+Monica|Yeah. Where were you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia776_utt3.wav
+Hold Voice|Thank you for your patience, you¬íre the next caller.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia776_utt4.wav
+Monica|You were the next caller five hours ago. You must be going crazy.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia776_utt5.wav
+Phoebe|Nah. I kept myself busy.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia776_utt6.wav
+Phoebe|Oh, okay, yeah. I put your stuff in her room, and her stuff in your room.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia776_utt7.wav

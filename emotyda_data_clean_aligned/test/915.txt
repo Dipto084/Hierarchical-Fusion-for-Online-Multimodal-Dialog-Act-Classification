@@ -1,0 +1,10 @@
+Monica|I'm sure they'll be here soon.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia915_utt0.wav
+Rachel|Yeah, honey, they wouldn't miss this.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia915_utt1.wav
+Joey|Relax. You're only at nine centimeters. And the baby's at zero station.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia915_utt2.wav
+Chandler|You are really frightening me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia915_utt3.wav
+Chandler|Somebody wanna help me, tryin' to rip out my heart. Uh, that's great. Anybody seen a nipple?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia915_utt4.wav
+Dr. Franzblau|All right, ten centimeters, here we go.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia915_utt5.wav
+Nurse|All right, honey, time to start pushing.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia915_utt6.wav
+Carol|But they're not here yet!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia915_utt7.wav
+Dr. Franzblau|I'm sorry, I can't tell the baby to wait for them.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia915_utt8.wav
+Carol|Oh, god.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia915_utt9.wav

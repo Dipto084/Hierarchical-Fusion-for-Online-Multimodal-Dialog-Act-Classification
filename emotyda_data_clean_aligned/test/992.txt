@@ -1,0 +1,16 @@
+All|Hey, Pheebs.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia992_utt0.wav
+Phoebe|Hey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia992_utt1.wav
+Monica|How's it going?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia992_utt2.wav
+Phoebe|Good. Oh oh! Roger's having a dinner thing and he wanted me to invite you guys.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia992_utt3.wav
+Phoebe|So what's going on?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia992_utt4.wav
+Monica|Nothing, um, it's just, um... It's Roger.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia992_utt5.wav
+Ross|I dunno, there's just something about...|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia992_utt6.wav
+Chandler|Basically we just feel that he's...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia992_utt7.wav
+Rachel|We hate that guy.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia992_utt8.wav
+All|Yeah. Hate him.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia992_utt9.wav
+Ross|We're sorry, Pheebs, we're sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia992_utt10.wav
+Phoebe|Uh-huh.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia992_utt11.wav
+Phoebe|Okay.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia992_utt12.wav
+Phoebe|Okay, don't you think, maybe, though, it's just that he's so perceptive that it freaks you out?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia992_utt13.wav
+All|...No, we hate him.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia992_utt14.wav
+Rachel|We're sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia992_utt15.wav

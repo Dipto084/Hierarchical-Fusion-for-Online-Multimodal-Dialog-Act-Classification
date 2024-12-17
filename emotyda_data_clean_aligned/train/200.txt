@@ -1,0 +1,10 @@
+Ross|Hey! So uh, was he excited about the tickets?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia200_utt0.wav
+Joey|No! He blew us off!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia200_utt1.wav
+Ross|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia200_utt2.wav
+Joey|I know!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia200_utt3.wav
+Ross|I can¬ít believe it. Can I tell you something? I¬ím a little mad at him now.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia200_utt4.wav
+Joey|Can I tell you something? Me too.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia200_utt5.wav
+Ross|Y¬íknow what? He didn¬ít want to talk to us about being angry, well maybe we don¬ít talk to him|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia200_utt6.wav
+Joey|Ooooh! Freeze him out.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia200_utt7.wav
+Ross|That¬ís right!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia200_utt8.wav
+Joey|I like it!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia200_utt9.wav

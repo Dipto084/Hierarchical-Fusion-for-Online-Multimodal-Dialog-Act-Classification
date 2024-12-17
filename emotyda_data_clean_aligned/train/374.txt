@@ -1,0 +1,16 @@
+Monica|I can¬ít believe we¬íre here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia374_utt0.wav
+Chandler|Oh you¬íve got to be kidding me.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia374_utt1.wav
+Monica|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia374_utt2.wav
+Front Desk Clerk|As a wedding gift to you, the hotel would like to give you the honeymoon suite.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia374_utt3.wav
+Monica|No!! You have been screwing us all day!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia374_utt4.wav
+Man|Who are you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia374_utt5.wav
+Chandler|We¬íre you just ten seconds later!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia374_utt6.wav
+Monica|You already got the first class tickets.. you got the lounge!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia374_utt7.wav
+Monica|I mean we should get free stuff too!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia374_utt8.wav
+Monica|I mean you¬íre not the only ones on your honeymoon!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia374_utt9.wav
+Woman|Well you can have the suite if you want.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia374_utt10.wav
+Woman|We don¬ít care about where we stay.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia374_utt11.wav
+Woman|We¬íre here to celebrate our love together.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia374_utt12.wav
+Woman|We don¬ít have to get free stuff.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia374_utt13.wav
+Woman|We just want to be together.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia374_utt14.wav
+Chandler|We need the stuff.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia374_utt15.wav

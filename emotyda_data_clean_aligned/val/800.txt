@@ -1,0 +1,2 @@
+Ross|Ohhh.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia800_utt0.wav
+Monica|That's good, have a seat.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia800_utt1.wav

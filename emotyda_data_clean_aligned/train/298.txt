@@ -1,0 +1,7 @@
+Monica|Let go!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia298_utt0.wav
+Ross|No! You let go!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia298_utt1.wav
+Ross|How come it¬ís always us left in the field holding the ball?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia298_utt2.wav
+Monica|I don¬ít know. I guess the other people just don¬ít care enough.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia298_utt3.wav
+Ross|Hey! It¬ís starting to snow.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia298_utt4.wav
+Ross|Gimme the this!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia298_utt5.wav
+Monica|Let go!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia298_utt6.wav

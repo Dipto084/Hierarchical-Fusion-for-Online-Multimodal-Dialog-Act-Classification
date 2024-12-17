@@ -1,0 +1,9 @@
+Phoebe|Oh my God, so do I!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia261_utt0.wav
+Phoebe Sr.|I knew it, wow!!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia261_utt1.wav
+Phoebe|Wait-wait-wait, wait! Puppies. Cute or ugly?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia261_utt2.wav
+Phoebe Sr.|Ohh, so cute.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia261_utt3.wav
+Phoebe|Uh-huh, well! But umm, still I¬ím-I¬ím mad at you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia261_utt4.wav
+Phoebe Sr.|I know. I¬ím mad at me too.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia261_utt5.wav
+Phoebe|Well umm, do you wanna get something to eat? I¬ím kinda hungry.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia261_utt6.wav
+Phoebe Sr.|Hey! Me too!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia261_utt7.wav
+Phoebe|All right, stop it. Now you¬íre just doing it to freak me out.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia261_utt8.wav

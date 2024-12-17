@@ -1,0 +1,11 @@
+Hotel Clerk|I think you'll find this room more to your liking.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia875_utt0.wav
+Chandler|Okay, great.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia875_utt1.wav
+Hotel Clerk|They say he's only got half a tank left.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia875_utt2.wav
+Chandler|Half a tank? We still got a lot of high-speed chasing to do!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia875_utt3.wav
+Monica|We're switching rooms again.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia875_utt4.wav
+Chandler|What? Why?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia875_utt5.wav
+Monica|This is a garden view room, and we paid for an ocean view room.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia875_utt6.wav
+Hotel Clerk|Our last ocean view room was unacceptable to you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia875_utt7.wav
+Monica|Excuse me, umm, can I talk to you over here for just a second?|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia875_utt8.wav
+Chandler|Uh-huh.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia875_utt9.wav
+Monica|Chandler!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia875_utt10.wav

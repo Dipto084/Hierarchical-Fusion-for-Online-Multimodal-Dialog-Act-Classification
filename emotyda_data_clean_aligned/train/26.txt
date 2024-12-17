@@ -1,0 +1,14 @@
+Ross|Oh God, this is so nerve wracking! How-how do you do this?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia26_utt0.wav
+Joey|Well, unfortunately, I don't get many callbacks so|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia26_utt1.wav
+Carol|Is it a good sign that they asked us to hang around after the audition?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia26_utt2.wav
+Joey|Who knows?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia26_utt3.wav
+The Casting Director|Okay uh, we have narrowed it down to Raymond, Ben, Kyle, and Joey. The rest of you, thank you very much.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia26_utt4.wav
+Ross|Yes!! I knew it!! Bye-bye! So long! Later!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia26_utt5.wav
+Joey|Oh this is great! I might actually get to play Ben's dad!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia26_utt6.wav
+Ross|Yeah!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia26_utt7.wav
+The Casting Director|Actually, that can't happen.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia26_utt8.wav
+The Casting Director|Yeah because you all have such different looks, we're putting you with Raymond and Kyle with Ben.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia26_utt9.wav
+The Casting Director|So it'll be either you two or you two.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia26_utt10.wav
+Joey|Man, this is gonna be kinda weird.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia26_utt11.wav
+Ross|Yeah, it is.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia26_utt12.wav
+Ross|No, we-we're gonna be like best friends, that's why it's gonna be weird.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia26_utt13.wav

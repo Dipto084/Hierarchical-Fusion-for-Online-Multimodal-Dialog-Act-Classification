@@ -1,0 +1,1 @@
+Chandler|Well, if the magician can open my beer with his but cheeks, then all right.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia98_utt1.wav

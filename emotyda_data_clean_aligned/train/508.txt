@@ -1,0 +1,22 @@
+Joey|Ross!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia508_utt0.wav
+The Casting Director|Okay, Raymond, Joey you're up.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia508_utt2.wav
+Joey|Hi!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia508_utt3.wav
+The Casting Director|Okay, uh well, let's try one. Whenever you guys are ready.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia508_utt4.wav
+Joey|Uh-oh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia508_utt5.wav
+The Casting Director|Is there a problem?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia508_utt6.wav
+Joey|Well this is noodle soup and uh, I've been working with tomato.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia508_utt7.wav
+Joey|But that's okay, no problem.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia508_utt8.wav
+Joey|No problem.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia508_utt9.wav
+Joey|Hmm, noodle soup.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia508_utt10.wav
+The Casting Director|Y'know, that's-that's fine, but the line is, "Hmm, soup."|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia508_utt11.wav
+Joey|Oh, what did I say?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia508_utt12.wav
+The Casting Director|Hmm, noodle soup.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia508_utt13.wav
+Joey|How's that different? Oh! Yeah!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia508_utt14.wav
+The Casting Director|All right, let's try one.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia508_utt15.wav
+Joey|Hmm, noodle soup.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia508_utt16.wav
+The Casting Director|Okay. Let's do it again.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia508_utt17.wav
+Joey|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia508_utt18.wav
+Joey|Hmm, soup. I mean, noodle soup. I mean soup!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia508_utt19.wav
+Raymond|COME ON!!!!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia508_utt20.wav
+The Casting Director|Y'know what? We need to move on.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia508_utt21.wav
+Joey|No! No! I-I can do it one more time! See? Look! Hmm, noodle soup. Damnit!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia508_utt22.wav

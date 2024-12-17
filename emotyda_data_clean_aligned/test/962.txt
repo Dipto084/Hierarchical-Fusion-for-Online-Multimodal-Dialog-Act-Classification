@@ -1,0 +1,6 @@
+Chandler|That was amazing.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia962_utt0.wav
+Monica|I know.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia962_utt1.wav
+Monica|Hey, do you realize we may have just changed our lives forever?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia962_utt2.wav
+Monica|We may have just started a family.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia962_utt3.wav
+Monica|Nine months from now we can be here, having our own baby.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia962_utt4.wav
+Chandler|And if not, we got to do it on a bucket.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia962_utt5.wav

@@ -1,0 +1,3 @@
+Monica|OK, we got the cole slaw, we got the buns...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia773_utt0.wav
+Phoebe|We've got the ground-up flesh of formerly cute cows and turkeys, ew...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia773_utt1.wav
+Chandler|Men are here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia773_utt2.wav

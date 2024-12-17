@@ -1,0 +1,2 @@
+Man|I'm not your brother.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia785_utt0.wav
+Phoebe/Waitress|What about my children Drake?! Huh!? No!! No!! No! God!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia785_utt1.wav

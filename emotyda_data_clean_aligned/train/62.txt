@@ -1,0 +1,11 @@
+Chandler|Hey Bob.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia62_utt0.wav
+Bob|Hey! How¬ís my pal Toby doing today?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia62_utt1.wav
+Chandler|If I see him, I¬íll ask.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia62_utt2.wav
+Bob|Toby!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia62_utt3.wav
+Chandler|Yeah!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia62_utt5.wav
+Mr. Franklin|Oh then you know each other.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia62_utt6.wav
+Chandler|We¬íre on a semi-first name basis.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia62_utt7.wav
+Mr. Franklin|What do you think of adding him to our team?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia62_utt8.wav
+Chandler|Bob? Ooh, working here with us? Everyday? Yeah, I don¬ít know if he has what it takes.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia62_utt9.wav
+Mr. Franklin|Really? They love him down on six.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia62_utt10.wav
+Chandler|But this is eleven. It¬ís almost twice as hard up here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia62_utt11.wav

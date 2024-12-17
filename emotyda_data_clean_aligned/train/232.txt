@@ -1,0 +1,20 @@
+Monica|Oh yeah? When?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia232_utt0.wav
+Chandler|I'll tell you what.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia232_utt1.wav
+Chandler|When we're 40, if neither one of us are married, what do you say you and I get together and have one?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia232_utt2.wav
+Monica|Why won't I be married when I'm 40?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia232_utt3.wav
+Chandler|Oh, no, no. I just meant hypothetically.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia232_utt4.wav
+Monica|Ok, hypothetically, why won't I be married when I'm 40?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia232_utt5.wav
+Chandler|No, no, no.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia232_utt6.wav
+Monica|What is it? Is there something fundamentally unmarriable about me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia232_utt7.wav
+Chandler|Uh, uh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia232_utt8.wav
+Monica|Well?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia232_utt9.wav
+Chandler|Dear God! This parachute is a knapsack!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia232_utt10.wav
+Rachel|Hey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia232_utt11.wav
+Phoebe|Hey. Ooh, look at you, dressy-dress.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia232_utt12.wav
+Monica|Did you go home and change?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia232_utt13.wav
+Rachel|Yeah, well, it's an important day. I wanna look nice. Um, has uh Dr. Franzblau been by?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia232_utt14.wav
+Monica|No, I haven't seen him.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia232_utt15.wav
+Rachel|Well, where is he? He is supposed to be here. What if the baby needs him?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia232_utt16.wav
+Chandler|Rachel, what is the deal with you and doctors, anyway? Was, like, your father a doctor?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia232_utt17.wav
+Rachel|Yeah, why?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia232_utt18.wav
+Chandler|No reason.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia232_utt19.wav

@@ -1,0 +1,7 @@
+Monica|It's not just the drum noise.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia648_utt0.wav
+Monica|Every five minutes, Joey throws his sticks in the air, and I have to hear, "Oh my eye!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia648_utt1.wav
+Monica|Oh god, my eye!"|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia648_utt2.wav
+Monica|I mean, it is so annoying.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia648_utt3.wav
+Phoebe|Yes, thank you. You see, this is how normal people are supposed to react to drums.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia648_utt4.wav
+Monica|Phoebe, you got Joey drums to annoy Rachel, so she wouldn't wanna live there anymore?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia648_utt5.wav
+Phoebe|Maybe on some level.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia648_utt6.wav

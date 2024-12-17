@@ -1,0 +1,2 @@
+Leslie|Aw, you¬íre right, you¬íre right. I¬ím sorry.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia194_utt0.wav
+Phoebe|That¬ís okay. All right, I¬ím gonna play song that¬ís really, really sad. It¬ís called Magician Box Mix Up.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia194_utt1.wav

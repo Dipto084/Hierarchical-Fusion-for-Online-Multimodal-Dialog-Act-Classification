@@ -1,0 +1,17 @@
+Joey|OK, you've got to promise that you'll never, ever tell Ross that I told you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia81_utt0.wav
+Monica|About what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia81_utt1.wav
+Joey|He's planning your birthday party.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia81_utt2.wav
+Monica|Oh my God! I love him!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia81_utt3.wav
+Joey|You'd better act surprised.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia81_utt4.wav
+Phoebe|About what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia81_utt5.wav
+Monica|My surprise party!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia81_utt6.wav
+Phoebe|What surprise party?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia81_utt7.wav
+Monica|Oh stop it. Joey already told me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia81_utt8.wav
+Phoebe|Well, he didn't tell me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia81_utt9.wav
+Joey|Hey, don't look at me. This is Ross's thing.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia81_utt10.wav
+Phoebe|This is so typical. I'm always the last one to know everything.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia81_utt11.wav
+Monica|No, you are not. We tell you stuff.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia81_utt12.wav
+Phoebe|Yuh-huh!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia81_utt13.wav
+Phoebe|I was the last one to know when Chandler got bitten by the peacock at the zoo.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia81_utt14.wav
+Phoebe|I was the last one to know when you had a crush on Joey when he was moving in.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia81_utt15.wav
+Phoebe|Looks like I was second to last.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia81_utt16.wav

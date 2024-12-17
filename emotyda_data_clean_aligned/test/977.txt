@@ -1,0 +1,15 @@
+Ross|Ahh, no.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia977_utt0.wav
+Rachel|Oh.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia977_utt1.wav
+Ross|Are you jealous?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia977_utt2.wav
+Rachel|Noo, I y'know I don't see why she has to play with you, that's all.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia977_utt3.wav
+Rachel|I mean doesn't she have any y'know other stripper moms friends of her own?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia977_utt4.wav
+Ross|You are totally jealous.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia977_utt5.wav
+Rachel|I'm not jealous.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia977_utt6.wav
+Rachel|All right this is about, umm, people feeling certain things y'know about strippers.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia977_utt7.wav
+Rachel|And y'know, and um, I...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia977_utt8.wav
+Ross|Honey, I love you too.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia977_utt9.wav
+Rachel|Ugh. Wait, wait, wait.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia977_utt10.wav
+Ross|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia977_utt11.wav
+Ross|Huh.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia977_utt12.wav
+Rachel|Well, there's a kiss that he won't forget for a couple of hours, y'know.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia977_utt13.wav
+Chandler|Yeah. Either that, or you just turned him on and sent him off to a stripper.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia977_utt14.wav

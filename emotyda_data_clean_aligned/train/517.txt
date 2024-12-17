@@ -1,0 +1,7 @@
+Phoebe|Come on more!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia517_utt0.wav
+Monica|Oh God!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia517_utt1.wav
+Phoebe|Yeah, you like that don¬ít you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia517_utt2.wav
+Monica|Oh yeah right there!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia517_utt3.wav
+Phoebe|You want it there? You take it there baby!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia517_utt4.wav
+Monica|Uh Phoebe?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia517_utt5.wav
+Phoebe|Yeah, say my name. Say it! And now I¬ím going to cover you back up, and umm we¬íre never doing this again.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia517_utt6.wav

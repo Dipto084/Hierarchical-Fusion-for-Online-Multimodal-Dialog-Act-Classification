@@ -1,0 +1,15 @@
+Chandler|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia202_utt0.wav
+Phoebe|How do you feel?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia202_utt1.wav
+Chandler|Well, let¬ís just say that Krog will be fully equipped to destroy the universe again in twelve to fourteen hours.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia202_utt2.wav
+Phoebe|Okay, so I|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia202_utt3.wav
+Chandler|And protected them from a tornado?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia202_utt4.wav
+Monica|Oh my God.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia202_utt5.wav
+Phoebe|I know, the babies are asleep.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia202_utt6.wav
+Monica|Phoebe, what, what happened here?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia202_utt7.wav
+Phoebe|I did it! I took care of the babies all by myself!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia202_utt8.wav
+Monica|But my apartment!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia202_utt9.wav
+Chandler|Is not as important as the fact that Phoebe took care of the babies all by herself.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia202_utt12.wav
+Monica|You¬íre right, you¬íre right I shouldn¬ít freak out.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia202_utt13.wav
+Monica|¬ëCause this is what will happen when you and I have babies!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia202_utt14.wav
+Monica|When will that be?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia202_utt15.wav
+Chandler|Phoebe, would you take a look at this mess!!!!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia202_utt16.wav

@@ -1,0 +1,10 @@
+Ross|You know you probably didn't know this, but back in high school, I had a, um, major crush on you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia164_utt0.wav
+Rachel|I knew.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia164_utt1.wav
+Ross|You did! Oh.... I always figured you just thought I was Monica's geeky older brother.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia164_utt2.wav
+Rachel|I did.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia164_utt3.wav
+Ross|Oh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia164_utt4.wav
+Ross|Listen, do you think- and try not to let my intense vulnerability become any kind of a factor here¬óbut do you think it would be okay if I asked you out?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia164_utt5.wav
+Ross|Sometime?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia164_utt6.wav
+Ross|Maybe?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia164_utt7.wav
+Rachel|Yeah, maybe...|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia164_utt8.wav
+Ross|Okay... okay, maybe I will...|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia164_utt9.wav

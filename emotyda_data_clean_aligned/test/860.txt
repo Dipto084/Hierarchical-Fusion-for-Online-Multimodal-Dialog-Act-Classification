@@ -1,0 +1,16 @@
+Jim|And your breasts! Hmm!!!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia860_utt0.wav
+Phoebe|Okay.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia860_utt1.wav
+Phoebe|Umm look, you¬íre coming on a little strong.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia860_utt2.wav
+Phoebe|But I¬ím going to give you the benefit of the doubt, because it seems the universe really wants to be together.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia860_utt3.wav
+Phoebe|So, why don¬ít we just start over okay?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia860_utt4.wav
+Phoebe|And you can just tell me about yourself.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia860_utt5.wav
+Jim|All right.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia860_utt6.wav
+Phoebe|Okay.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia860_utt7.wav
+Jim|I write erotic novels, for children.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia860_utt8.wav
+Phoebe|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia860_utt9.wav
+Jim|They¬íre wildly unpopular.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia860_utt10.wav
+Phoebe|Oh my God!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia860_utt11.wav
+Jim|Oh also, you might be interested to know that I have a Ph.D.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia860_utt12.wav
+Phoebe|Wow! You do?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia860_utt13.wav
+Jim|Yeah, a Pretty Huge|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia860_utt14.wav
+Phoebe|All right.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia860_utt15.wav

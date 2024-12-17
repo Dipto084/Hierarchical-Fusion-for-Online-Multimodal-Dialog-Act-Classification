@@ -1,0 +1,2 @@
+Chandler|Uh, tiny!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia268_utt0.wav
+Chandler|We¬íre not even sure why we¬íre having it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia268_utt1.wav

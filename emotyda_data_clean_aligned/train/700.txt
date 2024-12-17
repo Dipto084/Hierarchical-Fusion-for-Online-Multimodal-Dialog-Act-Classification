@@ -1,0 +1,13 @@
+Ross|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia700_utt0.wav
+Rachel|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia700_utt1.wav
+Ross|Listen, I know you wanted to talk to me, but I have an idea that may make you want to stay married. We register, and|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia700_utt2.wav
+Rachel|No!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia700_utt3.wav
+Rachel|Ross, come on!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia700_utt4.wav
+Rachel|No!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia700_utt5.wav
+Rachel|Listen, look I thought a lot about how to tell you this and the bottom line, Ross, is we can not stay married.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia700_utt6.wav
+Ross|I don¬ít know if it¬ís true.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia700_utt7.wav
+Rachel|Oh b-b-but it is!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia700_utt8.wav
+Ross|Oh, okay, y¬íknow what this is?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia700_utt9.wav
+Rachel|Oh Ross, come on! This is not, this is not a marriage!! This is the world¬ís worst hangover! Ross, listen, if|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia700_utt10.wav
+Ross|All right. All right, I¬íll do it.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia700_utt11.wav
+Rachel|Thank you. Hey-hey umm, uh, is there, is there any such thing as an annulment shower?|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia700_utt12.wav

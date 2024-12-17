@@ -1,0 +1,12 @@
+Chandler|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia12_utt0.wav
+Joey|Hey! So Estelle lined up a bunch of auditions for me tomorrow and I¬íll have my health insurance back in no time.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia12_utt1.wav
+Chandler|That¬ís great, but shouldn¬ít you be on the toilet right now?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia12_utt2.wav
+Joey|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia12_utt3.wav
+Chandler|What¬ís wrong with you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia12_utt4.wav
+Joey|Nothing!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia12_utt5.wav
+Joey|Well, I-I got this blinding pain in my stomach when I was lifting weights before, then I uh passed out and uh, haven¬ít been able to stand up since.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia12_utt6.wav
+Joey|But um, I don¬ít think it¬ís anything serious.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia12_utt7.wav
+Chandler|This sounds like a hernia. You have to¬óyou-you go to the doctor!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia12_utt8.wav
+Joey|No way! ¬ëKay look, if I have to go to the doctor for anything it¬ís gonna be for this thing sticking out of my stomach!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia12_utt9.wav
+Chandler|That¬ís a hernia.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia12_utt10.wav
+Joey|Why did I have to start working out again? Damn you 15s!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia12_utt11.wav

@@ -1,0 +1,6 @@
+Rachel|I believe it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia188_utt0.wav
+Rachel|Yes, I do.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia188_utt2.wav
+Ross|No you do¬óy'know what, you¬íre not gonna suck me into this.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia188_utt3.wav
+Rachel|Oh sure I am, because you always have to be right.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia188_utt4.wav
+Ross|I do not always have to be¬óokay, okay.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia188_utt5.wav
+Rachel|Jurassic Park|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia188_utt6.wav

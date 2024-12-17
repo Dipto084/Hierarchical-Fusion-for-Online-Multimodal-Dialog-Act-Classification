@@ -1,0 +1,8 @@
+Monica|I mean, why should I let them meet him?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia818_utt0.wav
+Monica|I mean, I bring a guy home, and within five minutes they're all over him.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia818_utt1.wav
+Monica|I mean, they're like- coyotes, picking off the weak members of the herd.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia818_utt2.wav
+Paula|Listen.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia818_utt3.wav
+Paula|As someone who's seen more than her fair share of bad beef, I'll tell you: that is not such a terrible thing.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia818_utt4.wav
+Paula|I mean, they're your friends, they're just looking out after you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia818_utt5.wav
+Monica|I know. I just wish that once, I'd bring a guy home that they actually liked.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia818_utt6.wav
+Paula|Well, you do realise the odds of that happening are a little slimmer if they never get to meet the guy..|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia818_utt7.wav

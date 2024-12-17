@@ -1,0 +1,16 @@
+Woman|Comin' through. Move, move.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia828_utt0.wav
+Rachel|Oh, 'scuse me. I was kinda using that machine.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia828_utt1.wav
+Woman|Yeah, well, now you're kinda not.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia828_utt2.wav
+Rachel|But I saved it. I put my basket on top.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia828_utt3.wav
+Woman|Oh, I'm sorry, is that your basket? It's really pretty. Unfortunately, I don't see suds.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia828_utt4.wav
+Rachel|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia828_utt5.wav
+Woman|No suds, no save. Ok?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia828_utt6.wav
+Ross|What's goin' on?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia828_utt7.wav
+Rachel|Hi, uh, nothing. That horrible woman just took my machine.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia828_utt8.wav
+Ross|Was your basket on top?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia828_utt9.wav
+Rachel|Yeah, but, there were no suds.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia828_utt10.wav
+Ross|So?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia828_utt11.wav
+Rachel|Well, you know, no suds, no save.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia828_utt12.wav
+Ross|No suds? Excuse me, hold on a second. That's my friend's machine.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia828_utt13.wav
+Woman|Hey, hey, hey, her stuff wasn't in it.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia828_utt14.wav
+Ross|Hey, hey, hey, that's not the rule and you know it.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia828_utt15.wav

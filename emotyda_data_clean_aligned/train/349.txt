@@ -1,0 +1,12 @@
+Monica|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia349_utt0.wav
+Phoebe|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia349_utt1.wav
+Ross|Hi!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia349_utt2.wav
+Monica|So, do you guys wanna come and eat dinner at the restaurant sometime in the next few weeks?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia349_utt3.wav
+Phoebe|Sure!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia349_utt4.wav
+Ross|I'd love to!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia349_utt5.wav
+Monica|Well you|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia349_utt6.wav
+Phoebe|Well, I can't give you a massage, because my licence has been revoked again!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia349_utt7.wav
+Ross|Phoebe, what happened?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia349_utt8.wav
+Phoebe|Well, it was an accident...You know, it's a lot of oil and sometimes the hand just slips!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia349_utt9.wav
+Chandler|Have I got a surprise for you? Pack your bags!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia349_utt10.wav
+Phoebe|Oh no!You guys aren't supposed to get divorced for 7 years!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia349_utt11.wav

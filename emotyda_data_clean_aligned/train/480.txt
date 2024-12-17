@@ -1,0 +1,10 @@
+Ross|Hey! How you doing?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia480_utt0.wav
+Tag|Good! Good, long time no see.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia480_utt1.wav
+Tag|Like your sweater.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia480_utt2.wav
+Ross|Oh hey, right back at ya.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia480_utt3.wav
+Tag|Oh, it¬ís crazy about Rachel huh?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia480_utt4.wav
+Ross|Yeah. She¬óWell, she¬ís one crazy lady?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia480_utt5.wav
+Tag|So whose is it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia480_utt6.wav
+Ross|Umm, I don¬ít some Italian guy. Come on, read your own label. See you later.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia480_utt7.wav
+Tag|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia480_utt8.wav
+Ross|He is so weird.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia480_utt9.wav

@@ -1,0 +1,16 @@
+Monica|What did you just say?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia503_utt0.wav
+Chandler|You roll another hard eight and we get married here tonight.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia503_utt1.wav
+Monica|Are you serious?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia503_utt2.wav
+Chandler|Yes! I love you! I've never loved anybody as much as I love you.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia503_utt3.wav
+Monica|I've never loved anybody as much as I love you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia503_utt4.wav
+Chandler|Okay, so if an eight comes up, we take it as a sign and we do it!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia503_utt5.wav
+Chandler|What do you say?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia503_utt6.wav
+Monica|Okay!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia503_utt7.wav
+Chandler|Okay! Come on! Let's go! All right!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia503_utt8.wav
+Chandler|Okay! That's a four! And where-where's the other one?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia503_utt9.wav
+Drunken Gambler|It went under the table.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia503_utt10.wav
+Monica|Nobody move! Okay, you look that way; I'll look this way!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia503_utt11.wav
+Chandler|Here it is! Here it is!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia503_utt12.wav
+Monica|That could be a four or a five. It's your call.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia503_utt13.wav
+Chandler|It's a four.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia503_utt14.wav
+Monica|I think so too.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia503_utt15.wav

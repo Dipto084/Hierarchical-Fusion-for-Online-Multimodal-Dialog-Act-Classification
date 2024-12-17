@@ -1,0 +1,5 @@
+Chandler|You¬íve reached Monica and Chandler¬ís, if you¬íre listening to this message, we¬íre probably screening. Yeah we are.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia934_utt0.wav
+The Museum Official|Hi, this is Heldi from the Morgan Chase museum.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia934_utt1.wav
+The Museum Official|I¬ím calling for Monica Geller.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia934_utt2.wav
+The Museum Official|I want to let her know that there was a cancellation and if she¬ís still interested in having the Bing-Geller wedding at our facility, it is available|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia934_utt3.wav
+Chandler|This is Chandler Bing! This is Chandler Bing! Yes, the groom¬óNo! Not the groom!!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia934_utt4.wav

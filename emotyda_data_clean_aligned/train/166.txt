@@ -1,0 +1,3 @@
+Chandler|Hey, anybody got a length of rope about six feet long with a little nouse at the end?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia166_utt0.wav
+Monica|Honey, what¬ís the matter?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia166_utt1.wav
+Chandler|I just saw Janice.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia166_utt2.wav

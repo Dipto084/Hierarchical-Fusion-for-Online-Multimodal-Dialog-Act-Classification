@@ -1,0 +1,17 @@
+Chandler|Hi, could we get two burritos to go, please?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1019_utt0.wav
+Monica|I'm sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1019_utt1.wav
+Monica|But not that sorry, 'cause you don't have to live with it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1019_utt2.wav
+Monica|Um, we have a reservation under the name Chandler Bing.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1019_utt3.wav
+Maitre d'|Oh-kay, we'll have a table for you in about 45 minutes.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1019_utt4.wav
+Chandler|Forty-five minutes? We have tickets to the|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1019_utt5.wav
+Maitre d'|I'm sorry. Christmas is a very busy time, sir.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1019_utt6.wav
+Chandler|Is this because of the burrito thing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1019_utt7.wav
+Monica|You need to give him money.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1019_utt8.wav
+Chandler|Give him money? It was a joke!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1019_utt9.wav
+Monica|No, to get a table! Places like this are always shakin¬í you down. Everybody wants to be paid off.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1019_utt10.wav
+Chandler|Right, calm down, O'Mally. I'll slip him some money.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1019_utt11.wav
+Monica|You've got to be smooth about it.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1019_utt12.wav
+Chandler|Hey, I can be smooth.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1019_utt13.wav
+Chandler|Listen, we're a little bit in a hurry, so, if you can get us a table a little quicker, I'd appreciate it.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1019_utt14.wav
+Maitre d'|Of course, sir.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1019_utt15.wav
+Chandler|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1019_utt16.wav

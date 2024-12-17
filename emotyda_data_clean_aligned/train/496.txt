@@ -1,0 +1,15 @@
+Rachel|Yeah, we are definitely on Route 27.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia496_utt0.wav
+Phoebe|Okay. We are at a rest stop on Route 27. Okay. There is no Route 27. Okay, either 93 or 76?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia496_utt1.wav
+Rachel|I don¬ít know, I¬ím sorry, I always slept in the back when we drove up here.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia496_utt2.wav
+Phoebe|Hey, can you send somebody up and down 76 and check every rest stop, and, and also 93?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia496_utt3.wav
+Phoebe|Okay!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia496_utt4.wav
+Phoebe|Yeah, no they don¬ít do that.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia496_utt5.wav
+Rachel|Ugh, okay, well somebody will come and save us.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia496_utt6.wav
+Monica|Who?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia496_utt7.wav
+Monica|I mean have you seen a car come by here in the last hour and a half?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia496_utt8.wav
+Monica|I think we should call Ross, maybe he can get a car and come pick us up.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia496_utt9.wav
+Rachel|No! No, I am not getting in a car with Ross, we will just have to live here!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia496_utt10.wav
+Phoebe|But if...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia496_utt11.wav
+Rachel|No you guys, I am not getting in a car with him, you¬íll have to think of something else.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia496_utt12.wav
+Phoebe|Oh good, oh Joey and Chandler are back.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia496_utt13.wav
+Monica|So the going for help went well?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia496_utt14.wav

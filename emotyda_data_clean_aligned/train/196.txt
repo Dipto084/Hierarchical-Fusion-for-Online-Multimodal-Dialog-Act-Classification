@@ -1,0 +1,3 @@
+Ross|Okay, that's, that's enough.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia196_utt0.wav
+Ross|Won't you dance around with me.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia196_utt1.wav
+Monica|A-ha!!!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia196_utt2.wav

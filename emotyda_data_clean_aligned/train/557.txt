@@ -1,0 +1,8 @@
+Katie|Well, the delivery went out to you and I realized they forgot this.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia557_utt0.wav
+Ross|Ah, must¬íve been fairly obvious since it was the only thing left in your store.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia557_utt1.wav
+Katie|Listen, to be honest, home deliveries are really a part of my job description.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia557_utt2.wav
+Ross|Oh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia557_utt3.wav
+Katie|Oh uh¬ÖI actually came here to ask you out.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia557_utt4.wav
+Ross|Oh! Wow! Uh, yeah! That sounds great. I¬ím just gonna put this back in my pocket, pretend|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia557_utt5.wav
+Katie|Sure!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia557_utt6.wav
+Rachel|Horny bitch. No! You¬íre a horny bitch! Noooo! You¬íre the horny bitch! No! You¬íre a horny bitch!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia557_utt7.wav

@@ -1,0 +1,2 @@
+Chandler|Oh hey! There's some kids playing in the street, you wanna go down there and give them a project, ruin their day?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia995_utt0.wav
+Ross|Hey, if they have a ball maybe you can stick razor blades in it and teach them a new game, Gonna Need Stitches Ball.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia995_utt1.wav

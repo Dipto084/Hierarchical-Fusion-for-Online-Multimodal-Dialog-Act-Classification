@@ -1,0 +1,21 @@
+Kim|So, we're decided, no on plaid, yes on pink?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia614_utt0.wav
+Nancy|Absolutely!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia614_utt1.wav
+Rachel|I am so on board!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia614_utt2.wav
+Kim|Rachel didn't you just light that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia614_utt3.wav
+Rachel|Yeah, I did, but y'know what? I am really, really trying to cut back, y'know? Good luck, Rach.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia614_utt4.wav
+Nancy|I've actually been thinking about quitting lately.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia614_utt5.wav
+Kim|Oh sure, every Sunday night I'm telling myself I'm quitting but every Monday morning it's like|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia614_utt6.wav
+Nancy|Tell me about it!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia614_utt7.wav
+Rachel|Well then let's just quit! We'll just quit! Let's all quit!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia614_utt8.wav
+Kim|It does sound appealing.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia614_utt9.wav
+Nancy|Oh, I never could do it.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia614_utt10.wav
+Rachel|Oh but you could.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia614_utt11.wav
+Rachel|You can.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia614_utt12.wav
+Rachel|Absolutely!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia614_utt13.wav
+Rachel|We can help each other out!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia614_utt14.wav
+Rachel|We can get--what are those--those patches!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia614_utt15.wav
+Rachel|We could be like the Patch Sisters!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia614_utt16.wav
+Kim|Oh y'know, we really should quit. Okay, let's quit!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia614_utt17.wav
+Rachel|Yes! Great! Give me those cigs! Give it! Give it!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia614_utt18.wav
+Kim|My late husband gave me that lighter. I'm not kidding.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia614_utt19.wav
+Rachel|Okay then!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia614_utt20.wav

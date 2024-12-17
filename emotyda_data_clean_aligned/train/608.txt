@@ -1,0 +1,10 @@
+Phoebe|Oh, look look look.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia608_utt0.wav
+Phoebe|The last candle's about to burn out.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia608_utt1.wav
+Phoebe|10, 9, 8, 7... ... negative 46, negative 47, negative 48....|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia608_utt2.wav
+Ross|Thank you.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia608_utt3.wav
+Phoebe|Thanks.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia608_utt4.wav
+Ross|Kinda... spooky without any lights.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia608_utt5.wav
+Joey|Bwah-hah-hah!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia608_utt6.wav
+Ross|OK, guys, guys? I have the definitive one. Mwwwooooo-hah-hah...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia608_utt7.wav
+Ross|Oh.. oh... oh.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia608_utt8.wav
+Joey|Hey Ross. This probably isn't the best time to bring it up, but you have to throw a party for Monica.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia608_utt9.wav

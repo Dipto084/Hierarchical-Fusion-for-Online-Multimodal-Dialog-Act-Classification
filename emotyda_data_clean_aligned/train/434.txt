@@ -1,0 +1,15 @@
+Rachel|I¬ím guess I¬ím just done with the whole dating thing.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia434_utt0.wav
+Rachel|It¬ís one more thing in my life that¬ís suddenly completely different.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia434_utt1.wav
+Rachel|This is hard.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia434_utt2.wav
+Ross|Yeah I know.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia434_utt3.wav
+Ross|On the other hand in um, in about seven months you¬íre gonna have something that you¬íre gonna love more than any guy you¬íve ever gone out with.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia434_utt4.wav
+Ross|Just wait.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia434_utt5.wav
+Ross|Wait until uh, wait until the first time your baby grabs your finger.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia434_utt6.wav
+Ross|You have no idea.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia434_utt7.wav
+Rachel|Thanks sweetie.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia434_utt8.wav
+Ross|You wanna, you wanna grab some coffee?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia434_utt9.wav
+Rachel|Oh no, I think I¬ím gonna go home and eat ten candy bars.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia434_utt10.wav
+Ross|Hey, I thought I cheered you up.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia434_utt11.wav
+Rachel|Oh you did, there are twenty in here.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia434_utt12.wav
+Ross|Right. Good night.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia434_utt13.wav
+Rachel|Good night.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia434_utt14.wav

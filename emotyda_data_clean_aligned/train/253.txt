@@ -1,0 +1,12 @@
+Chandler|My specimen is in the room and I just want to thank whoever knocked on the door while I was in there.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia253_utt0.wav
+Chandler|Really helped speed the process along!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia253_utt1.wav
+Chandler|Janice!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia253_utt2.wav
+Chandler|You're not... gone?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia253_utt3.wav
+Janice|Sid is still in his room.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia253_utt4.wav
+Janice|I don't allow porn at home so this is like a vacation for him.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia253_utt5.wav
+Janice|So did you do it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia253_utt6.wav
+Janice|Did you make your deposit?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia253_utt7.wav
+Chandler|Yeah! yeah... The hard part is over!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia253_utt8.wav
+Janice|That's not the hard part honey! The hard part is what comes next, I mean aren't you worried about the results?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia253_utt9.wav
+Chandler|I haven't... I haven't even thought about the results yet... I just assumed that everything was gonna be ok.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia253_utt10.wav
+Janice|Oh! Well, you know what? It probably is.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia253_utt11.wav

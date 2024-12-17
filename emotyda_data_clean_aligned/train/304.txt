@@ -1,0 +1,11 @@
+Phoebe|Which you just gave up really quickly.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia304_utt0.wav
+Chandler|Have you seen Joey?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia304_utt1.wav
+Monica|What¬ís the matter?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia304_utt2.wav
+Chandler|Oh, just this! Y¬íknow what it¬ís my fault really, because the couch is usually where we|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia304_utt3.wav
+Joey|Hey, does somebody wanna hand me one of those tiles.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia304_utt4.wav
+Chandler|What¬ís going on?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia304_utt5.wav
+Monica|He¬ís retiling my floor.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia304_utt6.wav
+Chandler|Yo!! Spackel boy! Get up!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia304_utt7.wav
+Monica|Ah-ah-ah, now you started this, you will finish it.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia304_utt8.wav
+Chandler|He started mine first!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia304_utt9.wav
+Phoebe|Build the unit Cinderelly, lay the tile Cinderelly.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia304_utt10.wav

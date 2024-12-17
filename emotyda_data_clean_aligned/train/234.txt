@@ -1,0 +1,10 @@
+The Woman|Yes! Yes! Please, just give it to me!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia234_utt1.wav
+Chandler|Yeah, that¬ís her.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia234_utt2.wav
+The Woman|Thank you.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia234_utt3.wav
+Monica|It¬ís unbelievable! I-I can¬ít believe that sign didn¬ít work!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia234_utt4.wav
+Chandler|Y¬íknow what would work?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia234_utt5.wav
+Chandler|Stop making candy!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia234_utt6.wav
+Chandler|You mean they like you.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia234_utt8.wav
+Monica|Maybe.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia234_utt9.wav
+Chandler|Is that why you became a chef? So that people would like you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia234_utt10.wav
+Monica|Oh, you really want to talk about getting people to like you huh, funny man?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia234_utt11.wav

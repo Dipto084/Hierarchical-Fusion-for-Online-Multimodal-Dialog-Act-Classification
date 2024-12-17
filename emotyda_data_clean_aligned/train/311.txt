@@ -1,0 +1,13 @@
+Phoebe|Okay!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia311_utt0.wav
+Monica|Come on, no peeking!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia311_utt1.wav
+Chandler|Our eyes are closed and we¬íre about to cross the street. Very good.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia311_utt2.wav
+Phoebe|Okayyyyy, open up!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia311_utt3.wav
+Ross|What did you want to show us? Because all I can see is this|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia311_utt4.wav
+Phoebe|Yeah, it¬ís for our catering business!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia311_utt5.wav
+Joey|I think I know that girl.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia311_utt6.wav
+Monica|All right, umm, we¬íre not gonna really keep it this way though.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia311_utt7.wav
+Rachel|No?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia311_utt8.wav
+Phoebe|No, we¬íre gonna paint over the sword, and replace it with a baguette.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia311_utt9.wav
+Rachel|Oh!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia311_utt10.wav
+Phoebe|And also, we don¬ít know what to do with this.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia311_utt11.wav
+Joey|Oh yeah, I definitely know her.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia311_utt12.wav

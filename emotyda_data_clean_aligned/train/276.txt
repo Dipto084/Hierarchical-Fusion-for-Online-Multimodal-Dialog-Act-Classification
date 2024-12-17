@@ -1,0 +1,3 @@
+Rachel|Oh! Yay! Look! There¬ís a piece that doesn¬ít have floor on it!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia276_utt0.wav
+Rachel|Hey, come on now!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia276_utt2.wav
+Joey|All right, what are we havin¬í?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia276_utt3.wav

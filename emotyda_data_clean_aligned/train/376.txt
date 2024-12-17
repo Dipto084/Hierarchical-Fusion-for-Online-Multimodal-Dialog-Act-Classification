@@ -1,0 +1,4 @@
+Joey|Hey Pheebs!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia376_utt0.wav
+Phoebe|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia376_utt1.wav
+Joey|Check it out. How much of a man am I?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia376_utt2.wav
+Phoebe|Wow! Nice! Manly and also kind of a slut.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia376_utt3.wav

@@ -1,0 +1,10 @@
+Phoebe|So-so you two were married huh? What happened? You just drift apart?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia633_utt0.wav
+Mrs. Geller|Here comes the bride.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia633_utt1.wav
+Phoebe|Oh my God Monica!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia633_utt2.wav
+Monica|I wanna wear this everyday.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia633_utt3.wav
+Rachel|You look so beautiful.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia633_utt4.wav
+Monica|I¬ím so happy for me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia633_utt5.wav
+Rachel|Hello?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia633_utt6.wav
+Joey|Hey! Did Chandler show up yet?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia633_utt7.wav
+Rachel|Yeah, we got him back. Everything¬ís fine.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia633_utt8.wav
+Joey|Damnit!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia633_utt9.wav

@@ -1,0 +1,21 @@
+Chandler|Umm ma‚Äôam, do you have a minute? I kind of have some bad news. I don‚Äôt think I can move to Tulsa.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia796_utt0.wav
+Ms. McKenna|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia796_utt1.wav
+Chandler|It‚Äôs a funny story, actually.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia796_utt2.wav
+Chandler|I kind of fell asleep in the meeting this morning so when I said I‚Äôd move to Tulsa, I didn‚Äôt really know what I was saying.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia796_utt3.wav
+Ms. McKenna|You fell asleep?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia796_utt4.wav
+Chandler|But only because I was up all night worried about this meeting, ain‚Äôt that funny?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia796_utt5.wav
+Chandler|Irony?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia796_utt6.wav
+Chandler|Not a fan, alright .|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia796_utt7.wav
+Chandler|See, here‚Äôs the thing.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia796_utt8.wav
+Chandler|I went home and told my wife about Tulsa and she won‚Äôt go.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia796_utt9.wav
+Chandler|See, me, I love Tulsa!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia796_utt10.wav
+Chandler|Tulsa is heaven!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia796_utt11.wav
+Chandler|Tulsa is Italy‚ÄîPlease don‚Äôt make me go there!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia796_utt12.wav
+Ms. McKenna|Chandler, I‚Ä¶|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia796_utt13.wav
+Chandler|No no no!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia796_utt14.wav
+Chandler|Look, Carol, can I call you Carol?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia796_utt15.wav
+Chandler|Wh-why would I when your name is Elaine?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia796_utt16.wav
+Chandler|Oh what a great picture of your son, strapping!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia796_utt17.wav
+Chandler|That‚Äôs a picture of your daughter, isn‚Äôt it, well she‚Äôs lovely.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia796_utt18.wav
+Chandler|I like a girl with a strong jaw.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia796_utt19.wav
+Chandler|I‚Äôll call you from Tulsa.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia796_utt20.wav

@@ -1,0 +1,8 @@
+Chandler|Okay, what do you guys think?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia968_utt0.wav
+Ross|Dude!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia968_utt1.wav
+Joey|I have never known love like this.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia968_utt2.wav
+Chandler|You really like it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia968_utt3.wav
+Ross|Dude! How-how did you write this?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia968_utt4.wav
+Chandler|I stole Monica¬ís and changed the name.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia968_utt5.wav
+Ross|You can¬ít|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia968_utt6.wav
+Joey|If he goes first he can!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia968_utt7.wav

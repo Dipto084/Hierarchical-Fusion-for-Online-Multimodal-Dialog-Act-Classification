@@ -1,0 +1,6 @@
+Phoebe|Well, that¬ís not something a girl wants to hear.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia385_utt0.wav
+Ross|No, come on don¬ít start. Ouch!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia385_utt1.wav
+Phoebe|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia385_utt2.wav
+Ross|Stupid balls are in the way.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia385_utt3.wav
+Ross|Oh well. It probably would¬íve been the most constructive solution.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia385_utt4.wav
+Phoebe|You have chalk on your face.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia385_utt5.wav

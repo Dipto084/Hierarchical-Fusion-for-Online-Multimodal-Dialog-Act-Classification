@@ -1,0 +1,15 @@
+Joey|Shoot! Shoot! Shoot! Shoot, or just fall down. That's good too.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia300_utt0.wav
+Lydia|Knick fan?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia300_utt1.wav
+Joey|Oh, yeah.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia300_utt2.wav
+Lydia|Oh, boy, do they suck.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia300_utt3.wav
+Joey|Hey, listen, lady.......whoa.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia300_utt4.wav
+Lydia|Look, look at your man, Ewing. Nice shot. You know what, he couldn't hit water if he was standing on a boat.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia300_utt5.wav
+Joey|Oh yeah? And who do you like?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia300_utt6.wav
+Lydia|The Celtics.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia300_utt7.wav
+Joey|The Celtics? Ha. They couldn't hit a boat if...wait. They suck, alright?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia300_utt8.wav
+Lydia|Oh, shut up. You know, it's a rebuilding year. You... waah!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia300_utt9.wav
+Joey|Wha? Wha..aa? Let me get the father. Hey, we need a father over here! We need a father!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia300_utt10.wav
+Lydia|There is no father.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia300_utt11.wav
+Joey|Oh, oh, oh, sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia300_utt12.wav
+Joey|Oh, uh, ok. Right this way. All the other pregnant women seem to be goin' in here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia300_utt14.wav
+Lydia|Ok.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia300_utt15.wav

@@ -1,0 +1,23 @@
+Ross|Get Out!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia15_utt0.wav
+Charlie|Ross, can I talk to you for a minute?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia15_utt1.wav
+Ross|Yes, please! So, what's going on?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia15_utt2.wav
+Charlie|Uh, well... Joey and I broke up.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia15_utt3.wav
+Ross|Oh my God, wh-what happened?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia15_utt4.wav
+Charlie|Joey is a great guy, but we're just... so different! I mean, during your speech he kept laughing at homo erectus!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia15_utt5.wav
+Ross|I knew that was him!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia15_utt6.wav
+Charlie|Anyway I just, uh, I think it's for the best.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia15_utt7.wav
+Ross|Hey, you ok?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia15_utt8.wav
+Charlie|I guess.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia15_utt9.wav
+Charlie|There was hum... there was another reason that I thought it was time to end it with Joey.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia15_utt10.wav
+Charlie|I started to realize that I was having feelings for someone else.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia15_utt11.wav
+Paleontologist|Ok Geller. Last day of the conference, you know what happens to the keynote speaker.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia15_utt12.wav
+Ross|Oh, professor Clerk we're kind of in the middle of a conversation, here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia15_utt13.wav
+Charlie|Yeah, can you guys just throw him in the pool later?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia15_utt14.wav
+Professore Clerk|Or we could throw you both in|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia15_utt15.wav
+Ross|Ok, gentlemen!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia15_utt16.wav
+Ross|Please!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia15_utt17.wav
+Ross|Aren't we a little old for this?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia15_utt18.wav
+Ross|I mean, we're scientists, right?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia15_utt19.wav
+Ross|We're academics.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia15_utt20.wav
+Ross|And most importantly I... you-you will have to catch us first.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia15_utt21.wav
+Ross|GO, GO, GO!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia15_utt22.wav

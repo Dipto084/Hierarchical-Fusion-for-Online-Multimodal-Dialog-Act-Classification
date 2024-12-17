@@ -1,0 +1,11 @@
+Chandler|What are you writing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia409_utt0.wav
+Rachel|Well, Joshua¬ís coming in tomorrow and since I don¬ít have the guts to ask him out, I¬ím going to sell him a coat and put this note in the pocket.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia409_utt1.wav
+Chandler|Oh yeah? Joshua, give me a call sometime, guys like you never go out of style¬ówhat did you throw away?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia409_utt2.wav
+Chandler|Hi guys!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia409_utt3.wav
+All|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia409_utt4.wav
+Joey|Hey, what have you guys been up too?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia409_utt5.wav
+Ross|Oh, we went to see a collection of Victorian doorknobs and the Cupert-Hewitt museum.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia409_utt6.wav
+Chandler|Without me?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia409_utt7.wav
+Emily|My uncle dragged us there. But, it actually it turned out to be really interesting.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia409_utt8.wav
+Ross|Yeah.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia409_utt9.wav
+Emily|They were so ornate and beautiful, I mean look at that!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia409_utt10.wav

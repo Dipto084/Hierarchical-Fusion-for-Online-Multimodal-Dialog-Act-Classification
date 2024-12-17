@@ -1,0 +1,3 @@
+Rachel|Hey, Mon, I was just doing the dishes!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1034_utt0.wav
+Ross|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1034_utt1.wav
+Rachel|Oh! It¬ís you. Hi.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1034_utt2.wav

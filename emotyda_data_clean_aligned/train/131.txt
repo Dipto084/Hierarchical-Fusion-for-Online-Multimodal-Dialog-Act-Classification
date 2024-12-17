@@ -1,0 +1,3 @@
+Commercial|Problem odour in the litter box? Don¬ít change your kitty, change your kitty litter.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia131_utt0.wav
+Monica|Sorry, Pheebs.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia131_utt1.wav
+Joey|Yeah. You okay?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia131_utt2.wav

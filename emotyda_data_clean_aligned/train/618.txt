@@ -1,0 +1,2 @@
+Janice|Yoo-hoo! Aaron Litman-Neurolic would like to say hello to his future bride.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia618_utt0.wav
+Rachel|Ohhh! Wow! He kinda takes your breath away doesn¬ít he?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia618_utt1.wav

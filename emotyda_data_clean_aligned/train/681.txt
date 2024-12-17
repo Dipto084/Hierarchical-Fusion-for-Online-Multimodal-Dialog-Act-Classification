@@ -1,0 +1,6 @@
+Monica|This is just Bactine. It won't hurt.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia681_utt0.wav
+Joey|Sorry, that was wax.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia681_utt1.wav
+Phoebe|Oh, poor little Tooty is scared to death. We should find his owner.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia681_utt2.wav
+Ross|Why don't we just put 'poor little Tooty' out in the hall?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia681_utt3.wav
+Rachel|During a blackout? He'd get trampled!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia681_utt4.wav
+Ross|Yeah?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia681_utt5.wav

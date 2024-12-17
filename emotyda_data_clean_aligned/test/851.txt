@@ -1,0 +1,21 @@
+Kristen|Oh okay. But y¬íknow what? Be careful. Because a guy who was helping me before had to leave because he hurt his back.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia851_utt0.wav
+Joey|Boyfriend?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia851_utt1.wav
+Kristen|No.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia851_utt2.wav
+Joey|I¬ím Joey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia851_utt3.wav
+Kristen|Kristen.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia851_utt4.wav
+Joey|Oh wow, what a beautiful name! What is it again?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia851_utt5.wav
+Kristen|Kristen.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia851_utt6.wav
+Joey|Got it! So|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia851_utt7.wav
+Kristen|So uh, do you live around here?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia851_utt8.wav
+Joey|Yeah!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia851_utt9.wav
+Joey|Yeah!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia851_utt10.wav
+Joey|Right down there.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia851_utt11.wav
+Joey|Hey listen.. let me give you a little tip.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia851_utt12.wav
+Joey|Do not take a nap on this stoop or you can wake up with your shoes gone.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia851_utt13.wav
+Kristen|I¬íll remember that.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia851_utt14.wav
+Joey|Okay. Yeah. Listen would you uh, would you like to have dinner with me tonight?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia851_utt15.wav
+Kristen|Oh I, I have plans tonight.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia851_utt16.wav
+Kristen|But how about tomorrow?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia851_utt17.wav
+Joey|Sounds great! Okay, alright, well where does this go?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia851_utt18.wav
+Kristen|You look strong, why don¬ít I take that and you grab one of the boxes.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia851_utt19.wav
+Joey|Okay. Yeah. Yeah, I¬íll grab this one.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia851_utt20.wav

@@ -1,0 +1,18 @@
+Ross|I like this one. It seems to say, "I love you and that¬ís why I have to kill you."|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia590_utt0.wav
+Monica|They can¬ít all be bad. Find the one where you make your bedroom eyes. Ohh, there it is.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia590_utt1.wav
+Chandler|Oh my God! Those are my bedroom eyes?! Why did you ever sleep with me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia590_utt2.wav
+Monica|Do you really want to pull at that thread?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia590_utt3.wav
+Phoebe|I¬ím having a really good time!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia590_utt4.wav
+Kyle|Me too! I¬ím sorry that guy in the subway licked your neck.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia590_utt5.wav
+Phoebe|Ohh. No that¬ís okay, he¬ís a friend.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia590_utt6.wav
+Kyle|Hey uh, I don¬ít mean to be presumptuous but I have these two tickets to the ballroom dancing finals tomorrow night if you want to go?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia590_utt7.wav
+Phoebe|Yeah, I¬Ö Well y¬íknow I-I mean I missed the-the semi-finals, so I¬íd just be lost.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia590_utt8.wav
+Kyle|I know it¬ís really lame, but I got these tickets from my boss and¬óOh no! No! No! My God!|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia590_utt9.wav
+Phoebe|Okay, don¬ít freak out. I¬íll go.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia590_utt10.wav
+Kyle|No it¬ís¬Ö Uh, my ex-wife Whitney is out there. I cannot deal with her right now. That woman is crazy!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia590_utt11.wav
+Phoebe|Okay, I know. Hold on. Hey Ross?|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia590_utt12.wav
+Ross|Yeah?|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia590_utt13.wav
+Phoebe|Yeah, umm that¬ís Whitney , Kyle¬ís ex-wife out there, now do you think that you can y¬íknow divert her so that we can slip out?|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia590_utt14.wav
+Ross|What?! No!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia590_utt15.wav
+Phoebe|Well okay but I have two tickets to the ballroom dance finals.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia590_utt16.wav
+Ross|Look, I don¬ít think so Pheebs. All right, I¬íll do it. But just because you¬íre a friend.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia590_utt17.wav

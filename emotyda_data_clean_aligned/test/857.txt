@@ -1,0 +1,12 @@
+Ross|No!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia857_utt0.wav
+Ross|For all I know, she¬ís trying to find me but couldn¬ít because I kept moving around.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia857_utt1.wav
+Ross|No, from now on, I¬ím staying in one place.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia857_utt2.wav
+Ross|Right here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia857_utt3.wav
+Monica|Well, it¬ís getting late.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia857_utt4.wav
+Chandler|Yeah, we¬íre gonna go.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia857_utt5.wav
+Ross|Actually, do you guys mind staying here for a while?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia857_utt6.wav
+Monica|Ugh, y¬íknow, umm we gotta get up early and catch that plane for New York.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia857_utt7.wav
+Chandler|Yeah, it¬ís a very large plane.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia857_utt8.wav
+Ross|That¬ís cool.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia857_utt9.wav
+Chandler|But, we¬íll stay here with you.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia857_utt10.wav
+Ross|Thanks guys! I really appreciate this, y¬íknow, but you don¬ít have to rub my butt.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia857_utt11.wav

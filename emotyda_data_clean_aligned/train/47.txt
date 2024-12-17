@@ -1,0 +1,17 @@
+Chandler|You know, I don't think we brought enough stuff. Did you forget to pack the baby's anvil?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia47_utt0.wav
+Joey|It's gonna be worth it.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia47_utt1.wav
+Joey|It's a known fact that women love babies, all right?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia47_utt2.wav
+Joey|Women love guys who love babies.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia47_utt3.wav
+Joey|It's that whole sensitive thing.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia47_utt4.wav
+Joey|Quick, aim him at that pack o' babes over there.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia47_utt5.wav
+Joey|Maybe one of them will break away.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia47_utt6.wav
+Joey|No, no wait, for get them, we got one, hard left.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia47_utt7.wav
+Joey|All right, gimme the baby.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia47_utt8.wav
+Chandler|No, I got him.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia47_utt9.wav
+Chandler|Oh, seriously you want him?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia47_utt11.wav
+Joey|Hello.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia47_utt12.wav
+Chandler|Well, don't, don't think me immodest, but, me?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia47_utt13.wav
+Joey|You wanna smell him?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia47_utt14.wav
+Joey|Oh, yeah. He's got that great baby smell. Get a whiff of his head.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia47_utt15.wav
+Joey|What'd I tell you? What'd I tell you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia47_utt16.wav
+Chandler|Well, we are great guys.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia47_utt17.wav

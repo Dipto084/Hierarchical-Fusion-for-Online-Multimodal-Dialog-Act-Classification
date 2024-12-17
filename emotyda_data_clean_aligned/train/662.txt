@@ -1,0 +1,7 @@
+Joey|Bijan for men?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia662_utt0.wav
+Joey|Bijan for men?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia662_utt1.wav
+Joey|Bijan for... Hey, Annabelle, Uh, listen, I was wondering if maybe after work you and I could go maybe grab a cup of coffee.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia662_utt2.wav
+Annabelle|Oh, actually I sorta have plans.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia662_utt3.wav
+Hombre Man|Ready, Annabelle?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia662_utt4.wav
+Annabelle|You bet. Maybe some other time?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia662_utt5.wav
+Joey|Hey, it's not the first time I lost a girl to a cowboy spraying cologne. Bijan for men? Bijan for men?!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia662_utt6.wav

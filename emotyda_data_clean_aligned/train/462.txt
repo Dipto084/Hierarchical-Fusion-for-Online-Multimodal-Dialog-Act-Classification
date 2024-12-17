@@ -1,0 +1,9 @@
+Chandler|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia462_utt0.wav
+Joey|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia462_utt1.wav
+Joey|No. Y'know how we¬íre always saying we need a place for the mail.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia462_utt3.wav
+Joey|Well, I started building one. But then I decided to take it to the next step.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia462_utt5.wav
+Chandler|You¬íre building a post office?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia462_utt6.wav
+Joey|No, an entertainment unit, with a mail cubby built right in. It¬ís a one day job, max.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia462_utt7.wav
+Chandler|Okay. My word! Those are snug.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia462_utt8.wav
+Joey|Oh yeah. These are my old work pants, Sergio Valente¬ís.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia462_utt9.wav
+Joey|Power saw kinda got away from me there.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia462_utt10.wav

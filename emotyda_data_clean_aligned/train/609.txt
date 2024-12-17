@@ -1,0 +1,1 @@
+Rachel|All this stuff takes up a lot of room. Hey how uh, how serious are you about keeping Ben in your life?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia609_utt0.wav

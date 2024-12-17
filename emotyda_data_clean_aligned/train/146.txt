@@ -1,0 +1,13 @@
+Monica|Y'know they say a watched pot never beeps.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia146_utt0.wav
+Phoebe|It¬ís just y'know, been a couple of hours, and she hasn¬ít called. Not that I even care, y'know.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia146_utt1.wav
+Monica|Phoebe why don¬ít you just call her? You obviously want to.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia146_utt2.wav
+Phoebe|You think you know me so well.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia146_utt3.wav
+Monica|Well, don¬ít ¬ëcha wanna?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia146_utt4.wav
+Phoebe|Yeah.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia146_utt5.wav
+Monica|Okay, well I do know you.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia146_utt6.wav
+Phoebe|That¬ís what I said.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia146_utt7.wav
+Monica|Well so?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia146_utt8.wav
+Phoebe|I can¬ít.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia146_utt9.wav
+Phoebe|I can¬ít.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia146_utt10.wav
+Phoebe|She dumped me, I mean I totally trusted her and then one day it was ¬ëOkay, bye Pheebs¬í gone.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia146_utt11.wav
+Phoebe|Y'know what the saddest part is, when we were playing together, that was like the most fun I¬íve ever had in like all my lives.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia146_utt12.wav

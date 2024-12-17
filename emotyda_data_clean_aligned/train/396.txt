@@ -1,0 +1,1 @@
+Ross|Because it¬ís weird!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia396_utt0.wav

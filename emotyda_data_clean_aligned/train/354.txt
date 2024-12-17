@@ -1,0 +1,18 @@
+Mr. Heckles|I could have birds.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia354_utt0.wav
+Monica|Okay, Mr. Heckles, we'll try to keep it down.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia354_utt1.wav
+Mr. Heckles|Thank you. I'm going to rejoin my dinner party.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia354_utt2.wav
+Rachel|All right, bye-bye.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia354_utt3.wav
+Chandler|Okay, Janice. Janice. You gotta give me Janice. That wasn't about being picky.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia354_utt4.wav
+Ross|We'll give you Janice.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia354_utt5.wav
+Phoebe|I miss Janice though. "Hello, Chandler Bing."|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia354_utt6.wav
+Rachel|"Oh, my, god."|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia354_utt7.wav
+Joey|"Oh, Chandler, now, now, that's it. There, faster!"|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia354_utt8.wav
+Monica|Stop with the broom, we're not making noise.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia354_utt9.wav
+Rachel|We won. We won!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia354_utt10.wav
+Monica|Mr. Heckles.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia354_utt11.wav
+Rachel|How did this happen?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia354_utt12.wav
+Mr. Treeger|He musta been sweeping. They found a broom in his hand.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia354_utt13.wav
+Monica|That's terrible.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia354_utt14.wav
+Mr. Treeger|I know. I was sweeping yesterday. It coulda been me.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia354_utt15.wav
+Ross|Sure, you coulda. You never know.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia354_utt16.wav
+Mr. Treeger|You never know.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia354_utt17.wav

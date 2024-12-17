@@ -1,0 +1,6 @@
+Rachel|Oh! Oh by the way?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia889_utt0.wav
+Phoebe|Uh-hmm.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia889_utt1.wav
+Rachel|James Brolin?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia889_utt2.wav
+Phoebe|Oh, I know. I could only think of two names, him and Ed Begley Jr. and then I remembered he¬ís gay.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia889_utt3.wav
+Rachel|Ed Begley Jr. is not gay.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia889_utt4.wav
+Phoebe|Really?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia889_utt5.wav

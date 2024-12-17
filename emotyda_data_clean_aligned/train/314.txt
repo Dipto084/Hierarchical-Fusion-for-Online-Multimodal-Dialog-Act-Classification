@@ -1,0 +1,12 @@
+Rachel|Isn¬ít it incredible?! Monica and Chandler, gettin¬í married.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia314_utt0.wav
+Phoebe|I know, they¬íre gonna be|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia314_utt1.wav
+Rachel|Ohh¬Ö I mean two best friends falling in love, how often does that happen?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia314_utt2.wav
+Phoebe|Not|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia314_utt3.wav
+Rachel|No! I¬ím so happy for them!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia314_utt4.wav
+Phoebe|Me too! So happy for them!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia314_utt5.wav
+Phoebe|Oh no! No God, definitely not jealous!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia314_utt7.wav
+Rachel|I mean I¬ím probably 98% happy, maybe 2% jealous. And I mean what¬ís 2%? That¬ís nothing.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia314_utt8.wav
+Phoebe|Totally. I¬ím like 90/10.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia314_utt9.wav
+Rachel|Yeah me too.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia314_utt10.wav
+Joey|Hey uh, have you guys scene Chandler?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia314_utt11.wav
+Rachel|Wh¬óno, but y¬íknow who did stop in here looking for ya, Tennille.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia314_utt12.wav

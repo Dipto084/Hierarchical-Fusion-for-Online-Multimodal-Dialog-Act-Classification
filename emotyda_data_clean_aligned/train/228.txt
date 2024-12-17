@@ -1,0 +1,8 @@
+Phoebe|No, I can't talk to you! I don't have a fancy ad in the Yellow Pages!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia228_utt0.wav
+Joey|Look, Pheebs, I just, I wanna apologize for, for saying that your method was stupid and-and maybe ask you to be my teacher again.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia228_utt1.wav
+Joey|And-and I promise, I won't touch a guitar until you say I'm ready.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia228_utt2.wav
+Joey|You really think I'm ready?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia228_utt3.wav
+Phoebe|Uh-huh!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia228_utt4.wav
+Joey|Wow! Cool!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia228_utt5.wav
+Joey|Was the chord at least right|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia228_utt6.wav
+Phoebe|No!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia228_utt7.wav

@@ -1,0 +1,15 @@
+Rachel|Phoebe?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia622_utt0.wav
+Phoebe|Yeah?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia622_utt1.wav
+Rachel|Look at that guy by the window, wow!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia622_utt2.wav
+Phoebe|He¬ís awfully short and I think he¬ís talking to himself. And to be completely honest, he¬ís not that good in bed.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia622_utt3.wav
+Rachel|Oh, what is wrong with me lately?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia622_utt4.wav
+Rachel|I mean it¬ís like every guy I see¬óI mean look here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia622_utt5.wav
+Rachel|Look at that guy for example, I mean normally that¬ís not someone I would-would be attracted to, but right now, with the way I¬ím feeling, all I want to do is rip off his sweatpants and fanny pack.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia622_utt6.wav
+Phoebe|Wait a second! This is about the fourth month of your pregnancy, right?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia622_utt7.wav
+Rachel|Yeah.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia622_utt8.wav
+Phoebe|This is completely normal, around the fourth month your hormones start going crazy.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia622_utt9.wav
+Rachel|Really?! So this has happened to you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia622_utt10.wav
+Phoebe|Oh absolutely yeah!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia622_utt11.wav
+Phoebe|Oh and keep in mind, now, I was carrying triplets so in, y¬íknow, medical terms I was-I was thrice as randy.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia622_utt12.wav
+Rachel|Wow! This explains so much! Last weekend, I went from store to store sitting on Santa¬ís lap.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia622_utt13.wav
+Phoebe|Yeah. Yeah, I remember trying to steal a cardboard cutout of Evander Holyfield from a|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia622_utt14.wav

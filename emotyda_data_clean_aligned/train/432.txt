@@ -1,0 +1,1 @@
+Phoebe|Is she in there?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia432_utt0.wav

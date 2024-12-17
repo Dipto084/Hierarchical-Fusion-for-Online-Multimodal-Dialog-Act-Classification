@@ -1,0 +1,2 @@
+Phoebe|No look, I-I¬ím sure that people know you exist!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia291_utt0.wav
+Earl|Oh yeah?|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia291_utt1.wav

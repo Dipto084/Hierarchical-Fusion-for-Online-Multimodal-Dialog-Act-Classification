@@ -1,0 +1,13 @@
+Tag|Good morning.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia501_utt0.wav
+Rachel|Hi Tag! Hey, so did you have fun with uh, with Joey last night?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia501_utt1.wav
+Tag|Oh yeah! We went to the Knicks game.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia501_utt2.wav
+Rachel|Ohh that¬ís nice.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia501_utt3.wav
+Tag|Then we went to this bar and he hooked us up with all these women!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia501_utt4.wav
+Rachel|Wo-women? You mean like old women?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia501_utt5.wav
+Tag|Well kinda old, like 30.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia501_utt6.wav
+Rachel|Oh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia501_utt7.wav
+Tag|And I never used to be able to just talk to girls in bars, but I got like 20 phone numbers last night.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia501_utt8.wav
+Rachel|That¬ís great! Wow man, so Joey must¬íve really taught you some stuff huh?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia501_utt9.wav
+Tag|A little.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia501_utt10.wav
+Rachel|Yeah?|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia501_utt11.wav
+Tag|How you doin¬í?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia501_utt12.wav

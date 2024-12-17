@@ -1,0 +1,1 @@
+Mr. Burgin|I like her. She sees smart.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia691_utt0.wav

@@ -1,0 +1,14 @@
+Monica|Hi, again.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia626_utt0.wav
+Joey|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia626_utt1.wav
+Chandler|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia626_utt2.wav
+Monica|Thank you soo, much.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia626_utt3.wav
+Chandler|Oh, don¬ít thank me, thank the jerk that never showed up. Okay, I gotta get to get to work.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia626_utt4.wav
+Monica|You want some help with that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia626_utt5.wav
+Joey|Oh, no thanks, I got it. No I don¬ít!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia626_utt6.wav
+Monica|Whoa! Are you okay?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia626_utt7.wav
+Joey|Whew! Stood up to fast, got a little head rush.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia626_utt8.wav
+Monica|It¬ís the heat. And-and the humidity.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia626_utt9.wav
+Joey|That¬ís a uh, that¬ís a tough combination.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia626_utt10.wav
+Monica|Do you wanna come in for some lemonade?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia626_utt11.wav
+Joey|Like you wouldn¬ít believe. Wow! This is a great place.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia626_utt12.wav
+Monica|What do you mean?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia626_utt13.wav

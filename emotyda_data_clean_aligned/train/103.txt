@@ -1,0 +1,8 @@
+Kristen|Umm, this is great wine.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia103_utt0.wav
+Ross|It¬ís from France¬ÖIn Europe¬ÖWestern Europe. Y¬íknow umm, a few years ago I actually was backpacking across Western Europe.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia103_utt1.wav
+Kristen|Really?|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia103_utt2.wav
+Ross|Uh-hmm¬óWait! It gets better. Um, yeah I was in Barcelona.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia103_utt3.wav
+Kristen|I studied for a year in Barcelona.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia103_utt4.wav
+Ross|Anyway, umm so I was um, I was hiking|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia103_utt5.wav
+Kristen|I love hiking!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia103_utt6.wav
+Ross|Oh that¬ís great! I was hiking along the foothills of Mount Tibidaybo|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia103_utt7.wav

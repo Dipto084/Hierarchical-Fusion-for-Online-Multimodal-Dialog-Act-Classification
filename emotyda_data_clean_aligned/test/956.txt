@@ -1,0 +1,17 @@
+Danny|Oh, hey Rach! I thought we said seven?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia956_utt0.wav
+Rachel|Yeah uh, y'know what uh, let's skip it.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia956_utt1.wav
+Danny|What?! Why?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia956_utt2.wav
+Rachel|Umm, you-you and your sister seem to have umm, a very special bond, and|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia956_utt3.wav
+Danny|Oh great! That|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia956_utt4.wav
+Danny|Do-do you, do you have brothers?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia956_utt5.wav
+Rachel|No, I have two sisters. But one of them has a very masculine energy.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia956_utt6.wav
+Danny|Are you close with them?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia956_utt7.wav
+Rachel|No-no, they're not very nice people.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia956_utt8.wav
+Danny|Okay, listen, I really like you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia956_utt9.wav
+Danny|Okay?|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia956_utt10.wav
+Danny|I think this can go somewhere.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia956_utt11.wav
+Danny|So what if I'm close to my family, are you gonna let that stand in the way of us?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia956_utt12.wav
+Rachel|Well, uh, I-I don't know. See when-when you put it that way y'know it does sort of|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia956_utt13.wav
+Krista|Danny! Hurry up! The bath is getting cold!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia956_utt14.wav
+Danny|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia956_utt15.wav
+Rachel|Yeah, okay, I'll see you later.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia956_utt16.wav

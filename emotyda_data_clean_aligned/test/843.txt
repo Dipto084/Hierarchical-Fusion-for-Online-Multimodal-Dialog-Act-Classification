@@ -1,0 +1,15 @@
+Monica|I can¬ít believe this. Do you think that your parents could help pay for it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia843_utt0.wav
+Chandler|I don¬ít know, my mother spent most of her money on her fourth wedding.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia843_utt1.wav
+Chandler|She¬ís saving the rest for her divorce.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia843_utt2.wav
+Chandler|And any extra cash my father has he saves for his yearly trips to|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia843_utt3.wav
+Rachel|Well what happened at dinner?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia843_utt4.wav
+Monica|My parents spent the money for our wedding!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia843_utt5.wav
+Phoebe|My God! What did you order?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia843_utt6.wav
+Rachel|Wait, but there¬ís no money! Well this is terrible! You guys are gonna have to get married in like a, rec. center!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia843_utt7.wav
+Chandler|Honey, it¬ís gonna be okay.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia843_utt8.wav
+Monica|No! No it¬ís not! It¬ís not gonna be okay! It sucks! No swing band! No lilies!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia843_utt9.wav
+Rachel|No, y¬íknow what?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia843_utt10.wav
+Rachel|It¬ís gonna be okay.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia843_utt11.wav
+Rachel|I mean you don¬ít have to have this rustic Italian feast.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia843_utt12.wav
+Rachel|Y¬íknow?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia843_utt13.wav
+Rachel|And-and you don¬ít need, you don¬ít need this custom-made, empire-waisted, duchess, satin gown; you can wear off the rack.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia843_utt14.wav

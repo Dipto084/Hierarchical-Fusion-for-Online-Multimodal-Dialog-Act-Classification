@@ -1,0 +1,16 @@
+Chandler|Where you going, Joe?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia532_utt0.wav
+Joey|For a walk.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia532_utt1.wav
+Chandler|Oh. You mind if I join you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia532_utt2.wav
+Joey|Actually, that will be long. You know, I really need to organize my thoughts.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia532_utt3.wav
+Chandler|Your thoughts? Plural?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia532_utt4.wav
+Joey|Allright, fine, I only have one thought! It's about the hot nanny, I gotta see her!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia532_utt5.wav
+Chandler|I'm afraid I can't let you do that, Joe.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia532_utt6.wav
+Joey|Now YOU'RE telling me I can't see her??|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia532_utt7.wav
+Joey|You guys are killing me!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia532_utt8.wav
+Joey|She's forbidden fruit!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia532_utt9.wav
+Joey|It's like ... like she's the princess and I'm the stable boy ... Why are you doing this, huh?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia532_utt10.wav
+Joey|Did Ross tell you not to let me go over there?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia532_utt11.wav
+Chandler|Yes, as a matter of fact he did, so I can't let you go.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia532_utt12.wav
+Joey|Huh. Interesting. Now there are obstacles. Hot nanny and me against the world. This is the kind of stuff great novels are made of.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia532_utt13.wav
+Chandler|Great novels?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia532_utt14.wav
+Joey|Fine ... mediocre porn|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia532_utt15.wav

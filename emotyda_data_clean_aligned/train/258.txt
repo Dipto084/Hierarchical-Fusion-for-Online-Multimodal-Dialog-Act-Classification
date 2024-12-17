@@ -1,0 +1,7 @@
+Chandler|Oh-hey-hey-hey! There you are!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia258_utt0.wav
+Monica|Umm, listen there's something I think you should know.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia258_utt1.wav
+Chandler|Oh, is this about you-you dating the nurse?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia258_utt2.wav
+Chandler|Yeah, Joey already told me, and I am so-so fine.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia258_utt3.wav
+Chandler|I mean, you and I we're just, y'know, we're nothing, we're goofin' around.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia258_utt4.wav
+Monica|Umm, actually I was about to tell you that I was, I was going to get out of it, but hey, if we're just goofing around then uh, maybe I|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia258_utt5.wav
+Chandler|Fine! Maybe I will too!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia258_utt6.wav

@@ -1,0 +1,4 @@
+Chandler|All right! I found one that fits!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia694_utt0.wav
+Rachel|Well y¬íknow what they say, the 23|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia694_utt1.wav
+Chandler|Whose is it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia694_utt2.wav
+Rachel|Oh does it matter?! All that matters is that you look so handsome.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia694_utt3.wav

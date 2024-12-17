@@ -1,0 +1,14 @@
+Rachel|Monica, betting the apartment, I don¬ít know about this.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia120_utt0.wav
+Monica|Rachel, I have not missed one question the whole game. I own this game! Look at my hand.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia120_utt1.wav
+Rachel|Why? Do you have the answers written on there?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia120_utt2.wav
+Monica|No! Steady as a rock! Now, are you with me.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia120_utt3.wav
+Rachel|All right, let¬ís do it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia120_utt4.wav
+Ross|All right, gentlemen, you¬íre up first.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia120_utt7.wav
+Joey|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia120_utt8.wav
+Chandler|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia120_utt9.wav
+Ross|You have 30 seconds. And the lightning round begins¬óstop it ¬ónow. What was Monica¬ís nickname when she was a field hockey goalie?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia120_utt10.wav
+Joey|Big fat goalie.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia120_utt11.wav
+Ross|Correct. Rachel claims|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia120_utt12.wav
+Chandler|Dangerous Liaisons|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia120_utt13.wav
+Ross|Correct. Her actual favorite movie is...|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia120_utt14.wav
+Joey|Weekend at Bernie¬ís|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia120_utt15.wav

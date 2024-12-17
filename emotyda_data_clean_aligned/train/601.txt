@@ -1,0 +1,6 @@
+Phoebe|There he is! There he is!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia601_utt0.wav
+Monica|Where?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia601_utt1.wav
+Phoebe|Right- where we've been looking all night!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia601_utt2.wav
+Rachel|He is so cute!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia601_utt3.wav
+Monica|Oh, George, baby, drop the towel!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia601_utt4.wav
+All|Yeah, drop it! Drop the towel! Please drop the¬ó¬ówowww.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia601_utt5.wav

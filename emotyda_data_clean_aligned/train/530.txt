@@ -1,0 +1,24 @@
+Phoebe|I¬ím sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia530_utt0.wav
+Phoebe Sr|What are you doing here?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia530_utt1.wav
+Phoebe|I-I, came to fill your ice cube trays.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia530_utt2.wav
+Phoebe Sr|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia530_utt3.wav
+Phoebe|Umm, okay, okay, look.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia530_utt4.wav
+Phoebe|I took this picture from your fridge.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia530_utt5.wav
+Phoebe|Okay, because I know that this is my Father.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia530_utt6.wav
+Phoebe|Yeah, this is Frank Buffay and you are standing right there next to him.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia530_utt7.wav
+Phoebe|Now, look I deserve to know where I came from.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia530_utt8.wav
+Phoebe|All right?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia530_utt9.wav
+Phoebe|So if you can help me find my Father then you should!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia530_utt10.wav
+Phoebe|Otherwise, you¬íre just mean!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia530_utt11.wav
+Phoebe|So, just tell me the truth!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia530_utt12.wav
+Phoebe Sr|All right, the man in the picture is Chuck Magioni.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia530_utt13.wav
+Phoebe|My Father is Chuck Magioni?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia530_utt14.wav
+Phoebe Sr|No, no, that¬ís just Chuck Magioni, I-I sold him a house last year!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia530_utt15.wav
+Phoebe Sr|And I¬ím very sorry, but I don¬ít know where your Father is, and that¬ís the truth.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia530_utt16.wav
+Phoebe|Oh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia530_utt17.wav
+Phoebe Sr|But umm, you¬íre right.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia530_utt18.wav
+Phoebe Sr|I think that a person should know where they come from.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia530_utt19.wav
+Phoebe Sr|Wh-which is why I ah, ahh, okay.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia530_utt20.wav
+Phoebe Sr|I¬ím your mother.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia530_utt21.wav
+Phoebe|Heh?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia530_utt22.wav
+Phoebe Sr|Y'know I wanted to tell you yesterday, but I just, I kinda felt all floopy, and...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia530_utt23.wav

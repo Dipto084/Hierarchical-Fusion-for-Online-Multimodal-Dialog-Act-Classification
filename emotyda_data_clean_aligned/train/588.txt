@@ -1,0 +1,7 @@
+Chandler|I can¬ít believe I did this! What an idiot!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia588_utt0.wav
+Monica|Oh, stop beating yourself up!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia588_utt1.wav
+Monica|People make mistakes!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia588_utt2.wav
+Monica|These things happen!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia588_utt3.wav
+Monica|There aren¬ít any message you¬íve forgotten to give me are there?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia588_utt4.wav
+Monica|Apparently you¬íre not very good at it!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia588_utt5.wav
+Monica|I|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia588_utt6.wav

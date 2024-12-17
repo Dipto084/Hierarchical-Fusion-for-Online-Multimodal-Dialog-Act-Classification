@@ -1,0 +1,9 @@
+Monica|I know.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia498_utt0.wav
+Monica|Let¬ís try a look¬Öof far off¬Öwonderment.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia498_utt1.wav
+Monica|Okay, we¬íll-we¬íll gaze into our future and we¬íll think about our marriage and the days to come.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia498_utt2.wav
+Monica|Chandler!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia498_utt3.wav
+Monica|What is the matter with your face?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia498_utt4.wav
+Monica|I mean this picture is supposed to say "Geller and Bing to be married," not "Local woman saves drowning moron!"|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia498_utt5.wav
+Monica|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia498_utt6.wav
+Monica|Don¬ít laugh at him!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia498_utt7.wav
+Monica|He¬ís|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia498_utt8.wav

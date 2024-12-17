@@ -1,0 +1,7 @@
+Monica|No, there is no way! It can|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia833_utt0.wav
+Chandler|Why is your family|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia833_utt1.wav
+Monica|He cannot play at our wedding!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia833_utt2.wav
+Monica|I mean everyone will leave!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia833_utt3.wav
+Monica|I mean come on, that is just noise!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia833_utt4.wav
+Monica|It¬ís not even a song!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia833_utt5.wav
+Chandler|If you listen very carefully, I think its|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia833_utt6.wav

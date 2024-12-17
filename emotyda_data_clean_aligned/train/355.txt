@@ -1,0 +1,5 @@
+Monica|Oh, I'm sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia355_utt0.wav
+Rachel|Where's Chandler?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia355_utt1.wav
+Phoebe|Oh, he needed some time to grieve.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia355_utt2.wav
+Chandler|I'm free! I'm free!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia355_utt3.wav
+Phoebe|That oughta do it.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia355_utt4.wav

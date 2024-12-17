@@ -1,0 +1,10 @@
+Monica|Hi, honey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia997_utt0.wav
+Chandler|See you later.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia997_utt1.wav
+Monica|What? I-I bought groceries, I was gonna make you dinner!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia997_utt2.wav
+Chandler|Well next time ask! Or at least wait for me to ask!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia997_utt3.wav
+The Museum Official|Hi, this is Heldi from the Morgan Chase museum. I¬ím calling for Monica Geller.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia997_utt4.wav
+Monica|Oh no!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia997_utt5.wav
+The Museum Official|I want to let her know that there was a cancellation and if she¬ís still interested in having the Bing-Geller wedding at our facility, it is available|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia997_utt6.wav
+Monica|Oh please, he didn¬ít hear it! He didn¬ít hear it!!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia997_utt7.wav
+Chandler|This is Chandler Bing! This is Chandler Bing!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia997_utt8.wav
+Monica|NOOOO!!!!!!!!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia997_utt9.wav

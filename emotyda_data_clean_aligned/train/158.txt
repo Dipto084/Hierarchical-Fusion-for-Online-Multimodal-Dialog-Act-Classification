@@ -1,0 +1,7 @@
+Joey|It can‚Äôt be me, I‚Äôm standing right here.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia158_utt1.wav
+Mr. Geller|Wanna peek?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia158_utt2.wav
+Ross|No!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia158_utt3.wav
+Mr. Geller|Come on!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia158_utt4.wav
+Joey|We‚Äôre not peeking?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia158_utt6.wav
+Mr. Geller|Well I‚Äôm peeking. Oh my God!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia158_utt7.wav
+Chandler|Hello sir, you know Monica.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia158_utt8.wav

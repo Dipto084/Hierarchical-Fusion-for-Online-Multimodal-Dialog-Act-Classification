@@ -1,0 +1,8 @@
+Chandler|What I do do¬Öis manage to uh, create an atmosphere of support for the people working with me.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia422_utt0.wav
+Phoebe|I see. Nice sidestep on the do do thing by the way.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia422_utt1.wav
+Chandler|Hardest thing I¬íve ever done in my life.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia422_utt2.wav
+Phoebe|You gotta go!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia422_utt3.wav
+Chandler|Oh!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia422_utt4.wav
+Phoebe|Okay, don¬ít worry. You¬íre ready.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia422_utt5.wav
+Chandler|Really?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia422_utt6.wav
+Phoebe|Absolutely! Just fight all your natural instincts and you¬íll be great.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia422_utt7.wav

@@ -1,0 +1,11 @@
+Ross|Hey, you wanna get something to eat or uh, do you wanna see how long we can throw this ball back and forth? Huh?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia18_utt0.wav
+Joey|Uhh, the ball thing.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia18_utt1.wav
+Ross|Yeah?|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia18_utt2.wav
+Joey|Hey Ross, wouldn't it be great if we could go two straight hours without dropping it?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia18_utt3.wav
+Ross|Uhh,|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia18_utt4.wav
+Joey|Okay!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia18_utt5.wav
+Joey|Uh-oh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia18_utt6.wav
+Ross|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia18_utt7.wav
+Joey|I have to pee. And Rachel's in the bathroom!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia18_utt8.wav
+Joey|Man, I didn't think we were gonna make it!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia18_utt9.wav
+Ross|I know! Don't switch hands, okay?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia18_utt10.wav

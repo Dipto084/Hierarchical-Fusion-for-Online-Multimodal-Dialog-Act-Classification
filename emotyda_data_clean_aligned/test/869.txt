@@ -1,0 +1,18 @@
+Joey|Mark's a genius!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia869_utt0.wav
+Ross|Why?! How?! How is he a genius?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia869_utt1.wav
+Chandler|Look, don't you see what's happening here.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia869_utt2.wav
+Chandler|Instead of hitting on her right away, he's becoming her confidant.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia869_utt3.wav
+Chandler|Now he's gonna be the guy she goes too to complain about you.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia869_utt4.wav
+Ross|What am I going to do?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia869_utt5.wav
+Chandler|Well, why don't you send her a musical bug, op, no you already did that.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia869_utt6.wav
+Chandler|All right look, you're going to have to go there yourself now, okay, make a few surprise visits.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia869_utt7.wav
+Ross|I don't know you guys.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia869_utt8.wav
+Chandler|All right fine, don't do anything, just sit here and talk to us, meanwhile she is talking to him about you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia869_utt9.wav
+Chandler|And he's being Mr. Joe Sensitive, and she starts thinking 'Maybe this is the guy for me, because he understands me.'|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia869_utt10.wav
+Joey|And before you know it, she's with him.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia869_utt11.wav
+Joey|And you'll be all, 'Ohh, man!'|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia869_utt12.wav
+Joey|And he'll be all, 'Yes!'|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia869_utt13.wav
+Joey|And us, we'll be like, 'Wh-whoa, dude.'|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia869_utt14.wav
+Joey|And pretty soon you'll be like, 'Hhiii,' and, and, and, 'I can't go, Rachel and Mark might be there.'|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia869_utt15.wav
+Joey|And we'll be like, 'Man get over it, it's been four years!!'|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia869_utt16.wav
+Chandler|He paints quite a picture doesn't he?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia869_utt17.wav

@@ -1,0 +1,13 @@
+Ross|And why do you care so much?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia307_utt0.wav
+Monica|Because! You could get to live out my fantasy!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia307_utt1.wav
+Ross|You had fantasies about Emily?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia307_utt2.wav
+Monica|No! Y¬íknow,|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia307_utt3.wav
+Ross|Is that why in junior high you were the only one that hung out with that Ukrainian kid?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia307_utt4.wav
+Monica|Yeah that, plus his mom used to put sour cream on everything!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia307_utt5.wav
+Monica|Do you love her?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia307_utt6.wav
+Ross|We said it was only going to be two weeks, y¬íknow?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia307_utt7.wav
+Monica|You love her!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia307_utt8.wav
+Ross|What-what is love really?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia307_utt9.wav
+Monica|Ohhh, I|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia307_utt10.wav
+Ross|I am a good kisser.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia307_utt11.wav
+Monica|Then you two can, can sneak into the cockpit, and things will start to heat up, and then a stewardess comes in¬Ö I¬íve been watching too much porn.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia307_utt12.wav

@@ -1,0 +1,21 @@
+Phoebe|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia939_utt0.wav
+Rachel|Hi.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia939_utt1.wav
+Phoebe|Are you all right?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia939_utt2.wav
+Rachel|Uhh‚Ä¶ I think I just got engaged.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia939_utt3.wav
+Phoebe|Oh my God! He did it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia939_utt4.wav
+Rachel|Well‚Ä¶did you know he was gonna ask me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia939_utt5.wav
+Phoebe|Are you kidding?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia939_utt6.wav
+Phoebe|I‚Äôm like the one who talked him into it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia939_utt7.wav
+Phoebe|I like to think of myself as the puppet master of the group.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia939_utt8.wav
+Rachel|And you really think this is a good idea?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia939_utt9.wav
+Phoebe|I just talked him into it, don‚Äôt tell me I have to do you too. The puppet master gets tired people.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia939_utt10.wav
+Rachel|I just don‚Äôt know! It just doesn‚Äôt feel right.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia939_utt11.wav
+Phoebe|Why?! You two are so meant to be together, everybody thinks so.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia939_utt12.wav
+Rachel|Really?! Even Ross?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia939_utt13.wav
+Phoebe|Especially Ross!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia939_utt14.wav
+Joey|Oh uh, hey Pheebs. Uh y‚Äôknow what? I‚Äôll-I‚Äôll come back later.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia939_utt15.wav
+Ross|Wow! Kind of uh, kind of a full house here. I‚Äôll guess just‚Ä¶I‚Äôll come back.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia939_utt16.wav
+Phoebe|There he goes, your fianc√©e.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia939_utt17.wav
+Rachel|I guess so.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia939_utt18.wav
+Phoebe|Although he does play with himself in his sleep.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia939_utt19.wav
+Rachel|I can‚Äôt say that I‚Äôm surprised.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia939_utt20.wav

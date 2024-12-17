@@ -1,0 +1,7 @@
+Chandler|Yes, Fran.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia352_utt0.wav
+Chandler|I know what time it is, but I'm looking at the WENUS and I'm not happy!...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia352_utt1.wav
+Chandler|Oh, really, really, really?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia352_utt2.wav
+Chandler|Well, let me tell you something... you will care about it, because I care about it!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia352_utt3.wav
+Chandler|You got it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia352_utt4.wav
+Chandler|Good!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia352_utt5.wav
+Chandler|Whooooaaaa....|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia352_utt6.wav

@@ -1,0 +1,20 @@
+Ross|Exactly. So you didn¬ít, didn¬ít mention anything to Issac right?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia735_utt0.wav
+Chloe|Oh, well I tell Issac everything.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia735_utt1.wav
+Ross|You tell, of course you do. Issac. Issac. Hey, Issac. Issac, hi! Y'know we haven¬ít actually met...|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia735_utt2.wav
+Issac|You dog!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia735_utt3.wav
+Ross|Yes, I suppose I am a dog. But Issac, see I-I happen to have a girlfriend.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia735_utt4.wav
+Issac|Oh right, that Rachel chick from the coffee place.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia735_utt5.wav
+Ross|Yeah, that¬ís the one. Listen, I don¬ít want to hurt her.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia735_utt6.wav
+Issac|Oh, hey, man I know, doesn¬ít matter how much we love ¬ëem, monogamy is too cruel a rule.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia735_utt7.wav
+Ross|Yeah. Listen, can you keep this information to yourself?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia735_utt8.wav
+Issac|Aw, no problem dude. Y'know we got to look out for each other. We¬íre the same, you and me.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia735_utt9.wav
+Ross|Actually, no, we¬íre not.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia735_utt10.wav
+Issac|Yeah, we are.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia735_utt11.wav
+Ross|No, we¬íre not.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia735_utt12.wav
+Issac|Yeah, we are.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia735_utt13.wav
+Ross|No, we¬íre not!!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia735_utt14.wav
+Issac|Okay, we¬íre not.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia735_utt15.wav
+Ross|Right.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia735_utt16.wav
+Issac|But, we are.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia735_utt17.wav
+Ross|Fine. I just need to know that you¬íre not gonna tell your sister.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia735_utt18.wav
+Issac|I can promise not to tell her again.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia735_utt19.wav

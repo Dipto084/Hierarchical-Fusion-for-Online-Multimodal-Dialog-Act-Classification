@@ -1,0 +1,2 @@
+Ross|Oh man!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia566_utt0.wav
+Ross|I want that place so much!!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia566_utt1.wav

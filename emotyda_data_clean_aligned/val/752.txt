@@ -1,0 +1,12 @@
+Carol|Looks like it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia752_utt0.wav
+Ross|Y¬íknow, if, if this is too weird for you, we can still back out at|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia752_utt1.wav
+Carol|I got it!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia752_utt2.wav
+Ross|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia752_utt3.wav
+Carol|Susan! Hi!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia752_utt4.wav
+Susan|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia752_utt5.wav
+Carol|Thank you so much for coming.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia752_utt6.wav
+Susan|Oh, I wouldn¬ít miss it for the world.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia752_utt7.wav
+Ross|I¬ím-I¬ím Ross by the way.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia752_utt8.wav
+Susan|Hello Ross. I love what you¬íve done with this space.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia752_utt9.wav
+Carol|Thank you so much.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia752_utt10.wav
+Ross|How hot is this?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia752_utt11.wav

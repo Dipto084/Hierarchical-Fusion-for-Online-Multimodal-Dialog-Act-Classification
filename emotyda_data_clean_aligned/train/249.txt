@@ -1,0 +1,13 @@
+Rachel|Remember I had to leave the room the other day when you had that roast chicken?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia249_utt0.wav
+Joey|Yeah. But I thought that was because I put the whole thing on my hand and made it walk across the table.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia249_utt1.wav
+Monica|Anyway, it just doesn¬ít seem worth it to make a whole turkey for just three people. Okay? It¬ís a lot of work.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia249_utt2.wav
+Joey|But you gotta have turkey on Thanksgiving!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia249_utt3.wav
+Joey|I mean, Thanksgiving with no turkey is like-like Fourth of July with no apple pie!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia249_utt4.wav
+Joey|Or Friday with no two pizzas!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia249_utt5.wav
+Monica|All right fine! If it means that much to you! But just¬óthere¬ís gonna be a ton left over.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia249_utt6.wav
+Joey|No there won¬ít! I promise I will finish that turkey!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia249_utt7.wav
+Monica|All right, you¬íre telling me you can eat an entire turkey in just one sitting?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia249_utt8.wav
+Joey|That¬ís right!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia249_utt9.wav
+Joey|¬ëCause I¬ím a Tribbiani!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia249_utt10.wav
+Joey|And this is what we do!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia249_utt11.wav
+Joey|We can eat!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia249_utt13.wav

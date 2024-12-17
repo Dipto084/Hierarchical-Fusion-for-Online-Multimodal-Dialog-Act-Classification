@@ -1,0 +1,15 @@
+Emeril|Now maybe you just like wanna but the whole duck in there! Who cares, y'know? Now I got the legs|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia223_utt0.wav
+Chandler|How many times have I told you guys, you|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia223_utt1.wav
+Monica|Hi Chandler.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia223_utt2.wav
+Chandler|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia223_utt3.wav
+Monica|Uh, listen, I need that broiling pan that Joey borrowed the other day.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia223_utt4.wav
+Chandler|Oh that was yours? Uh, yeah, we used it when the duck was throwing up caterpillars.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia223_utt5.wav
+Monica|William Sonoma|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia223_utt6.wav
+Chandler|Expect it in 4-6 weeks.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia223_utt7.wav
+Chandler|Umm, hey, umm, Joey's gonna be at the telethon for the rest of the day, we have the whole place to ourselves.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia223_utt8.wav
+Monica|Yeah, so?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia223_utt9.wav
+Chandler|Well I just, thought maybe you'd wanna book some time with the best you'd ever had.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia223_utt10.wav
+Monica|Y'know what, champ? I think I'll pass.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia223_utt11.wav
+Chandler|Why?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia223_utt12.wav
+Monica|Why?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia223_utt13.wav
+Chandler|What's your point?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia223_utt14.wav

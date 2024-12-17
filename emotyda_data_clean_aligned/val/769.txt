@@ -1,0 +1,3 @@
+Ross|I don't want to be single, okay? I just... I just- I just wanna be married again!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia769_utt0.wav
+Chandler|And I just want a million dollars!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia769_utt1.wav
+Monica|Rachel?!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia769_utt2.wav

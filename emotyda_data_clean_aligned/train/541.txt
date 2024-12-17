@@ -1,0 +1,20 @@
+Ross|So honey, this morning was fun, huh? Me hopping in on you in the shower there.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia541_utt0.wav
+Carol|Yeah! And maybe someday we could get a place with two bathrooms.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia541_utt1.wav
+Ross|Look Carol umm, I was, I was thinking maybe uh, maybe we can spice things up a little.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia541_utt2.wav
+Carol|What do you mean?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia541_utt3.wav
+Ross|Carol our sex life is¬óit¬ís just not working|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia541_utt4.wav
+Ross|Hey there little fella!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia541_utt5.wav
+Ross|Hey, uh-hey, why don¬ít we get some shoes on ya, huh?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia541_utt6.wav
+Ross|Hey, why don¬ít you show dad how you can put your shoes on, in your room!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia541_utt7.wav
+Ross|Yay!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia541_utt8.wav
+Ben|Yay!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia541_utt9.wav
+Ross|Yay!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia541_utt10.wav
+Ross|Seriously, our sex life¬Ö I was thinking, maybe I don¬ít know, we could try some-some new things.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia541_utt11.wav
+Ross|For fun?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia541_utt12.wav
+Carol|Like what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia541_utt13.wav
+Ross|Well I don¬ít know umm, what if we were too tie each other up?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia541_utt14.wav
+Ross|Umm, some people eat stuff off one another.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia541_utt15.wav
+Ross|Nah!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia541_utt16.wav
+Ross|Umm, y¬íknow we-we could try dirty talk?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia541_utt17.wav
+Ross|Umm, we could, we could have a threesome.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia541_utt18.wav
+Carol|I love that idea!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia541_utt19.wav

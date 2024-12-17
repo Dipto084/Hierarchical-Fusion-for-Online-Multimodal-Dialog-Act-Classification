@@ -1,0 +1,9 @@
+Chandler|Oh, ain't this nice? It's so quiet, I could just lie here all day.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia548_utt0.wav
+Monica|I know|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia548_utt1.wav
+Rachel|Open your drapes! Open your drapes!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia548_utt2.wav
+Chandler|I'm so glad we've got adjoining rooms!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia548_utt3.wav
+Monica|The sun is out!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia548_utt4.wav
+Chandler|Hey! Remember when I had corneas?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia548_utt5.wav
+Monica|Ok listen, you go down to the pool and reserve the chairs, and I'll get the magazines and the lotion.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia548_utt6.wav
+Chandler|Ladies? Ross's speech is in 45 minutes.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia548_utt7.wav
+Ross|Walls are pretty thin, guys!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia548_utt10.wav

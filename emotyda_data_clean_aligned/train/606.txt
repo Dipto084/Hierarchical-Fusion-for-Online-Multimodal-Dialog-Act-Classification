@@ -1,0 +1,12 @@
+Monica|Do I know you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia606_utt0.wav
+Monica|Oh my god, little Stevie Fisher? How've you been?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia606_utt1.wav
+Steve|Good, good, I'm a lawyer now.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia606_utt2.wav
+Monica|You can't be a lawyer. You're eight.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia606_utt3.wav
+Steve|Listen, it was nice to see you. I gotta run backstage.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia606_utt4.wav
+Monica|Uh, wait, backstage?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia606_utt5.wav
+Steve|Oh, yeah, my firm represents the band.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia606_utt6.wav
+Ross|Ross.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia606_utt7.wav
+Chandler|Chandler.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia606_utt8.wav
+Steve|Look, you guys wanna meet the group?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia606_utt9.wav
+Steve|Come on.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia606_utt10.wav
+Steve|So, are you one of the ones who fooled around with my dad?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia606_utt11.wav

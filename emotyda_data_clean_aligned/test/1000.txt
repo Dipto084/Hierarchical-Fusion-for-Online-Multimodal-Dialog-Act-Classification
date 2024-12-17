@@ -1,0 +1,4 @@
+Monica|Would you look at this dump? He hated us. This is his final revenge!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1000_utt0.wav
+Rachel|Have you ever seen so much crap?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1000_utt1.wav
+Chandler|Actually, I think this apartment sullies the good name of crap|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1000_utt2.wav
+Joey|Check this out. Can I have this?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1000_utt3.wav

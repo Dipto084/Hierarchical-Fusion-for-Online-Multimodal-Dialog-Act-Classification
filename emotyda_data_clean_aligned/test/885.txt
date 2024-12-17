@@ -1,0 +1,5 @@
+Chandler|Can you people not see me?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia885_utt0.wav
+Rachel|So, will you talk to him?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia885_utt1.wav
+Joey|I don¬ít know Rach.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia885_utt2.wav
+Rachel|Oh, come on! I¬íll give you ten free|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia885_utt3.wav
+Joey|One! No ten! You said ten! You can¬ít take that back!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia885_utt4.wav

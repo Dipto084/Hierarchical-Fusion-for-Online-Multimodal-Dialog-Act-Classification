@@ -1,0 +1,17 @@
+Phoebe|Hey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia524_utt0.wav
+Joey|Hey. What, what are you doing here?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia524_utt1.wav
+Phoebe|Well, I-I thought a lot about what you said, and um, I realilized duh, all right maybe I was a little judgmental.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia524_utt2.wav
+Phoebe|Yeah, oh, but oh...|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia524_utt3.wav
+Joey|Look now, Phoebe remember, hey, their just fulfilling their Christmas....|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia524_utt4.wav
+Phoebe|Destiny.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia524_utt5.wav
+Joey|Sure.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia524_utt6.wav
+Phoebe|Yes.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia524_utt7.wav
+Joey|All right.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia524_utt8.wav
+Phoebe|Okay. Yikes! That one doesn¬ít look very fulfilled.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia524_utt9.wav
+Joey|Oh, that¬ís, that¬ís ah, one of the old ones, he¬ís just taking it to the back.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia524_utt10.wav
+Phoebe|You keep the old ones in the back, that is so ageist.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia524_utt11.wav
+Joey|Well we have to make room for the fresh ones.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia524_utt12.wav
+Phoebe|So, what happens to the old guys?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia524_utt13.wav
+Joey|Well, they go into the chipper.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia524_utt14.wav
+Phoebe|Why, do I have a feeling that¬ís not as happy as it sounds? No! Nooooo!!!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia524_utt15.wav
+Joey|Hey! Hey!!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia524_utt16.wav

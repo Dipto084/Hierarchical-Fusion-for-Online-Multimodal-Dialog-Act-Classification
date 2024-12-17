@@ -1,0 +1,16 @@
+Ross|Wow!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia655_utt0.wav
+Ross|It actually is in the handbook.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia655_utt1.wav
+Ross|I can¬ít date you or have a hot plate in my office.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia655_utt2.wav
+Ross|I can¬ít believe we have to stop seeing each other.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia655_utt3.wav
+Elizabeth|For what it¬ís worth I did appreciate you standing up for me. It felt really nice. It kinda made me like you even more.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia655_utt4.wav
+Ross|I know, I know I really like you too. But we-we can¬ít date. It¬ís against the rules. It¬ís forbidden.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia655_utt5.wav
+Elizabeth|Wow!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia655_utt6.wav
+Ross|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia655_utt7.wav
+Elizabeth|Just hearing you describe it as forbidden, it¬ís really hot.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia655_utt8.wav
+Ross|Really?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia655_utt9.wav
+Elizabeth|Yeah.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia655_utt10.wav
+Ross|Well I-I-I don¬ít care how hot it is it¬ís-it¬ís uh, it¬ís wrong.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia655_utt11.wav
+Elizabeth|Stop it!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia655_utt12.wav
+Ross|No! No! It¬ís wrong! It¬ís-it¬ís-it¬ís naughty. It¬ís taboo.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia655_utt13.wav
+Elizabeth|Shut the book!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia655_utt14.wav
+Ross|Let¬ís also get a hot plate!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia655_utt15.wav

@@ -1,0 +1,13 @@
+Joey|I don't know.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia119_utt0.wav
+Joey|But I can see through your sheet.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia119_utt1.wav
+Joey|Yeah, yeah, that's her.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia119_utt2.wav
+Joey|But y'know what?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia119_utt3.wav
+Joey|Doesn't matter, I'm never gonna get to meet her anyway.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia119_utt4.wav
+Monica|Why?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia119_utt5.wav
+Joey|Because it's impossible to find her apartment! She lives in some like of hot girl parallel universe, or something.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia119_utt6.wav
+Monica|What are you talking about? She obviously lives on the second floor, seventh apartment from the left!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia119_utt7.wav
+Joey|No. No. No. She lives on the|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia119_utt8.wav
+Monica|No, those first two windows, that's the lobby.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia119_utt9.wav
+Monica|And y'know the other one over there, that's the stairway.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia119_utt10.wav
+Monica|You've been counting wrong.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia119_utt11.wav
+Joey|I did|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia119_utt12.wav

@@ -1,0 +1,3 @@
+Tag|Do you have a minute?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia879_utt0.wav
+Rachel|Well yeah, sure, what¬ís up?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia879_utt1.wav
+Tag|I got asked out twice today when I was at lunch¬Öby guys.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia879_utt2.wav

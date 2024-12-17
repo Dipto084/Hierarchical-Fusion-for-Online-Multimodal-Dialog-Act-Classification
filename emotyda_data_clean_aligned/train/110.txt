@@ -1,0 +1,6 @@
+Monica|All right, I definitely taste nutmeg.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia110_utt0.wav
+Phoebe|You do?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia110_utt1.wav
+Monica|You don¬ít? Well, that¬ís the difference between a professional and a layman.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia110_utt2.wav
+Phoebe|That and arrogance.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia110_utt3.wav
+Joey|Hey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia110_utt4.wav
+Monica|Hey! How was sailing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia110_utt5.wav

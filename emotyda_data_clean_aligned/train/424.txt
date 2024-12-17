@@ -1,0 +1,16 @@
+Ross|Oh, wow! I should get going. I-I got a date tonight.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia424_utt0.wav
+Chandler|Oh yeah! With who?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia424_utt1.wav
+Ross|You know that girl I told you about who lives up in Poughkeepsie?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia424_utt2.wav
+Ross|Not her.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia424_utt3.wav
+Ross|Yeah, this is someone else I meet, and I-I can¬ít decide between the two of them.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia424_utt4.wav
+Ross|Y¬íknow the one from Poughkeepsie, even though she¬ís a two hour train ride away, is really pretty, really smart, and-and a lot of fun.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia424_utt5.wav
+Ross|But this other girl, well, she lives right uptown.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia424_utt6.wav
+Ross|Y¬íknow she¬ís, well she¬ís-she¬ís just as pretty, I guess she¬ís smart, she¬ís|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia424_utt7.wav
+Phoebe|If she¬ís no fun, why do you want to date her at all?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia424_utt8.wav
+Ross|Well, I-I want to give her another chance, y¬íknow?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia424_utt9.wav
+Ross|She lives so close.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia424_utt10.wav
+Ross|And, at the end of the date, the other time, she-she said something that was¬óif she was kidding was very funny.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia424_utt11.wav
+Ross|On the other hand, if she wasn¬ít kidding, she¬ís not fun, she¬ís stupid, and kind of a racist.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia424_utt12.wav
+Ross|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia424_utt14.wav
+Phoebe|Hey! Ooh, how was your first day working at the restaurant?|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia424_utt15.wav
+Joey|Damn!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia424_utt16.wav

@@ -1,0 +1,2 @@
+Monica|Oh my God Stu! I-I can¬ít believe you did this! Now are you absolutely sure she¬ís a hooker?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia322_utt0.wav
+Stu|Either that or she¬ís just the best, most expensive date I ever had.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia322_utt1.wav

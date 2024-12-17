@@ -1,0 +1,8 @@
+Rachel|What? Why? Where are you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia983_utt0.wav
+Joey|I¬ím still on the set!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia983_utt1.wav
+Rachel|Joey! The wedding is in less than an hour!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia983_utt2.wav
+Joey|I know! I¬ím sorry! The guy¬ís drunk, they won¬ít let me go until we get this.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia983_utt3.wav
+Rachel|Oh my God! I¬ím gonna have to find another minister.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia983_utt4.wav
+Joey|No! No, I¬ím the minister! Alright, look-look, put ¬ëem both on the phone, I¬íll marry them right now.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia983_utt5.wav
+Rachel|Ugh! Joey, I have to go.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia983_utt6.wav
+Joey|Hey! Don¬ít you hang up on me! I¬íll marry you and me right now! I have the power!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia983_utt7.wav

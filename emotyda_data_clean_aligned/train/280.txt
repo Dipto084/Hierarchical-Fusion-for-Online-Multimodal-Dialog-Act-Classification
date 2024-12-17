@@ -1,0 +1,3 @@
+Rachel|Pheebs, I don¬ít think anyone's mad about that.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia280_utt0.wav
+Phoebe|Exactly! Because it's in the past!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia280_utt1.wav
+Joey|Anybody gonna eat that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia280_utt2.wav

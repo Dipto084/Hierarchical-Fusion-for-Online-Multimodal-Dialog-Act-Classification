@@ -1,0 +1,16 @@
+Rachel|I mean why, of all people would you want to go out with Chip?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia536_utt0.wav
+Monica|Look, you and I went to different high schools...|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia536_utt1.wav
+Rachel|Okay, that doesn¬ít help me, because we went to the same high school.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia536_utt2.wav
+Monica|You went to one where you were popular, and you got to ride off Chip¬ís motorcycle, and wear his letterman jacket.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia536_utt3.wav
+Monica|I went to one where I wore a band uniform they had to have specially made.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia536_utt4.wav
+Rachel|They had to have that specially made?!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia536_utt5.wav
+Monica|It was a project for one of the Home Ec classes.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia536_utt6.wav
+Rachel|Oh my God, they told us that was for the mascot!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia536_utt7.wav
+Monica|Back then, I thought that I would never, ever get the chance to go out with a Chip Matthews, and now he¬ís-he¬ís called me up and asked me out.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia536_utt8.wav
+Monica|And the fat girl inside of me really wants to go.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia536_utt9.wav
+Monica|I-I owe her this.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia536_utt10.wav
+Monica|I never let her eat.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia536_utt11.wav
+Rachel|Oh, you go out with him.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia536_utt12.wav
+Monica|Oh, really?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia536_utt13.wav
+Rachel|Yeah. Just, if it¬ís possible, could you leave him somewhere and go have sex with another guy?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia536_utt14.wav
+Monica|I¬íll try.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia536_utt15.wav

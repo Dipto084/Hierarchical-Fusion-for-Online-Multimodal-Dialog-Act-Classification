@@ -1,0 +1,20 @@
+Ross|Hi.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia337_utt0.wav
+Chandler|Hey. Soaps? Shampoos? Are you really taking all this stuff?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia337_utt1.wav
+Ross|Why not? It¬ís built into the price of the room.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia337_utt2.wav
+Chandler|Yeah but you don¬ít need¬ó¬óWhat is this?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia337_utt3.wav
+Ross|Thread!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia337_utt4.wav
+Chandler|Score! Where are the disposable cameras?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia337_utt5.wav
+Ross|What disposable cameras?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia337_utt6.wav
+Chandler|The cameras? Remember last night I told you to take them?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia337_utt7.wav
+Ross|No you didn¬ít.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia337_utt8.wav
+Chandler|Yes! Remember? Right before we cut the cake, I went up to you and I said|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia337_utt9.wav
+Ross|Oh-oh yeah, you-you came up to me and asked if I could do you a favor, and my Uncle Murray came up to you and handed you a check.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia337_utt10.wav
+Ross|And then you said, "Why do they call it a check?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia337_utt11.wav
+Ross|Why not a Yugoslavian?"|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia337_utt12.wav
+Ross|Yeah, then you did that.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia337_utt13.wav
+Chandler|So you don¬ít have the cameras?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia337_utt14.wav
+Ross|No. Sorry man.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia337_utt15.wav
+Chandler|So? What? What? They¬íre gone! Monica¬ís gonna freak!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia337_utt16.wav
+Ross|Well, I¬ím sure they¬íre still somewhere here in the hotel. I¬íll-I¬íll help you look for them.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia337_utt17.wav
+Chandler|Great.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia337_utt18.wav
+Ross|In-in three minutes.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia337_utt19.wav

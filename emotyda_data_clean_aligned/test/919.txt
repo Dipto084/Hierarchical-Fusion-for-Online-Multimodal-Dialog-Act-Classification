@@ -1,0 +1,2 @@
+Ross|Damn! I thought that was going to be romantic as hell!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia919_utt0.wav
+Emily|It was.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia919_utt1.wav

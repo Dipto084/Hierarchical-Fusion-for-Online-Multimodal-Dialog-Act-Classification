@@ -1,0 +1,11 @@
+Mark|No. And I don¬ít think I¬ím gonna want to.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia379_utt0.wav
+Rachel|I can¬ít do this.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia379_utt1.wav
+Mark|Yep. Yep, that¬ís what I didn¬ít want to know.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia379_utt2.wav
+Rachel|Well, oh, Mark, I¬ím doing this for the wrong reasons, y'know?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia379_utt3.wav
+Rachel|I¬ím just doing it to get back at Ross.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia379_utt4.wav
+Rachel|I¬ím sorry, it¬ís not very fair to you.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia379_utt5.wav
+Mark|Ahh!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia379_utt6.wav
+Joey|Fair, shmair|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia379_utt7.wav
+Mark|Y'know?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia379_utt8.wav
+Mark|Look, if you want to get back at Ross, I am here for you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia379_utt9.wav
+Mark|Really?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia379_utt10.wav

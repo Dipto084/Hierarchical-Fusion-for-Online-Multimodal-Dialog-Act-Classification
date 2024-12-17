@@ -1,0 +1,9 @@
+Rachel|Ha!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia278_utt0.wav
+Phoebe|So you like the drums!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia278_utt1.wav
+Phoebe|That's, that's great!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia278_utt2.wav
+Phoebe|Y¬íknow, I was worried, that, you know, they would maybe an unbearable living situation.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia278_utt3.wav
+Phoebe|All right, okay, well, apparently not!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia278_utt4.wav
+Phoebe|So, yay!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia278_utt5.wav
+Joey|Hey-hey, Pheebs, check it out, we already learned a song. Ready? One, two, three, four...|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia278_utt6.wav
+Joey|Tequila!!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia278_utt7.wav
+Phoebe|That's fun.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia278_utt8.wav

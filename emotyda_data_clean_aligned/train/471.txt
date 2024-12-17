@@ -1,0 +1,7 @@
+Rachel|No, I don¬ít think we¬íll be doing that.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia471_utt0.wav
+Ross|We¬íre not gonna do that.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia471_utt1.wav
+Julie|Well, if you like you can feel Rachel¬ís and then feel mine to compare.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia471_utt2.wav
+Mrs. Geller|Am I interrupting?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia471_utt3.wav
+Ross|Uh yes! Thank you.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia471_utt4.wav
+Rachel|Oh. Oh wait no.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia471_utt5.wav
+Ross|Later.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia471_utt6.wav

@@ -1,0 +1,8 @@
+Joey|No.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia393_utt0.wav
+Ross|You¬íll see.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia393_utt1.wav
+Emily|Liam, do me a favour. Tell the lads to go easy on Ross, it¬ís his first time.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia393_utt2.wav
+Liam|You don¬ít say!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia393_utt3.wav
+Emily|Good luck, babe.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia393_utt4.wav
+Liam|Ross! Ross! Come on! Get in here! Ross! Come on!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia393_utt5.wav
+Liam|Ross, come on! Get in the bloody scrum! Ross, get in!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia393_utt6.wav
+Ross|JOEY!!!!!!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia393_utt7.wav

@@ -1,0 +1,4 @@
+Monica|Oh, um, I don¬ít know if that¬ís a good idea.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia117_utt0.wav
+Richard|Oh. Look, just friends, I won¬ít grope you. I promise.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia117_utt1.wav
+Monica|No, I just I think that it¬ís too soon.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia117_utt2.wav
+Richard|No it¬ís not too soon, I had lunch at a eleven.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia117_utt3.wav

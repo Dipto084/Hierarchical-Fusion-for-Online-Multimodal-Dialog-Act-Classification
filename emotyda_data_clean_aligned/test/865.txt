@@ -1,0 +1,7 @@
+Ross|Oh here, I think this is us. Yeah.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia865_utt0.wav
+Monica|Limited seating my ass. Let¬ís see who made the cut. Hi!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia865_utt1.wav
+Monica|I¬ím Monica Gellar. Who do you know the bride and groom?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia865_utt2.wav
+Monica|Used to work with her. Used to! I¬ím a relative and I didn¬ít get invited! A|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia865_utt3.wav
+Ross|Stop saying, "Blood" to strangers.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia865_utt4.wav
+Monica|So, how about you huh? How do you know the happy couple?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia865_utt5.wav
+Monica|Okay, you¬íre fine.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia865_utt6.wav

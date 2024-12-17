@@ -1,0 +1,4 @@
+Joey|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia878_utt0.wav
+Monica|Hey-hey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia878_utt1.wav
+Joey|So are guys doing okay?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia878_utt2.wav
+Chandler|Yeah, we talked and Monica made me see that I over reacted a little bit and some things in life are more important.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia878_utt3.wav

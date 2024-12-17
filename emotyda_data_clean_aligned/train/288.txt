@@ -1,0 +1,21 @@
+Joey|"Happy birthday to you!"|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia288_utt0.wav
+Gunther|You¬íre paying for that.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia288_utt1.wav
+Joey|What? No-no it¬ís her birthday!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia288_utt2.wav
+Gunther|You¬íve sung Happy Birthday to 20 different women today!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia288_utt3.wav
+Joey|But it really|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia288_utt4.wav
+Gunther|You are no longer authorized to distribute birthday muffins.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia288_utt5.wav
+Joey|Damnit!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia288_utt6.wav
+Ross|Rach? Hi!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia288_utt7.wav
+Rachel|Hi!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia288_utt8.wav
+Ross|Did you tell your sister to ask me out?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia288_utt9.wav
+Rachel|Well yeah|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia288_utt10.wav
+Ross|Oh wow!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia288_utt11.wav
+Ross|I mean, wow!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia288_utt12.wav
+Ross|I mean, I-I-I think she¬ís cute but I-I would never have thought of going out with her, never!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia288_utt13.wav
+Rachel|Really?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia288_utt14.wav
+Ross|Yeah but after you said it was okay, I figured, "Why not?!"|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia288_utt15.wav
+Rachel|Oh so-so not really never.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia288_utt16.wav
+Ross|I have to say you are a much bigger person than I am.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia288_utt17.wav
+Ross|I mean after all we¬íve been through, I just¬óy¬íknow I wish I had a brother to reciprocate.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia288_utt18.wav
+Ross|Hey, if you ever want to go out with Monica, you have my blessing.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia288_utt19.wav
+Joey|Oh-ho, and mine!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia288_utt20.wav

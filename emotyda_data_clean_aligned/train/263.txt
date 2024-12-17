@@ -1,0 +1,9 @@
+Phoebe|Oh my God! That guy at the counter is totally checking you out!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia263_utt0.wav
+Monica|Really? My God, he¬ís really cute.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia263_utt1.wav
+Phoebe|Go for it.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia263_utt2.wav
+Monica|Phoebe, I¬ím engaged!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia263_utt3.wav
+Phoebe|I¬ím just saying, get his number just in case.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia263_utt4.wav
+Phoebe|But no: Chandler is in an accident and can¬ít perform sexually and he would want you to take a lover to satisfy the needs that he can no longer fulfill.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia263_utt5.wav
+Monica|Op, can I just tell you something? Very flattered but umm, I¬ím engaged.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia263_utt6.wav
+Monica|Well you should be embarrassed.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia263_utt7.wav
+Phoebe|I did, but that was really fun.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia263_utt8.wav

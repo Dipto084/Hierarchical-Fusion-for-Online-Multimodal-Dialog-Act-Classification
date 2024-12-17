@@ -1,0 +1,10 @@
+Joey|Will you pick one, just pick one! Here, how about that one?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia661_utt0.wav
+Chandler|That's patio furniture!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia661_utt1.wav
+Joey|So what, like people are gonna come in and think, "Uh-oh, I'm outside again?" Of course!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia661_utt2.wav
+Chandler|What about the birds?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia661_utt3.wav
+Joey|I don't know, birds just don't say, "Hello, sit here, eat something."|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia661_utt4.wav
+Chandler|You pick one.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia661_utt5.wav
+Joey|All right, how about the ladybugs?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia661_utt6.wav
+Chandler|Oh, so, forget about the birds, but big red insects suggest fine dining!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia661_utt7.wav
+Joey|Fine, you want to get the birds, get the birds!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia661_utt8.wav
+Chandler|Not like that, I won't! Kip would have liked the birds!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia661_utt9.wav

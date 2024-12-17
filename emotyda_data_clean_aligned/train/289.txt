@@ -1,0 +1,5 @@
+Phoebe|No-no wait-wait! I can¬ít just let you hang up! Just please talk to me.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia289_utt1.wav
+Earl|Well¬ÖI only have one thing to do today. I guess I could push it back.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia289_utt2.wav
+Phoebe|Yeah! Now, why do you want to kill yourself?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia289_utt3.wav
+Earl|It¬ís just that I uh, have been working for ten years now at this meaningless, dead-end job and nobody here even knows I exist!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia289_utt4.wav
+Phoebe|Chandler?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia289_utt5.wav

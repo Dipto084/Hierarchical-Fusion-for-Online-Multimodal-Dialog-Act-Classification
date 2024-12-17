@@ -1,0 +1,16 @@
+Phoebe|Oh, I want to look too! . Yikes!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia834_utt0.wav
+Monica|So do you think that these pictures¬óAre, are they trying to tell a story?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia834_utt1.wav
+Rachel|Oh, yeah, sure.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia834_utt2.wav
+Rachel|I mean, like in the case of this young woman, she has lost her clothes, so she rides naked on the horse, she¬ís crying out, ¬ëWhere are they, where are they?¬í|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia834_utt3.wav
+Monica|Well, she¬ís not going to find them lying in the grass like that.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia834_utt4.wav
+Phoebe|Oh, yeah. Aw, remember the days when you used to go out to the barn, lift up your shirt, and bend over?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia834_utt5.wav
+Monica|Yeah.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia834_utt6.wav
+Rachel|You see, now, I would date this girl.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia834_utt7.wav
+Rachel|She¬ís cute, she¬ís outdoorsy, you know, and she knows how to build a fire.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia834_utt8.wav
+Rachel|I mean, that¬ís got to come in handy|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia834_utt9.wav
+Monica|Okay, I¬íve got a question. If you had to pick one of us to date, who would it be?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia834_utt10.wav
+Rachel|I don¬ít know.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia834_utt11.wav
+Monica|Me neither.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia834_utt12.wav
+Phoebe|Rachel.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia834_utt13.wav
+Monica|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia834_utt14.wav
+Phoebe|I don¬ít know. Me neither.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia834_utt15.wav

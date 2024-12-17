@@ -1,0 +1,11 @@
+Rachel|Whoa! Y'know what Katie? I gotta tell ya I-I-I-I think you are the one who is too much.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia271_utt0.wav
+Katie|Ohh, Joey has the nicest friends!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia271_utt1.wav
+Rachel|Ohh, and the nicest girlfriend!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia271_utt2.wav
+Katie|You're so sweet!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia271_utt3.wav
+Rachel|Ohh, you're so sweet!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia271_utt4.wav
+Katie|Oww!!!! Joey, she just kicked me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia271_utt5.wav
+Joey|Huh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia271_utt6.wav
+Katie|Well? Aren't you gonna do something?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia271_utt7.wav
+Joey|Uhh¬Ö.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia271_utt8.wav
+Katie|You'd better do something, or I'm gonna walk out that door right now! Well? Are you gonna?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia271_utt9.wav
+Joey|Nah.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia271_utt10.wav

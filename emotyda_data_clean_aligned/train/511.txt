@@ -1,0 +1,7 @@
+Rachel|Oh God, Ross, I cannot do this.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia511_utt0.wav
+Ross|Okay, quick and painful.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia511_utt1.wav
+Rachel|Oh God... Okay. Alright. Alright. Okay. Ross, please don't hate me.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia511_utt2.wav
+Ross|Oh, what? What-what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia511_utt3.wav
+Rachel|Y'know Marcel?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia511_utt4.wav
+Ross|...Yeah?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia511_utt5.wav
+Rachel|Well, I kind of... I kind of lost him.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia511_utt6.wav

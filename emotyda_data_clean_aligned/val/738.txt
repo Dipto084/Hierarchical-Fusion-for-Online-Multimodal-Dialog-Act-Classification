@@ -1,0 +1,9 @@
+Monica|Hey Ross! So, I was checking out the uh, real estate section|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia738_utt0.wav
+Ross|Yeah?|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia738_utt1.wav
+Monica|Look at this.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia738_utt2.wav
+Ross|Oh, it looks like mom and dad¬ís house.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia738_utt3.wav
+Ross|Oh, it even has a tree with a broken limb out front and the uh, the window in the attic is¬ÖOh my God!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia738_utt4.wav
+Phoebe|What? What happened to the window in the attic?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia738_utt5.wav
+Monica|I can¬ít believe mom and dad are selling the house!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia738_utt6.wav
+Ross|I can¬ít believe they-they didn¬ít even tell us!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia738_utt7.wav
+Phoebe|I can¬ít believe I still don¬ít know what happened to the|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia738_utt8.wav

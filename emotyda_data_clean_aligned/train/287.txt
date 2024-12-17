@@ -1,0 +1,13 @@
+Joey|Actually, tomorrow night kinda depends on how tonight goes.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia287_utt0.wav
+Chandler|Oh, uh, listen, about tonight...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia287_utt1.wav
+Joey|No, no, no, don't you dare bail on me.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia287_utt2.wav
+Joey|The only reason she's goin' out with me is because I said I could bring a friend for her friend.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia287_utt3.wav
+Chandler|Yes, I know, but her friend sounds like such a...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia287_utt4.wav
+Joey|Pathetic mess?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia287_utt5.wav
+Joey|I know, but¬ócome on, man, she's needy, she's vulnerable.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia287_utt6.wav
+Joey|I'm thinkin', cha-ching!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia287_utt7.wav
+Joey|Thanks.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia287_utt8.wav
+Joey|Look, you have not been out with a woman since Janice.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia287_utt9.wav
+Joey|You're doin' this.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia287_utt10.wav
+Ross|Hi. She said yes.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia287_utt11.wav
+Chandler|Yes! Way to go, man! Still got the egg, huh?|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia287_utt12.wav

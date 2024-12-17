@@ -1,0 +1,5 @@
+Dr. Long|Do we have a name yet?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia77_utt0.wav
+Rachel|No, not yet.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia77_utt1.wav
+Dr. Long|That¬ís fine, for now we¬íll just call her Baby Girl Green.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia77_utt2.wav
+Rachel|Oh no, Baby Girl Geller-Green.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia77_utt3.wav
+Rachel|Hello baby girl.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia77_utt4.wav

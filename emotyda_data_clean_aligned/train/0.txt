@@ -1,0 +1,14 @@
+Chandler|also I was the point person on my company¬ís transition from the KL-5 to GR-6 system.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia0_utt0.wav
+The Interviewer|You must¬íve had your hands full.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia0_utt1.wav
+Chandler|That I did. That I did.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia0_utt2.wav
+The Interviewer|So let¬ís talk a little bit about your duties.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia0_utt3.wav
+Chandler|My duties? All right.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia0_utt4.wav
+The Interviewer|Now you¬íll be heading a whole division, so you¬íll have a lot of duties.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia0_utt5.wav
+Chandler|I see.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia0_utt6.wav
+The Interviewer|But there¬íll be perhaps 30 people under you so you can dump a certain amount on them.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia0_utt7.wav
+Chandler|Good to know.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia0_utt8.wav
+The Interviewer|We can go into detail|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia0_utt9.wav
+Chandler|No don¬ít I beg of you!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia0_utt10.wav
+The Interviewer|All right then, we¬íll have a definite answer for you on Monday, but I think I can say with some confidence, you¬íll fit in well here.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia0_utt11.wav
+Chandler|Really?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia0_utt12.wav
+The Interviewer|Absolutely. You can relax|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia0_utt13.wav

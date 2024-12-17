@@ -1,0 +1,20 @@
+Phoebe|So, you¬íre like a zillionaire?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia446_utt0.wav
+Chandler|And you¬íre our age. You¬íre our age.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia446_utt1.wav
+Phoebe|Y'know what, you should like, you should buy a state and then just name it after yourself.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia446_utt2.wav
+Pete|What like Pete Dakota?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia446_utt3.wav
+Phoebe|Yeah, or, or, or, Mississ-Pete.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia446_utt4.wav
+Joey|Oh, oh, I got it! Pete-Chicago.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia446_utt5.wav
+Chandler|That¬ís not a state Joe.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia446_utt6.wav
+Joey|Oh, and Mississ-Pete is?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia446_utt7.wav
+Pete|I got to go, so ah, I¬íll see you guys later.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia446_utt8.wav
+All|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia446_utt9.wav
+Chandler|You¬íre our age!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia446_utt10.wav
+Pete|So ah, we on for tomorrow?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia446_utt11.wav
+Monica|Absolutely!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia446_utt12.wav
+Monica|Now get out of here you!!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia446_utt13.wav
+Monica|Okay, I¬ím running out of places I can touch him!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia446_utt14.wav
+Monica|Look, is there something wrong with me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia446_utt15.wav
+Monica|I mean why am I only attracted to guys where there¬ís no future?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia446_utt16.wav
+Monica|Either they¬íre too old, or they¬íre too young, and then there¬ís Pete who¬ís-who¬ís crazy about me, and who¬ís absolutely perfect for me, and there¬ís like zip going on!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia446_utt17.wav
+Monica|I mean, seriously, does it sound like something¬ís wrong with me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia446_utt18.wav
+Ross and Joey|No.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia446_utt19.wav

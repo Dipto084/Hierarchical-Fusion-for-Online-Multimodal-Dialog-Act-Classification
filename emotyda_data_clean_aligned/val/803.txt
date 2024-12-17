@@ -1,0 +1,7 @@
+Boy in the Cape|You¬íre a mean old woman.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia803_utt0.wav
+Rachel|No! Wait no! Shut up¬óI mean don¬ít cry! Let me get my checkbook!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia803_utt1.wav
+Monica|Look honey, you don¬ít have to do this, okay?|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia803_utt2.wav
+Monica|It¬ís the strength you have inside that means the most to me.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia803_utt3.wav
+Monica|You¬íre loyal, you¬íre honest, and you have integrity!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia803_utt4.wav
+Monica|That¬ís the kind of strength that I want in the man that I love!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia803_utt5.wav
+Chandler|That means nothing to me. Come on!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia803_utt6.wav

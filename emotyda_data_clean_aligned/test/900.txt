@@ -1,0 +1,16 @@
+Phoebe|Me too.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia900_utt0.wav
+Phoebe|Although this city is my home, so.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia900_utt1.wav
+Phoebe|So that¬ís dumb what I said, don¬ít tell him I said that.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia900_utt2.wav
+Phoebe|Umm, you make something up.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia900_utt3.wav
+Phoebe|Nice, thank you.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia900_utt4.wav
+Phoebe|This is me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia900_utt5.wav
+Phoebe|Here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia900_utt6.wav
+Mischa|Your eyes are very pretty.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia900_utt7.wav
+Phoebe|Thank you, very much! Oh! Thank you!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia900_utt8.wav
+Mischa|He would like to kiss you.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia900_utt9.wav
+Phoebe|Okay, y'know what, you don¬ít have to do that now.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia900_utt10.wav
+Phoebe|No-no-no-no!!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia900_utt11.wav
+Phoebe|Not him, you don¬ít!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia900_utt12.wav
+Phoebe|Well the moment¬ís over.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia900_utt13.wav
+Phoebe|Oh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia900_utt14.wav
+Mischa|Oy!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia900_utt15.wav

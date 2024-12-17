@@ -1,0 +1,10 @@
+Ross|Hi! I¬ím so glad you¬íre here, but it¬ís gonna be a while. I-I wished you¬íd called first.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia584_utt0.wav
+Mrs. Geller|Oh that¬ís all right, I¬ím coming back later with your father.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia584_utt1.wav
+Ross|Oh good.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia584_utt2.wav
+Mrs. Geller|I actually needed to talk to you before the birth.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia584_utt3.wav
+Ross|Okay, what¬ís up?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia584_utt4.wav
+Mrs. Geller|I brought something that I want to give you, assuming of course that you want it.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia584_utt5.wav
+Ross|Ma, you¬íre asking me to marry you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia584_utt6.wav
+Mrs. Geller|This is your grandmother¬ís engagement ring, I want you to give it to Rachel.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia584_utt7.wav
+Ross|Mom no, come on! Thank you.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia584_utt8.wav
+Mrs. Geller|Just hear me out!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia584_utt9.wav

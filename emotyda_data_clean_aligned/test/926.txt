@@ -1,0 +1,18 @@
+Chandler|Y¬íknow when we move in together, can I get a gumball machine?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia926_utt0.wav
+Monica|Of course! Joey wouldn¬ít let you have one?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia926_utt1.wav
+Chandler|No. When it comes to sweets, he¬ís surprisingly strict.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia926_utt2.wav
+Monica|Hey, have you figured out a way to tell him you¬íre moving out?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia926_utt3.wav
+Chandler|No, no, I keep trying, y¬íknow?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia926_utt4.wav
+Chandler|I can get out, "Joey, I have too¬Ö" but then I lose my nerve and I always finish with, "¬Ögo to the bathroom."|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia926_utt5.wav
+Chandler|He may think I¬ím sick.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia926_utt6.wav
+Monica|Y¬íknow, I really have to tell Rachel, but I¬Ö We just have to get it over with!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia926_utt7.wav
+Monica|Y¬íknow, the next time we see them we¬íre just gonna tell them.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia926_utt8.wav
+Monica|That¬ís it.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia926_utt9.wav
+Chandler|Oh, so that¬ís this is gonna work now? You¬íre just gonna order me around all the time?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia926_utt10.wav
+Monica|Pretty much.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia926_utt11.wav
+Chandler|All right.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia926_utt12.wav
+Joey|Hey Monica!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia926_utt13.wav
+Monica|Hi!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia926_utt14.wav
+Joey|Hey man, you feeling any better?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia926_utt15.wav
+Monica|Joey, we have something to tell you.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia926_utt16.wav
+Joey|Oh my God! You¬íre pregnant!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia926_utt17.wav

@@ -1,0 +1,9 @@
+Ross|What happened?!!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia795_utt0.wav
+Joey|Well, I don¬ít know!!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia795_utt1.wav
+Ross|We fell asleep! That is all.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia795_utt2.wav
+Joey|Yeah. Yep. Yeah. All right, well uh, I¬íd better go.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia795_utt3.wav
+Ross|I think that would be best.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia795_utt4.wav
+Joey|Yeah. All right, I¬íll talk to you later.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia795_utt5.wav
+Ross|Okay. But not about this!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia795_utt6.wav
+Joey|No! Never! Never! Bye.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia795_utt7.wav
+Ross|No touch! No touch!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia795_utt8.wav

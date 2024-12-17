@@ -1,0 +1,5 @@
+Monica|Oh no it¬ís not, no it¬ís not. It¬ís a first date. I¬ím|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia788_utt0.wav
+Chandler|Ho-oh, he¬ís gonna get some!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia788_utt1.wav
+Chandler|Of the glare from the streetlight out of his apartment.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia788_utt2.wav
+Chandler|Y¬íknow so umm, he¬ís closed the drapes there so he can have a nice, pleasant conversation with your little sister.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia788_utt3.wav
+Chandler|Well, I¬ím off to bed!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia788_utt4.wav

@@ -1,0 +1,14 @@
+Monica|Thank you.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia935_utt0.wav
+Phoebe|Thanks.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia935_utt1.wav
+Monica|I can't believe this! This is like the worst night ever!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia935_utt2.wav
+Phoebe|Y'know Monica you had a minor setback in your relationship with Chandler. Big deal! It's only Chandler. I am|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia935_utt3.wav
+Monica|This is crazy! I mean, it's such a stupid argument. I don't even wanna see Richard again.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia935_utt4.wav
+Phoebe|So go fix it!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia935_utt5.wav
+Phoebe|Go find Chandler!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia935_utt6.wav
+Phoebe|He's probably up in your room!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia935_utt7.wav
+Phoebe|Tell him that you're sorry and that you love him.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia935_utt8.wav
+Monica|Y'know what? You're right Phoebe. You're right. Thank you!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia935_utt9.wav
+Phoebe|Sure! Yeah! Las Vegas, number one!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia935_utt10.wav
+Monica|Anybody lose this?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia935_utt11.wav
+The Croupier|Comin' out. Place your bet. Dice are out. Double or nothin'! Pay the front line!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia935_utt12.wav
+Monica|Hmm.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia935_utt13.wav

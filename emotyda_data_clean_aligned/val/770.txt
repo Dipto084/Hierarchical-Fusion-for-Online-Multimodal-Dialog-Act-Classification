@@ -1,0 +1,18 @@
+Chandler|Yeah.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia770_utt0.wav
+Monica|Look, these clowns are trying to take us for a ride and I'm not gonna let 'em!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia770_utt1.wav
+Monica|And we're not a couple of suckers!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia770_utt2.wav
+Chandler|I hear ya, Mugsy!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia770_utt3.wav
+Chandler|But look, all these rooms are fine okay?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia770_utt4.wav
+Chandler|Can you just pick one so I can watch--have a perfect, magical weekend together with you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia770_utt5.wav
+Monica|Okay,|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia770_utt6.wav
+Chandler|Nothing! It's over! Dammit! This is regularly scheduled programming!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia770_utt7.wav
+Monica|Can we turn the TV off? Okay? Do we really want to spend the entire weekend like this?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia770_utt8.wav
+Chandler|Oh, I'm sorry, am I getting in the way of all the room switching fun?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia770_utt9.wav
+Monica|Hey, don't blame me for wigging tonight!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia770_utt10.wav
+Chandler|Oh, who should I blame? The nice bell man who had to drag out luggage to 10 different rooms?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia770_utt11.wav
+Monica|I don't know, how about the idiot who thought he could drive from Albany to Canada on a half a tank of gas!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia770_utt12.wav
+Chandler|Do not speak ill of the dead.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia770_utt13.wav
+Monica|We're supposed to uh, be spending a romantic weekend together, it-it, what is the matter with you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia770_utt14.wav
+Chandler|I just want to watch a little television. What is the big deal? Geez, relax mom.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia770_utt15.wav
+Monica|What did you say?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia770_utt16.wav
+Chandler|I said, "Geez, relax Monnnnn."|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia770_utt17.wav

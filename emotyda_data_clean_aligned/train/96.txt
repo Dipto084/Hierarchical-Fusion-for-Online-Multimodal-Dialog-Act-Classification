@@ -1,0 +1,5 @@
+Monica|Hello, this is Monica...|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia96_utt0.wav
+Monica|Yeah???|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia96_utt1.wav
+Monica|Oh...|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia96_utt2.wav
+Monica|Okay, yes, we'll be right, we'll be right down.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia96_utt3.wav
+Monica|Thank you.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia96_utt4.wav

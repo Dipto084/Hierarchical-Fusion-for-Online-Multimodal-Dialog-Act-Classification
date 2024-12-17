@@ -1,0 +1,15 @@
+Ross|Okay, that¬ís a fire. Oh yeah. Oh yeah.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia231_utt0.wav
+Rachel|Excuse me, I¬ím sorry, I¬ím gonna have to call you back, I¬íve got a Schemp in my office.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia231_utt1.wav
+Rachel|What are you doing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia231_utt2.wav
+Ross|I¬ím sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia231_utt3.wav
+Ross|But ah, hey, oh, somebody¬ís off the phone, how ¬ëbout a glass of wine by the fire, I could get it going again.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia231_utt4.wav
+Rachel|Ross you¬íre not listening to me, I don¬ít have time to stop.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia231_utt5.wav
+Ross|Come on Rach, you don¬ít have what, ten minutes?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia231_utt6.wav
+Rachel|I don¬ít have ten minutes!!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia231_utt7.wav
+Ross|What? Sophie, does she have ten minutes?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia231_utt8.wav
+Rachel|Hey, Ross!!! I told you I don¬ít!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia231_utt9.wav
+Ross|Don¬ít yell at me okay, this is the most I¬íve seen you all week.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia231_utt10.wav
+Rachel|Look, I cannot do this right now, okay, I¬íve got a deadline, would you just go home, I¬íll talk to you later.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia231_utt11.wav
+Ross|Yeah, but wait...|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia231_utt12.wav
+Rachel|Good bye!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia231_utt13.wav
+Sophie|Actually, that¬ís our three hole punch.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia231_utt14.wav

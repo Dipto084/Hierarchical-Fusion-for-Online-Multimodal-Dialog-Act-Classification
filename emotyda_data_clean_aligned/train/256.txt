@@ -1,0 +1,16 @@
+Rachel|That¬ís right, still no baby! Come on people! Please make some room!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia256_utt0.wav
+Ross|Uh sweetie, maybe you¬íd be more comfortable here?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia256_utt1.wav
+Rachel|You. Like you haven¬ít done enough.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia256_utt2.wav
+Ross|Look, I-I know how miserable you are, I wish there was something I can do.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia256_utt3.wav
+Ross|I mean I wish I were a seahorse.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia256_utt4.wav
+Ross|Because with seahorses it¬ís the male, they carry the babies.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia256_utt5.wav
+Ross|And then also umm, I¬íd be far away in the sea.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia256_utt6.wav
+Rachel|God. I have never been so uncomfortable in my entire life!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia256_utt7.wav
+Phoebe|Oh I know, I¬íve been there. I remember toward the end|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia256_utt8.wav
+Rachel|Oh Phoebe, that¬ís a great story.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia256_utt9.wav
+Rachel|Can you tell it to me when you¬íre getting me some iced tea?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia256_utt10.wav
+Rachel|Oh God, get out!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia256_utt11.wav
+Rachel|Get out!!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia256_utt12.wav
+Rachel|Get out!!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia256_utt13.wav
+Rachel|Get out!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia256_utt14.wav
+Chandler|Let¬ís.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia256_utt15.wav

@@ -1,0 +1,5 @@
+Ross|Of course he is!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia598_utt0.wav
+Ross|What, do you think I¬íd just use my son as-as an excuse?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia598_utt1.wav
+Ross|What kind of father do you think I am?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia598_utt2.wav
+Monica|All right, sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia598_utt3.wav
+Ross|I gotta go make a fake Ben.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia598_utt4.wav

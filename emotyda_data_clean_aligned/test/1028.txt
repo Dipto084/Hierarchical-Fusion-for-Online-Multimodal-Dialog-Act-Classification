@@ -1,0 +1,6 @@
+Melissa|anyway, his name is Allan and we¬íve been going out for three years.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1028_utt0.wav
+Melissa|He was my first client when I became a party planner.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1028_utt1.wav
+Melissa|He was planning a party for his girlfriend at the time.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1028_utt2.wav
+Melissa|Oh well.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1028_utt3.wav
+Melissa|And he was Theta Beta Pi at Syracuse.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1028_utt4.wav
+Rachel|Oh. Oh, that¬ís great!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1028_utt5.wav

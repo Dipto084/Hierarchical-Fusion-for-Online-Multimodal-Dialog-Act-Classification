@@ -1,0 +1,2 @@
+Phoebe|Y¬íknow, birds have a very good sense of direction, and I thought maybe they could help us find where the presents are hidden.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia580_utt0.wav
+Chandler|Yes, if the presents are hidden south for the winter.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia580_utt1.wav

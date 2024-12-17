@@ -1,0 +1,5 @@
+Phoebe|Ok, you can do this.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia262_utt0.wav
+Phoebe|It's just like pulling off a Band-aid.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia262_utt1.wav
+Phoebe|Just do it really fast, and then the wound is exposed.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia262_utt2.wav
+Chandler|Janice. Hi, Janice. Ok, here we go. I don't think we should go out anymore. Janice.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia262_utt3.wav
+Janice|All right. Well, there you go. Stop it, stop it, stop it.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia262_utt4.wav

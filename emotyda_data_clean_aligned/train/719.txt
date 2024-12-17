@@ -1,0 +1,8 @@
+Guy #1|Nice car!|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia719_utt0.wav
+Joey|Yeah, it¬ís not mine.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia719_utt1.wav
+Woman|I love your car.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia719_utt2.wav
+Joey|Yeah, it¬ís mine.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia719_utt3.wav
+Woman|I bet it¬ís fast.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia719_utt4.wav
+Joey|Me too! Yeah. And comfortable. Do uh, do you like leather seats?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia719_utt5.wav
+Woman|Yeah!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia719_utt6.wav
+Joey|It¬ís got ¬ëem!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia719_utt7.wav

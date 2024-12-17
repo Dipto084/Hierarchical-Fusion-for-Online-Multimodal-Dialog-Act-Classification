@@ -1,0 +1,9 @@
+Phoebe|Oh, that is so unfortunate.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia940_utt0.wav
+Ross|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia940_utt1.wav
+Phoebe|Cute naked guy is really starting to put on weight.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia940_utt2.wav
+Monica|Okay, I¬íll be back in just a minute. Oh, Phoebe I¬ím sorry that I left lipstick marks on the phone.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia940_utt3.wav
+Phoebe|You didn¬ít leave lipstick marks on the phone.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia940_utt4.wav
+Monica|Oh, then it must¬íve been you. Bye.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia940_utt5.wav
+Phoebe|Bye-bye! That¬ís why I moved out.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia940_utt6.wav
+Ross|Hey, y'know while we¬íre on that, when are you gonna tell my sister that you don¬ít live here anymore.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia940_utt7.wav
+Phoebe|I think on some levels she already knows.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia940_utt8.wav

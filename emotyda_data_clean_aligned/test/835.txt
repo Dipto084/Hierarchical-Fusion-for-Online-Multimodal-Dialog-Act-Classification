@@ -1,0 +1,12 @@
+Monica|Look, I wanted to tell I¬ím-I¬ím sorry you lost.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia835_utt0.wav
+Chandler|Listen, I¬íve got a secret for ya. I let him win.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia835_utt1.wav
+Monica|Is that a secret or a lie.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia835_utt2.wav
+Chandler|No, I let him win¬óRoss!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia835_utt3.wav
+Ross|Yeah?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia835_utt4.wav
+Chandler|Would you tell her I let you win please?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia835_utt5.wav
+Ross|Oh. Yeah. Uh Chandler|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia835_utt6.wav
+Chandler|I am strong! I¬íll show you!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia835_utt7.wav
+Monica|Chandler please!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia835_utt8.wav
+Chandler|Oh what¬ís the matter? Are you scared?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia835_utt9.wav
+Monica|Let¬ís go big bunny!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia835_utt10.wav
+Chandler|Okay. 1¬Ö2¬Ö3¬óGo! I¬ím gonna kill myself!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia835_utt11.wav

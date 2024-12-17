@@ -1,0 +1,10 @@
+Phoebe|After applying the Waxine and linen strips to leg number one,|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia212_utt0.wav
+Monica|Did that!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia212_utt1.wav
+Phoebe|Grasp one of the linen strips by its ¬ëeasy grab tab¬í and pull it off in one quick pain free motion.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia212_utt2.wav
+Monica|Okay. Ow!!!!! Ow-oh-oh!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia212_utt3.wav
+Phoebe|Was it not pain-free?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia212_utt4.wav
+Monica|No. It was painful. Oh my God , they should call it Pain-zine, now with a little wax.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia212_utt5.wav
+Phoebe|Huh, well, the girls in the satin nighties on the commercial don¬ít seem to think it¬ís that bad.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia212_utt6.wav
+Monica|That¬ís because their nerves are probably deadened from being so stupid.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia212_utt7.wav
+Monica|But hey, y'know if you don¬ít believe me, please, by my guest.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia212_utt8.wav
+Phoebe|Ow-ow-ow-ow! Oh my God!!!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia212_utt9.wav

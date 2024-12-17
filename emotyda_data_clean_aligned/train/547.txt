@@ -1,0 +1,3 @@
+Rachel|I'm not crazy, right? I mean, it was never like that.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia547_utt0.wav
+Barry|Nooo, it wasn't.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia547_utt1.wav
+Rachel|Ooh, and it's so nice having this little sink here...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia547_utt2.wav

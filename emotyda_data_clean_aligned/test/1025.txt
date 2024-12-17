@@ -1,0 +1,18 @@
+Monica|Dad, please don¬ít pick your teeth out here!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1025_utt0.wav
+Monica|Alright, and if you¬íre gonna put your feet up, why don¬ít you sit on the-|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1025_utt1.wav
+Phoebe|Monica, leave him alone|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1025_utt2.wav
+Joey|Will you hurry up?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1025_utt3.wav
+Joey|Did you not hear me before when I told you that all of Janine¬ís friends are dancers?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1025_utt4.wav
+Joey|And that they¬íre going to be drinking alot!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1025_utt5.wav
+Rachel|No, I did, but tell me again, because it¬ís so romantic.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1025_utt6.wav
+Joey|Well you¬íre whippin¬í so slow! Can¬ít you do it any faster?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1025_utt7.wav
+Rachel|Joey!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1025_utt8.wav
+Rachel|Come on!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1025_utt9.wav
+Rachel|I don¬ít wanna make any mistakes, alright?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1025_utt10.wav
+Rachel|This is the only dessert and if I screw it up everybody's gonna be like ¬ìOh, remember that Thanksgiving when Rachel screwed up the trifle?¬î|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1025_utt11.wav
+Rachel|So why don¬ít you just let me worry about making the trifle and you just worry about eating it, alright?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1025_utt12.wav
+Joey|Oh I am!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1025_utt13.wav
+Monica|Ross, if you don¬ít tell them, then I will!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1025_utt14.wav
+Ross|Okay, fine!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1025_utt15.wav
+Joey|Ross! Can I talk to you for a second?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1025_utt16.wav
+Ross|Oh, uh, can it wait a second Joey? I have to tell my parents something. No it can¬ít? Okay.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1025_utt17.wav

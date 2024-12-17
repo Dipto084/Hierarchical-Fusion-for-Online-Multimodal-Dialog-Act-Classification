@@ -1,0 +1,9 @@
+Rachel|Ohhh! That is soo sweet!|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia154_utt0.wav
+Mark|Okay, okay look, I know I'm being Mr. Inappropriate today, but it's just so tough, I mean see you walking around and I just wanna touch you and hold you, come on no one's around, just, just kiss me.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia154_utt1.wav
+Ross|All right that's, that's it!! Get off her!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia154_utt2.wav
+Mark|What is going on?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia154_utt3.wav
+Ross|What's going on?! That's what's going on!!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia154_utt4.wav
+Rachel|Ross!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia154_utt5.wav
+Ross|I have been down in your store for twenty minutes trying to get a tie!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia154_utt6.wav
+Ross|What do I have to do to get some service?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia154_utt7.wav
+Ross|Hi Rach.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia154_utt8.wav

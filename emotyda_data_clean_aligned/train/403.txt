@@ -1,0 +1,1 @@
+Chandler|Nah, Monica¬ís watching some cooking show. Come on, I don¬ít want to miss when they were skinny.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia403_utt0.wav

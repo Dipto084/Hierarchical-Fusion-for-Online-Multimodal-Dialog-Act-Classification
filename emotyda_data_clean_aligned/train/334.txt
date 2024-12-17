@@ -1,0 +1,13 @@
+Joey|Yeah, it must¬íve fallen out a few blocks back. I just figured we hit a dog.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia334_utt0.wav
+Chandler|Okay.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia334_utt1.wav
+Joey|Listen uh, could you put Kathy on, I wanna apologize.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia334_utt2.wav
+Chandler|Oh yeah man. Joey.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia334_utt3.wav
+Kathy|Hey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia334_utt4.wav
+Kathy|Oh no it¬ís fine, don¬ít worry about it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia334_utt5.wav
+Kathy|Yeah-no, stop apologizing, it¬ís okay.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia334_utt6.wav
+Kathy|I¬íll talk to you tomorrow.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia334_utt7.wav
+Kathy|I should uh, probably go.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia334_utt8.wav
+Chandler|Yeah. Yes! Yeah.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia334_utt9.wav
+Kathy|I forgot my purse.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia334_utt10.wav
+Chandler|Oh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia334_utt11.wav
+Kathy|No, I really did forget my purse.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia334_utt12.wav

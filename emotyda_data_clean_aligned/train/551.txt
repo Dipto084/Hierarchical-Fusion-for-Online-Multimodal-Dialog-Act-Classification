@@ -1,0 +1,10 @@
+Phoebe|Well, not much has changed in the last five minutes.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia551_utt0.wav
+Monica|Yes it has! I made cookies!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia551_utt1.wav
+Phoebe|Oh that¬ís all right. I¬ím still full from your homemade potato chips.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia551_utt2.wav
+Monica|But you should eat them now because they¬íre hot from the oven.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia551_utt3.wav
+Phoebe|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia551_utt4.wav
+Monica|Oh-ho! But not in here! Can¬ít eat ¬ëem in bed, remember? No crumbies!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia551_utt5.wav
+Phoebe|Okay, I¬íll be out in a second.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia551_utt6.wav
+Monica|Okay!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia551_utt7.wav
+Monica|What are you doing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia551_utt8.wav
+Phoebe|That doesn¬ít lock does it?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia551_utt9.wav

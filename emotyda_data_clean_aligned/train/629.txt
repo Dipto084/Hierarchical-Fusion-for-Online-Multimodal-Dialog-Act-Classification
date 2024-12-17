@@ -1,0 +1,18 @@
+Carol|Ok, and this is Funny Clown. Funny Clown is only for after his naps, not before his naps or he won't sleep.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia629_utt0.wav
+Ross|Carol, we've been through this before, ok?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia629_utt1.wav
+Ross|We have a good time.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia629_utt2.wav
+Ross|We laugh, we play.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia629_utt3.wav
+Ross|It's like we're father and son.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia629_utt4.wav
+Susan|Honey, relax. Ross is great with him. Don't look so surprised. I'm a lovely person.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia629_utt5.wav
+Rachel|Oh, this is so cute.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia629_utt6.wav
+Susan|Oh, I got that for him.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia629_utt7.wav
+Ross|My mommies love me. That's clever.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia629_utt8.wav
+Monica|Hello?|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia629_utt9.wav
+Monica|Oh, Hi, Ju¬ó¬óHi, Jew!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia629_utt10.wav
+Monica|Uh huh?|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia629_utt11.wav
+Monica|Uh huh?|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia629_utt12.wav
+Monica|Ok. Um, sure, that'd be great.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia629_utt13.wav
+Monica|See ya then.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia629_utt14.wav
+Monica|Bye.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia629_utt15.wav
+Rachel|Did you just say Hi, Jew?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia629_utt16.wav
+Monica|Yes. Uh, yes, I did. That was my friend, Eddie Moskowitz. Yeah, he likes it. Reaffirms his faith.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia629_utt17.wav

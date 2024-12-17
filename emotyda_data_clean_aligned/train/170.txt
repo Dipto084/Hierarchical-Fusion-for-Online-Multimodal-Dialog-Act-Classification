@@ -1,0 +1,12 @@
+Monica|Oh my God!!! What are you doing?!!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia170_utt0.wav
+Joey|You said, you wanna come in for some lemonade?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia170_utt1.wav
+Monica|So?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia170_utt2.wav
+Joey|Whoa, ah!! We¬íre you just gonna give me some lemonade?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia170_utt3.wav
+Monica|Yeah huh!! Cover yourself up!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia170_utt4.wav
+Joey|Oh right, right.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia170_utt5.wav
+Monica|I don¬ít believe this! When someone asks you in for lemonade, and to you that means they wanna have sex?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia170_utt6.wav
+Joey|Well usually...yeah!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia170_utt7.wav
+Joey|Well, not just lemonade, iced tea, sometimes juice.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia170_utt8.wav
+Joey|Well, sorry, I just, I thought you liked me.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia170_utt9.wav
+Joey|I¬ím such a jerk.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia170_utt10.wav
+Monica|It¬ís okay. I suppose it could happen to anyone, not anyone I know, but... By the way I can still see it.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia170_utt11.wav

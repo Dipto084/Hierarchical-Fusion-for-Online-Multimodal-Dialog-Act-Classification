@@ -1,0 +1,17 @@
+Phoebe|You mean whenever Monica and Chandler where like y'know doing laundry or going grocery shopping or¬óOh!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia986_utt0.wav
+Phoebe|All that time Monica spent on the phone with sad Linda from camp!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia986_utt1.wav
+Rachel|Uh-huh, doing it. Doing it. Phone doing it.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia986_utt2.wav
+Phoebe|Oh, I can't believe it!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia986_utt3.wav
+Phoebe|I mean I think it's great!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia986_utt4.wav
+Phoebe|For him.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia986_utt5.wav
+Phoebe|She might be able to do better.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia986_utt6.wav
+Joey|Hey guys!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia986_utt7.wav
+Rachel|Joey! Come here! Come here!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia986_utt8.wav
+Rachel|Phoebe just found out about Monica and Chandler.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia986_utt9.wav
+Joey|You mean how they're friends and nothing more?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia986_utt10.wav
+Rachel|No. Joey, she|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia986_utt11.wav
+Phoebe|Okay, so now they know that you know and they don't know that Rachel knows?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia986_utt12.wav
+Joey|Yes, but y'know what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia986_utt13.wav
+Joey|It doesn't matter who knows what.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia986_utt14.wav
+Joey|Now, enough of us know that we can just tell them that we know!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia986_utt15.wav
+Joey|Then all the lying and the secrets would finally be over!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia986_utt16.wav

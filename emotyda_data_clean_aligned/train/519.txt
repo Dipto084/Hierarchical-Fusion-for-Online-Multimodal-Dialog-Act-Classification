@@ -1,0 +1,5 @@
+Monica|What?! What are you doing?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia519_utt0.wav
+Chandler|Do you know what just happened?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia519_utt1.wav
+Monica|Yeah. We-we had sex and then we fell asleep.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia519_utt2.wav
+Chandler|No. We were in the middle of sex¬Öand|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia519_utt3.wav
+Monica|Nooo! No, that¬ís not true. No, best time ever! Yeah, you rocked my world!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia519_utt4.wav

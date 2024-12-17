@@ -1,0 +1,3 @@
+Rachel|Well you have to because maybe it¬ís stupid.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia903_utt0.wav
+Chandler|Well it¬ís just while Monica and I were dancing to them it was¬Öthe first time I knew that¬Öyou were the woman I wanted to dance all my dances with.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia903_utt1.wav
+Monica|Oh crap!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia903_utt2.wav

@@ -1,0 +1,3 @@
+Rachel|Sit!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia543_utt0.wav
+Joshua|Hi.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia543_utt1.wav
+Rachel|Oh my gosh, Joshua!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia543_utt2.wav

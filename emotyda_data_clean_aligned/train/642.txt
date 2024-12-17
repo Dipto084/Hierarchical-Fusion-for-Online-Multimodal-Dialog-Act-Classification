@@ -1,0 +1,5 @@
+Monica|Chandler, listen to me sweetie, I know you can do this. Okay? You have a beautiful smile.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia642_utt0.wav
+Chandler|I do?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia642_utt1.wav
+Monica|Yeah! All right, maybe you don¬ít have to smile. Let¬ís try something else. Let¬ís try umm, try looking sexy.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia642_utt2.wav
+Chandler|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia642_utt3.wav
+Monica|Or not.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia642_utt4.wav

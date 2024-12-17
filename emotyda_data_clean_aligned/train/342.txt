@@ -1,0 +1,20 @@
+Chandler|Triskaidekaphobia.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia342_utt0.wav
+Ross|The fear of|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia342_utt1.wav
+Joey|No! No, fear of the number 13.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia342_utt2.wav
+Ross|It¬ís possible, they have really sharp edges.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia342_utt3.wav
+Joey|All right Chandler, you¬íre up.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia342_utt4.wav
+Ross|Wait a minute, I-I believe I¬ím entitled to use my Angel Pass for a free turn?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia342_utt5.wav
+Chandler|This game makes no sense!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia342_utt6.wav
+Ross|Y¬íknow what? You¬íre just upset because you¬íre losing.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia342_utt7.wav
+Chandler|Oh come on Ross, I think we¬íre all losers here.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia342_utt8.wav
+Joey|All right. Chandler, you can either spin the wheel or pick a Google card.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia342_utt9.wav
+Chandler|Let me think. Let me think¬óOh! I don¬ít care.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia342_utt10.wav
+Joey|You-you must choose Mr. Bing.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia342_utt11.wav
+Chandler|Either, it makes no difference.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia342_utt12.wav
+Joey|Choose, you jackass!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia342_utt13.wav
+Chandler|I¬íll take a card.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia342_utt14.wav
+Joey|Okay, you picked the Gimmie card! You get all of Ross¬ís points!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia342_utt15.wav
+Ross|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia342_utt16.wav
+Chandler|This game is kinda fun.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia342_utt17.wav
+Ross|You don¬ít think it¬ís a little crazy that you get all my points just ¬ëcause you|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia342_utt18.wav
+Chandler|I don¬ít think the contestants are supposed to speak to each other.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia342_utt19.wav

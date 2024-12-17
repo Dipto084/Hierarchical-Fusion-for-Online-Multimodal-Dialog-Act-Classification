@@ -1,0 +1,1 @@
+Ross|He¬ís coming here for Thanksgiving!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia742_utt0.wav

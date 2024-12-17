@@ -1,0 +1,11 @@
+Ross|Ok, got the vent open.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia639_utt0.wav
+Phoebe|Hi, I'm Ben. I'm hospital worker Ben. It's Ben... to the rescue!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia639_utt1.wav
+Ross|Ben, you ready?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia639_utt2.wav
+Ross|All right, gimme your foot.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia639_utt3.wav
+Ross|Ok, on three, Ben.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia639_utt4.wav
+Ross|One, two, three.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia639_utt5.wav
+Ross|Ok, That's it, Ben.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia639_utt6.wav
+Susan|What do you see?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia639_utt7.wav
+Phoebe|Well, Susan, I see what appears to be a dark vent. Wait. Yes, it is in fact a dark vent.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia639_utt8.wav
+Ross|Phoebs, It's open! It's open!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia639_utt9.wav
+Janitor|Wait! You forgot your legs!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia639_utt10.wav

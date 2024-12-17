@@ -1,0 +1,3 @@
+Ross|Oh. Okay, just breathe.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia713_utt0.wav
+Julie|Oh honey, I think I¬ím having one too!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia713_utt1.wav
+Marc|Look at this! There we go!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia713_utt2.wav

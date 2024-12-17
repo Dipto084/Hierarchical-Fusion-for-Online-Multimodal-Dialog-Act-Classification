@@ -1,0 +1,14 @@
+Rachel|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia923_utt0.wav
+Chandler|Okay, we have to talk. I¬ím just getting out of a very serious relationship|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia923_utt1.wav
+Janice|I know! And I¬ím just getting out of a marriage, I mean talk about meant to be!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia923_utt2.wav
+Chandler|Right! I just think that this is happening too soon.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia923_utt3.wav
+Janice|Oh, too soon, too schmoon. Face it honey, I am not letting you get away this time.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia923_utt4.wav
+Chandler|I hear ya. But! Unfortunately, my company is transferring me overseas!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia923_utt5.wav
+Janice|Oh no! Where to? Too Paris?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia923_utt6.wav
+Chandler|No! No! Not, Paris.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia923_utt7.wav
+Janice|Too London? No-no, Rome? Vienna? Ooh-ooh, Barcelona?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia923_utt8.wav
+Chandler|Okay, could you just stop talking for a second? Yemen. That¬ís right, yes, I¬ím being transferred to Yemen!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia923_utt9.wav
+Janice|When?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia923_utt10.wav
+Chandler|I don¬ít know exactly.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia923_utt11.wav
+Janice|Ugh, well I will just have to soak up every once of Chandler Bing until that moment comes.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia923_utt12.wav
+Chandler|But I do know that it¬ís some time tomorrow.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia923_utt13.wav

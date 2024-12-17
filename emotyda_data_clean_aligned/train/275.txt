@@ -1,0 +1,17 @@
+Ross|What difference does that make?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia275_utt0.wav
+Joey|Well, I'm just¬óif the paste matches the pants, you can make yourself a pair of paste pants and she won't know the difference!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia275_utt1.wav
+Rachel|Joey, do you have a minute?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia275_utt2.wav
+Ross|Dude, what am I gonna|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia275_utt3.wav
+Joey|Uh, Rachel's here, so good luck man, let me know how it works out.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia275_utt4.wav
+Rachel|Oh, Joey, I have such a problem!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia275_utt5.wav
+Joey|Oh well, you're timing couldn't be better. I am putting out fires all over the place.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia275_utt6.wav
+Rachel|Okay. Okay. Okay. Joey, I have|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia275_utt7.wav
+Joey|What-what is it, what is it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia275_utt8.wav
+Rachel|Oh my God, it's so huge, but you just have to promise me that you cannot tell anyone.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia275_utt9.wav
+Joey|Oh no, no-no-no-no! I don't want to know!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia275_utt10.wav
+Rachel|Yes! Yes! Yes, you do want to know! This is unbelievable!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia275_utt11.wav
+Joey|I don't care, Rach! Look, I am tired of being the guy who knows all the secrets but can't tell anyone!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia275_utt12.wav
+Rachel|What? What secrets? You know secrets? What are they?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia275_utt13.wav
+Joey|And you're not supposed to be gossiping!!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia275_utt14.wav
+Rachel|I know, I know! I just can't keep this one in, so I pick up the phone|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia275_utt15.wav
+Joey|I'm not listening to you!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia275_utt16.wav

@@ -1,0 +1,4 @@
+Sarah|Really Mr. Geller, you don¬ít have to do this.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia370_utt0.wav
+Ross|Oh come on! Here we go! Stand by for mission countdown!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia370_utt1.wav
+Chandler|I¬ím an alien. I¬ím an alien.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia370_utt2.wav
+Ross|Oh no! An asteroid!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia370_utt3.wav

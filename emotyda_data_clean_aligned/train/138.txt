@@ -1,0 +1,17 @@
+Rachel|Okay, I have to tell you something that I have never admitted during our entire friendship!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia138_utt0.wav
+Rachel|But, when we were in high school I made out with James Farrell even when I knew that you liked him!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia138_utt1.wav
+Rachel|Wow, that feels so good to get off my chest!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia138_utt2.wav
+Rachel|Okay, you go!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia138_utt3.wav
+Monica|My turn? What-what are you talking about?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia138_utt4.wav
+Rachel|Ugh, Monica, I know about you and Chandler.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia138_utt5.wav
+Monica|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia138_utt6.wav
+Rachel|I overheard you guys on the phone the other day, and you said, "I'll just tell Rachel that I'm doing laundry for a couple of hours."|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia138_utt7.wav
+Rachel|And he said, "Laundry?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia138_utt8.wav
+Rachel|Is|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia138_utt9.wav
+Monica|Well. Sounds like you're writing yourself a little play there Rach. Wow! Let me know how that one turns out.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia138_utt10.wav
+Rachel|Well, I wouldn't know because I got so freaked out that I hung up the phone.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia138_utt11.wav
+Monica|Well, if you had kept listening, you-you would have heard me call him Mr. Big¬Ö¬Öot.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia138_utt12.wav
+Rachel|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia138_utt13.wav
+Monica|Mr. Bigot. He tells the most|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia138_utt14.wav
+Rachel|All right. So you're telling me that there is nothing going on between you and Chandler.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia138_utt15.wav
+Monica|Me and Chandler?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia138_utt16.wav

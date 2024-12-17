@@ -1,0 +1,12 @@
+Chandler|Okay, but this is the last time.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia73_utt0.wav
+Chandler|With a chick-chick here, and a chick-chick there.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia73_utt1.wav
+Chandler|Here a chick, there a chick, everywhere a chick-chick--chickeeeen.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia73_utt2.wav
+Joey|Hey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia73_utt3.wav
+Chandler|Hey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia73_utt4.wav
+Joey|How¬ís she doing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia73_utt5.wav
+Chandler|She?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia73_utt6.wav
+Joey|Well yeah, don¬ít-don¬ít you think it¬ís a she?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia73_utt7.wav
+Chandler|I don¬ít know. I can¬ít tell, what ever it was went back in too quickly.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia73_utt8.wav
+Joey|Well, anyway, I got to go change, I¬ím ah, meeting some of the cast for drinks.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia73_utt9.wav
+Chandler|Excuse me?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia73_utt10.wav
+Joey|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia73_utt11.wav

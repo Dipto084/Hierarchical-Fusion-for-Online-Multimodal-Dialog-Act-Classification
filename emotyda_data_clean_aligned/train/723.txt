@@ -1,0 +1,8 @@
+Chandler|Check out the ring.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia723_utt0.wav
+Rachel|Nice! One and a half carat easy.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia723_utt1.wav
+Phoebe|Hi.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia723_utt2.wav
+Ross|Hey-hey Pheebs!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia723_utt3.wav
+Ross|Chandler¬ís gonna ask Monica to marry him!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia723_utt4.wav
+Phoebe|Oh I know, I helped pick out the ring.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia723_utt5.wav
+Ross|You told her before you told us?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia723_utt6.wav
+Chandler|Well, she walked in when I was looking at the ring brochures. You can understand that, right? Guys? Guys?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia723_utt7.wav

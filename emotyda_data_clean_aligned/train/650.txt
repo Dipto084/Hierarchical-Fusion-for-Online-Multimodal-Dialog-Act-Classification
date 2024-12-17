@@ -1,0 +1,9 @@
+Rachel|Can you believe what a jerk Ross was being?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia650_utt0.wav
+Monica|Yeah, I know. He can get really competitive.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia650_utt1.wav
+Phoebe|Ha. Ha, ha.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia650_utt2.wav
+Monica|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia650_utt3.wav
+Phoebe|Oh, hello, kettle? This is Monica. You're black.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia650_utt4.wav
+Monica|Please! I am not as bad as Ross.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia650_utt5.wav
+Rachel|Oh, I beg to differ. The|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia650_utt6.wav
+Monica|That was|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia650_utt7.wav
+Rachel|Oooooh. : Oh! I got an interview! I got an interview!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia650_utt8.wav

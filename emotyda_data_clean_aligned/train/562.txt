@@ -1,0 +1,12 @@
+Chandler|Hello! One marriage please!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia562_utt0.wav
+Monica|Yep, we wanna get married!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia562_utt1.wav
+Monica|All right.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia562_utt2.wav
+Chandler|Dum! Dum-dum-dum! Dum! Dum! Dum! Dum-dum-dum!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia562_utt3.wav
+Monica|What are you doing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia562_utt4.wav
+Chandler|Oh, that's|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia562_utt5.wav
+Monica|No, only because that's the graduation song.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia562_utt6.wav
+Chandler|Okay! This is it! We're gonna get married!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia562_utt7.wav
+Monica|Are you sure you wanna do this?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia562_utt8.wav
+Ross|Well, hello, Mrs. Ross!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia562_utt9.wav
+Rachel|Well, hello, Mr. Rachel!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia562_utt10.wav
+Rachel|Wait! Okay!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia562_utt11.wav

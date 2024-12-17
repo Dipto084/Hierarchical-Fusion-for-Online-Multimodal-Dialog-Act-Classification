@@ -1,0 +1,16 @@
+Ross|Oh. Oh-oh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia672_utt0.wav
+Rachel|Hey! What happened to you? Why didn¬ít you come up?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia672_utt1.wav
+Ross|Done!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia672_utt2.wav
+Rachel|You just finished?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia672_utt3.wav
+Ross|Well, I wanted to be thorough.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia672_utt4.wav
+Ross|I mean this-this is clearly very, very important to you, to us!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia672_utt5.wav
+Ross|And so I wanted to read every word carefully, twice!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia672_utt6.wav
+Rachel|So umm, does it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia672_utt7.wav
+Ross|I¬ím sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia672_utt8.wav
+Rachel|Does it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia672_utt9.wav
+Ross|Does it? Does it? Yeah, I wanted to give that whole ¬ëDoes it?¬í part just another glance.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia672_utt10.wav
+Rachel|What are you talking about, Ross, you just said that you read it twice!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia672_utt11.wav
+Rachel|Look, y'know what, either it does or it doesn¬ít, and if you have to even|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia672_utt12.wav
+Ross|No, Rach, no. I don¬ít, I don¬ít, I don¬ít|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia672_utt13.wav
+Rachel|Are you sure?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia672_utt14.wav
+Ross|Oh, sure! I¬ím sure.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia672_utt15.wav

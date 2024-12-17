@@ -1,0 +1,6 @@
+Monica|Okay, here¬ís batch 22.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia943_utt0.wav
+Monica|Oh, maybe these¬íll taste a little like your grandmother¬ís.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia943_utt1.wav
+Monica|This has a little bit of orange peel, but no nutmeg.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia943_utt2.wav
+Ross|Let¬ís give it a shot.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia943_utt3.wav
+Phoebe|Oh, what was that for? Like a bake sale?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia943_utt4.wav
+Monica|No, just a Friday night.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia943_utt5.wav

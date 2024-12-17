@@ -1,0 +1,13 @@
+Chandler|Hey, Mon.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia2_utt0.wav
+Monica|Hey-hey-hey. You wanna hear something that sucks.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia2_utt1.wav
+Chandler|Do I ever.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia2_utt2.wav
+Monica|Chris says they¬íre closing down the bar.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia2_utt3.wav
+Chandler|No way!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia2_utt4.wav
+Monica|Yeah, apparently they¬íre turning it into some kinda coffee place.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia2_utt5.wav
+Chandler|Just coffee! Where are we gonna hang out now?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia2_utt6.wav
+Monica|Got me.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia2_utt7.wav
+Chandler|Can I get a beer.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia2_utt8.wav
+Monica|Hey, did you pick a roommate?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia2_utt9.wav
+Chandler|You betcha!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia2_utt10.wav
+Monica|Is it the Italian guy?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia2_utt11.wav
+Chandler|Um-mm, yeah right!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia2_utt12.wav

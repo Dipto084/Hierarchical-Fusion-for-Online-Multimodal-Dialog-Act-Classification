@@ -1,0 +1,7 @@
+Phoebe|Where's Chandler?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia643_utt0.wav
+Chandler|Here I am.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia643_utt1.wav
+Phoebe|Wash your hands!!!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia643_utt2.wav
+Chandler|How did you¬Öknow?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia643_utt3.wav
+Ross|Hey! What's she doing back here?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia643_utt4.wav
+Monica|Relax, Ross. She's not made of ice cream!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia643_utt5.wav
+Ross|Hey look, Phoebe. I, uh, I laid out the states geographically...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia643_utt6.wav

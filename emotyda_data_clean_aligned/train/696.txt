@@ -1,0 +1,8 @@
+Joey|Hey Rach! Hey, you mind if I read my comic books in here?|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia696_utt0.wav
+Rachel|Sure! Why?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia696_utt1.wav
+Joey|Oh well, Chandler and Monica are over there and it's kinda hard to concentrate.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia696_utt2.wav
+Rachel|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia696_utt3.wav
+Rachel|She just called and said that she was gonna be working late!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia696_utt4.wav
+Rachel|She keeps lying to me!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia696_utt5.wav
+Rachel|That's it!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia696_utt6.wav
+Rachel|I'm just gonna go over there and confront them right now!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia696_utt7.wav

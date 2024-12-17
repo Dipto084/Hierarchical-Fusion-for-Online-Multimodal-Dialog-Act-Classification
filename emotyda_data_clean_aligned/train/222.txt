@@ -1,0 +1,19 @@
+Doug|Bing! Ho! And the Bing-ette!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia222_utt0.wav
+Chandler|Honey, you remember my boss Doug right?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia222_utt1.wav
+Monica|Yes, hi.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia222_utt2.wav
+Doug|Hi. So good news, the divorce is final. I signed the papers this A.M.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia222_utt3.wav
+Chandler|I didn¬ít know you and Carol were getting divorced, I¬ím sorry.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia222_utt4.wav
+Doug|Sorry? Finally chewed my leg out of that bear trap. Hey, congratulations to you guys though!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia222_utt5.wav
+Monica|No leg-chewing for us sir.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia222_utt6.wav
+Doug|Oh well, give it time.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia222_utt7.wav
+Doug|So the divorce, the marriage, we¬íve got a lot to celebrate.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia222_utt8.wav
+Doug|How about we all go out to dinner tomorrow night?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia222_utt9.wav
+Doug|Tomorrow night it is then, I should be out of court by six.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia222_utt11.wav
+Doug|They keep throwing these sexual harassment cases at me and I keep knocking them out of the park!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia222_utt12.wav
+Monica|Okay, I¬íll see you tomorrow!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia222_utt13.wav
+Monica|Just so you know, we¬íre not seeing him tomorrow.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia222_utt14.wav
+Monica|I-I cannot spend another evening with that man.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia222_utt15.wav
+Monica|Do you remember how he behaved at our wedding?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia222_utt16.wav
+Chandler|No.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia222_utt17.wav
+Monica|That¬ís because he wasn¬ít invited because of the way he behaved at our engagement party.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia222_utt18.wav
+Chandler|Oh yeah. Boy, urine cuts|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia222_utt19.wav

@@ -1,0 +1,19 @@
+Monica|Something went wrong with Underdog, and they couldn't get his head to inflate.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia561_utt0.wav
+Monica|So anyway, um, his head is like flopping down Broadway, right, and I'm just thinking... how inappropriate this is.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia561_utt1.wav
+Monica|Um, I've got something in my eye, uh, Joey, could we check it in the light, please?|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia561_utt2.wav
+Monica|Oh my god.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia561_utt3.wav
+Joey|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia561_utt4.wav
+Monica|Hello! Were we at the same table? It's like... cocktails in Appalachia.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia561_utt5.wav
+Joey|Come on, they're close.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia561_utt6.wav
+Monica|Close? She's got her tongue in his ear.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia561_utt7.wav
+Joey|Oh, like you've never gotten a little rambunctious with Ross.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia561_utt8.wav
+Monica|Joey, this is sick, it's disgusting, it's, it's¬ónot really true, is it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia561_utt9.wav
+Joey|Well, who's to say what's true? I mean...|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia561_utt10.wav
+Monica|Oh my god, what were you thinking?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia561_utt11.wav
+Joey|All right, look, I'm not proud of this, ok? Well, maybe I am a little.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia561_utt12.wav
+Monica|Oh!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia561_utt13.wav
+Joey|Ow!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia561_utt14.wav
+Monica|I'm outta here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia561_utt15.wav
+Joey|Wait, wait, wait. You want him, I want her. He likes you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia561_utt16.wav
+Monica|Really?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia561_utt17.wav
+Joey|Yeah. I'm thinking, if we put our heads together, between the two of us, we can break them up.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia561_utt18.wav

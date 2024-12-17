@@ -1,0 +1,5 @@
+Joey|That's right Ross, I can see you in your new apartment!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia413_utt0.wav
+Joey|And you can see me!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia413_utt1.wav
+Joey|Same as yesterday, same as the day before.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia413_utt2.wav
+Monica|Is he doing his shark attack bit yet?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia413_utt3.wav
+Joey|Nope. Op, wait! There he goes.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia413_utt4.wav

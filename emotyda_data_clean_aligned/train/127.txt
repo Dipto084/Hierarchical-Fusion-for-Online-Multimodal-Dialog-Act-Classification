@@ -1,0 +1,5 @@
+Chandler|All right buddy, time to roll over.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia127_utt0.wav
+Chandler|No-no!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia127_utt1.wav
+Chandler|No, no-n-n-n-no!!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia127_utt2.wav
+Chandler|You are going to a clinic!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia127_utt3.wav
+Chandler|You¬íre going to a clinic, and a pyjama store!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia127_utt4.wav

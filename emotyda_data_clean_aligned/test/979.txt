@@ -1,0 +1,7 @@
+Phoebe|I just¬óI thought you guys were doing it, I didn't know you were in love!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia979_utt0.wav
+Joey|Dude!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia979_utt1.wav
+Chandler|And hats off to Phoebe. Quite a competitor. And might I say your breasts are still showing.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia979_utt2.wav
+Phoebe|God!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia979_utt3.wav
+Joey|All right! So that's it! It's over! Everybody knows!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia979_utt4.wav
+Monica|Well actually, Ross doesn't.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia979_utt5.wav
+Chandler|Yes, and we'd appreciate it if no one told him yet.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia979_utt6.wav

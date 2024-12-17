@@ -1,0 +1,18 @@
+Phoebe|Oh my God! How did you get back here?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia482_utt0.wav
+Phoebe|Fire alarm? Oh! Hi, officer¬ófireman, can-can I help you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia482_utt1.wav
+The Fireman|We found your fire alarm in the trash chute.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia482_utt2.wav
+Phoebe|That¬ís not mine.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia482_utt3.wav
+The Fireman|Yes it is.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia482_utt4.wav
+Phoebe|How do you know?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia482_utt5.wav
+The Fireman|The next time you want to dump a fire alarm in a trash chute, don¬ít wrap it in a blanket that says, "Property of Phoebe Buffay not Monica."|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia482_utt6.wav
+Phoebe|Okay do you¬óOkay, do you have a search warrant? Because the last time I checked this was still America!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia482_utt7.wav
+The Fireman|Please reattach this, it¬ís against the law to disconnect them.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia482_utt8.wav
+Phoebe|Fine! But please God.. tell me how to stop them from going off!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia482_utt9.wav
+The Fireman|There¬ís a reset button under the plastic cover.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia482_utt10.wav
+Phoebe|There¬ís a reset button?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia482_utt11.wav
+Phoebe|My God!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia482_utt12.wav
+Phoebe|Why didn¬ít I see that!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia482_utt13.wav
+Phoebe|Reset button, reset button, where is there a reset button?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia482_utt14.wav
+Phoebe|Oh here it is!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia482_utt15.wav
+Phoebe|Oh!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia482_utt16.wav
+Phoebe|Ohh, God!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia482_utt17.wav

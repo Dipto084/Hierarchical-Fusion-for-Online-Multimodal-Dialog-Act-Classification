@@ -1,0 +1,19 @@
+Rachel|I'm so sorry, you guys. I didn't mean to bring you down.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1009_utt0.wav
+Monica|No, you were right. I don't have a plan.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1009_utt1.wav
+Rachel|Thank God. Food.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1009_utt2.wav
+Monica|Phoebe?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1009_utt3.wav
+Phoebe|What?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1009_utt4.wav
+Monica|Do you have a plan?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1009_utt5.wav
+Phoebe|I don't even have a 'pl'.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1009_utt6.wav
+Rachel|No, no, that's not what we ordered... We ordered a fat-free crust with extra cheese.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1009_utt7.wav
+Monica|Wait! Did you say 'G.Stephanopoulos?'|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1009_utt8.wav
+Monica|Wait, was this a-a small mediterranean guy with curiously intelligent good looks?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1009_utt9.wav
+Monica|Was he wearing a stunning blue suit?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1009_utt10.wav
+Phoebe|And-and a power tie?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1009_utt11.wav
+Monica|Oh God.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1009_utt12.wav
+Monica|Are you nuts?! We've got George Stephanopoulos' pizza!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1009_utt13.wav
+Rachel|Uh, Pheebs? Who's George Snuffalopagus?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1009_utt14.wav
+Phoebe|Big Bird's friend.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1009_utt15.wav
+Monica|I see pizza!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1009_utt16.wav
+Phoebe|Oh, I wanna see! Lemme see! Lemme see!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1009_utt17.wav
+Rachel|Hello? Who are we spying on?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1009_utt18.wav

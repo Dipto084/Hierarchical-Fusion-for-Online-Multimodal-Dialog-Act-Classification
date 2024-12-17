@@ -1,0 +1,2 @@
+Monica|I don¬ít believe you spent my wedding fund on the beach house!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia394_utt0.wav
+Mrs. Geller|We¬íre sorry honey, but we just assumed if you got married after you turned 30 you¬íd pay for it yourself.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia394_utt1.wav

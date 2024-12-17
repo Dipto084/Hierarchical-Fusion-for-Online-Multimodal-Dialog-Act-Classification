@@ -1,0 +1,18 @@
+Chandler|Hey! Hold on a minute, hold on a second. Do you think these pearls are nice?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia901_utt0.wav
+Joey|I¬íd really prefer a mountain bike.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia901_utt1.wav
+Chandler|Janice¬ís birthday is coming up, I want to get her something speacial. Come in here with me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia901_utt2.wav
+Joey|Whoa, whoa, whoa, wait, whoa.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia901_utt3.wav
+Joey|Do you ah, want to get her something speacial, get her flowers, get her candy, get her gum, girls love gum.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia901_utt4.wav
+Chandler|That¬ís a good idea, ¬ëDear Janice have a Hubba-Bubba birthday¬í. I would like to get her something serious.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia901_utt5.wav
+Joey|Oh, you want something serious.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia901_utt6.wav
+Joey|Y'know what you should do, you should get her one of those um, barium enemas.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia901_utt7.wav
+Joey|Those are dead serious.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia901_utt8.wav
+Chandler|All right. Look, I¬ím gonna go in here, and you don¬ít buy me anything ever.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia901_utt9.wav
+Joey|No, no, you can¬ít, you can¬ít, okay, you can¬ít, you can¬ít buy her pearls, you just can¬ít, you can¬ít, you can¬ít.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia901_utt10.wav
+Chandler|Why not?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia901_utt11.wav
+Joey|Oh God. Uh, okay, here¬ís the thing, this is the thing, okay, the thing is...|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia901_utt12.wav
+Chandler|What is the thing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia901_utt13.wav
+Joey|Okay. I went down to the ¬ëMattress King¬í showroom and, and I saw Janice, kissing her ex-husband.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia901_utt14.wav
+Chandler|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia901_utt15.wav
+Joey|They were in his office.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia901_utt16.wav
+Chandler|Well she, she wouldn¬ít do that, she¬ís with, she¬ís with me.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia901_utt17.wav

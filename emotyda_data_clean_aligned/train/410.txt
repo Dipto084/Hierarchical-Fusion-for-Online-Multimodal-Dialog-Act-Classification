@@ -1,0 +1,19 @@
+Carl|I'm just sayin', if I see one more picture of Ed Begley, Jr. in that|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia410_utt0.wav
+Ross|I can't believe you'd rather go out with him than me.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia410_utt1.wav
+Rachel|Would you excuse me, please? I'm trying to have a date here.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia410_utt2.wav
+Ross|Fine, just stop thinking about me.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia410_utt3.wav
+Ross|Can't do it, can you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia410_utt4.wav
+Rachel|So I'm thinking about you. So what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia410_utt5.wav
+Ross|I don't get it. What do you see in this guy, anyway?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia410_utt6.wav
+Rachel|Well... he happens to be a very nice... guy....|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia410_utt7.wav
+Carl|I mean, come on, buddy, get a|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia410_utt8.wav
+Ross|Rachel, come on. Give us a chance.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia410_utt9.wav
+Rachel|Ross, it's too hard.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia410_utt10.wav
+Ross|No, no, no... why, because it might get weird for everyone else?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia410_utt11.wav
+Ross|Who cares about them.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia410_utt12.wav
+Ross|This is about us.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia410_utt13.wav
+Ross|Look, I-I've been in love with you since, like, the ninth grade.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia410_utt14.wav
+Rachel|Ross, you're like my best friend.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia410_utt15.wav
+Ross|I know.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia410_utt16.wav
+Rachel|If we broke up, and I lost you...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia410_utt17.wav
+Rachel|Ohh, God.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia410_utt18.wav

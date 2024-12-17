@@ -1,0 +1,13 @@
+Mona|Ross?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia155_utt0.wav
+Ross|Yeah?|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia155_utt1.wav
+Mona|Hey it¬ís Mona! From the wedding.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia155_utt2.wav
+Ross|Oh hi!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia155_utt3.wav
+Mona|Hi!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia155_utt4.wav
+Ross|Wow! Uh¬Öhow are you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia155_utt5.wav
+Mona|I¬ím good except umm, you still owe me a dance.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia155_utt6.wav
+Ross|Oh that¬ís right. Well uh, would you be interested in seeing a Ukrainian film?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia155_utt7.wav
+Mona|Oh you¬íre serious. Sure!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia155_utt8.wav
+Ross|Great! Well umm|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia155_utt9.wav
+Mona|I think I might need one more cup of coffee.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia155_utt10.wav
+Ross|Sure! Uh, let me get it for ya.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia155_utt11.wav
+Mona|Okay.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia155_utt12.wav

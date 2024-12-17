@@ -1,0 +1,2 @@
+Monica|How did it go?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia685_utt0.wav
+Chandler|Had the money in the wrong hand.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia685_utt1.wav

@@ -1,0 +1,4 @@
+Phoebe|Ameri-can.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia5_utt0.wav
+Joey|Ameri-ccan.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia5_utt1.wav
+Phoebe|Ameri-can. Y'know it¬ís a|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia5_utt2.wav
+Sergei|Everybody!!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia5_utt3.wav

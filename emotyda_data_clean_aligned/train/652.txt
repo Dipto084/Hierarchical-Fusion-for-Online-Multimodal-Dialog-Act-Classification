@@ -1,0 +1,16 @@
+Rachel|God. I feel violated.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia652_utt0.wav
+Monica|Did anybody else feel they just wanted to peel the skin off their body, to have something else to do?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia652_utt1.wav
+Chandler|Ross, ten o'clock.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia652_utt2.wav
+Ross|Is it? Feels like two.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia652_utt3.wav
+Chandler|No,|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia652_utt4.wav
+Chandler|There's a beautiful woman at eight, nine, ten o'clock!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia652_utt5.wav
+Ross|Oh. Hel-lo!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia652_utt6.wav
+Chandler|She's amazing! She makes the women that I dream about look like short, fat, bald men!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia652_utt7.wav
+Monica|Well, go over to her! She's not with anyone.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia652_utt8.wav
+Chandler|Oh yeah, and what would my opening line be? 'Excuse me. Blarrglarrghh.'|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia652_utt9.wav
+Rachel|Oh, c'mon. She's a person, you can do it!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia652_utt10.wav
+Chandler|Oh please, could she|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia652_utt11.wav
+Ross|He could never get a woman like that in a million years.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia652_utt12.wav
+Phoebe|Oh, oh, but y'know, you always see these really beautiful women with these really nothing guys, you could be one of those guys.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia652_utt13.wav
+Monica|You could do that!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia652_utt14.wav
+Chandler|You think?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia652_utt15.wav

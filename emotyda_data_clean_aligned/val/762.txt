@@ -1,0 +1,5 @@
+Joey|Okay, buddy-boy. Here it is. You hide my clothes, I'm wearing everything you own.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia762_utt0.wav
+Chandler|Oh my God!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia762_utt1.wav
+Joey|Look at me! I'm Chandler! Could I|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia762_utt2.wav
+Joey|Whew, it's hot with all of this stuff on.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia762_utt3.wav
+Joey|I ah, I better not do any, I don't know, lunges.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia762_utt4.wav

@@ -1,0 +1,13 @@
+Joey|The stripper stole the ring!! The stripper stole the ring!! Chandler! Chandler, get up! Get up! The stripper stole the ring!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia274_utt0.wav
+Chandler|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia274_utt1.wav
+Joey|The ring is gone!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia274_utt2.wav
+Chandler|Ugh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia274_utt3.wav
+Chandler|Just a sec, give me a minute to wake up for this¬óAh-ha-ha!!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia274_utt4.wav
+Chandler|You lost the ring!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia274_utt5.wav
+Chandler|You¬íre the worst best man ever!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia274_utt6.wav
+Joey|Dude, this isn¬ít funny!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia274_utt7.wav
+Joey|What am I gonna do?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia274_utt8.wav
+Joey|I go to bed last night, everything¬ís cool!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia274_utt9.wav
+Joey|I wake up this morning, the stripper¬ís gone and the ring is gone!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia274_utt10.wav
+Chandler|You slept with the stripper?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia274_utt11.wav
+Joey|Of course!!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia274_utt12.wav

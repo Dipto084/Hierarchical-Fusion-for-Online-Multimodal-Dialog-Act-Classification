@@ -1,0 +1,17 @@
+Monica|I can't believe it's raining again! Oh, it's so unfair!!!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia475_utt0.wav
+Phoebe|Well, on the bright side, now you won't have to see all these paleontologists with their shirts off.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia475_utt1.wav
+Phoebe|Not you guys.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia475_utt2.wav
+Phoebe|You got it going on!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia475_utt3.wav
+Monica|So, what are we gonna do today?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia475_utt4.wav
+Mike|They have a game room downstairs! Ping pong and stuff.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia475_utt5.wav
+Monica|Ping pong? Honey, they have ping pong! Let's play!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia475_utt6.wav
+Chandler|I don't think so!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia475_utt7.wav
+Monica|Why not?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia475_utt8.wav
+Chandler|Because you know how competitive you get and well, I say it's cute, others disagree, and I'm lying!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia475_utt9.wav
+Monica|I'm not always that bad!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia475_utt10.wav
+Chandler|Oh,|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia475_utt11.wav
+Monica|I punched you...?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia475_utt12.wav
+Chandler|And...?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia475_utt13.wav
+Monica|... Phoebe...?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia475_utt14.wav
+Phoebe|... and...?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia475_utt15.wav
+Monica|I clunked your heads together!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia475_utt16.wav

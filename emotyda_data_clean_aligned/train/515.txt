@@ -1,0 +1,7 @@
+Gunther|Hey guys.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia515_utt0.wav
+Monica|Hey Gunther. Hi. I mean you¬íre going out on a date with the noisy guy upstairs?|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia515_utt1.wav
+Phoebe|Well, he¬ís very charming.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia515_utt2.wav
+Monica|I know, he¬ís too charming, but if you two start going out, then it¬ís just gonna make it so much harder for me to hate him.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia515_utt3.wav
+Phoebe|Well, you¬íre just gonna have to try.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia515_utt4.wav
+Monica|Joey, where are the|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia515_utt5.wav
+Joey|I don¬ít know, Chandler is supposed to be passin¬í ¬ëem around...|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia515_utt6.wav

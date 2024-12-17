@@ -1,0 +1,4 @@
+Ross|A new place for a new Ross. I'm gonna have you and all the guys from work over once it's y'know, furnished.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia335_utt0.wav
+Dr. Ledbetter|I must say it's nice to see you back on your feet.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia335_utt1.wav
+Ross|Well I am that. And that whole rage thing is definitely behind me.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia335_utt2.wav
+Dr. Ledbetter|I wonder if its time for you to rejoin our team at the museum?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia335_utt3.wav

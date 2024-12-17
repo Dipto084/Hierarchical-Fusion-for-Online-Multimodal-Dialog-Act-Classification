@@ -1,0 +1,4 @@
+Joey|Oh well, it¬ís not on TV yet.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia31_utt0.wav
+The Dry Cleaner|Well, then it¬ís not on the wall yet.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia31_utt1.wav
+Joey|Okay, fine, I will bring you a tape, huh?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia31_utt2.wav
+Phoebe|So umm, now do you have any of Matt Lauer¬ís clothes here? Maybe? Just ones that haven¬ít been cleaned yet?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia31_utt3.wav

@@ -1,0 +1,11 @@
+Monica|The waiter carried the breadsticks in his pants!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia960_utt0.wav
+Allesandro|Well, you said that we except the|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia960_utt1.wav
+Monica|All right, that I¬íll retract.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia960_utt2.wav
+Monica|But I stand by my review, I know food and that wasn¬ít it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia960_utt3.wav
+Monica|You¬íre marinara sauce tasted like tomato juice!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia960_utt4.wav
+Monica|You should serve it with vodka and a piece of celery.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia960_utt5.wav
+Allesandro|Hey! I¬ím proud of that sauce, it¬ís delicious.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia960_utt6.wav
+Monica|Oh my God! You own an Italian restaurant and you think that tastes good?! Where are you even from?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia960_utt7.wav
+Allesandro|Lebanon.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia960_utt8.wav
+Monica|Hand me those tomatoes, I¬ím gonna show you what it should taste like! Come on, hand me them.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia960_utt9.wav
+Allesandro|How long is this gonna take? ¬ëCause I got another critic to go yell at.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia960_utt10.wav

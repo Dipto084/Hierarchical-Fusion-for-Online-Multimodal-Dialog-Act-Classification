@@ -1,0 +1,4 @@
+Ross|Hey, there¬ís uh, some people outside, askin¬í about candy.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1013_utt0.wav
+Monica|Well, they¬íre just gonna have to wait aren¬ít they? I¬íve only got two hands!!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1013_utt1.wav
+Ross|Need some help?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1013_utt2.wav
+Monica|No! You don¬ít know the system! There¬íll be nobody messing with the system!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1013_utt3.wav

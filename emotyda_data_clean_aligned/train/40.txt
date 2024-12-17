@@ -1,0 +1,15 @@
+Phoebe|I can¬ít|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia40_utt0.wav
+Joey|Yeah! You gotta tell a girl before you tape her. Such a rookie mistake.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia40_utt1.wav
+Chandler|Y¬íknow who has a great video camera?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia40_utt2.wav
+Phoebe|Greg and Jenny?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia40_utt3.wav
+Monica|Do you still wanna call ¬ëem? I wanna call ¬ëem.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia40_utt4.wav
+Chandler|Let¬ís call ¬ëem.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia40_utt5.wav
+Joey|Yeah! Ask them if they brought their friends any souvenirs!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia40_utt6.wav
+Monica|Hello? Eighth street deli?|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia40_utt7.wav
+Joey|Hey, hang up! You get food poisoning just talkin¬í to that place.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia40_utt8.wav
+Monica|Uh sorry, wrong number.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia40_utt9.wav
+Chandler|Here you go.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia40_utt10.wav
+Monica|Hello? It¬ís the deli again!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia40_utt11.wav
+Joey|All right! I¬íll have a sandwich!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia40_utt12.wav
+Monica|I don¬ít think this number¬ís right!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia40_utt13.wav
+Rachel|Oh come on!!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia40_utt14.wav

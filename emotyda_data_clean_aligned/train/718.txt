@@ -1,0 +1,7 @@
+Chip|You know where I work!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia718_utt0.wav
+Monica|I do?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia718_utt1.wav
+Chip|The movie theatre, you used to come in all the time.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia718_utt2.wav
+Monica|You still work at the multiplex?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia718_utt3.wav
+Chip|Oh, like I¬íd give up that job! Free popcorn and candy, anytime I want. I can get you free posters for your room.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia718_utt4.wav
+Monica|Thanks, I¬ím set. Do you still live with your parents?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia718_utt5.wav
+Chip|Oh yeah, but I can stay out as late as I want.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia718_utt6.wav

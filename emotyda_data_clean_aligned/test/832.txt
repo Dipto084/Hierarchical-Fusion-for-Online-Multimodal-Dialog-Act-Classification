@@ -1,0 +1,16 @@
+Ross|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia832_utt0.wav
+Ross|I¬ím sorry I¬ím late, did I miss anything?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia832_utt1.wav
+Phoebe|Joey stuffing 15|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia832_utt2.wav
+Ross|15? Your personal best! (Ross takes an|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia832_utt3.wav
+Phoebe|Where were you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia832_utt4.wav
+Ross|Oh, on a date. Yeah, I met this girl on the train going to a museum upstate.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia832_utt5.wav
+Chandler|Oh, yeah! How did you meet her?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia832_utt6.wav
+Phoebe|Oh, which museum?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia832_utt7.wav
+Phoebe|No, answer his.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia832_utt8.wav
+Ross|Okay, it was just me and her at the back of the train, and I sat near the door, so she¬íd have to pass by me if she wanted to switch cars.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia832_utt9.wav
+Ross|She was totally at my mercy.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia832_utt10.wav
+Chandler|Were you so late because you were burring this woman?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia832_utt11.wav
+Ross|No, I¬ím getting back down ¬ëcause she lives in Poughkeepsie.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia832_utt12.wav
+Ross|She seems really great, but she¬ís like totally great, but she lives two and a half hours away.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia832_utt13.wav
+Chandler|How can she be great if she¬ís from Poughkeepsie? That joke would¬íve killed in Albany.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia832_utt14.wav
+Joey|Done! I did it! Heh, who¬ís stupid now?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia832_utt15.wav

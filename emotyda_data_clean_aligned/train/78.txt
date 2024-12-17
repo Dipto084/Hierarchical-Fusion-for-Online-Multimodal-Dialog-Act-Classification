@@ -1,0 +1,6 @@
+Ross|Ah-ha, nowhere to run!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia78_utt0.wav
+Rachel|I don¬ít like sitting up here! I¬ím just gonna over|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia78_utt1.wav
+Phoebe|No Rachel! They got here first!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia78_utt2.wav
+Phoebe|Why is Ross doing that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia78_utt3.wav
+Ross|DANGER|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia78_utt4.wav
+Rachel|Oh my God! Why is he jumping on those women!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia78_utt5.wav

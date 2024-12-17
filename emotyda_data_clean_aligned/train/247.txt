@@ -1,0 +1,3 @@
+Joey|All right where¬ís that turkey!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia247_utt0.wav
+Phoebe|Joey! Those are my maternity pants!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia247_utt1.wav
+Joey|Not now! These are my Thanksgiving pants!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia247_utt2.wav

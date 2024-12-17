@@ -1,0 +1,6 @@
+Rachel|Yeah. Hi Mark!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia587_utt0.wav
+Mark|Hi. I just talked to Joanna, and she loves you. You got it, you got the job.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia587_utt1.wav
+Rachel|Oh, I did!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia587_utt2.wav
+Mark|Yes.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia587_utt3.wav
+Rachel|Oh my God!!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia587_utt4.wav
+Joey|Congratulations...oh..wow|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia587_utt5.wav

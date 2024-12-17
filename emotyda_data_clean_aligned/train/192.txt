@@ -1,0 +1,8 @@
+Ross|Well, the old lady died.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia192_utt0.wav
+Ross|And how do I know?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia192_utt1.wav
+Ross|Her dying wish was for one last kiss.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia192_utt2.wav
+Ross|But I don¬ít care, because you got the apartment.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia192_utt3.wav
+Ross|Yes!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia192_utt4.wav
+Rachel|Ewww. Yeah. Umm. I think I¬ím gonna stay here.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia192_utt5.wav
+Joey|Isn¬ít that great?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia192_utt6.wav
+Ross|Ezels!!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia192_utt7.wav

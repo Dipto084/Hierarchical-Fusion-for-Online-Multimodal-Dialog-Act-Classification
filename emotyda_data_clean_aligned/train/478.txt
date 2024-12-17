@@ -1,0 +1,14 @@
+Chandler|Okay, okay, here she comes! How do I look? Do I look like a guy who doesn¬ít want to get married?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia478_utt0.wav
+Joey|Yeah! And also, a little like a French guy. I never noticed that before.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia478_utt1.wav
+Monica|Hi guys!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia478_utt2.wav
+Joey|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia478_utt3.wav
+Monica|What are you up too?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia478_utt4.wav
+Chandler|Oh, just hanging out, talkin¬í about uh, websites.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia478_utt5.wav
+Chandler|Yeah, we saw this really interesting website about marriage and how totally unnecessary it is and how its just a way for the government to keep tabs on you.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia478_utt6.wav
+Joey|Yeah, Big Brother.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia478_utt7.wav
+Monica|Well that¬ís a little crazy. Although I am y¬íknow glad to hear that you¬íre branching out on what you look at on the Internet.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia478_utt8.wav
+Chandler|Yeah, well¬Ö Y¬íknow, it just got me thinking though, why would anybody ever want to get married huh?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia478_utt9.wav
+Monica|Why?! To celebrate your relationship! To solidify your commitment! To declare your love for one another to the world!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia478_utt10.wav
+Chandler|Eh|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia478_utt11.wav
+Monica|Okay well that¬ís good to know.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia478_utt12.wav
+Joey|The Mr. Bowmont¬ís here!!!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia478_utt13.wav

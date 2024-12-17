@@ -1,0 +1,5 @@
+Chandler|Check this out.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia114_utt0.wav
+Chandler|It says here that there¬ís a place you can go to rent videos of all the museums!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia114_utt1.wav
+Chandler|"It¬ís almost as good as being there."|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia114_utt2.wav
+Joey|It¬ís better! You can¬ít go to a museum in your underwear!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia114_utt3.wav
+Joey|Oh-ho! I bet the British version is gooooood!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia114_utt4.wav

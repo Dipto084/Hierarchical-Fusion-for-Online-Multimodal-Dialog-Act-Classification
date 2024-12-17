@@ -1,0 +1,6 @@
+Chandler|I invented the game of Cups as a way to give Joey money.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia118_utt0.wav
+Ross|And now you want that money back.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia118_utt1.wav
+Chandler|Exactly.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia118_utt2.wav
+Ross|Chandler, what kind of an idiot do you take me for?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia118_utt3.wav
+Chandler|It¬ís not a real game! I made it up!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia118_utt4.wav
+Ross|I¬ím sorry you lost your money, but I won it fair and square.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia118_utt5.wav

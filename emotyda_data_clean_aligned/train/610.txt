@@ -1,0 +1,8 @@
+Charlie|You blew them away!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia610_utt0.wav
+Ross|Oh, I can't tell you how great it was to look at the crowd and see your face!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia610_utt1.wav
+Ross|I mean... uh, did you know you were mouthing the words along with me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia610_utt2.wav
+Charlie|I was|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia610_utt3.wav
+Ross|No, it's ok! Made me feel like a rock star!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia610_utt4.wav
+Charlie|Oh my God! I'm your|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia610_utt5.wav
+Ross|I'd better not found you naked in my hotel room!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia610_utt6.wav
+Ross|Look, I took it too far!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia610_utt7.wav

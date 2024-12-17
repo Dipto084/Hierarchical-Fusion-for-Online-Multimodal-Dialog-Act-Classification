@@ -1,0 +1,12 @@
+Carol|Ugh. Ross!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia225_utt0.wav
+Ross|Hi! Sorry I¬ím late. Were you sleeping?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia225_utt1.wav
+Carol|Ahh, nooo!!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia225_utt2.wav
+Ross|Oh, great!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia225_utt3.wav
+Ross|Listen, oh I had to get you a whole new battery.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia225_utt4.wav
+Ross|I got you the best one I could, ¬ëcause that¬ís not where you want to skimp.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia225_utt5.wav
+Carol|You¬íre a genius, Ross.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia225_utt6.wav
+Ross|Yeah, well it came to about $112, but what the hell, just call it an even 110?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia225_utt7.wav
+Carol|Okay, I¬íll pay you tomorrow.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia225_utt8.wav
+Ross|So they ah, they all took off, it was pretty hard watching them go, y'know?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia225_utt9.wav
+Carol|Yeah, okay, bye.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia225_utt10.wav
+Ross|So I¬ím gonna take off then!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia225_utt11.wav

@@ -1,0 +1,3 @@
+Ursula|Who is it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia837_utt0.wav
+Phoebe|It¬ís Phoebe! Phoebe!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia837_utt1.wav
+Ursula|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia837_utt2.wav

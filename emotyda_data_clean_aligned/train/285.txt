@@ -1,0 +1,16 @@
+Joey|Hey uh, is it okay to come in?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia285_utt0.wav
+Rachel|Of course! Oh Joey, this ring I‚Ä¶it‚Äôs beautiful I love it!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia285_utt1.wav
+Joey|Yeah uh look Rach, there‚Äôs something I gotta tell ya.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia285_utt2.wav
+Rachel|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia285_utt3.wav
+Nurse|Hey! Are you ready to try nursing again?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia285_utt4.wav
+Rachel|Yeah! Hi Emma. Hey, why do you think she won‚Äôt take my breast?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia285_utt5.wav
+Nurse|It‚Äôs all right honey, it takes some babies a while to get it, but don‚Äôt worry. It‚Äôll happen.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia285_utt6.wav
+Joey|Yowza|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia285_utt7.wav
+Rachel|Okay sweetie, you can do it. Just open up and put it in your mouth.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia285_utt8.wav
+Joey|Dear Lord.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia285_utt9.wav
+Rachel|I‚Äôm sorry honey, what were you saying?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia285_utt10.wav
+Joey|Oh uh-uh yeah, I think that‚Ä¶|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia285_utt11.wav
+Rachel|Do you think my nipples are too big for her mouth?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia285_utt13.wav
+Rachel|She looks scared.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia285_utt14.wav
+Rachel|Doesn‚Äôt she look scared?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia285_utt15.wav
+Joey|Y‚Äôknow, I don‚Äôt really know her.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia285_utt16.wav

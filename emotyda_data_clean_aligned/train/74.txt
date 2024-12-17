@@ -1,0 +1,7 @@
+Joey|Okay, good, so there you go. Go with Vince.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia74_utt0.wav
+Phoebe|Yeah, but Jason's really sensitive.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia74_utt1.wav
+Chandler|Well sensitive is important, pick him.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia74_utt2.wav
+Phoebe|Yeah.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia74_utt3.wav
+Joey|Oh sure, go with the sissy.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia74_utt4.wav
+Phoebe|Jason is not a sissy!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia74_utt5.wav
+Joey|Oh no-no-no-no, I meant Chandler.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia74_utt6.wav

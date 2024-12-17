@@ -1,0 +1,2 @@
+Ross|No-no. We|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia105_utt0.wav
+Janice|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia105_utt1.wav

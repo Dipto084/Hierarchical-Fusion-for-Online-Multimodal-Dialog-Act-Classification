@@ -1,0 +1,12 @@
+Ross|Ok, bye. Well, Monica's not coming, it's just gonna be me and Rachel.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia147_utt0.wav
+Chandler|Oh. Well, hold on camper, are you sure you've thought this thing through?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia147_utt1.wav
+Ross|It's laundry. The thinking through is minimal.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia147_utt2.wav
+Chandler|It's just you and Rachel, just the two of you? This is a date. You're going on a date.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia147_utt3.wav
+Ross|Nuh-uh.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia147_utt4.wav
+Chandler|Yuh-huh.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia147_utt5.wav
+Ross|So what're you saying here? I should shave again, pick up some wine, what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia147_utt6.wav
+Chandler|Well, you may wanna rethink the dirty underwear.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia147_utt7.wav
+Chandler|This is basically the first time she's gonna see your underwear¬óyou want it to be dirty?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia147_utt8.wav
+Ross|No.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia147_utt9.wav
+Chandler|Oh, and uh, the fabric softener?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia147_utt10.wav
+Ross|Ok, ok, now what is wrong with my|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia147_utt11.wav

@@ -1,0 +1,4 @@
+Joey|Sure, now I¬ím scared.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia460_utt0.wav
+Phoebe|No, we can go together! Just don¬ít wait too long though, okay? ¬ëCause I¬ím outta here sometime before Friday.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia460_utt1.wav
+Joey|Yeah, but I don¬ít wanna die!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia460_utt2.wav
+Phoebe|No-no, it¬íll be fun! We can come back and we can haunt these guys!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia460_utt3.wav

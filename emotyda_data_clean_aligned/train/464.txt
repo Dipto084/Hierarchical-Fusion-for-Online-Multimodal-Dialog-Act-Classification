@@ -1,0 +1,21 @@
+Tag|This one¬ís from me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia464_utt0.wav
+Rachel|Ahh!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia464_utt1.wav
+Tag|It wasn¬ít on your list, but hopefully you¬íll think it¬ís really fun.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia464_utt2.wav
+Rachel|A scooter!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia464_utt3.wav
+Ross|Stick to the list. Always stick to the list.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia464_utt4.wav
+Rachel|No! No-no, I love it. Thank you.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia464_utt5.wav
+Chandler|Okay, open ours next. Open ours next!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia464_utt6.wav
+Rachel|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia464_utt7.wav
+Joey|Now that you¬íre a couple, we don¬ít get two presents from you guys?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia464_utt8.wav
+Chandler|For my last birthday you gave me a|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia464_utt9.wav
+Rachel|Okay.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia464_utt10.wav
+Rachel|Happy birthday Grandma!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia464_utt11.wav
+Rachel|It¬ís better to be over the hill then buried under it.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia464_utt12.wav
+Rachel|All our love Monica and Chandler.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia464_utt13.wav
+Rachel|That¬ís funny, yeah!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia464_utt14.wav
+Chandler|No-no-no-no! That was the joke!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia464_utt15.wav
+Rachel|No, I know! I get it! It¬ís funny!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia464_utt16.wav
+Chandler|No, because you¬íre not a grandmother!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia464_utt17.wav
+Rachel|No I know, because to be a grandmother you have to be married and have children and I don¬ít have any of those things.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia464_utt18.wav
+Rachel|That¬ís why it¬ís so funny.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia464_utt19.wav
+Monica|All you had to do was buy the card!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia464_utt20.wav

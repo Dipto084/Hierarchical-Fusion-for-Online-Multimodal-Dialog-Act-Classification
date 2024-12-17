@@ -1,0 +1,9 @@
+Chandler|All right ladies, here¬ís what we¬íre gonna do.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia428_utt0.wav
+Phoebe|I-I wanna be with her, I like her.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia428_utt1.wav
+Chandler|Oh, that¬ís fine! Go with your instincts, go with your instincts.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia428_utt2.wav
+Monica|Wait, now, what am I doing again?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia428_utt3.wav
+Chandler|Come on! Would you please pay attention, I could wake up at any moment!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia428_utt4.wav
+The Cigarette Guy|Hi, I¬ím Joshua, I¬ím here to pick up Rachel.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia428_utt5.wav
+Rachel|No-no-no, that¬í not Joshua.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia428_utt6.wav
+Chandler|What do you want from me, I¬íve never met the guy.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia428_utt7.wav
+Chandler|So anyway, Rachel, I¬ím sorry you can¬ít stay, but the rest of us have a|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia428_utt8.wav

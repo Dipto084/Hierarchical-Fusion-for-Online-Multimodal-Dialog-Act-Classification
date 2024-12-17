@@ -1,0 +1,9 @@
+Joey|Okay.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia421_utt0.wav
+Joey|Okay, I can do this.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia421_utt1.wav
+Joey|I can tell her how I feel.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia421_utt2.wav
+Joey|Just uh, just stand up straight.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia421_utt3.wav
+Joey|Take a couple deep breaths.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia421_utt4.wav
+Joey|Look confident.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia421_utt5.wav
+Rachel|Joey? What¬ís up?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia421_utt6.wav
+Joey|I uh, I just came by because I-I want to talk to you about something.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia421_utt7.wav
+Rachel|Okay what¬ís up?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia421_utt8.wav

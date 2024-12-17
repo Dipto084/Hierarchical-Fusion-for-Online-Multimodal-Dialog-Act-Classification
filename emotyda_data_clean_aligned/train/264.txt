@@ -1,0 +1,19 @@
+Chandler|Hey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia264_utt0.wav
+Ross|Chandler. I sensed it was you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia264_utt1.wav
+Chandler|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia264_utt2.wav
+Ross|Unagi. I¬ím always aware.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia264_utt3.wav
+Chandler|Okay, are you aware unagi is an eel?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia264_utt4.wav
+Ross|What¬ís up?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia264_utt5.wav
+Chandler|I can¬ít figure out what to make Monica.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia264_utt6.wav
+Ross|Oh, why don¬ít you make her one of your little jokes.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia264_utt7.wav
+Chandler|I¬ím going crazy! Okay? Do you have any thing around here that looks homemade?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia264_utt8.wav
+Ross|Y¬íknow what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia264_utt9.wav
+Ross|She¬íd-she¬íd love this.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia264_utt10.wav
+Ross|Uh, it¬ís an exact replica of Apollo 8.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia264_utt11.wav
+Ross|I made it in the sixth grade.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia264_utt12.wav
+Chandler|Yeah, I guess I could use that. I could say that your love sends me to the moon.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia264_utt13.wav
+Ross|Yeah-yeah, except Apollo 8 didn¬ít actually land on the moon.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia264_utt14.wav
+Ross|But you-you-you could write that umm, your love lets me orbit the moon twice and return safely.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia264_utt15.wav
+Chandler|Wait a minute, I can¬ít give this to her.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia264_utt16.wav
+Ross|Why not?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia264_utt17.wav
+Chandler|Because it says "Captain Ross" on the side and "I hate Monica" on the bottom.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia264_utt18.wav

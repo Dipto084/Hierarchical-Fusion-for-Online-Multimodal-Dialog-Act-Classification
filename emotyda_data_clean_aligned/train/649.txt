@@ -1,0 +1,24 @@
+Rachel|Joey? Could you get that? What are you doing here? I thought you were in your room?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia649_utt0.wav
+Joey|No, I¬ím picking you up for our date. These are for you.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia649_utt1.wav
+Rachel|Ohh, Lilies. Joey, they¬íre my favorite. Thank you.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia649_utt2.wav
+Joey|And, a brownie!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia649_utt3.wav
+Joey|Well, half a brownie.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia649_utt4.wav
+Joey|Actually, it¬ís just bag.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia649_utt5.wav
+Joey|It¬ís been a long walk from the flower shop and I was startin¬í to feel faint so|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia649_utt6.wav
+Rachel|Oh man!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia649_utt7.wav
+Rachel|This is so great!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia649_utt8.wav
+Rachel|I actually feel like I¬ím going on a real date!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia649_utt9.wav
+Rachel|Although, I have a hint of morning sickness, and I¬ím wearing underwear that goes up to about¬Ö¬Öthere.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia649_utt10.wav
+Joey|Hey come on now, this is a real date.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia649_utt11.wav
+Joey|Uh, so¬Önice place you got here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia649_utt12.wav
+Joey|Foosball, huh?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia649_utt13.wav
+Joey|Pizza box.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia649_utt14.wav
+Joey|Oh, a subscription to|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia649_utt15.wav
+Rachel|Yeah, actually that¬ís my roommate¬ís.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia649_utt16.wav
+Joey|I would like to meet him. He sounds like a stand up guy.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia649_utt17.wav
+Rachel|Ah yes, but he¬ís very protective of me so you¬íd better watch yourself.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia649_utt18.wav
+Joey|Ah¬Ö Hey, so this roommate of yours¬Öis he good looking?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia649_utt19.wav
+Rachel|Hm-mmm|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia649_utt20.wav
+Joey|Oh yeah, it must be tough to keep your hands of him, huh?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia649_utt21.wav
+Rachel|Yeah, but I¬ím pretty sure he¬ís gay.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia649_utt22.wav
+Joey|No-no-no-no, he¬ís not! No! Why are you trying to ruin the game? Come on!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia649_utt23.wav

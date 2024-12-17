@@ -1,0 +1,18 @@
+Rachel|Hi Joey! What are you doing here?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia130_utt0.wav
+Joey|Uhh, well I¬íve got an audition down the street and I spilled sauce all over the front of my shirt. You got an extra one?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia130_utt1.wav
+Rachel|Yeah, sure. Umm¬Öhere.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia130_utt2.wav
+Joey|Great. You got anything that¬ís not|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia130_utt3.wav
+Rachel|Yeah, I don¬ít think so Joe.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia130_utt4.wav
+Joey|All right, I guess this will be fine.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia130_utt5.wav
+Rachel|Hey, listen umm, what-what are you doing tonight?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia130_utt6.wav
+Joey|Nothing, why?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia130_utt7.wav
+Rachel|How would you feel about taking out my assistant Tag? I¬íll pay.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia130_utt8.wav
+Joey|Huh, Rach I got to say it¬ís gonna take a lot of money for me to go out on a date with a dude.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia130_utt9.wav
+Rachel|I¬ím not asking you to go on a|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia130_utt10.wav
+Joey|Really? ¬ëCause I could kinda use the money.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia130_utt11.wav
+Rachel|Joey, just-just he-he¬ís new in town and I know he doesn¬ít have any guy friends.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia130_utt12.wav
+Rachel|Just take him to like a ball game or something.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia130_utt13.wav
+Rachel|I¬íll really appreciate it.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia130_utt14.wav
+Joey|Yeah, okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia130_utt15.wav
+Rachel|Yeah?|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia130_utt16.wav
+Joey|Sure, no problem. Ooh¬óHey, donuts!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia130_utt17.wav

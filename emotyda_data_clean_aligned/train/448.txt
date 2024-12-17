@@ -1,0 +1,12 @@
+Phoebe|Yeah, I think it was better when you guys were sad. Hey, uh, remember the roller blades?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia448_utt0.wav
+Rachel|You know what else I¬ím not gonna miss?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia448_utt1.wav
+Rachel|"I¬ím Monica.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia448_utt2.wav
+Rachel|I wash the toilet 17 times a day.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia448_utt3.wav
+Rachel|Even if people are on it!"|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia448_utt4.wav
+Monica|"Hi I¬ím Rachel, is my sweater too tight? No? Oh, I¬íd better wash it and shrink it!"|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia448_utt5.wav
+Rachel|"I¬ím Monica, I don¬ít get phone messages from interesting people. Ever!"|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia448_utt6.wav
+Phoebe|Hey! I call her!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia448_utt7.wav
+Monica|"Oh my God, I love Ross! I hate Ross! I love Ross! I hate Ross!"|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia448_utt8.wav
+Rachel|"Oh my God, I can¬ít find a boyfriend!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia448_utt9.wav
+Rachel|So I guess I¬íll just stumble across the hall and sleep with the first guy I find in there!"|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia448_utt10.wav
+Phoebe|Yeah, we should get a move on if we wanna make those dinner reservations.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia448_utt11.wav

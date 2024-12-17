@@ -1,0 +1,21 @@
+Ross|....and 12, 22, 18, four... What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia336_utt0.wav
+Chandler|I spelled out boobies.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia336_utt1.wav
+Monica|Ross, but me down for another box of the mint treasures, okay. Where, where are the mint treasures?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia336_utt2.wav
+Ross|Ah, we¬íre out. I sold them all.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia336_utt3.wav
+Monica|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia336_utt4.wav
+Monica|No.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia336_utt6.wav
+Monica|No, just, just, just a couple more boxes.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia336_utt7.wav
+Monica|It-it-it¬ís no big deal, all right, I¬ím-I¬ím cool.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia336_utt8.wav
+Monica|You gotta help me out with a couple more boxes!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia336_utt9.wav
+Ross|Mon, look at yourself. You have cookie on your neck.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia336_utt10.wav
+Monica|Oh God!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia336_utt11.wav
+Chandler|So, how many have you sold so far?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia336_utt12.wav
+Ross|Check this out. Five hundred and seventeen boxes!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia336_utt13.wav
+Chandler|Oh my God, how did you do that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia336_utt14.wav
+Ross|Okay, the other night I was leaving the museum just as ¬ëLaser Floyd¬í was letting out of the planetarium, without even trying I sold 50 boxes!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia336_utt15.wav
+Ross|That¬ís when it occurred to me, the key to my success, ¬ëthe munchies.¬í So I ah, started hitting the NYU dorms around midnight.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia336_utt16.wav
+Ross|I am selling cookies by the case.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia336_utt17.wav
+Ross|They call me: 'Cookie Dude!'|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia336_utt18.wav
+Rachel|Okay, stop what you¬íre doing, I need envelope stuffers, I need stamp lickers.....|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia336_utt19.wav
+Ross|Well hey, who did these resumes for ya?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia336_utt20.wav
+Chandler|Me! On my computer.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia336_utt21.wav

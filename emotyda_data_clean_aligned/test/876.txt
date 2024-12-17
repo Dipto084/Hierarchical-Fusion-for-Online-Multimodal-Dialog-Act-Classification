@@ -1,0 +1,3 @@
+Chandler|Are you kidding me?! Joey. Joey! Joey! Joey! Joey! Joey! Joey! Joey! Joey! Joey!!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia876_utt0.wav
+Joey|Joey. Joey. Joey. Joey! Joey!!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia876_utt1.wav
+Chandler|Oh. Oh, did-did-did I wake you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia876_utt2.wav

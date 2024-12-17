@@ -1,0 +1,5 @@
+Chandler|There he is!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia826_utt0.wav
+Monica|There¬ís our star!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia826_utt1.wav
+Joey|So, so, what¬íd ya think?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia826_utt2.wav
+Chandler|Almost as good as that play with the two naked girls on the see-saw.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia826_utt3.wav
+Joey|I-I wasn¬ít in that.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia826_utt4.wav

@@ -1,0 +1,17 @@
+Rachel|So umm, you¬íre gonna stay with me as long as I need you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia645_utt0.wav
+Mrs. Green|Of course I am!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia645_utt1.wav
+Rachel|Oh mom, I swear I¬ím not an idiot.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia645_utt2.wav
+Rachel|I¬íve read all kinds of books on pregnancy and giving birth, but I-I just didn¬ít think to read the part about what to do when the baby comes.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia645_utt3.wav
+Rachel|And-and then guess what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia645_utt4.wav
+Rachel|The baby¬ís coming and I don¬ít know what to do.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia645_utt5.wav
+Rachel|Oh, can I throw up in my diaper genie?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia645_utt6.wav
+Mrs. Green|No. Sweetie, you¬íre gonna be fine.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia645_utt7.wav
+Rachel|Wait-wait where are you going? Where are you going?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia645_utt8.wav
+Mrs. Green|I¬ím going to the bathroom.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia645_utt9.wav
+Rachel|Okay.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia645_utt10.wav
+Mrs. Green|Now don¬ít worry! Everything¬ís gonna be okay.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia645_utt11.wav
+Monica|It|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia645_utt12.wav
+Ross|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia645_utt13.wav
+Phoebe|Hey! Why are you all red and sweaty?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia645_utt14.wav
+Ross|I just Bamboozled Chandler! Which is not uh sexual thing. That was a quick shower.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia645_utt15.wav
+Phoebe|Not if you were here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia645_utt16.wav

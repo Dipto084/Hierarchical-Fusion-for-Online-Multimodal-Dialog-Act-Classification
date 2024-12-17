@@ -1,0 +1,1 @@
+Monica|Hello? Oh, hi Ross! See? Other people call me!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia343_utt0.wav

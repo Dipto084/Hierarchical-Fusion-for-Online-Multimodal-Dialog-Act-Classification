@@ -1,0 +1,2 @@
+Janice|So? Congratulations you two, I didn¬ít even know you got married.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia104_utt0.wav
+Rachel|Oh we-we didn¬ít.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia104_utt1.wav

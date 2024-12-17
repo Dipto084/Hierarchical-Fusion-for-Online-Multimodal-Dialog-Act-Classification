@@ -1,0 +1,10 @@
+Fireman No. 1|What do we got there?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1008_utt0.wav
+Fireman No. 2|A piece of something: boxer shorts, greeting cards, and what looks like a half-charred picture¬óWow, that guy's hairier than the Chief!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1008_utt1.wav
+Monica|You know, it's a really funny story how this happened.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1008_utt2.wav
+Fireman No. 3|It's all right.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1008_utt3.wav
+Fireman No. 3|It's all right.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1008_utt4.wav
+Fireman No. 3|You don't have to explain.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1008_utt5.wav
+Fireman No. 3|This isn't the first boyfriend bonfire that we've seen get out of control.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1008_utt6.wav
+Fireman No. 1|You're our third call tonight.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1008_utt7.wav
+Rachel|Really?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1008_utt8.wav
+Fireman No. 2|Oh, sure, Valentine's is our busiest night of the year.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1008_utt9.wav

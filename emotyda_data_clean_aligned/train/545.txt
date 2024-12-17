@@ -1,0 +1,14 @@
+Monica|What, Phoebe, did you whip the potatoes? Ross needs lumps!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia545_utt0.wav
+Phoebe|Oh, I'm sorry, oh, I just, I thought we could have them whipped and then add some peas and onions.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia545_utt1.wav
+Monica|Why would we do that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia545_utt2.wav
+Phoebe|Well, 'cause then they'd be like my mom used to make them, you know, before she died.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia545_utt3.wav
+Monica|Ok, three kinds of potatoes coming up.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia545_utt4.wav
+Rachel|Ok, good-bye you guys. Thanks for everything. Oh, sorry! Oh, sorry!|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia545_utt5.wav
+Chandler|The most unbelievable thing has happened. Underdog has just gotten away.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia545_utt6.wav
+Joey|The balloon?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia545_utt7.wav
+Chandler|No, no, the actual cartoon character. Of course the balloon. It's all over the news. Right before he reached|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia545_utt8.wav
+Rachel|I can't, I gotta go.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia545_utt9.wav
+Chandler|Come on. An 80-foot inflatable dog let loose over the city. How often does that happen?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia545_utt10.wav
+Phoebe|Almost never.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia545_utt11.wav
+Monica|Got the keys?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia545_utt12.wav
+Rachel|Ok.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia545_utt13.wav

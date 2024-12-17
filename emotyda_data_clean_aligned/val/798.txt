@@ -1,0 +1,7 @@
+Rachel|Uh... Oh, Mindy, you are so stupid. Oh, we are both so stupid.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia798_utt0.wav
+Mindy|What do you mean?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia798_utt1.wav
+Rachel|Smell familiar?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia798_utt2.wav
+Mindy|Oh no.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia798_utt3.wav
+Rachel|Oh, I am so sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia798_utt4.wav
+Mindy|No me, I am so sorry...|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia798_utt5.wav
+Joey|Oh my.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia798_utt6.wav

@@ -1,0 +1,14 @@
+Rachel|Well there¬ís yore. And uh, y¬íknow, yesteryear.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia777_utt0.wav
+Phoebe|Yeah no, I¬ím telling you Rachel has such a great eye for this stuff.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia777_utt1.wav
+Phoebe|Ross, y¬íknow if you ever decide you need to redecorate¬óAnd I think that you should.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia777_utt2.wav
+Phoebe|You should, you should ask Rachel to help.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia777_utt3.wav
+Rachel|Oh honey he doesn¬ít need my help.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia777_utt4.wav
+Phoebe|Oh, come on! I think he¬ís ready to get rid of, what did you call it? The cheap knock-offs and dinosaur junk.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia777_utt5.wav
+Ross|Really?!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia777_utt6.wav
+Ross|Hey, y¬íknow what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia777_utt7.wav
+Ross|Since you have such a great sense of what I need, uh ooh, here¬ís-here¬ís 60 bucks, why don¬ít you take Phoebe down to that Colonial flea market of yours and get me some stuff.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia777_utt8.wav
+Rachel|Y¬íknow what? I don¬ít, I don¬ít think Phoebe really wants to come.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia777_utt9.wav
+Phoebe|No! I do want to!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia777_utt10.wav
+Rachel|Oh, she does want to.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia777_utt11.wav
+Ross|She does want to.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia777_utt12.wav
+Phoebe|Yeah!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia777_utt13.wav

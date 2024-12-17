@@ -1,0 +1,12 @@
+Joey|How do I look?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia429_utt0.wav
+Chandler|Oh, uh, I... don't... care.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia429_utt1.wav
+Chandler|Ok, now, remember, no trading.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia429_utt2.wav
+Chandler|You get the pretty one, I get the mess.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia429_utt3.wav
+Lorraine|Hi, Joey. Well well, look what you brought. Very nice.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia429_utt4.wav
+Chandler|...And what did you bring?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia429_utt5.wav
+Lorraine|She's checking the coats.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia429_utt6.wav
+Lorraine|Joey, I'm gonna go wash the cab smell off my hands.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia429_utt7.wav
+Lorraine|Will you get me a white Zinfandel, and a glass of red for Janice.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia429_utt8.wav
+Chandler|Janice?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia429_utt9.wav
+Janice|Oh.... my.... God.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia429_utt10.wav
+Chandler|Hey, it's Janice.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia429_utt11.wav

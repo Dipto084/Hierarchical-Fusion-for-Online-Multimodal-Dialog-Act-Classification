@@ -1,0 +1,9 @@
+David|Well, I was probably going to do it at some point.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia172_utt0.wav
+Chandler|I didn't mean|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia172_utt1.wav
+David|It's brilliant!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia172_utt3.wav
+David|Goodbye Mike, we'll see you at the wedding, fella!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia172_utt4.wav
+David|well, we probably won't invite you to the wedding...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia172_utt5.wav
+David|Thank you, Chandler.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia172_utt6.wav
+David|Sincerely.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia172_utt7.wav
+Chandler|Well, you're welcome! Glad I could help.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia172_utt8.wav
+Chandler|David, I'm pretending to|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia172_utt10.wav

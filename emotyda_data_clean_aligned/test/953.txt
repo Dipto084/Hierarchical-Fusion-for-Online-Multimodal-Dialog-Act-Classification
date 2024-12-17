@@ -1,0 +1,23 @@
+Phoebe|Hey Mikey|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia953_utt0.wav
+Mike|Hey P|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia953_utt1.wav
+Phoebe|What are you doing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia953_utt2.wav
+Mike|Setting rattraps|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia953_utt3.wav
+Phoebe|To kill Bob??|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia953_utt4.wav
+Mike|No, no, to test his neck strength.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia953_utt5.wav
+Phoebe|No, Mike, I don't want to kill him!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia953_utt6.wav
+Phoebe|I thought we were just gonna capture him and, and you know, set him free in the country side where he can maybe meet a friendly possom and a wisecracking owl.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia953_utt7.wav
+Mike|Ok, ok, I'll throw away the traps.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia953_utt8.wav
+Phoebe|I'll find Bob, I'll get him.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia953_utt9.wav
+Phoebe|Bob?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia953_utt10.wav
+Phoebe|Bob!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia953_utt11.wav
+Phoebe|Robert!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia953_utt12.wav
+Phoebe|Oh wait, I think I hear him.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia953_utt13.wav
+Phoebe|Oh - Oh my god!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia953_utt14.wav
+Phoebe|Bob had babies!|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia953_utt15.wav
+Phoebe|Bob's a mom!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia953_utt16.wav
+Mike|Better think of a new name for him.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia953_utt17.wav
+Phoebe|I don't know, I kinda like Bob for a girl.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia953_utt18.wav
+Mike|I don't know, I mean I'm not sure ...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia953_utt19.wav
+Phoebe|Oh my god, we killed Bob!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia953_utt20.wav
+Mike|Maybe it wasn't Bob, maybe it was a mouse.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia953_utt21.wav
+Phoebe|Suzie|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia953_utt22.wav

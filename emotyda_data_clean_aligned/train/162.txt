@@ -1,0 +1,2 @@
+Ross|I think the check in is that way.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia162_utt0.wav
+Rachel|Ahh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia162_utt1.wav

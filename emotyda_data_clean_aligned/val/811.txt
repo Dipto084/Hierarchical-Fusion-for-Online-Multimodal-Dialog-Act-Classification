@@ -1,0 +1,11 @@
+Joey|Aaron! You gotta let me go. The guy¬ís hammered!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia811_utt0.wav
+The Director|I¬ím sorry Joey, as long as he¬ís here and he¬ís conscious we¬íre still shooting.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia811_utt1.wav
+Richard|You wouldn¬ít happen to have a very big fork?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia811_utt2.wav
+Joey|So I uh, I just talked to the director. That¬ís it, we¬íre done for the day.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia811_utt3.wav
+Richard|Well have we finished the scene?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia811_utt4.wav
+Joey|Yeah! You¬Öyou were wonderful.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia811_utt5.wav
+Richard|As were you.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia811_utt6.wav
+Joey|So I got your car, it¬ís right outside.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia811_utt7.wav
+Richard|Oh, thank you. You¬íre welcome.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia811_utt8.wav
+Joey|No-no-no! We gotta go! Come on! Here we go.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia811_utt9.wav
+Richard|Is that my ass?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia811_utt10.wav

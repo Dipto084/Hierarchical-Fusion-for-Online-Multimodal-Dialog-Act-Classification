@@ -1,0 +1,18 @@
+Ross|Hey, so uh, y'know how there's something I wanted to talk to you about?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia964_utt0.wav
+Rachel|Oh yeah!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia964_utt1.wav
+Ross|Well, y'know how I'm trying to work things out with Emily.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia964_utt2.wav
+Ross|Well, there's this one thing¬Ö Okay, here goes.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia964_utt3.wav
+Ross|I made a promise that--Oh hey!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia964_utt4.wav
+Rachel|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia964_utt5.wav
+Ross|You're nose is bleeding!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia964_utt6.wav
+Rachel|Oh God.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia964_utt7.wav
+Rachel|No!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia964_utt8.wav
+Rachel|Oh not again!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia964_utt9.wav
+Rachel|This-this happened when my grandfather died.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia964_utt10.wav
+Rachel|It's ugh!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia964_utt11.wav
+Rachel|Sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia964_utt12.wav
+Rachel|Oh, okay, so I'm sorry, what-what were you-what did you want to tell me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia964_utt13.wav
+Ross|Umm|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia964_utt14.wav
+Rachel|Sorry. Sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia964_utt15.wav
+Ross|Okay, I uh, I can't see you anymore.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia964_utt16.wav
+Rachel|Yeah, I know. It's ridiculous! I can't see you either.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia964_utt17.wav

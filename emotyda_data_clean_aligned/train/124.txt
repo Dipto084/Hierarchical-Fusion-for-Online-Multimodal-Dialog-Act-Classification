@@ -1,0 +1,12 @@
+Ross|I know I miss you too. I can't wait to see you. I love you. Bye.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia124_utt0.wav
+Chandler|Okay, what is in here? Rocks?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia124_utt1.wav
+Ross|No-no, this is my collection of fossil samples.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia124_utt2.wav
+Chandler|So, rocks.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia124_utt3.wav
+Ross|I'm really gonna miss this apartment. Y'know, Ben-Ben took his first steps right over there.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia124_utt4.wav
+Joey|Ohh. Hey, remember when I ran into this thing and it kinda knocked me out a little?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia124_utt5.wav
+Ross|I loved this place! To tell you the truth, I wish I didn't have to move.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia124_utt6.wav
+Joey|Uhh, are you saying that you're not entirely happy about this?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia124_utt7.wav
+Ross|Well, I mean if uh, if Emily gave me a choice|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia124_utt8.wav
+Joey|You|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia124_utt9.wav
+Ross|Why?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia124_utt10.wav
+Joey|Hey, you guys! Look what I found in the giiiiiiift shop. Get up! Get up! Get up!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia124_utt11.wav

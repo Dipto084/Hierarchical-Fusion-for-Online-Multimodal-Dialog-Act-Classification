@@ -1,0 +1,10 @@
+Phoebe|Personal shopping? What is that? Like where you walk around with snooty rich people and tell them what to buy?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia58_utt0.wav
+Rachel|Uh-huh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia58_utt1.wav
+Phoebe|That sounds great!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia58_utt2.wav
+Joey|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia58_utt3.wav
+Monica|Umm, excuse me, we switched apartments. You can¬ít eat are food anymore, that-that gravy train had ended.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia58_utt4.wav
+Joey|There¬ís gravy?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia58_utt5.wav
+Monica|If you have the big apartment you have to deal with people coming over all the time.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia58_utt6.wav
+Monica|That fridge has got to be stocked, okay, that¬ís your department now.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia58_utt7.wav
+Monica|What are you doing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia58_utt8.wav
+Joey|I think I left a donut up here.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia58_utt9.wav

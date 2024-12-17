@@ -1,0 +1,15 @@
+Ross|By the way, the week before your wedding you may not see a lot of me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia853_utt0.wav
+Phoebe|Oh, hello liar.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia853_utt1.wav
+Ross|Look, I-I¬ím really sorry I let go of the bike.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia853_utt2.wav
+Phoebe|I could¬íve been killed I hope you know!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia853_utt3.wav
+Ross|I know. I know. But, can we please try it again? Huh? I mean, you were|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia853_utt4.wav
+Phoebe|Well, I would love to but¬Öthe bike got stolen and the police have no suspects.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia853_utt5.wav
+Ross|Phoebe.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia853_utt6.wav
+Phoebe|What?! What the hell?!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia853_utt7.wav
+Ross|All right, y¬íknow what?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia853_utt8.wav
+Ross|If you are not going to learn how to ride this bike then I¬ím sorry, I¬ím just gonna have to take it back.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia853_utt9.wav
+Phoebe|What?! Why?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia853_utt10.wav
+Ross|Because! Because, it-it-it¬ís¬Ö It¬íd be like you having this guitar and-and never playing it. Okay, this guitar|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia853_utt11.wav
+Phoebe|All right. If you care enough to make up that load of crap, okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia853_utt12.wav
+Ross|Great! Great! You¬íre making the bike very happy.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia853_utt13.wav
+Phoebe|Okay Ross! Please don¬ít die!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia853_utt14.wav

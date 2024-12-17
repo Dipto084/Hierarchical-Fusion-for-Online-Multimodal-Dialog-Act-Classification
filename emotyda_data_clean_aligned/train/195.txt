@@ -1,0 +1,20 @@
+Rachel|Okay sir, um-mm, let see if I got this right.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia195_utt0.wav
+Rachel|Ah, so this is a half-caf, double tall, easy hazel nut, non-fat, no foam, with whip, extra hot latte, right?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia195_utt1.wav
+Rachel|Okay, great.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia195_utt2.wav
+Rachel|You freak.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia195_utt3.wav
+Ross|Thank you.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia195_utt4.wav
+Isabella|Um, coffee to go, please.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia195_utt5.wav
+Ross|Isabella Rosselini.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia195_utt6.wav
+Monica|Are you serious? Oh my God.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia195_utt7.wav
+Ross|Damn! I can¬ít believe I took her off my list.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia195_utt8.wav
+Monica|Why? ¬ëCause otherwise you¬íd go for it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia195_utt9.wav
+Ross|Yeah, maybe.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia195_utt10.wav
+Rachel|Oh-oh, you lie.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia195_utt11.wav
+Ross|What you don¬ít think I¬íd go up to her?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia195_utt12.wav
+Rachel|Ross, it took you ten years to finally admit you liked me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia195_utt13.wav
+Ross|Yeah, well missy, you better be glad that list is laminated.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia195_utt14.wav
+Rachel|You know what honey, you go ahead, we¬íll call her an alternate.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia195_utt15.wav
+Ross|Okay, hold my crawler.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia195_utt16.wav
+Rachel|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia195_utt17.wav
+Monica|Rach, are you really gonna let him do this?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia195_utt18.wav
+Rachel|Honey, he¬ís about to go hit on Isabella Rosselini. I¬ím just sorry we don¬ít got popcorn.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia195_utt19.wav

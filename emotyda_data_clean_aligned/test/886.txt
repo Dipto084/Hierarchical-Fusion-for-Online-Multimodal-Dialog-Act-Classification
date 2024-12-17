@@ -1,0 +1,21 @@
+Rachel|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia886_utt0.wav
+Chandler|Hi!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia886_utt1.wav
+Chandler|Listen, can we watch cartoons on your television?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia886_utt2.wav
+Chandler|We need a porn break.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia886_utt3.wav
+Chandler|We spent the last two hours watching In & Out & In, Again.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia886_utt4.wav
+Rachel|Well, so, why don¬ít you just turn it off?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia886_utt5.wav
+Chandler|Because then we would be the guys who turned off free porn.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia886_utt6.wav
+Phoebe|Ooh, good, you¬íre hear! Okay.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia886_utt7.wav
+Monica|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia886_utt8.wav
+Phoebe|Hi!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia886_utt9.wav
+Rachel|Well, what-what ¬ëcha got there?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia886_utt10.wav
+Phoebe|Oh this, well I¬ím glad you asked.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia886_utt11.wav
+Phoebe|Now, don¬ít you hate it when you have to cut a tin can with an ordinary steak knife?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia886_utt12.wav
+Phoebe|Ahh!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia886_utt13.wav
+Phoebe|Now, I know what you¬íre thinking|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia886_utt14.wav
+Chandler|Pregnant Woman Slays Four?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia886_utt15.wav
+Monica|Phoebe, they didn¬ít make you pay for those knives, did they?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia886_utt16.wav
+Phoebe|No!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia886_utt17.wav
+Rachel|Honey, you¬íre not gonna make enough money to help Frank and Alice just by selling knives.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia886_utt20.wav
+Phoebe|No-no, I know that, but I just have to make enough money for the second part of my plan.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia886_utt21.wav
+Chandler|What¬ís the second part of your plan?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia886_utt22.wav

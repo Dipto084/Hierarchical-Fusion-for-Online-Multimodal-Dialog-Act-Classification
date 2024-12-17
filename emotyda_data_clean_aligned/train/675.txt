@@ -1,0 +1,6 @@
+Phoebe|You wanna do it right now?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia675_utt0.wav
+Julie|Great!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia675_utt1.wav
+Phoebe|Ok, I just wanna be really sure this time. Andie McDowell's the girl from|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia675_utt2.wav
+Rachel|No. No no no no no. That's Rodney McDowell. Andie McDowell is the guy from|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia675_utt3.wav
+Phoebe|Oh, yeah. Ok, thank you.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia675_utt4.wav
+Rachel|You're welcome.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia675_utt5.wav

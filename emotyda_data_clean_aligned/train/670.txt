@@ -1,0 +1,16 @@
+Monica|Noooo! I'm lying. I am so drunk.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia670_utt0.wav
+Rachel|Oh God, oh.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia670_utt1.wav
+Rachel|Great, Monica, y'know what, you could've called, I have been up here, I've been worried...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia670_utt2.wav
+Rachel|Monica? Monica!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia670_utt3.wav
+Monica|Water rules!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia670_utt4.wav
+Rachel|Yes, yes, it does. Okay, look, the restaurant called, they wanna know if you're gonna be showing up for work?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia670_utt5.wav
+Monica|Nope. Going to the|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia670_utt6.wav
+Rachel|Okay Monica, what are you doing? You're gonna lose your job! This is not you!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia670_utt7.wav
+Monica|No, it is me!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia670_utt8.wav
+Monica|Y'know, I'm not just the person who needs to fluff the pillows and pay the bills as soon as they come in!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia670_utt9.wav
+Monica|Y'know, when I'm with her, I am so much more than that.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia670_utt10.wav
+Monica|I'm- I'm Monana!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia670_utt11.wav
+Rachel|Hello? Yes, she is, hold on a second, please. Monana, it's for you, the credit card people.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia670_utt12.wav
+Monica|Helloooo? Yeah. Oh my God. Thanks.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia670_utt13.wav
+Rachel|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia670_utt14.wav
+Monica|They've arrested Monica.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia670_utt15.wav

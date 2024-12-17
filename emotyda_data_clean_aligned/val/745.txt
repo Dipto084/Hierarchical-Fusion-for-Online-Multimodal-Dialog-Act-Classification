@@ -1,0 +1,12 @@
+Chandler|Well, it's official there are no good movies.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia745_utt0.wav
+Janice|Well, let's go to a bad one and make out.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia745_utt1.wav
+Monica|Perhaps, you would like me to turn like this, so that you can bunny bump against my back.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia745_utt2.wav
+Joey|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia745_utt3.wav
+Phoebe|Hey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia745_utt4.wav
+Chandler|Hey, man. What's up?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia745_utt5.wav
+Joey|Maybe you can tell me.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia745_utt6.wav
+Joey|My agent would like to know why I didn't show up at the audition I didn't know I had today.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia745_utt7.wav
+Joey|The first good thing she gets me in weeks.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia745_utt8.wav
+Joey|How could you not give me the message?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia745_utt9.wav
+Chandler|Well, I'll tell ya I do enjoy guilt, but, ah, it wasn't me.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia745_utt10.wav
+Phoebe|Yes, it was! It was him! Uh huh! Okay, it was me!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia745_utt11.wav

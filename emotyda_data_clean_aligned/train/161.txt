@@ -1,0 +1,6 @@
+Ross|Whazzup??|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia161_utt0.wav
+Chandler|Seriously dude, 3 years ago.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia161_utt1.wav
+Ross|Listen, can you do me a favor?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia161_utt2.wav
+Ross|I'm gonna be out today.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia161_utt3.wav
+Ross|Can you just keep an eye on Joey, make sure nothing happens between him and Molly?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia161_utt4.wav
+Chandler|You don't trust him?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia161_utt5.wav

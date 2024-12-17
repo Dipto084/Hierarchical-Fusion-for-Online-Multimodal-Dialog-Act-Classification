@@ -1,0 +1,14 @@
+Pete|Yeah, sure. Good luck!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia604_utt0.wav
+Monica|I¬ím quitting!! Woo-hoo! I¬ím okay!! I¬ím all right!!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia604_utt1.wav
+Phoebe|Wow! That¬ís exciting, you went to Japan, made up a woman.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia604_utt2.wav
+Pete|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia604_utt3.wav
+Phoebe|I¬ím just saying, this woman, I mean she¬ís fictitious. No?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia604_utt4.wav
+Pete|Why would you say that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia604_utt5.wav
+Phoebe|¬ëCause you¬íre still into Monica.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia604_utt6.wav
+Phoebe|So you told her there was somebody else so she would agree to work with you, so ¬ëcause you figure oh if you spent a lot of time together, maybe something might happen, and...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia604_utt7.wav
+Pete|You¬íre good. You¬íre good!|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia604_utt8.wav
+Phoebe|Yeah, no, I¬ím fairly intuitive and psychic. It¬ís a substantial gift.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia604_utt9.wav
+Pete|Listen, can you promise me that you won¬ít tell her though?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia604_utt10.wav
+Phoebe|Absolutely, oh I promise. Tell her what?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia604_utt11.wav
+Pete|Thanks a lot.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia604_utt12.wav
+Phoebe|No I¬ím serious. I mean I¬ím intuitive, but my memory sucks.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia604_utt13.wav

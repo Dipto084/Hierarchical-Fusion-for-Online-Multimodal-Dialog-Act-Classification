@@ -1,0 +1,2 @@
+Ross|Yeah, yeah, everybody's here. Hey, everybody, say hi to Julie in New Mexico.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia142_utt0.wav
+All|Hi, Julie!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia142_utt1.wav

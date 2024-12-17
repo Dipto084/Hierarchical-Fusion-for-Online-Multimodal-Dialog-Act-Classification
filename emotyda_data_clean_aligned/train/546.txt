@@ -1,0 +1,19 @@
+Monica|What d'you think?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia546_utt0.wav
+Joey|Lot of things.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia546_utt1.wav
+Rachel|Which one do you think she is?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia546_utt2.wav
+Teacher|May I help you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia546_utt3.wav
+Monica|Oh, no thanks, we're just here to observe.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia546_utt4.wav
+Teacher|You don't observe a dance class. You|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia546_utt5.wav
+Rachel|What does she mean?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia546_utt6.wav
+Phoebe|I think she means 'You|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia546_utt7.wav
+Monica|Okay, d'y'see anybody you think could be me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia546_utt8.wav
+Teacher|People! Last time there were some empty yoghurt containers lying around after class. Let's not have that happen again!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia546_utt9.wav
+Rachel|She could be you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia546_utt10.wav
+Teacher|Let's get started. Five, six, a-five six seven eight...|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia546_utt11.wav
+Monica|Okay, I'm not getting this!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia546_utt12.wav
+Phoebe|I'm totally getting it!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia546_utt13.wav
+Monica|Did you ever feel like sometimes you are just so unbelievably uncoordinated?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia546_utt14.wav
+Rachel|What? You just click when they click.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia546_utt15.wav
+Teacher|Alright people, now everyone grab a partner.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia546_utt16.wav
+Phoebe|Okay. And, my, dead, mother, says, you, are, it. I'm with Rachel.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia546_utt17.wav
+Monica|Great. It's gym class all over again.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia546_utt18.wav

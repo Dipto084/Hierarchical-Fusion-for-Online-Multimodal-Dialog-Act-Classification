@@ -1,0 +1,21 @@
+Monica|Okay, here comes another camera.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia553_utt0.wav
+Ross|Right. No biggie. Stay loose.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia553_utt1.wav
+Ross|Why do they keep doing that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia553_utt2.wav
+Monica|If we wanna get on camera, I think we have to get up on one of those platforms.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia553_utt3.wav
+Monica|They¬íve been taping those people up there all day.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia553_utt4.wav
+Ross|Right.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia553_utt5.wav
+Ross|Hey, what¬íd you guys do to get up on there?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia553_utt6.wav
+Monica|Oh yeah? Well when you learned how to dance did you forget how to put on underpants?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia553_utt7.wav
+Ross|Yeah!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia553_utt8.wav
+Janine|Hey! You¬íre a good dancer!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia553_utt9.wav
+Joey|Really?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia553_utt10.wav
+Janine|Yeah, well you¬íd be better if you just loosened your hips a little.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia553_utt11.wav
+Joey|What do you mean?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia553_utt12.wav
+Janine|Like this.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia553_utt13.wav
+Janine|That¬ís it, feel the rhythm. That¬ís better.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia553_utt14.wav
+Joey|Uh-huh.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia553_utt15.wav
+Director|Okay, you¬íre dancing with that girl over there.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia553_utt16.wav
+Joey|No-no-no-no-no we came together!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia553_utt17.wav
+Director|I don¬ít see it. You are dancing with the tall guy over there. Tall guy, raise your hand!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia553_utt18.wav
+Joey|No-no hey buddy, please let me dance with that girl, I really like her and I think I have a shot.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia553_utt19.wav
+Director|Really, y¬íthink so? I don¬ít..|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia553_utt20.wav

@@ -1,0 +1,6 @@
+Ross|Excuse me. Hi, I¬ím a professor here. Do you know the Paleontology section, fifth floor, stack 437?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia714_utt0.wav
+The Librarian|Well, yes! Just give me five minutes, I just have to find someone to cover my shift.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia714_utt1.wav
+Ross|No! No!! No! Can I speak to someone in charge please?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia714_utt2.wav
+The Head Librarian|How can I help you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia714_utt3.wav
+Ross|Hi, I was wondering if it is possible to increase security in the Paleontology section?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia714_utt4.wav
+Ross|See I-I wrote a book up there and instead of reading it people are-are-are well, rolling around in front of it.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia714_utt5.wav

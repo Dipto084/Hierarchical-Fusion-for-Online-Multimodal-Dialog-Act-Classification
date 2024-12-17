@@ -1,0 +1,5 @@
+Rachel|Sorry I'm late, but I left late.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia85_utt0.wav
+Phoebe|Okay.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia85_utt1.wav
+Rachel|So Pheebs, what is the book about?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia85_utt2.wav
+Phoebe|I thought you said you read it in high school.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia85_utt3.wav
+Rachel|Well yeah, but then I remembered I started it and there was this pep rally and I was, I was on top of the pyramid but anyway¬óumm, what is this book about?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia85_utt4.wav

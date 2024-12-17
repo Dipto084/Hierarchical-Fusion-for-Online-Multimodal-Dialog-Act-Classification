@@ -1,0 +1,6 @@
+Ross|Well, well to sum up, we¬íre having fun, you look young.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia14_utt0.wav
+Mona|Okay|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia14_utt1.wav
+Ross|But that¬ís not enough. So¬Ö So¬Öhere¬ís a key to my apartment.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia14_utt2.wav
+Mona|Really?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia14_utt3.wav
+Ross|Really.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia14_utt4.wav
+Mona|You don¬ít think this is too fast.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia14_utt5.wav

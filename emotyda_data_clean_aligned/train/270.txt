@@ -1,0 +1,4 @@
+Ross|Come here to me. No-no, you come here to me.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia270_utt0.wav
+Rachel|Hey Ross! I brought reinforcements.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia270_utt1.wav
+Ross|Oh great! What, you brought Joey?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia270_utt2.wav
+Rachel|Well, I brought the next best thing.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia270_utt3.wav

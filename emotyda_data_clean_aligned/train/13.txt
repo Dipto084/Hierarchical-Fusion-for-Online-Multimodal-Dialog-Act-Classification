@@ -1,0 +1,4 @@
+Mona|I love your place! Where is this guy from?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia13_utt0.wav
+Ross|Uh that¬ís an eighteenth century Indian artifact from Calcutta.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia13_utt1.wav
+Mona|Oh wow! So, you¬íre more than just dinosaurs.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia13_utt2.wav
+Ross|So much more.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia13_utt3.wav

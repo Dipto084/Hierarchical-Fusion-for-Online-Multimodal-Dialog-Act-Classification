@@ -1,0 +1,2 @@
+Lecturer|We¬íre beginning to see a lot of layering of sheer fabrics and colours. For instance a sheer navy blouse over a pink....|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia230_utt0.wav
+Ross|I¬ím really glad we came. You¬íre so pretty. I love you.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia230_utt1.wav

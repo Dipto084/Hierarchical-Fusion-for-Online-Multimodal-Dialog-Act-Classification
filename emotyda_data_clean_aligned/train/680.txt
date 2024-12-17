@@ -1,0 +1,15 @@
+Monica|Now, this is last minute so I want to apologize for the mess. Okay?|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia680_utt0.wav
+Rachel|Oh my God! It sure didn¬ít look this way when I lived here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia680_utt1.wav
+Monica|I know!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia680_utt2.wav
+Monica|Now look, there¬ís only one problem though.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia680_utt3.wav
+Monica|There¬ís only room for one, so I guess one of you will have to stay at Joey¬ís.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia680_utt4.wav
+Phoebe|Well, since the fire was kinda my fault I guess you should get to stay here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia680_utt5.wav
+Rachel|Hey! Hey-hey, now this was no one¬ís fault Pheebs. Okay? It was an accident.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia680_utt6.wav
+Phoebe|Well no, it was my fault so you should get the nice room.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia680_utt7.wav
+Rachel|Okay!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia680_utt8.wav
+Monica|So Rach!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia680_utt9.wav
+Monica|You¬íre the first guest at Hotel Monica!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia680_utt10.wav
+Monica|Umm, you¬íll just have to tell me how you like your eggs in the morning.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia680_utt11.wav
+Monica|And I thought I would bring them to you, y¬íknow, in bed.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia680_utt12.wav
+Monica|Oh, you have been through so much.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia680_utt13.wav
+Rachel|I have.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia680_utt14.wav

@@ -1,0 +1,13 @@
+Rachel|Why aren¬ít you home yet?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia554_utt0.wav
+Monica|Is someone there?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia554_utt1.wav
+Rachel|Oh yes, it¬ís me! Sorry!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia554_utt2.wav
+Chandler|What are you doing here?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia554_utt3.wav
+Rachel|Uh, I¬ím just, I¬ím just looking out your window. At-at the view. What are you guys doing?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia554_utt4.wav
+Chandler|We got some|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia554_utt5.wav
+Rachel|Oh, he brought her back to his apartment.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia554_utt6.wav
+Monica|Who? Is that your sister?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia554_utt7.wav
+Rachel|Ugh, she|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia554_utt8.wav
+Monica|God, Ross is on a date with your sister! How weird is that?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia554_utt9.wav
+Rachel|Oh my God, look-look he¬ís taking off her clothes!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia554_utt10.wav
+Chandler|He¬ís taking off her coat!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia554_utt11.wav
+Rachel|Oh, this is just terrible.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia554_utt12.wav

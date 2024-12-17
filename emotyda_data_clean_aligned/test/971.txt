@@ -1,0 +1,3 @@
+Joey|Y¬íknow, me and him do stuff all the time without you and you don¬ít get all upset.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia971_utt0.wav
+Ross|All the time?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia971_utt1.wav
+Joey|All the time!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia971_utt2.wav

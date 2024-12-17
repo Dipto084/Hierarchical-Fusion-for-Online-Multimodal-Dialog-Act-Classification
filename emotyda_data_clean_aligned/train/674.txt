@@ -1,0 +1,9 @@
+Ross|So, Phoebs owes $7.50, Monica, you owe $10, and Rachel, you owe fifteen big ones.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia674_utt0.wav
+Joey|But hey, thanks for teachin' us Cross-Eyed Mary. You guys, we gotta play that at our regular game.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia674_utt1.wav
+Phoebe|Alright, here's my $7.50. But I think you should know that this money is cursed.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia674_utt2.wav
+Joey|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia674_utt3.wav
+Phoebe|Oh, I cursed it. So now bad things will happen to he who spends it.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia674_utt4.wav
+Chandler|That's alright, I'll take it.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia674_utt5.wav
+Chandler|Bad things happen to me anyway.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia674_utt6.wav
+Chandler|This way I can break 'em up with a movie.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia674_utt7.wav
+Ross|Well, that just leaves the big Green poker machine, who owes fifteen...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia674_utt8.wav

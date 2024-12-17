@@ -1,0 +1,8 @@
+Rachel|So uh, apparently people are familiar with the Europe story?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia76_utt0.wav
+Ross|Yeah.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia76_utt1.wav
+Ross|Listen about that, the whole uh, who came on to who thing really doesn¬ít matter.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia76_utt2.wav
+Ross|I mean, I think it would¬íve happened either way.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia76_utt3.wav
+Ross|I mean if you hadn¬ít initiated it I-I-I know I would¬íve.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia76_utt4.wav
+Rachel|It was an amazing night.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia76_utt5.wav
+Ross|It was. It was an amazing night.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia76_utt6.wav
+Rachel|You think it looked amazing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia76_utt7.wav

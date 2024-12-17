@@ -1,0 +1,11 @@
+Monica|Now, Mom, everything's going fine, really.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia423_utt0.wav
+Monica|Yeah, Ross is great.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia423_utt1.wav
+Monica|He's uh, he's in a whole other place.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia423_utt2.wav
+Monica|No, he's gone.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia423_utt3.wav
+Monica|No no, you don't have to fly back, really.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia423_utt4.wav
+Monica|What do you mean this might be your only chance?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia423_utt5.wav
+Monica|Would you stop?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia423_utt6.wav
+Monica|I'm only 26, I'm not even thinking about babies yet.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia423_utt7.wav
+Chandler|Where have you been?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia423_utt8.wav
+Joey|Oh, just had a baby.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia423_utt9.wav
+Chandler|Mazel tov!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia423_utt10.wav

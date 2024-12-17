@@ -1,0 +1,12 @@
+Ross|Dear Mary-Angela.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia980_utt0.wav
+Ross|Hi.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia980_utt1.wav
+Ross|How?s it going.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia980_utt2.wav
+Ross|This is the hardest letter I?ve ever had to write.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia980_utt3.wav
+Ross|What the hell?s a matter with you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia980_utt4.wav
+Ross|How do you think Joey?s going to react when he finds out that you blew off his sister with a letter?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia980_utt5.wav
+Chandler|Well, that?s the part where you tell him that I moved to France. When actually I?ll be in Cuba.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia980_utt6.wav
+Ross|All right, look, look, you?ve got to do this yourself, okay in person.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia980_utt7.wav
+Ross|At least you know her name.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia980_utt8.wav
+Ross|You just go to the house and you ask for Mary-Angela, okay, when which ever one she is comes to the door, you take her for a walk, you let her down easy.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia980_utt9.wav
+Chandler|What if Mary-Angela comes to the door and I ask for Mary-Angela?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia980_utt10.wav
+Ross|Where in Cuba?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia980_utt11.wav

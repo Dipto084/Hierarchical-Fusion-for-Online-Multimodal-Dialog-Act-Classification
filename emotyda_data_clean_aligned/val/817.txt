@@ -1,0 +1,15 @@
+Joey|I found my identical hand twin!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia817_utt0.wav
+Phoebe|Ohh, you are|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia817_utt1.wav
+Chandler|No!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia817_utt2.wav
+Phoebe|But she just came up here!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia817_utt3.wav
+Chandler|That was Joey!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia817_utt4.wav
+Phoebe|I wonder where she is. That is so weird.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia817_utt5.wav
+Chandler|Yeah, well, she's probably talking to Richard.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia817_utt6.wav
+Phoebe|Would you stop that!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia817_utt7.wav
+Phoebe|Do you wanna know the first thing she said when she came back from her lunch with Richard?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia817_utt8.wav
+Phoebe|She didn't feel anything for him.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia817_utt9.wav
+Phoebe|She loves you!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia817_utt10.wav
+Chandler|Really?|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia817_utt11.wav
+Phoebe|Yes! Now, she feels terrible! She really wants to make up! You gotta find her.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia817_utt12.wav
+Chandler|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia817_utt13.wav
+Phoebe|Good. I should really start wearing hats!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia817_utt14.wav

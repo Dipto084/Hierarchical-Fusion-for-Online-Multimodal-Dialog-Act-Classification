@@ -1,0 +1,10 @@
+Phoebe|Oh, I told the stripper to be here at five. That¬ís good right?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia468_utt0.wav
+Monica|You ordered a stripper for the shower?! That is totally inappropriate!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia468_utt1.wav
+Phoebe|What? He¬ís gonna be dressed as a baby! Oh hi Mrs. Green!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia468_utt2.wav
+Monica|Hi!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia468_utt3.wav
+Phoebe|I¬ím so glad you could make it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia468_utt4.wav
+Monica|Yes, thank you so much. And again, we¬íre so sorry. We could not feel worse about it.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia468_utt5.wav
+Mrs. Green|Try. There¬ís my little girl.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia468_utt6.wav
+Monica|She¬ís still mad.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia468_utt7.wav
+Phoebe|Yeah I know. Isn¬ít it great? One less person we have to make small talk with.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia468_utt8.wav
+Monica|Phoebe, Sandra¬ís mad at you too. It-it doesn¬ít bother you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia468_utt9.wav

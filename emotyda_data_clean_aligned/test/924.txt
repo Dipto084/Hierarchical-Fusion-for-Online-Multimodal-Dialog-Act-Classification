@@ -1,0 +1,7 @@
+Phoebe|Ooh, this is it! Oh, that¬ís him! That¬ís him!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia924_utt0.wav
+Joey|Great! Go get him.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia924_utt1.wav
+Phoebe|Wait a second, or maybe you can go in first.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia924_utt2.wav
+Joey|He¬ís not really my type.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia924_utt3.wav
+Phoebe|No not you, Dr. Drake Remoray. You can ask him questions and see what¬ís he like. People tell doctors everything.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia924_utt4.wav
+Phoebe|But lately all the guys I meet seem really nice at first, then they turn out to be the biggest jerks.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia924_utt5.wav
+Joey|You do attract some stinkers.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia924_utt6.wav

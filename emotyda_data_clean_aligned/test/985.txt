@@ -1,0 +1,5 @@
+Joey|Estelle, you gotta get me some work. I-I lost my health insurance.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia985_utt0.wav
+Estelle|All right, first thing we gotta do, damage control.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia985_utt1.wav
+Joey|Why?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia985_utt2.wav
+Estelle|Well, I think uhh, someone out there may have been bad mouthing you all over town.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia985_utt3.wav
+Joey|Bastard!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia985_utt4.wav

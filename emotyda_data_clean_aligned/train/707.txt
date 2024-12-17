@@ -1,0 +1,16 @@
+Phoebe|Oh whoa-whoa-whoa!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia707_utt0.wav
+Phoebe|Wait a minute, open up your hand; let me take a look.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia707_utt1.wav
+Phoebe|Quarter.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia707_utt2.wav
+Phoebe|Dime.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia707_utt3.wav
+Phoebe|Lint?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia707_utt4.wav
+Phoebe|Not interested in that.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia707_utt5.wav
+Phoebe|What's this?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia707_utt6.wav
+Phoebe|A Canadian coin?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia707_utt7.wav
+Phoebe|Get outta here!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia707_utt8.wav
+Phoebe|Whoa-whoa-whoa!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia707_utt9.wav
+Phoebe|No drinks near the bucket!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia707_utt10.wav
+Phoebe|Set it down over there and then you can make a contribution!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia707_utt11.wav
+Phoebe|And you can leave the hurt bunny look over there too!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia707_utt12.wav
+Phoebe|Hi Bob!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia707_utt13.wav
+Phoebe|I thought I told you to get outta here!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia707_utt14.wav
+Bob|Uh, Phoebe we've been getting complaints and uh, we're gonna move you to a less high-profile spot.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia707_utt15.wav

@@ -1,0 +1,6 @@
+Phoebe|Oh hey Joey! What's up?|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia984_utt0.wav
+Joey|I can't decide which route to take to Vegas. Hey, you've traveled a lot right?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia984_utt1.wav
+Phoebe|Yeah, I've been around.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia984_utt2.wav
+Joey|Okay, so-so which route should I take the northern route or the southern route?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia984_utt3.wav
+Phoebe|Ooh, if you take the northern route there's a man in Illinois with a beard of bees.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia984_utt4.wav
+Joey|Great! Problem solved!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia984_utt5.wav

@@ -1,0 +1,5 @@
+Ross|Hello.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia136_utt0.wav
+Ross|I¬ím sorry I¬ím a little late.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia136_utt1.wav
+Joey|Whoa|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia136_utt2.wav
+Ross|Let me start by uh, by introducing myself, I am Professor Geller.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia136_utt4.wav
+Ross|So to sum up, I¬ím Professor Geller.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia136_utt5.wav

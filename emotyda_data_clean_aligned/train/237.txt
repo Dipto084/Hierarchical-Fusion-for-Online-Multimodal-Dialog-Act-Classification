@@ -1,0 +1,12 @@
+Monica|So! I'm just an empty vase, huh?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia237_utt0.wav
+Julio|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia237_utt1.wav
+Monica|Y'know, so I don't read as many important books as you do, and I don't write trick poems that seem to be about one thing but are actually about something else.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia237_utt2.wav
+Monica|And y'know what, I get excited about stupid stuff, like when I my|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia237_utt3.wav
+Julio|Whoa, whoa, whoa.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia237_utt4.wav
+Monica|You don't even know me...|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia237_utt5.wav
+Julio|Whoa, whoa, whoa, the poem is not about you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia237_utt6.wav
+Monica|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia237_utt7.wav
+Julio|The Empty Vase is not about you. My baby, you make me so sad that you would think this.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia237_utt8.wav
+Monica|I'm sorry, my friend Phoebe...|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia237_utt9.wav
+Julio|No, it's about all women. Well, all American women. You feel better now?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia237_utt10.wav
+Monica|Oh yeah.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia237_utt11.wav

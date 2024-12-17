@@ -1,0 +1,6 @@
+Ross|Oh, that is so sweet.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia847_utt0.wav
+Ross|No, no, ok, you hang up.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia847_utt1.wav
+Ross|Ok, ok, one, two, three.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia847_utt2.wav
+Ross|Well you didn't hang up either.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia847_utt3.wav
+Rachel|She didn't hang up either...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia847_utt4.wav
+Ross|Ok, no, no, you hang up. You, you, y¬ó|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia847_utt5.wav

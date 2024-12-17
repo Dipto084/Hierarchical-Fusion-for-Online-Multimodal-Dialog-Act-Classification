@@ -1,0 +1,15 @@
+Monica|Ow!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia438_utt0.wav
+Richard|Really?! Well, it¬ís just like everyone else¬ís apartment. It¬ís got rooms, walls, and ceilings.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia438_utt1.wav
+Richard¬ís Date|Well, I just wanted to see where you lived. Now, give me the tour.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia438_utt2.wav
+Monica|Oh my God! Oh my God!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia438_utt3.wav
+Richard|Ah well, this is the living room.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia438_utt4.wav
+Richard|All right. This is the kitchen.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia438_utt5.wav
+Richard|The bedroom. Well it¬ís pretty much your typical... bedroom.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia438_utt7.wav
+Richard¬ís Date|We¬íre still on this side of the door.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia438_utt8.wav
+Joey|Ha-ha|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia438_utt9.wav
+Richard¬ís Date|Yeah, but I didn¬ít get to see it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia438_utt10.wav
+Richard|Oh shoot! Maybe next time. Thanks for a lovely evening.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia438_utt11.wav
+Monica|So um, who was she?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia438_utt12.wav
+Richard|Oh, that was the blind date that I told you about, she called and switched it to today.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia438_utt13.wav
+Monica|Did you like her? And I¬ím just asking as a friend, because I am totally fine with this.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia438_utt14.wav
+Richard|Well, you seem fine.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia438_utt15.wav

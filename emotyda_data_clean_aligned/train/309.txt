@@ -1,0 +1,5 @@
+Chandler|Kathy! Kathy! Hi!! Kathy! Kathy! (She doesn't hear him and keeps running, Chandler starts chasing her as the theme to|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia309_utt0.wav
+Kathy|Hey, Chandler! What are you doing here?|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia309_utt1.wav
+Chandler|Oh, I just wanted to say, "Hey!"|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia309_utt2.wav
+Kathy|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia309_utt3.wav
+Chandler|Okay.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia309_utt4.wav

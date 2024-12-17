@@ -1,0 +1,19 @@
+Chandler|Oh, Danielle! I wasn't expecting the machine... Give me a call when you get a chance. Bye-bye. Oh God!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia145_utt0.wav
+Monica|That's|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia145_utt1.wav
+Chandler|Hey, I've been honing!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia145_utt2.wav
+Ross|What was with the dishes?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia145_utt3.wav
+Chandler|Oh, uh..|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia145_utt4.wav
+Chandler|I want her to think I might be in a restaurant.. y'know?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia145_utt5.wav
+Chandler|I might have some kind of life, like I haven't been sitting around here honing for the past few hours.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia145_utt6.wav
+Monica|Look look! He's doing it again, the guy with the telescope!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia145_utt7.wav
+Phoebe|Oh my God! Go away! Stop looking in here!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia145_utt8.wav
+Monica|Great, now he's waving back.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia145_utt9.wav
+Joey|Man, we gotta do something about that guy.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia145_utt10.wav
+Joey|This morning, I caught him looking into our apartment.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia145_utt11.wav
+Joey|It creeps me out!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia145_utt12.wav
+Joey|I feel like I can't do stuff!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia145_utt13.wav
+Monica|What kinda stuff?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia145_utt14.wav
+Joey|Will you grow up? I'm not talking about sexy stuff, but, like, when I'm cooking naked.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia145_utt15.wav
+Phoebe|You cook naked?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia145_utt16.wav
+Joey|Yeah, toast, oatmeal... nothing that spatters.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia145_utt17.wav
+Chandler|What are you looking at me for? I didn't know that.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia145_utt18.wav

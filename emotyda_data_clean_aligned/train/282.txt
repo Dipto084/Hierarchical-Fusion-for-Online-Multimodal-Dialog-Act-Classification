@@ -1,0 +1,3 @@
+Phoebe|I think so too. And that little flap? Great for holding my lipstick.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia282_utt0.wav
+Joey|Yeah, I wouldn¬ít know about that.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia282_utt1.wav
+Phoebe|And! Y¬íknow what Jake says? That women¬ís underwear is actually more comfortable. And he loves the way the silk feels against his skin.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia282_utt2.wav

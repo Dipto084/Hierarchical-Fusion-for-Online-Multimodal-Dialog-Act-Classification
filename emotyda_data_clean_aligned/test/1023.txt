@@ -1,0 +1,8 @@
+Chandler|Well, I feel like a snack!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1023_utt0.wav
+Monica|Do you want some shortbread? Eh that¬ís Scottish like you are.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1023_utt1.wav
+Chandler|Oh no thanks. I don¬ít like|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1023_utt2.wav
+Ross|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1023_utt3.wav
+Chandler|Well it¬ís just my entire family was run out of Scotland by¬ÖVikings. Anyway, lots of bad memories.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1023_utt4.wav
+Ross|Oh well, it sounds to me like your family is ready to uh, rediscover its Scottish roots.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1023_utt5.wav
+Monica|You can not play bagpipes at the wedding!!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1023_utt6.wav
+Ross|How did you know about that?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1023_utt7.wav

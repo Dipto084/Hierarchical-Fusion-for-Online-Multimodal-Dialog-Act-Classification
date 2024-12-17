@@ -1,0 +1,15 @@
+Ross|Okay, I¬íve got three of my five.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia361_utt0.wav
+Rachel|Three of your five, what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia361_utt1.wav
+Ross|Celebrities I¬ím allowed to sleep with.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia361_utt2.wav
+Rachel|Oh my God! You are giving this a lot of thought.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia361_utt3.wav
+Ross|Yeah, it¬ís hard okay, I only have two spots left.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia361_utt4.wav
+Chandler|All right, so who do you got it narrowed down to?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia361_utt5.wav
+Ross|Okay, Elizabeth Hurely....|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia361_utt6.wav
+Chandler|Oooh-hoo, very attractive, forgiving.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia361_utt7.wav
+Ross|Susan Sarandon.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia361_utt8.wav
+Chandler|Eh, y'know what, she¬ís to political, she probably wouldn¬ít let you do it, unless you donated four cans of food first.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia361_utt9.wav
+Ross|And!! Isabella Rosselini.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia361_utt10.wav
+Chandler|Ooh-hoo. Very hot, very sexy. But ah, y'know she¬ís too international, y'know she¬ís never gonna be around.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia361_utt11.wav
+Rachel|So?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia361_utt12.wav
+Chandler|So, you gotta play the odds, pick somebody who¬ís gonna be in the country like all the time.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia361_utt13.wav
+Rachel|Yeah, ¬ëcause that¬ís why you won¬ít get Isabella Rosselini, geography.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia361_utt14.wav

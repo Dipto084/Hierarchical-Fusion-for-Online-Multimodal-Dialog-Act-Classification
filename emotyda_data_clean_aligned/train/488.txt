@@ -1,0 +1,6 @@
+Chandler|I know, it's beautiful. Amazing.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia488_utt0.wav
+Chandler|I had to kiss Phoebe and Rachel every time I left a room, I mean it's too bad they didn't see us having sex.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia488_utt1.wav
+Monica|Do you know anything about women?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia488_utt2.wav
+Chandler|No.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia488_utt3.wav
+Monica|That's all right.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia488_utt4.wav
+Chandler|Okay.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia488_utt5.wav

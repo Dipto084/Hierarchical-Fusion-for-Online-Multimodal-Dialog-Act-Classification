@@ -1,0 +1,19 @@
+Ross|Hey! How long until Pete¬ís fight?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia477_utt0.wav
+Monica|Oh, about five minutes. Right now they¬íre interviewing his opponent. Apparently he trains by going to Iran and pulling the arms off thieves.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia477_utt1.wav
+Ross|Hot dog?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia477_utt2.wav
+Monica|Four, please. I¬ím really nervous. Thank you.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia477_utt3.wav
+Phoebe|So Ross, how umm, how did it go with Bonnie?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia477_utt4.wav
+Ross|I gotta tell you, I-I wasn¬ít expecting to like her at all, I mean I actually wasn¬ít expecting to like anyone right now, but she¬ís really terrific.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia477_utt5.wav
+Phoebe|Ohh, that¬ís too bad!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia477_utt6.wav
+Ross|No, I-I¬ím saying I liked her.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia477_utt7.wav
+Phoebe|Yeah, y'know what, there are other fish in the sea.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia477_utt8.wav
+Ross|Pheebs, I think she¬ís great. Okay? We¬íre going out again.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia477_utt9.wav
+Phoebe|Okay, I hear you! Are you capable of talking about any thing else?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia477_utt10.wav
+Chandler|Hey! Which one¬ís my turkey burger?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia477_utt11.wav
+Ross|Ahh, the one next to my foot. Sorry.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia477_utt12.wav
+Joey|Hey, the fight¬ís starting!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia477_utt13.wav
+Ross|Okay, we¬íll be right in. So ah, did your boss try to slap you again today?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia477_utt14.wav
+Chandler|Nine times!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia477_utt15.wav
+Chandler|Okay, I had to put on lotion!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia477_utt16.wav
+Chandler|But, it¬ís gonna be okay, because as of tomorrow I¬ím conducting an experiment, and if all goes as planned, my butt will be smack free.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia477_utt17.wav
+Joey|Fight¬ís over!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia477_utt18.wav

@@ -1,0 +1,19 @@
+Phoebe|Relax every muscle in your body.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia973_utt0.wav
+Phoebe|Listen to the plinky-plunky music.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia973_utt1.wav
+Phoebe|Okay, now close you eyes, and think of a happy place.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia973_utt2.wav
+Phoebe|Okay, tell me your happy place.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia973_utt3.wav
+Monica|Richard's living room, drinking wine.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia973_utt4.wav
+Phoebe|All right. No, no, no, not a Richard thing, just put down the glass. And get out!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia973_utt5.wav
+Monica|I'm sorry, but that's my happy place.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia973_utt6.wav
+Phoebe|Well, okay, fine, use my happy place.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia973_utt7.wav
+Phoebe|Okay, I'm just gonna, I have to ask that you don't move anything.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia973_utt8.wav
+Monica|All right, I'll try not to.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia973_utt9.wav
+Phoebe|Okay, all right, so, your in a meadow, millions of stars in the sky....|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia973_utt10.wav
+Monica|Do you think breaking up with him was a huge mistake?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia973_utt11.wav
+Phoebe|All right, there are no questions in the happy place. Okay, just, the warm breeze, and the moonlight flowing through the trees....|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia973_utt12.wav
+Monica|I'll bet he's totally over me, I'll bet he's fine.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia973_utt13.wav
+Phoebe|All right, betting and wagering of any kind, are, I'm sure, not permitted in the happy place.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia973_utt14.wav
+Phoebe|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia973_utt15.wav
+Phoebe|Just-just, you know, the-the lovely waterfalls, and the, the trickling fountains.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia973_utt16.wav
+Phoebe|And the-the calming sounds of the babbling brook....|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia973_utt17.wav
+Monica|Okay, this isn't working. I'm still awake and now I have to pee.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia973_utt18.wav

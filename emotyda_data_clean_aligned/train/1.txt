@@ -1,0 +1,7 @@
+Joey|But then who? The waitress I went out with last month?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1_utt0.wav
+Rachel|You know? Forget it!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1_utt1.wav
+Joey|No-no-no-no, no! Who, who were you talking about?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1_utt2.wav
+Rachel|No, I-I-I-I don't, I actually don't know|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1_utt3.wav
+Joey|Ok!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1_utt4.wav
+Joey|All right, well...|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1_utt5.wav
+Rachel|Yeah, sure!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1_utt8.wav

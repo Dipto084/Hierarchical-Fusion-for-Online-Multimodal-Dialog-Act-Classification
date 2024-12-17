@@ -1,0 +1,6 @@
+Chandler|So, what do you think?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1002_utt0.wav
+Ross|I think It's the most beautiful table I've ever seen.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1002_utt1.wav
+Chandler|I know!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1002_utt2.wav
+Monica|So how does this work, you going to balance the plates on these little guys' heads?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1002_utt3.wav
+Joey|Who cares, we'll eat at the sink! Come on, let's play!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1002_utt4.wav
+Monica|Heads up Ross! Score! You suck!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1002_utt5.wav

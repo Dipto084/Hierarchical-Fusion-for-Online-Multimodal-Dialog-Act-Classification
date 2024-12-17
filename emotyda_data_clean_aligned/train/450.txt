@@ -1,0 +1,24 @@
+Phoebe|I¬ím telling you, if you want to take care of that thing, you should go to my herbal guy.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia450_utt0.wav
+Ross|Thank you, but I want to remove it Pheebs. I don¬ít want to make it savory.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia450_utt1.wav
+Monica|Y'know when girls sleep with guys with weird things on their body, they tell their friends about it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia450_utt2.wav
+Ross|Gimme this.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia450_utt3.wav
+Rachel|Hi! Okay, don¬ít be mad at me, but I couldn¬ít resist.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia450_utt4.wav
+Monica|Brides magazines?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia450_utt5.wav
+Rachel|Yes, and I know that you¬íd say no if he asked you, but I¬ím sorry; how great would you look walking down the aisle in this Donna Carin.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia450_utt6.wav
+Phoebe|Oh, you so would! Oh, you should get that anyway. Like for clubbing.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia450_utt7.wav
+Monica|It is so weird, I know what I said, but uh, this morning, I was lying in bed I was, I was imagining what it would be like to say yes.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia450_utt8.wav
+Monica|I know it¬ís a little sudden, and it¬ís a little rushed, and it¬ís totally not like me to do something like this, but that doesn¬ít mean I can¬ít.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia450_utt9.wav
+Monica|Right?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia450_utt10.wav
+Monica|I mean I¬ím-I¬ím crazy about Pete, and I know that we want the same things, and when I thought about saying yes, it made me really happy.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia450_utt11.wav
+Rachel|Oh my God.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia450_utt12.wav
+Monica|I know. I need more pie.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia450_utt13.wav
+Phoebe|Hey Mon umm, if you do get married, can I bring two guests?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia450_utt14.wav
+Rachel|You didn¬ít break up with that fireman?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia450_utt15.wav
+Phoebe|No, that was my way of telling you.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia450_utt16.wav
+Phoebe|Well, it turns out he¬ís incredibly sensitive, he keeps a journal and he paints.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia450_utt17.wav
+Phoebe|He even showed me charcoal drawings that he drew of me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia450_utt18.wav
+Rachel|Wow!|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia450_utt19.wav
+Phoebe|Yeah, well he¬íd prefer water colors, but y'know, he has easy access to a lot of charcoal.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia450_utt20.wav
+Monica|So then, are you going to dump Jason?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia450_utt21.wav
+Phoebe|Well, yeah, because I have to break up with someone, and¬Ö Okay so Jason is sensitive, but now so¬ís Vince Plus, Vince has the body y'know?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia450_utt22.wav
+Phoebe|So¬Ö It¬ís really just about the math.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia450_utt23.wav

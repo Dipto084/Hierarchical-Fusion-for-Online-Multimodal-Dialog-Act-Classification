@@ -1,0 +1,15 @@
+Monica|Hi.. how was the game?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia910_utt0.wav
+Ross|Well..|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia910_utt1.wav
+All|WE WON!! Thank you! Yes!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia910_utt2.wav
+Monica|Fantastic! I have one question: How is that possible?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia910_utt3.wav
+Joey|Alan.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia910_utt4.wav
+Ross|He was unbelievable.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia910_utt5.wav
+Ross|He was like that-that-that Bugs Bunny cartoon where Bugs is playing all the positions, right, but instead of Bugs it was first base-Alan, second base-Alan, third base-...|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia910_utt6.wav
+Rachel|I mean, it-it was like, it was like he made us into a team.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia910_utt7.wav
+Chandler|Yep, we sure showed those Hassidic jewellers a thing or two about softball..|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia910_utt8.wav
+Monica|Can I ask you guys a question? D'you ever think that Alan is maybe.. sometimes..|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia910_utt9.wav
+Ross|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia910_utt10.wav
+Monica|..I dunno, a little too Alan?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia910_utt11.wav
+Rachel|Well, no. That's impossible. You can never be too Alan.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia910_utt12.wav
+Ross|Yeah, it's his, uh, innate Alan-ness that-that-that we adore.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia910_utt13.wav
+Chandler|I personally could have a gallon of Alan.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia910_utt14.wav

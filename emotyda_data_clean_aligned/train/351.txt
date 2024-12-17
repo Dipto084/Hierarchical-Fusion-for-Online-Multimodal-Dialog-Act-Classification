@@ -1,0 +1,16 @@
+Dr. Green|So? Come on! Explain yourself Geller! First you get my Rachel pregnant!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia351_utt0.wav
+Mona|You got Rachel pregnant?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia351_utt1.wav
+Ross|Who did?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia351_utt2.wav
+Dr. Green|You did!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia351_utt3.wav
+Ross|Yes. Yes, yes I did. But-but it was, it was just a one night thing. It meant nothing.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia351_utt4.wav
+Dr. Green|Oh? Really? That¬ís what my daughter means to you? Nothing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia351_utt5.wav
+Ross|No! No sir umm, she means a lot to me. I mean, I care¬óI-I love Rachel.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia351_utt6.wav
+Mona|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia351_utt7.wav
+Ross|Oh but not that way. I mean¬ÖI mean I¬ím not in love with her. I love her like a, like a friend.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia351_utt8.wav
+Dr. Green|Oh really? That¬ís how treat a friend? You get her in trouble and then refuse to marry her?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia351_utt9.wav
+Ross|Hey! I offered to marry her!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia351_utt10.wav
+Mona|Wh|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia351_utt11.wav
+Ross|But I didn¬ít want to.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia351_utt12.wav
+Dr. Green|Well why not? So you can spend your time with this tramp?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia351_utt13.wav
+Mona|Tramp?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia351_utt14.wav
+Ross|I¬ím sorry. Dr. Green, Mona. Mona, Dr. Green.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia351_utt15.wav

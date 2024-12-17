@@ -1,0 +1,4 @@
+Monica|You wanna go right now? 'Cause I'll take you right now, buddy! You wanna go?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia570_utt0.wav
+Ross|Oh fine.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia570_utt1.wav
+Monica|Ready? Wrestle!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia570_utt2.wav
+Rachel|Okay, y'know what uh, actually, that's great. That helps a lot. Thanks.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia570_utt3.wav

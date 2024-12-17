@@ -1,0 +1,4 @@
+Phoebe|Cassie, are you finding everything okay in there?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia534_utt0.wav
+Cassie|Yeah! Thank you so much for letting me stay here.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia534_utt1.wav
+Phoebe|Oh! No problem! I|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia534_utt2.wav
+Cassie|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia534_utt3.wav

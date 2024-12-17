@@ -1,0 +1,13 @@
+Phoebe|Hey Rach, wanna hear the new song I'm thinkin' of singing this afternoon? I wrote it this morning in the shower.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia976_utt0.wav
+Rachel|Ok.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia976_utt1.wav
+Terry|Uh, Rachel, sweetheart, could I see ya for a minute?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia976_utt2.wav
+Rachel|What's up?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia976_utt3.wav
+Terry|F.Y.I..|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia976_utt4.wav
+Terry|I've decided to pay a professional musician to play in here on Sunday afternoons.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia976_utt5.wav
+Terry|Her name is Stephanie... something.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia976_utt6.wav
+Terry|She's supposed to be very good.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia976_utt7.wav
+Rachel|But what about Phoebe?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia976_utt8.wav
+Terry|Rachel, it's not that your friend is bad, it's that she's so bad, she makes me want to put my finger through my eye into my brain and swirl it around.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia976_utt9.wav
+Rachel|Ok, ok, so you're not a fan, but I mean, come on, you cannot do this to her.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia976_utt10.wav
+Terry|Uh...|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia976_utt11.wav
+Rachel|Oh, no no no no. Oh no no no no. I have to do this to her?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia976_utt12.wav

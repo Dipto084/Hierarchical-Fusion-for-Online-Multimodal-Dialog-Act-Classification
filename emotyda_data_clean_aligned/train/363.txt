@@ -1,0 +1,2 @@
+Carol|Are they here yet?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia363_utt0.wav
+Rachel|No, honey, they're not, but don't worry, because we are going to find them, and until we do, we are all here for you, ok?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia363_utt1.wav

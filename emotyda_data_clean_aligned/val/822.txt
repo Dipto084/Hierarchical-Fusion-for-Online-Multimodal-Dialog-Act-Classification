@@ -1,0 +1,9 @@
+Phoebe|Okay, so we got some more good rejections, lots of stuff to work on.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia822_utt0.wav
+Joey|Okay, shoot.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia822_utt1.wav
+Phoebe|Okay, um, oh, the zoo commercial.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia822_utt2.wav
+Joey|I didn't get it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia822_utt3.wav
+Phoebe|No. They said you 'Weren't believable as a human being.' So, you can work on that.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia822_utt4.wav
+Joey|Okay, what else?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia822_utt5.wav
+Phoebe|Um, the off-Broadway play people said 'You were pretty but dumb.'|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia822_utt6.wav
+Joey|Oh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia822_utt7.wav
+Phoebe|Oh no wait, I'm sorry, that's 'pretty dumb.'|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia822_utt8.wav

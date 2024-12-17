@@ -1,0 +1,5 @@
+Policeman|Your license please.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1014_utt0.wav
+Ross|You don¬ít-you don¬ít want to hear about my dream Officer¬ÖPretty?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1014_utt1.wav
+Policeman|It¬ís Petty. I¬íll be right back with your ticket.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1014_utt2.wav
+Rachel|You have a son!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1014_utt3.wav
+Ross|I know. I know.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1014_utt4.wav

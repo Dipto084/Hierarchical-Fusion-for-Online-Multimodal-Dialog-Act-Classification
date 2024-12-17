@@ -1,0 +1,7 @@
+Joey|There will come a time in each of your careers when you¬íll have a chance to screw over another soap opera actor.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia521_utt0.wav
+Joey|I had such an opportunity in the recent, present.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia521_utt1.wav
+Joey|And I¬ím ashamed to say that I took it, I advised a fellow actor to play a role, homosexually.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia521_utt2.wav
+Joey|Yeah, we both auditioned for the part, and uh, as it turned out, they ah, they liked the stupid gay thing and cast him.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia521_utt3.wav
+Joey|And now, he¬ís got a two year contract opposite Susan Luchhi, the first lady of daytime television, and me, me I¬ím stuck here teaching a bunch of people, most of whom are too ugly to even be on TV.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia521_utt4.wav
+Joey|I¬ím sorry, I¬ím sorry, I¬ím sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia521_utt5.wav
+Joey|Thank you.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia521_utt6.wav

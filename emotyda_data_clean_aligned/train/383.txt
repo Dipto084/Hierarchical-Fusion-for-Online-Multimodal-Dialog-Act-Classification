@@ -1,0 +1,12 @@
+Chandler|And here we go|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia383_utt0.wav
+Joey|I saw this movie once where there was a door and no one knew what was behind it, and when they finally got it open millions and millions and millions of bugs came pouring out and they feasted on human flesh.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia383_utt1.wav
+Joey|Y¬íknow it wouldn¬ít kill ya to respect your wife¬ís privacy!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia383_utt2.wav
+Joey|Stupid closet full of bugs!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia383_utt3.wav
+Rachel|Joey. Joey, something feels weird and not good weird. I don¬ít¬óWhoa!!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia383_utt4.wav
+Joey|When my sisters were pregnant they got every weird feeling in the book, it was always nothing.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia383_utt5.wav
+Rachel|Really?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia383_utt6.wav
+Joey|Absolutely.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia383_utt7.wav
+Joey|Okay Rach-Rach-Rach look at me, look at me, everything¬ís gonna be fine, trust me.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia383_utt8.wav
+Joey|Take my hand.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia383_utt9.wav
+Joey|Here we go.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia383_utt10.wav
+Joey|Oww crushing bones!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia383_utt11.wav

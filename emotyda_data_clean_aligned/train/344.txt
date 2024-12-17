@@ -1,0 +1,15 @@
+Joey|Very funny Ross!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia344_utt0.wav
+Joey|Very life-like and funny.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia344_utt1.wav
+Joey|Okay.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia344_utt2.wav
+Joey|Oh no-no-no, I wasn't waving at you lady.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia344_utt3.wav
+Joey|Whoa, maybe I was!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia344_utt4.wav
+Monica|Get in there man! Flirt back, mix it up!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia344_utt6.wav
+Joey|Yeah, I-I-I'm down with that.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia344_utt7.wav
+Joey|Okay, here goes.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia344_utt8.wav
+Joey|How you a-doin'?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia344_utt9.wav
+Joey|It worked!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia344_utt10.wav
+Joey|She's waving me over.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia344_utt11.wav
+Joey|Okay, I-I-I'll be right over.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia344_utt12.wav
+Joey|Let's see, she's on the third floor|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia344_utt13.wav
+Monica|Wow! She is pretty, huh?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia344_utt14.wav
+Joey|Tell me about it, huh? Oh no-no-no, I'm not with her, she's just Monica! Ewwuck!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia344_utt15.wav

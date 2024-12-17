@@ -1,0 +1,4 @@
+Phoebe|Um, Chandler, Ross, this is Robert.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia461_utt0.wav
+Chandler|Oh, hey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia461_utt1.wav
+Robert|Hi.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia461_utt2.wav
+Phoebe|You¬íve have lipstick right here . That¬ís okay, it¬ís mine, we just kissed.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia461_utt3.wav

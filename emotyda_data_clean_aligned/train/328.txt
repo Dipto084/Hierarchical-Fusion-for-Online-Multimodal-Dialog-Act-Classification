@@ -1,0 +1,9 @@
+Jill|All right, I¬ím leaving!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia328_utt0.wav
+Jill|Because I¬ím not going to spend one more day with someone whose out to sabotage my every move.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia328_utt1.wav
+Jill|That¬ís you Rachel!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia328_utt2.wav
+Rachel|Yeah, I got that.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia328_utt3.wav
+Jill|And you! I throw myself at you and you say no, how gay are you?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia328_utt4.wav
+Ross|You take care Jill.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia328_utt5.wav
+Jill|Okay, see ya!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia328_utt6.wav
+Joey|Bye-bye|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia328_utt7.wav
+Chandler|I-I can¬ít believe Jill¬ís gone. I can¬ít help it, I opened a gate.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia328_utt8.wav

@@ -1,0 +1,5 @@
+Monica|I mean, I realize that his feelings may never completely go away, but|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia816_utt0.wav
+Janice|Oh?my Gawd, I-I understand.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia816_utt1.wav
+Janice|I-I am so sorry, I¬íll go.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia816_utt2.wav
+Janice|Good-bye Monica , I wish you a lifetime of happiness with him.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia816_utt3.wav
+Janice|Chandler, you call me when this goes in the pooper.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia816_utt4.wav

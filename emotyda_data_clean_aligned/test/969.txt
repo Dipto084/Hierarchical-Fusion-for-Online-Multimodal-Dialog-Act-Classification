@@ -1,0 +1,7 @@
+Ross|Yeah!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia969_utt0.wav
+Ross|Anyway, I-I still think we should try to patch things up, y¬íknow?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia969_utt1.wav
+Ross|Like uh, maybe we could get him to get tickets to another Knicks game and invite him.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia969_utt2.wav
+Joey|Oh wow that¬ís a great idea! And|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia969_utt3.wav
+Gunther|Here you go.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia969_utt4.wav
+Joey|Hey-hey-hey-ho-ho, I got this one.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia969_utt5.wav
+Joey|Here you go.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia969_utt6.wav

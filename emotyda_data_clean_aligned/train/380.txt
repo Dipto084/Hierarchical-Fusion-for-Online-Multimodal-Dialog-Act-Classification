@@ -1,0 +1,5 @@
+Mark|No-no, I say-I say, I say we get back at him right on this couch.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia380_utt0.wav
+Mark|Right here!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia380_utt1.wav
+Rachel|Oh God. I¬ím sorry about this.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia380_utt2.wav
+Mark|That¬ís okay.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia380_utt3.wav
+Rachel|You sure?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia380_utt4.wav

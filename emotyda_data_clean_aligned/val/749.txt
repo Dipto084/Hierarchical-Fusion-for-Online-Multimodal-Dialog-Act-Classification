@@ -1,0 +1,8 @@
+Monica|A new pair of shoes for the Chan-Chan man! Yes!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia749_utt0.wav
+Chandler|Yes! I've-I've never seen a roll like this in my life!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia749_utt1.wav
+Monica|That's right baby! Okay, what do I want now?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia749_utt2.wav
+Chandler|Okay, ah umm, ah, a 8. Ah, a 6?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia749_utt3.wav
+Monica|Pick a number! That is your|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia749_utt4.wav
+Chandler|8. 8!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia749_utt5.wav
+Monica|Thank you!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia749_utt6.wav
+Chandler|If you get this one, we buy everybody here a steak dinner!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia749_utt7.wav

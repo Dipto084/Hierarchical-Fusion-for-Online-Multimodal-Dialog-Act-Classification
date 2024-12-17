@@ -1,0 +1,4 @@
+Phoebe|Ursula! Wait! Err-err, it¬ís me! Phoebe!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia859_utt0.wav
+Ursula|Oh, I thought there was a mirror there. Okay, bye-bye.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia859_utt1.wav
+Phoebe|Wait a second! So, what¬ís new with you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia859_utt2.wav
+Ursula|Umm, nothing. I mean, I¬ím getting married next week.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia859_utt3.wav

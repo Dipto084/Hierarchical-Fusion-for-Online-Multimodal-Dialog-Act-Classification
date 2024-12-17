@@ -1,0 +1,3 @@
+Chandler|Are you seeing anybody right now?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia57_utt1.wav
+Chandler|Og-ee-op, I¬ím not asking for me, I¬ím¬Ö I mean¬Ö No, I¬ím-I¬ím not gay, I¬ím not asking you out.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia57_utt2.wav
+Chandler|I¬ím not-I¬ím not-I¬ím not gay!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia57_utt3.wav

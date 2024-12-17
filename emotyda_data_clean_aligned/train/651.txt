@@ -1,0 +1,13 @@
+Ross|Well, not playing raquetball!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia651_utt0.wav
+Joey|He forgot to leave his grip size!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia651_utt1.wav
+Ross|He didn't get the goggles!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia651_utt2.wav
+Rachel|Well,sounds like you two have issues.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia651_utt3.wav
+Rachel|Goodbye, baby.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia651_utt4.wav
+Paolo|Ciao, bela.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia651_utt5.wav
+Ross|Do they wait for me to do this?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia651_utt6.wav
+Joey|So are you gonna tell him?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia651_utt7.wav
+Ross|Why would I tell him?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia651_utt8.wav
+Joey|How about 'cause if you don't, his mother might.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia651_utt9.wav
+Monica|What are you guys doing here?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia651_utt10.wav
+Joey|Uhhhh.... he's not even wearing a jockstrap!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia651_utt11.wav
+Monica|...What did I ask?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia651_utt12.wav

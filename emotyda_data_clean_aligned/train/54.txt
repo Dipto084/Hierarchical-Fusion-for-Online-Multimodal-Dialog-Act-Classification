@@ -1,0 +1,24 @@
+Joey|One pregnant woman at a time, please! I just want you to be okay.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia54_utt0.wav
+Rachel|So forcing her to marry Bobby is gonna make that happen?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia54_utt1.wav
+Joey|Maybe! Well! Well¬Öso-so uh, what kind of music does Numb Nuts¬óOh forget it! I can¬ít!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia54_utt2.wav
+Dina|Joey, I am scared to death about this.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia54_utt3.wav
+Dina|But I really think I can do it, I¬ím just gonna need some help.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia54_utt4.wav
+Dina|And Bobby¬ís gonna be here the whole time.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia54_utt5.wav
+Bobby|You bet I am! And to answer your earlier question, we¬íre straight-up gangster rap.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia54_utt6.wav
+Dina|Look, Rachel¬ís told me how much easier you¬íve made all this on her. Why can¬ít you do that for me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia54_utt7.wav
+Joey|Because! ¬ëCause¬Ö ¬ëCause you¬íre my baby sister!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia54_utt8.wav
+Dina|And you¬íre my big brother!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia54_utt9.wav
+Dina|I mean, you¬íre my favorite guy in the whole world.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia54_utt10.wav
+Dina|I¬ím not even scared to tell mom and dad.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia54_utt11.wav
+Dina|I was scared of telling you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia54_utt12.wav
+Joey|Well I¬íd be scared of them, but all right.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia54_utt13.wav
+Dina|Joey, I can¬ít stand the thought of having this baby with you mad at me.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia54_utt14.wav
+Dina|I want him to have his uncle.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia54_utt15.wav
+Dina|Is my baby gonna have his Uncle Joey?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia54_utt16.wav
+Joey|Of course he¬ís gonna have his Uncle Joey!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia54_utt17.wav
+Dina|We¬íre gonna be all right. I mean, even if we¬íre not married this baby is gonna be so loved. Not just by us.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia54_utt18.wav
+Joey|That¬ís right! By his uncle too!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia54_utt19.wav
+Bobby|And by you.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia54_utt20.wav
+Rachel|Okay Bobby, why don¬ít we just come over here and let them have a little moment.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia54_utt21.wav
+Joey|Come here!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia54_utt22.wav
+Rachel|No! Seriously! What¬ís wrong with you?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia54_utt23.wav

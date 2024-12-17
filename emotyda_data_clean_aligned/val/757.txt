@@ -1,0 +1,11 @@
+Chandler|So, are you really gonna go out with that nurse man?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia757_utt0.wav
+Monica|Well uh, you and I are just goofing around, I thought, why not goof around with him.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia757_utt1.wav
+Chandler|Y'know, I don't know if you've ever looked up the term goofing around in the dictionary¬Ö Well, I have, and the technical definition is, two friends who care a lot about each other and have amazing sex and just wanna spend more time together.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia757_utt2.wav
+Chandler|But if you have this new fangled dictionary that gets you made at me, then we have to, y'know, get you my original dictionary.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia757_utt3.wav
+Chandler|I am|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia757_utt4.wav
+Monica|I think you're better than you think you are.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia757_utt5.wav
+Chandler|Really? Okay, so|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia757_utt6.wav
+Monica|Know when to stop.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia757_utt7.wav
+Chandler|Y'know, I sensed that I should stop. So we're okay?|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia757_utt8.wav
+Monica|Yeah. All right, I'm gonna go tell Dan that it's not gonna happen. Don't do the dance.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia757_utt9.wav
+Chandler|Right!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia757_utt10.wav

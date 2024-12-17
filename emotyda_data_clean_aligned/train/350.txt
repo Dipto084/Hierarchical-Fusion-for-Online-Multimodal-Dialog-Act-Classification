@@ -1,0 +1,8 @@
+Chandler|Umm, this is nice.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia350_utt0.wav
+Monica|I know, it is isn¬ít it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia350_utt1.wav
+Chandler|No, I mean it, this feels really good. Is it a hundred percent cotton?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia350_utt2.wav
+Monica|Yeah! And I got it on sale, too.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia350_utt3.wav
+Chandler|Anyway, I should go, one of the lifeguards was just about to dismantle a nuclear device.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia350_utt4.wav
+Monica|Well, if you wanna get a drink later we can.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia350_utt5.wav
+Chandler|Oh yeah, that sounds great. Oh, and listen, it¬ís, it¬ís gonna be....|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia350_utt6.wav
+Monica|I know. Thanks.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia350_utt7.wav

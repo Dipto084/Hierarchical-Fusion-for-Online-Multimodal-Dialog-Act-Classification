@@ -1,0 +1,8 @@
+Monica|Honey! Dinner¬ís ready!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia560_utt0.wav
+Joey|What¬ís my little chef got for me tonight?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia560_utt1.wav
+Monica|Your favorite!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia560_utt2.wav
+Joey|Ho-ho-ho, fried stuff with cheese!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia560_utt3.wav
+Monica|Yep! And lot¬ís of it!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia560_utt4.wav
+Joey|Thanks sweetheart. Give me a little sugar here. Okay.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia560_utt5.wav
+Monica|Okay, in we go.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia560_utt6.wav
+Joey|Here we go! Here we go! Here we go! How you doin¬í?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia560_utt7.wav

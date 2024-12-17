@@ -1,0 +1,22 @@
+Larry|Hey, ready for dinner?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1005_utt0.wav
+Phoebe|Ooh, absolutely!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1005_utt1.wav
+Larry|Great! How about you wanted to go the Italian place down on Bleaker Street right?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1005_utt2.wav
+Phoebe|Ooh, I love that place! So, no.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1005_utt3.wav
+Larry|How about Mama Lisettie's?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1005_utt4.wav
+Phoebe|Enh. Sure!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1005_utt5.wav
+Larry|I wonder how long that milk has been setting out.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1005_utt6.wav
+Phoebe|Oh, no-no, this place is totally healthy!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1005_utt7.wav
+Phoebe|That¬óthis milk is mine.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1005_utt8.wav
+Phoebe|I bought this today, 'cause I was thirsty for milk, y'know.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1005_utt9.wav
+Phoebe|Okay, let's go!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1005_utt10.wav
+Larry|Hey, buddy! Are you familiar with Section 11-B of the Health Code that requires all refuse material out the|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1005_utt11.wav
+Gunther|But then I'd have to go all the way around the dry cleaner place.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1005_utt12.wav
+Larry|Oh, so you're saying you'd choose convenience over health?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1005_utt13.wav
+Phoebe|Okay, stop!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1005_utt14.wav
+Phoebe|Larry, okay, can't you just be Larry and not Larry the health inspector guy?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1005_utt15.wav
+Phoebe|Y'know I mean it was really exciting at first but now it's like, okay, so where are we gonna eat ever?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1005_utt16.wav
+Larry|Well, I suppose I could give him a warning.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1005_utt17.wav
+Phoebe|Thank you.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1005_utt18.wav
+Phoebe|Go!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1005_utt19.wav
+Phoebe|Go!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1005_utt20.wav
+Phoebe|Now, if after dinner you still really need to bust someone, I know a hot dog vendor who picks his nose.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1005_utt21.wav

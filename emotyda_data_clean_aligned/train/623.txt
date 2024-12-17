@@ -1,0 +1,19 @@
+Joey|Ugh!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia623_utt0.wav
+Joey|I don¬ít know what I¬ím going to do!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia623_utt1.wav
+Joey|I called the company that sent and th-they don¬ít care!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia623_utt2.wav
+Joey|Then I called 9-1-1 and they laughed at me, if this isn¬ít an emergency, then what is?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia623_utt3.wav
+Ross|Hey guys!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia623_utt4.wav
+Chandler|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia623_utt5.wav
+Joey|Hey|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia623_utt6.wav
+Ross|I just wanted to thank you again for last night, what a great party!|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia623_utt7.wav
+Ross|And the guys from work had a blast.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia623_utt8.wav
+Ross|Y¬íknow, one of them had never been to a bachelor party before.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia623_utt9.wav
+Ross|Yeah!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia623_utt10.wav
+Ross|And-and another one had never been to a party before, so|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia623_utt11.wav
+Joey|So uh, hey, that uh, that wedding ring, huh? Man, that¬ís nice!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia623_utt12.wav
+Ross|Yeah, right!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia623_utt13.wav
+Joey|I was uh, I was thinking I might want to pick one of those babies up for myself, I might want to get one of those|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia623_utt14.wav
+Ross|That ring? When my grandmother first came to this country, that ring and the clothes on her back were all she had with her.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia623_utt15.wav
+Chandler|So you might say, the ring is irreplaceable?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia623_utt16.wav
+Ross|Oh absolutely! It has been in my family for generations, and every bride who has worn it has had a long and happy life.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia623_utt17.wav
+Chandler|So you might say, it¬ís a magic ring.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia623_utt18.wav

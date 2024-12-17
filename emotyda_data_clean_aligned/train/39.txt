@@ -1,0 +1,19 @@
+Kate|Happy?! Is that what I¬ím supposed to be Vic? Happy?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia39_utt0.wav
+Joey|Well, why don¬ít you tell me what you¬íre supposed to be!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia39_utt1.wav
+Joey|Huh?|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia39_utt2.wav
+Joey|Because I sure as hell can¬ít figure it out!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia39_utt3.wav
+Joey|I talk to you and nothin¬í.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia39_utt4.wav
+Joey|You look at me, and it¬ís nothin¬í.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia39_utt5.wav
+Joey|Nothing.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia39_utt6.wav
+The Director|Tasty! I¬ím really starting to feel like you guys have a history, it¬ís-it¬ís nice.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia39_utt7.wav
+Kate|I have a question about this scene.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia39_utt8.wav
+The Director|Yes?|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia39_utt9.wav
+Kate|Well, I don¬ít understand why Adrienne¬ís attracted to Victor.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia39_utt10.wav
+The Director|Peel the onion. First of all, he¬ís good looking.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia39_utt11.wav
+Joey|Yeah.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia39_utt12.wav
+Kate|I think my character¬ís gonna need a little bit more of reason than that.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia39_utt13.wav
+Joey|Oh, hey, how about this one.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia39_utt14.wav
+Joey|Ah, it¬ís says so in the script!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia39_utt15.wav
+Joey|Y'know ah, I-I don¬ít know why my character likes you either, I mean it says in the script here that you¬íre a bitch.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia39_utt16.wav
+Kate|It doesn¬ít say that in the script.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia39_utt17.wav
+Joey|It does in mine!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia39_utt18.wav

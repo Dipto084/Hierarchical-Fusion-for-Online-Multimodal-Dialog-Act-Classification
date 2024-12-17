@@ -1,0 +1,18 @@
+Chandler|Okay to come in?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia320_utt0.wav
+Monica|Yeah, come on, eat, whatever you want. Dr. Roger got beeped again.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia320_utt1.wav
+Chandler|Yeah I know, guess who beeped him?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia320_utt2.wav
+Monica|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia320_utt3.wav
+Chandler|I¬ím the ruptured spleen.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia320_utt4.wav
+Monica|Why would you do that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia320_utt5.wav
+Chandler|Because you shouldn¬ít be with him. You should be with me.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia320_utt6.wav
+Monica|Really?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia320_utt7.wav
+Chandler|When you were talking about Roger, that was killing me!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia320_utt8.wav
+Chandler|Look, things like last night they don¬ít just happen.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia320_utt9.wav
+Chandler|Or at least not to me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia320_utt10.wav
+Chandler|Or with the other two women, in the morning y¬íknow I was just lying there and I couldn¬ít wait to just go hang out with my friends, but with you I always y¬íknow with a friend.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia320_utt11.wav
+Monica|Chandler!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia320_utt12.wav
+Chandler|I know you probably don¬ít want to go out with me, y¬íknow because I make too many jokes and I¬íve never been in a serious relationship and I guess I¬ím not technically a "doctor¬Ö"|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia320_utt13.wav
+Monica|There was just one woman, wasn¬ít there?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia320_utt14.wav
+Chandler|No, there were two.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia320_utt15.wav
+Monica|Including me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia320_utt16.wav
+Chandler|Oh yeah.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia320_utt17.wav

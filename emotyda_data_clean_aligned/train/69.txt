@@ -1,0 +1,7 @@
+Chandler|That's great.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia69_utt0.wav
+Chandler|Well, I'm gonna get another espresso. Can I get you another latte?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia69_utt1.wav
+Janice|No, no, I'm still working on mine.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia69_utt2.wav
+Chandler|That's it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia69_utt3.wav
+Phoebe|Yeah, it was really hard.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia69_utt4.wav
+Chandler|Oh, yeah, that hug looked pretty brutal.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia69_utt5.wav
+Phoebe|Ok, you weren't there.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia69_utt6.wav

@@ -1,0 +1,20 @@
+Monica|Hey, Rach, can I borrow your eyelash curler, I think I lost mine.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia574_utt0.wav
+Rachel|Yeah, it's in there.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia574_utt1.wav
+Joey|Oh! Ohh! Oh!!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia574_utt2.wav
+Chandler|Joey, can I talk to you for a second?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia574_utt3.wav
+Joey|Oohh!! Ohh! Oh-oh-oh! Oh-oh!!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia574_utt4.wav
+Joey|oooooooooooooohhhhhhhhhhh|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia574_utt5.wav
+Chandler|Yes. Yes.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia574_utt6.wav
+Joey|You?! And-and you?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia574_utt7.wav
+Monica|Yes, but you cannot tell anyone! No one knows!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia574_utt8.wav
+Joey|How?! When?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia574_utt9.wav
+Chandler|It happened in London.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia574_utt10.wav
+Joey|IN LONDON!!!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia574_utt11.wav
+Chandler|The reason we didn't tell anyone was because we didn't want to make a big deal out of it.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia574_utt12.wav
+Joey|But it is a big deal!! I have to tell someone!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia574_utt13.wav
+Chandler|No-no-no-no-no! You can't!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia574_utt14.wav
+Monica|Please? Please?! We just don't want to deal with telling everyone, okay? Just promise you won't tell.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia574_utt15.wav
+Joey|All right! Man, this is unbelievable! I mean, it's|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia574_utt16.wav
+Monica|I know, it's great!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia574_utt17.wav
+Joey|Aww, I don't want to see that!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia574_utt18.wav
+Phoebe|We're so stupid! Do you know what's going on in there? They're trying to take Joey!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia574_utt19.wav

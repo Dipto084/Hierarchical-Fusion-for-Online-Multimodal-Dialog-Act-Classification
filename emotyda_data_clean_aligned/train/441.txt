@@ -1,0 +1,10 @@
+Ross|Mona? Okay, if I were a salmon shirt, where would I be?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia441_utt0.wav
+Mona|I am so sorry I spilled wine all over your shirt.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia441_utt1.wav
+Mona's Date|Oh, it¬ís okay.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia441_utt2.wav
+Mona|No, it¬ís still wet.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia441_utt3.wav
+Mona|Let me get it out before it sets.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia441_utt4.wav
+Mona|Ooh, I have something you can wear.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia441_utt5.wav
+Mona|Here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia441_utt6.wav
+Mona's Date|Oh umm, I-I don¬ít know if I want to wear a woman¬ís shirt.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia441_utt7.wav
+Mona|No-no that¬ís a man¬ís shirt.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia441_utt8.wav
+Mona's Date|It¬ís awfully pink.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia441_utt9.wav

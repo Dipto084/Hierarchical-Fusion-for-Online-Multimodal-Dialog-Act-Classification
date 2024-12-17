@@ -1,0 +1,1 @@
+Rachel|Oh, Joey! Sorry!|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia790_utt0.wav

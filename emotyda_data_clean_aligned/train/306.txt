@@ -1,0 +1,8 @@
+Ross|Umm, candles, champagne, yeah anniversaries are great.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia306_utt0.wav
+Ross|¬ëCause you know love lasts forever, y'know.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia306_utt1.wav
+Ross|Nothing like it in this lifetime, money in the bank, so Rachel and I broke up.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia306_utt2.wav
+Carol|Oh God, Ross I am so sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia306_utt3.wav
+Carol|Y'know what, I want to talk to you about this so much, but we should probably do it when we could really get into it, are you free for dinner tomorrow night?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia306_utt4.wav
+Ross|Oh yeah, I¬íd love that.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia306_utt5.wav
+Carol|Oh, great! Me too.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia306_utt6.wav
+Ross|I guess it all started when Rachel got this new job.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia306_utt7.wav

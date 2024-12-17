@@ -1,0 +1,11 @@
+Chandler|Will you marry me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia33_utt0.wav
+Joey|It¬ís the big night! We wanted to wish you good luck!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia33_utt1.wav
+Ross|Yeah, yeah you have the ring?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia33_utt2.wav
+Chandler|Yeah, right here in my pocket. Pheebs?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia33_utt3.wav
+Phoebe|Oh! Oop!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia33_utt4.wav
+Chandler|Okay, now will you guys get out of here? I want this is to be a surprise and she¬ís gonna know.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia33_utt5.wav
+Ross|Yeah-yeah you guys. Get out of here!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia33_utt6.wav
+Monica|Hi guys.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia33_utt7.wav
+Chandler|You are beautiful.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia33_utt8.wav
+Monica|Oh, thank you! What¬ís going on?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia33_utt9.wav
+Rachel|We¬íre just really¬Övery excited about this charity event that we have to go to.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia33_utt10.wav

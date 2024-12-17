@@ -1,0 +1,6 @@
+Rachel|Hey Joey, is this the bed where Olivia lost her virginity?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia80_utt0.wav
+Joey|I don't know, but one of the extras sure did! Hey, listen Rach. Thanks again for coming down to watch my scenes!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia80_utt1.wav
+Rachel|Oh, please!Honey, just the fact that you want me here to support you, I'm...OH MY GOD!Is that Christian Sanders?He's so|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia80_utt2.wav
+Joey|Also so|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia80_utt3.wav
+Rachel|Oh, in my head he's done some pretty "not-gay-stuff"!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia80_utt4.wav
+Joey|Well, at the Christmas party him and Santa did some definitely gay stuff!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia80_utt5.wav

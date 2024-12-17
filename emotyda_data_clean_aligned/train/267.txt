@@ -1,0 +1,1 @@
+Chandler|Um, it¬ís going to be a small ceremony.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia267_utt0.wav

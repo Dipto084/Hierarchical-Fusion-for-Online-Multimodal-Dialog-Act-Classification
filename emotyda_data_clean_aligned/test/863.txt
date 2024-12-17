@@ -1,0 +1,8 @@
+Ronni|Now, y'see, most people, when their pets pass on, they want 'em sorta laid out like they're sleeping.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia863_utt0.wav
+Ronni|But occasionally you get your person who wants them in a pose.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia863_utt1.wav
+Ronni|Like, chasing their tail, or, uh, jumping to catch a frisbee.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia863_utt2.wav
+Chandler|Joey, if I go first, I wanna be looking for my keys.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia863_utt3.wav
+Ronni|That's a good one!|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia863_utt4.wav
+Mr. Tribbiani|Hey, Joe.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia863_utt5.wav
+Joey|Dad, Ronni's here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia863_utt6.wav
+Mr. Tribbiani|Huh?|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia863_utt7.wav

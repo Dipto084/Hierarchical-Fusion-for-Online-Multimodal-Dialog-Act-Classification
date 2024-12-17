@@ -1,0 +1,5 @@
+Ross|You¬íre gonna love me so much. I got Sting tickets!!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia802_utt0.wav
+Phoebe|Oh my God! I do love you! How did you do it?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia802_utt1.wav
+Ross|Well¬Ölet¬ís just say|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia802_utt2.wav
+Phoebe|Oo, where are the seats?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia802_utt3.wav
+Ross|Uh, middle balcony.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia802_utt4.wav

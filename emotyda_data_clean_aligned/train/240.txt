@@ -1,0 +1,7 @@
+Monica|David, can you help me?! I'm trying to explain to Chandler how a plane stays in the air.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia240_utt0.wav
+David|Oh, certainly. That's a combination of Bernoulli's principle and Newton's third law of motion.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia240_utt1.wav
+Monica|See?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia240_utt2.wav
+Chandler|Yeah, that's the same as "it has something to do with wind".|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia240_utt3.wav
+Monica|Alright, I'm gonna go pick up a few things for the trip.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia240_utt4.wav
+Phoebe|Oh, I should go, too.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia240_utt5.wav
+Phoebe|Oh, now... tomorrow do you guys wanna share a cab to the airport or should Mike and I just meet you there.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia240_utt6.wav

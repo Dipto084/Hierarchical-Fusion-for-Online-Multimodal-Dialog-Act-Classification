@@ -1,0 +1,22 @@
+Joey|Whoa-whoa, what is it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia295_utt0.wav
+Phoebe|Well¬Ö It¬ís a date.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia295_utt1.wav
+Joey|A date?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia295_utt2.wav
+Joey|No, no Pheebs you-you must be mistaken, because I know you wouldn¬ít schedule a date on the same night you have plans with a friend!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia295_utt3.wav
+Phoebe|Come on Joey, don¬ít make me feel badly about this.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia295_utt4.wav
+Joey|No, I¬ím gonna!!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia295_utt5.wav
+Joey|That¬ís right!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia295_utt6.wav
+Joey|Yeah, you made me feel really guilty about goin¬í out with that girl!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia295_utt7.wav
+Joey|Like-like-like I did something terrible to you!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia295_utt8.wav
+Joey|And now Pheebs, you¬íre doing the same thing!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia295_utt9.wav
+Phoebe|That¬óIt¬ís not the same thing! This is|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia295_utt10.wav
+Joey|Okay, well my girl from the other night was special. She was a scientist too!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia295_utt11.wav
+Phoebe|She was?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia295_utt12.wav
+Joey|Well, she graduated from high school!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia295_utt13.wav
+Phoebe|Okay, whatever.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia295_utt14.wav
+Phoebe|Y¬íknow what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia295_utt15.wav
+Phoebe|I don¬ít have time to convince you because he¬ís only here for four hours, and I¬ím gonna go see him!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia295_utt16.wav
+Joey|Fine!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia295_utt17.wav
+Phoebe|Yeah!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia295_utt18.wav
+Joey|Fine!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia295_utt19.wav
+Phoebe|Yeah!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia295_utt20.wav
+Joey|What are you still doin¬í here?! I told you, lobster ravioli!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia295_utt21.wav

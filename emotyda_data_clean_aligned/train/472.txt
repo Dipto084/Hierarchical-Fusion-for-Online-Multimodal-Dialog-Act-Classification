@@ -1,0 +1,2 @@
+Ross|Oh uh, I¬ím sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia472_utt1.wav
+Rachel|No Ross! Ross! Ross! My child has no father!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia472_utt2.wav

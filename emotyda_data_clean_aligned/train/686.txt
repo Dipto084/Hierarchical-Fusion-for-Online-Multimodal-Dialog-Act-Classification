@@ -1,0 +1,12 @@
+Monica|All right, I¬ím gonna go steam my wedding dress okay? Who wants the responsibility of making sure nothing happens to it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia686_utt0.wav
+Rachel|I¬íll do it.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia686_utt1.wav
+Monica|Who wants it? Anybody?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia686_utt2.wav
+Rachel|I said I¬íll do it!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia686_utt3.wav
+Monica|Nobody wants to do it? All right, I¬íll do it myself.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia686_utt4.wav
+Rachel|Monica! I¬ím not gonna screw it up!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia686_utt5.wav
+Monica|You¬íre right, I¬ím sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia686_utt6.wav
+Monica|Actually you were a big help tonight.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia686_utt7.wav
+Monica|Yeah, and thanks for putting my grandmother in the cab and making sure she got to the hotel safely.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia686_utt8.wav
+Rachel|Well of course that is what I¬ím here for!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia686_utt9.wav
+Monica|Okay. Sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia686_utt10.wav
+Rachel|Ugh! What grandmother?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia686_utt11.wav

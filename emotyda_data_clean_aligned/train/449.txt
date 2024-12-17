@@ -1,0 +1,14 @@
+Ross|Item J437-A, color: winterberry.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia449_utt0.wav
+Ross|Hi umm, listen come here, come in.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia449_utt1.wav
+Ross|I¬ím so-so sorry about yesterday.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia449_utt2.wav
+Ross|I-I¬ím really sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia449_utt3.wav
+Ross|It¬ís just that I|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia449_utt4.wav
+Mona|Listen Ross, you don¬ít have to apologize. I understand why you were there.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia449_utt5.wav
+Ross|You do?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia449_utt6.wav
+Mona|Yeah, you still have feelings for me.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia449_utt7.wav
+Mona|And-and to be honest, I-I still have feelings for you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia449_utt8.wav
+Mona|And I wish that we can work it out Ross, but we can¬ít.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia449_utt9.wav
+Mona|It¬ís too complicated with you and Rachel and the baby, I-I just¬Ö It just wasn¬ít meant to be.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia449_utt10.wav
+Ross|Oh God you¬íre right.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia449_utt11.wav
+Mona|Ross, we¬Öwe have to be strong. Okay, I-I¬ím gonna go. Can I? To remember you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia449_utt12.wav
+Ross|No.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia449_utt13.wav

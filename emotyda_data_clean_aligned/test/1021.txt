@@ -1,0 +1,7 @@
+Chandler|I can blow dry it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1021_utt0.wav
+Chandler|I can put gel on it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1021_utt1.wav
+Chandler|It doesn¬ít matter, I still wind up with this little cowlicky thing on the middle part of my head.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1021_utt2.wav
+Chandler|It¬ís so annoying.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1021_utt3.wav
+Chandler|Does it bug you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1021_utt4.wav
+Ross|You bug me.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1021_utt5.wav
+Chandler|Is there any chance you didn¬ít see that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1021_utt6.wav

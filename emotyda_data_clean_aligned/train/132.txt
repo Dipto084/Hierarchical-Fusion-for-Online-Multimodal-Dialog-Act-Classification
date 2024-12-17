@@ -1,0 +1,11 @@
+Rachel|No! Sorry, I just thought you were somebody else. Hi!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia132_utt0.wav
+Mark|Hi. Well, look, I was just gonna leave a message, isn¬ít tonight your, your big anniversary dinner?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia132_utt1.wav
+Rachel|Yeah. Well, umm.....|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia132_utt2.wav
+Mark|Rach, are you okay?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia132_utt3.wav
+Rachel|Yeah, I¬ím fine.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia132_utt4.wav
+Mark|You wanna talk, I mean I can come over?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia132_utt5.wav
+Rachel|No! Really, no, please, please, that¬ís, that¬ís okay.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia132_utt6.wav
+Mark|All right, all right, I¬ím coming over, and I¬ím bringing Chinese food.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia132_utt7.wav
+Rachel|Oh, yeah, I¬ím not, I¬ím not hungry.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia132_utt8.wav
+Mark|It¬ís for me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia132_utt9.wav
+Rachel|Oh. Okay, bye.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia132_utt10.wav

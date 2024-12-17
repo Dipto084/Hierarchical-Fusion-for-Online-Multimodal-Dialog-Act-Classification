@@ -1,0 +1,5 @@
+Monica|It took me 28 years to find one man that I wanna spend my life with, if I have to wait another 28 years then, I'll be 56 before I can have a baby, and that's just stupid.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia754_utt0.wav
+Chandler|That, that's what's stupid.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia754_utt1.wav
+Monica|I don't need an actual man, just a couple of his best swimmers.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia754_utt2.wav
+Monica|And there, there are places you can go to get that stuff.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia754_utt3.wav
+Rachel|Down at the docks again?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia754_utt4.wav

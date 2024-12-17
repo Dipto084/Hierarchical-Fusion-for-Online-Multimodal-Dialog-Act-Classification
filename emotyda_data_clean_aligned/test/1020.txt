@@ -1,0 +1,7 @@
+Tag|I¬íd better get back to my desk.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1020_utt0.wav
+Rachel|Okay, you hard worker! I¬íll remember to put that in your evaluation.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1020_utt1.wav
+Tag|My what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1020_utt2.wav
+Rachel|Well, you¬íve been here for two months now and your boss is required to hand in a performance evaluation.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1020_utt3.wav
+Rachel|But y¬íknow, there is one thing that I have yet to evaluate.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1020_utt4.wav
+Tag|Are you serious?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1020_utt5.wav
+Rachel|No, I¬íve just always wanted to do that. Can you help me clean this up?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1020_utt6.wav

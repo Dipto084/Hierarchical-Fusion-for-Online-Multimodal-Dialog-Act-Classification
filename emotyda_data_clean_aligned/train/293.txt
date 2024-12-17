@@ -1,0 +1,13 @@
+Joey|Apparently, there¬ís like a million guys out there that can play Mac, and there¬ís only this one robot and this one guy who controls it!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia293_utt0.wav
+Joey|I didn¬ít know he could get me fired!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia293_utt1.wav
+Joey|What am I going to do?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia293_utt2.wav
+Monica|Well y¬íknow Joey, you¬íre a pretty charming guy.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia293_utt3.wav
+Joey|Thanks, but I kinda have a problem to deal with here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia293_utt4.wav
+Monica|No sweetie, you¬íve got to win over the guy that controls C.H.E.E.S.E.! You¬íve got to kiss some serious robot ass!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia293_utt5.wav
+Joey|That¬ís not a bad idea.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia293_utt6.wav
+Joey|Okay, but if I got to turn on the charm tomorrow I¬ím not wasting anymore of it over here with you guys.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia293_utt7.wav
+Joey|Well, actually I got a little bit saved for you Pheebs.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia293_utt8.wav
+Chandler|So do you think uh, Joey¬ís more charming than me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia293_utt9.wav
+Monica|Yeah! That¬ís why I¬ím sleeping with him on the side.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia293_utt10.wav
+Chandler|Yeah, you wish.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia293_utt11.wav
+Phoebe|"You wish."|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia293_utt12.wav

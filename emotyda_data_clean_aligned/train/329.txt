@@ -1,0 +1,11 @@
+Monica|How about, you¬íre moving!!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia329_utt0.wav
+Rachel|Look! This is ridiculous. We should be packing you!!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia329_utt1.wav
+Phoebe|Hey, how are you guys doing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia329_utt2.wav
+Rachel|Great! Monica¬ís moving!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia329_utt3.wav
+Monica|I am not!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia329_utt4.wav
+Rachel|Oh really?! Then how come all your stuff is in this box?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia329_utt5.wav
+Phoebe|Okay, you guys. You guys I think I know what¬ís going on here. Okay, you guys|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia329_utt6.wav
+Monica|No Phoebe I am mad!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia329_utt7.wav
+Phoebe|Well, deep-deep-deep down!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia329_utt8.wav
+Rachel|Yeah, I¬ím just mad!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia329_utt9.wav
+Phoebe|Then keep running.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia329_utt10.wav

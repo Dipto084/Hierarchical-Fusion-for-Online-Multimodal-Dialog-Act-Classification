@@ -1,0 +1,7 @@
+Joey|Don't worry, Chandler, it's not a globe of the United States.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia520_utt0.wav
+Phoebe|Hey you guys I'm gonna go out and take a walk.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia520_utt1.wav
+Ross|Phoebe, why is your bag moving?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia520_utt2.wav
+Phoebe|Oh, it's not!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia520_utt3.wav
+Rachel|Seriously, it's moving!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia520_utt4.wav
+Joey|What the hell is in there?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia520_utt5.wav
+Phoebe|It's just my knitting that's all! Yes! I knit this. I'm very good.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia520_utt6.wav

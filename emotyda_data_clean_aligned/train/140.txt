@@ -1,0 +1,3 @@
+Phoebe|Okay I¬íve got one for you, if you had too which one would you rather eat, a seeing eye dog or a talking gorilla?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia140_utt0.wav
+Cliff|I¬íd have to say¬Öthe talking gorilla, because at least I can explain to him that you¬íre making me eat him.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia140_utt1.wav
+Phoebe|Somebody went to college. Wow. What is it? I¬ím sorry.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia140_utt2.wav

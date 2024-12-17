@@ -1,0 +1,7 @@
+Phoebe|It's Phoebe.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1027_utt0.wav
+Phoebe|Umm, well I sorta have some bad news, can I come in?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1027_utt1.wav
+Phoebe|Umm, well, umm Grandma died.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1027_utt2.wav
+Phoebe|No, she just died today! Okay, umm, we're having a memorial service tomorrow.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1027_utt3.wav
+Phoebe|No you didn't!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1027_utt4.wav
+Phoebe|Well, lots of people! Look, are you coming to memorial service or not?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1027_utt5.wav
+Phoebe|Fine. Okay, enjoy your concert.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1027_utt6.wav

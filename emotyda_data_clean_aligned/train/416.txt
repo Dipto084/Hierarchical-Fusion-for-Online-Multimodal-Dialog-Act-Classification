@@ -1,0 +1,4 @@
+Rachel|I mean, this is unbelievable.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia416_utt0.wav
+Phoebe|I know. This is really, really huge.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia416_utt1.wav
+Chandler|No it's not. It's small. It's tiny. It's petite. It's wee.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia416_utt2.wav
+Chandler|OK, is there a mute button on this woman?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia416_utt4.wav

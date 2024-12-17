@@ -1,0 +1,7 @@
+Ross|Thank you so much for coming back over.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia246_utt0.wav
+Mona|Oh good, you¬íre here. Yeah, and I was worried that it was going to be uncomfortable.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia246_utt1.wav
+Rachel|I know Mona, just hear me out.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia246_utt2.wav
+Rachel|First of all, I¬ím so sorry about my father yelling at you, but I heard you totally held your own.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia246_utt3.wav
+Rachel|You¬íre gonna have to tell me how you did that.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia246_utt4.wav
+Ross|Focus.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia246_utt5.wav
+Rachel|Okay. Um¬ÖBut¬óOkay, yes Ross and I used to date. And yes we are gonna have a baby. But we are|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia246_utt6.wav

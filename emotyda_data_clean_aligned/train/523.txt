@@ -1,0 +1,24 @@
+Rachel|I can't believe you don't want to know.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia523_utt0.wav
+Rachel|I mean, I couldn't not know, I mean, if, if the doctor knows, and Carol knows, and Susan knows....|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia523_utt1.wav
+Monica|And Monica knows...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia523_utt2.wav
+Ross|Wha, heh, how could you know, I don't even know!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia523_utt3.wav
+Monica|Carol called me to thank me for the lasagna, I asked, she told me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia523_utt4.wav
+Joey|So what's it gonna be?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia523_utt5.wav
+Ross|Wait¬óoh¬óhey¬óhuh, oh great now he knows, and I don't know!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia523_utt6.wav
+Monica|I'm sorry, I'm just excited about being an aunt!|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia523_utt7.wav
+Joey|Or an uncle...|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia523_utt8.wav
+Chandler|Hey Phoebe!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia523_utt9.wav
+Ross|Hi Pheebs!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia523_utt10.wav
+Rachel|Pheebs!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia523_utt11.wav
+Phoebe|Fine!|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia523_utt12.wav
+Monica|Phoebe, what's the matter?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia523_utt13.wav
+Phoebe|Nothing, I'm sorry, I'm just, I'm out of sorts.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia523_utt14.wav
+Rachel|Oh, right, that's me!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia523_utt15.wav
+Joey|Hey, Chandler, that table place closes at 7, come on.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia523_utt16.wav
+Chandler|Fine.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia523_utt17.wav
+Monica|Phoebe, what is it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia523_utt18.wav
+Phoebe|All right, you know Paolo?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia523_utt19.wav
+Ross|I'm familiar with his work, yes...|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia523_utt20.wav
+Phoebe|Well, he made a move on me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia523_utt21.wav
+Joey|Whoa, store will be open tomorrow!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia523_utt22.wav
+Chandler|More coffee over here, please!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia523_utt23.wav

@@ -1,0 +1,10 @@
+Mrs. Geller|Hi|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia435_utt0.wav
+Ross|Hi! Hey mom.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia435_utt1.wav
+Rachel|This is such a great party! 35 years. Very impressive, do you guys have any pearls of wisdom?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia435_utt2.wav
+Mrs. Geller|Jack?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia435_utt3.wav
+Mr. Geller|Why would you serve food on such a sharp stick?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia435_utt4.wav
+Ross|That¬ís a good question, dad. That¬ís a good question|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia435_utt5.wav
+an|Congratulations you two!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia435_utt6.wav
+Rachel|Thank you¬Öwe¬íre so excited|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia435_utt7.wav
+an|And also, congratulations on your wedding.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia435_utt8.wav
+Ross|Wha¬óWhat?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia435_utt9.wav

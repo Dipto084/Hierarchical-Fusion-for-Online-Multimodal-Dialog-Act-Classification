@@ -1,0 +1,8 @@
+Emily|I left a bra drying on the shower rod, you don¬ít think your son will think it¬ís yours and be horribly traumatised?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia125_utt0.wav
+Ross|Hey, if mommy can have a wife, daddy can have a bra.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia125_utt1.wav
+Emily|Ohh, it¬ís time to go.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia125_utt2.wav
+Ross|Huh, what can we do in 17 minutes?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia125_utt4.wav
+Ross|Twice?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia125_utt5.wav
+Emily|Well that¬ís ambitious.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia125_utt6.wav
+Ross|Hey, uh, you can ignore that.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia125_utt7.wav
+Emily|That¬ís Carol with your son!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia125_utt8.wav

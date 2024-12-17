@@ -1,0 +1,13 @@
+Monica|Wow! That Mike thing was interesting! I don't know what's gonna happen with Phoebe and David.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia29_utt0.wav
+Chandler|I do! Want a hint? huh? "I do" "I do".|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia29_utt1.wav
+Monica|Ok, I'm sensing that this is some kind of word play, because you are pink with barely controlled glee.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia29_utt2.wav
+Chandler|David is going to propose to Phoebe.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia29_utt3.wav
+Monica|What? Why?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia29_utt4.wav
+Monica|Chandler, we have talked about this.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia29_utt6.wav
+Monica|You are not supposed to give people advice!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia29_utt7.wav
+Monica|Now couldn't you just have made some sort of inappropriate joke?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia29_utt8.wav
+Chandler|I|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia29_utt9.wav
+Monica|They've only been going out for a few weeks and Phoebe is completely hung up on Mike!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia29_utt10.wav
+Monica|She'll say "No", David's heart will be broken, it will be too hard for them to recover from and then Phoebe will end up alone|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia29_utt11.wav
+Chandler|Man, that's some|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia29_utt12.wav
+Ross|Oh, that's not what you want...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia29_utt13.wav

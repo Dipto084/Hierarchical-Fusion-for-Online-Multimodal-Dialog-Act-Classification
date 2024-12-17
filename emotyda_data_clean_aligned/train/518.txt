@@ -1,0 +1,9 @@
+Kate|Happy?! Is that what I¬ím supposed to be Vic? Happy?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia518_utt0.wav
+Joey|Well, why don¬ít you tell me what you¬íre supposed to be!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia518_utt1.wav
+Joey|Huh?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia518_utt2.wav
+Joey|Because I sure as hell can¬ít figure it out!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia518_utt3.wav
+Joey|I talk to you and it¬ís nothin¬í.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia518_utt4.wav
+Joey|You look at me, and nothin¬í.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia518_utt5.wav
+Joey|Nothing.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia518_utt6.wav
+The Director|You guys make me fly! High! Okay, we¬íre gonna pick it up here, tomorrow.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia518_utt7.wav
+Kate|Well, that was ah...|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia518_utt8.wav

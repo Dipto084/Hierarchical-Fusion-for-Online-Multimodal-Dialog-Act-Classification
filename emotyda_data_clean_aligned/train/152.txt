@@ -1,0 +1,10 @@
+Monica|Oh my God!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia152_utt0.wav
+Paul|I know, I know, I'm such an idiot.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia152_utt1.wav
+Monica|My brother's going through that right now, he's such a mess. How did you get through it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia152_utt4.wav
+Paul|Well, you might try accidentally breaking something valuable of hers, say her-|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia152_utt5.wav
+Monica|#NAME?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia152_utt6.wav
+Paul|That's one way! Me, I- I went for the watch.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia152_utt7.wav
+Monica|You actually broke her watch?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia152_utt8.wav
+Rachel|Barry, I'm sorry...|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia152_utt9.wav
+Rachel|I am so sorry...|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia152_utt10.wav
+Rachel|I know you probably think that this is all about what I said the other day about you making love with your socks on, but it isn't... it isn't, it's about me, and I ju- Hi, machine cut me off again... anyway...|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia152_utt11.wav

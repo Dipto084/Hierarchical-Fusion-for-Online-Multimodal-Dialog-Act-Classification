@@ -1,0 +1,17 @@
+Joey|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia666_utt0.wav
+Monica|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia666_utt1.wav
+Joey|You guys got anything to eat? I just went down to Johnos for some chicken and it was closed!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia666_utt2.wav
+Phoebe|Oh, I took Larry there to eat but it was all violated. So we shut it down!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia666_utt3.wav
+Joey|Pheebs, if this guy keeps closing down all of our favorite places, where are we gonna eat?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia666_utt4.wav
+Monica|I don't know, clean places?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia666_utt5.wav
+Joey|Mm, yum!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia666_utt6.wav
+Monica|It's Danny.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia666_utt7.wav
+Rachel|Don't let him in! I'm supposed to be at a regatta gala.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia666_utt8.wav
+Monica|We'll be right there! Can't you just say it starts later?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia666_utt9.wav
+Rachel|What? What kind of a regatta gala starts at night?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia666_utt10.wav
+Monica|The fake kind!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia666_utt11.wav
+Danny|Hey, hi, I need a ladle. You got a ladle?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia666_utt12.wav
+Monica|We have a ladle.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia666_utt13.wav
+Danny|Thanks, see you at the party.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia666_utt14.wav
+Monica|Okay, great!|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia666_utt15.wav
+Phoebe|Hey, guys, you know what Larry would say? He would say, "See you ladle."|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia666_utt16.wav

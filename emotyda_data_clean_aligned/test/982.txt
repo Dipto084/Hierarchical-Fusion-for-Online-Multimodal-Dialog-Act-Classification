@@ -1,0 +1,11 @@
+Joey|All right.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia982_utt0.wav
+Chandler|Okay, here you go. I have two queens, what do you have?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia982_utt1.wav
+Joey|A two and a five.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia982_utt2.wav
+Chandler|Ho-ho, you win! 50 dollars!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia982_utt3.wav
+Joey|Really?!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia982_utt4.wav
+Chandler|Oh yeah! Okay, let¬ís play again. What do you got?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia982_utt5.wav
+Joey|A four and a nine.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia982_utt6.wav
+Chandler|You¬íre kidding right?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia982_utt7.wav
+Joey|No. Why?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia982_utt8.wav
+Chandler|Well that¬ís a full cup!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia982_utt9.wav
+Joey|Damn! I am good at Cups!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia982_utt10.wav

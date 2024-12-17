@@ -1,0 +1,6 @@
+Phoebe|Nobody!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia10_utt0.wav
+Phoebe|Nobody respects the bucket!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia10_utt1.wav
+Phoebe|You wouldn't believe what people put in here!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia10_utt2.wav
+Phoebe|Look!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia10_utt3.wav
+Phoebe|Okay, does this look like a garbage can to you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia10_utt4.wav
+Monica|No.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia10_utt5.wav

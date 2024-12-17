@@ -1,0 +1,11 @@
+Monica|I can't|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia706_utt0.wav
+Chandler|Oh! Look at that, time's up! My turn!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia706_utt1.wav
+Monica|That was a half an hour?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia706_utt2.wav
+Chandler|It's your timer.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia706_utt3.wav
+Monica|Y'know, I don't like to brag about it, but I give the|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia706_utt4.wav
+Chandler|All right, then massage me up right nice!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia706_utt5.wav
+Chandler|Ah! Ahh!! Ahh!!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia706_utt6.wav
+Monica|It's so good, isn't it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia706_utt7.wav
+Chandler|It's so good I don't know what I've done to deserve it!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia706_utt8.wav
+Monica|Say good-bye to sore muscles!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia706_utt9.wav
+Chandler|Good-bye muscles!!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia706_utt10.wav

@@ -1,0 +1,5 @@
+Jill|Well, this has been fun.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia229_utt0.wav
+Chandler|Yes. Yes, thanks for letting me use your phone... and for saving my life.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia229_utt1.wav
+Jill|Well, goodbye Chandler. I had a great blackout. See ya.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia229_utt2.wav
+Chandler|Hi, um, I'm account number 7143457.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia229_utt3.wav
+Chandler|And, uh, I don't know if you got any of that, but I would really like a copy of the tape.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia229_utt4.wav

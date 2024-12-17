@@ -1,0 +1,15 @@
+Ross|Yes, hello.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia168_utt0.wav
+Ross|I have a question.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia168_utt1.wav
+Ross|Umm, I used your pen to draw on my friend's face.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia168_utt2.wav
+Ross|A beard and a moustache.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia168_utt3.wav
+Ross|Thank you.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia168_utt4.wav
+Ross|No,|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia168_utt5.wav
+Rachel|What?! What else did he say?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia168_utt6.wav
+Ross|Umm, he said he thought I was funny.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia168_utt7.wav
+Ross|So¬Ö Okay, look-look umm, let's just go downstairs, we'll have some fun, and you will forget all about it.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia168_utt8.wav
+Rachel|Ross, no! There is|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia168_utt9.wav
+Ross|Oh, come on! Rach, it's-it's not that bad.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia168_utt10.wav
+Rachel|Ross, I am a human doodle!!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia168_utt11.wav
+Ross|Look, just because some idiot drew on your face doesn't mean you shouldn't have any fun!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia168_utt12.wav
+Ross|And besides, hey-hey-hey no one is even gonna|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia168_utt13.wav
+Ross|Okay, there was|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia168_utt14.wav

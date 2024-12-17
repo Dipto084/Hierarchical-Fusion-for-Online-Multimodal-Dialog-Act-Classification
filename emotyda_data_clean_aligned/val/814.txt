@@ -1,0 +1,5 @@
+Ross|Okay, is everybody clear? We¬íre gonna pick it up¬Öand move it. Now all we need is teamwork, okay? We¬íre gonna|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia814_utt0.wav
+Rachel|Ross, I really don¬ít think|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia814_utt1.wav
+Ross|Lift!! And slide!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia814_utt2.wav
+Chandler|Okay, here we go.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia814_utt3.wav
+Ross|All right everyone, lift! And slide!!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia814_utt4.wav

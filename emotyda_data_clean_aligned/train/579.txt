@@ -1,0 +1,2 @@
+Phoebe|Hey! Look who I found!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia579_utt0.wav
+Chandler|Oh, hey guys!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia579_utt1.wav

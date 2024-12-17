@@ -1,0 +1,11 @@
+Phoebe|Listen, Robert¬ís gonna be here any second so, will one of you just tell him?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia302_utt0.wav
+Ross|Oh.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia302_utt1.wav
+Phoebe|Please, right now, no, every time I see him it¬ís like ¬ëIs it on the lose?¬í ¬ëIs it watching me?¬í|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia302_utt2.wav
+Chandler|We can¬ít tell him, you can¬ít go up to a guy you barely know and talk about his.... stuff.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia302_utt3.wav
+Ross|He¬ís right, even if it¬ís to say something complementary.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia302_utt4.wav
+Robert|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia302_utt5.wav
+Phoebe|Hey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia302_utt6.wav
+Robert|So are ready for the gym? They¬íve got this new rock climbing wall, we can spot each other.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia302_utt7.wav
+Phoebe|No, I can spot you from here.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia302_utt8.wav
+Robert|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia302_utt9.wav
+Phoebe|Okay, listen Robert...|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia302_utt10.wav

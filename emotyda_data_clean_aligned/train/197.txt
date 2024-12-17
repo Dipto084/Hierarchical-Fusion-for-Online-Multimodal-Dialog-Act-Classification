@@ -1,0 +1,8 @@
+Joey|Oh-oh-oh, yeah! That's right, you take good care of those babies!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia197_utt0.wav
+Joey's Hand Twin|Excuse me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia197_utt1.wav
+Joey|It's me, Joey!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia197_utt2.wav
+Joey's Hand Twin|Do I know you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia197_utt3.wav
+Joey|Joey!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia197_utt4.wav
+Joey's Hand Twin|Oh-ho, yeah. Yeah, the hand guy.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia197_utt5.wav
+Joey|Okay that¬ís fair.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia197_utt6.wav
+Ross|All right.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia197_utt7.wav

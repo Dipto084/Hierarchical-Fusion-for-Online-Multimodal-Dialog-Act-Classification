@@ -1,0 +1,20 @@
+Rachel|We¬íre gonna find love!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia499_utt0.wav
+Phoebe|Definitely!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia499_utt1.wav
+Rachel|Yeah, I¬ím pretty confident about that.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia499_utt2.wav
+Rachel|That¬ís what makes it so easy for me to be 80% happy for Monica and Chandler!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia499_utt3.wav
+Rachel|It would be nice to have a little guarantee though.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia499_utt4.wav
+Phoebe|What do you mean?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia499_utt5.wav
+Rachel|Well y¬íknow, some people make deals with a friend, like if neither of them are married by the time they¬íre 40, they marry each other.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia499_utt6.wav
+Phoebe|You mean a backup?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia499_utt7.wav
+Rachel|Exactly!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia499_utt8.wav
+Phoebe|Yeah, yeah I got that.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia499_utt9.wav
+Rachel|You do?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia499_utt10.wav
+Phoebe|Hm-mmm|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia499_utt11.wav
+Rachel|Who?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia499_utt12.wav
+Phoebe|Yeah!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia499_utt15.wav
+Rachel|Are you serious?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia499_utt16.wav
+Phoebe|Yeah, I locked him years ago!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia499_utt17.wav
+Rachel|Wh¬Ö So¬Ö If neither of you are married by the time you¬íre 40, you¬íre gonna marry Joey.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia499_utt18.wav
+Phoebe|Yep, we shook on it. Yeah but believe me that is not how he wanted to seal the deal.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia499_utt19.wav
+Rachel|Oh, seriously?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia499_utt20.wav
+Joey|Yeah uh, what am I gonna do?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia499_utt21.wav

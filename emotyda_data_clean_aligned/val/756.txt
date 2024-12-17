@@ -1,0 +1,10 @@
+Monica|So, how¬íd the lasagne go over?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia756_utt0.wav
+Monica|Really?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia756_utt1.wav
+Monica|Good.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia756_utt2.wav
+Monica|So you owe me three pretty things.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia756_utt3.wav
+Monica|Yeah, I¬íve been thinking a lot about you too.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia756_utt4.wav
+Monica|It¬ís hard this whole platonic thing.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia756_utt5.wav
+Monica|It¬ís a word!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia756_utt6.wav
+Monica|Yeah, I do think it¬ís better this way. Yeah, we¬íre being smart. Yes, I¬ím sure.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia756_utt7.wav
+Richard|You really sure?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia756_utt8.wav
+Monica|I¬íll call you back.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia756_utt9.wav

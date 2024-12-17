@@ -1,0 +1,10 @@
+Joey|Hi uh, I¬ím Joey Tribbiani and with all do respect I¬íd like to donate some fluids.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia549_utt0.wav
+Receptionist|We¬íre actually at the end of one of our research cycles, so we¬íre not looking for applicants right now.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia549_utt1.wav
+Joey|Oh that¬ís too bad. I¬íve kinda been saving up. Uh, are you sure there¬ís no studies I can participate in?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia549_utt2.wav
+Receptionist|Well, here¬ís a schedule of what¬ís coming up.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia549_utt3.wav
+Joey|Thanks. Well but this one starts now.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia549_utt4.wav
+Receptionist|Oh that one is available now, but only identical twins are eligible. It¬ís a twins study.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia549_utt5.wav
+Joey|But it¬ís $2,000.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia549_utt6.wav
+Receptionist|Sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia549_utt7.wav
+Joey|Well how about this one? Testing the effects of Joey Tribbiani on attractive nurse receptionists.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia549_utt8.wav
+Receptionist|We already got the results back on that on, and they¬íre not good.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia549_utt9.wav

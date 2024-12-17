@@ -1,0 +1,9 @@
+Rachel|So who¬ís idea was it to put everybody in the diner on skates?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia542_utt0.wav
+Monica|Oh, some idiot customer put a suggestion in the suggestion box.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia542_utt1.wav
+Phoebe|Oh my God, they took my idea!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia542_utt2.wav
+Monica|That was you?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia542_utt3.wav
+Phoebe|Yeah! Okay, here you go.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia542_utt4.wav
+Gunther|Rachel, I made you a cocoa.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia542_utt5.wav
+Phoebe|Oh my God, are you guys okay?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia542_utt6.wav
+Gunther|Are you all right?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia542_utt7.wav
+Joey|Oh my.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia542_utt8.wav

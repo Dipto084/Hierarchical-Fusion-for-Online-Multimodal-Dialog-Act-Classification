@@ -1,0 +1,10 @@
+Joey|Let it go, Ross.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia107_utt0.wav
+Ross|Yeah, well, you didn't know Chi Chi.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia107_utt1.wav
+Monica|Do you all promise?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia107_utt2.wav
+Monica|Chandler? Do you promise to be good?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia107_utt4.wav
+Joey|You can come in, but your filter-tipped little buddy has to stay outside!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia107_utt5.wav
+Ross|Hey, Pheebs.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia107_utt6.wav
+Phoebe|Dear Ms. Buffay.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia107_utt7.wav
+Phoebe|Thank you for calling attention to our error.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia107_utt8.wav
+Phoebe|We have credited your account with five hundred dollars.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia107_utt9.wav
+Phoebe|We're sorry for the inconvenience, and hope you'll accept this- -|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia107_utt10.wav

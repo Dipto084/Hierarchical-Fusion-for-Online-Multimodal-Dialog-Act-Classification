@@ -1,0 +1,5 @@
+Richard|Yeah, I understand.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia750_utt0.wav
+Richard|Take as much time as you want.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia750_utt1.wav
+Richard|Ten, even twenty minutes if you need it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia750_utt2.wav
+Richard|I¬íll be here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia750_utt3.wav
+Richard|Not smoking.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia750_utt4.wav

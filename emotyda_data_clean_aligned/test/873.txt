@@ -1,0 +1,6 @@
+Joey|PBS Telethon.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia873_utt0.wav
+Phoebe|Hi Joey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia873_utt1.wav
+Joey|Hey Pheebs!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia873_utt2.wav
+Phoebe|I|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia873_utt3.wav
+Joey|$200? Are you sure Pheebs? I mean, after what|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia873_utt4.wav
+Phoebe|Oh, I'm still mad at them but I also now that they bring happiness to lots of kids who's moms didn't kill themselves, so by supporting them, I'm doing a good thing, but I'm not|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia873_utt5.wav

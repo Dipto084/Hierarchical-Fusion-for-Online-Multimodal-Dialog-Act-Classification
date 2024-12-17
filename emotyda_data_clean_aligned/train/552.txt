@@ -1,0 +1,5 @@
+Monica|You know, it still smells like monkey in there.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia552_utt0.wav
+Julie|That saves us a conversation.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia552_utt1.wav
+Chandler|Well, listen, this has been great but I'm officially wiped.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia552_utt2.wav
+Joey|Me too, we should get goin'.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia552_utt3.wav
+Stephanie|No.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia552_utt4.wav

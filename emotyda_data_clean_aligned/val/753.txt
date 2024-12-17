@@ -1,0 +1,3 @@
+Ross|Guess who's here. It's the toughest guy in toy land, Ben. 'A real American hero. I'm|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia753_utt0.wav
+Rachel|G.I. Joe|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia753_utt1.wav
+Ross|Look Ben, it's a toy that protects U.S. oil interests overseas!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia753_utt2.wav

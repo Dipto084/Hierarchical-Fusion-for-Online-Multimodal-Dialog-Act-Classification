@@ -1,0 +1,3 @@
+Rachel|Oh, look, wish me luck!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia467_utt0.wav
+Monica|What for?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia467_utt1.wav
+Rachel|I'm gonna go get one of those job things.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia467_utt2.wav

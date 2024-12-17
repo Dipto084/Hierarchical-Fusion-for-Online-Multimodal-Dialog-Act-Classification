@@ -1,0 +1,16 @@
+Joey|All right now remember, something this big and long is going to be difficult to manuver, fortunately I have a lot of experience in that area.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia571_utt0.wav
+Ross|Can we please focus here, a naked man¬ís life hangs in the balance!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia571_utt1.wav
+Phoebe|I¬ím telling you he¬ís dead. What we are about to have here is a dead fat guy on a stick.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia571_utt2.wav
+Joey|All right, ladies and gentlemen, let¬ís poke.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia571_utt3.wav
+Joey|Steady.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia571_utt4.wav
+Joey|Steady.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia571_utt5.wav
+Joey|Okay, a little higher.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia571_utt6.wav
+Joey|Careful of the angle.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia571_utt7.wav
+Joey|Okay, okay, we¬íre approaching the window Thread the needle.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia571_utt8.wav
+Joey|Thread the needle.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia571_utt9.wav
+Phoebe|He¬ís alive! He¬ís a-live!!!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia571_utt10.wav
+Monica|And yet, we¬íre still poking him.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia571_utt11.wav
+Joey|Okay, retract the device, retract the device.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia571_utt12.wav
+Ross|He does not look happy.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia571_utt13.wav
+Rachel|Hey-hey, now he¬ís showing us his poking device.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia571_utt14.wav
+Joey|Hey, that¬ís never gonna make it all the way over here, buddy!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia571_utt15.wav

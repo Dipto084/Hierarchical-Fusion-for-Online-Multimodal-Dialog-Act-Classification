@@ -1,0 +1,1 @@
+Phoebe|What the hell is this?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia90_utt0.wav

@@ -1,0 +1,10 @@
+Joanna|Chandler is fantastic!!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia159_utt0.wav
+Rachel|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia159_utt1.wav
+Joanna|Y¬íknow how people just click?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia159_utt2.wav
+Joanna|Like he came by to pick me up, and I opened the door, and it was just like, click!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia159_utt3.wav
+Joanna|Did he tell you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia159_utt4.wav
+Joanna|Oh, and he¬ís got such a good heart! Doesn¬ít he have a good heart?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia159_utt5.wav
+Rachel|Oh, I know...|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia159_utt6.wav
+Joanna|Oh, I know and he¬ís soo sweet! Listen, he said he was going to call, so put him straight through.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia159_utt7.wav
+Sophie|Isn¬ít this great?!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia159_utt8.wav
+Joanna|Don¬ít spoil it.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia159_utt9.wav

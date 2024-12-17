@@ -1,0 +1,6 @@
+Monica|I've gotta tell you, Bob is terrific.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia602_utt0.wav
+Angela|Yeah, isn't he?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia602_utt1.wav
+Monica|It is so great to meet a guy who is smart and funny, and has an emotional age beyond, like eight.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia602_utt2.wav
+Angela|You know what else? He's unbelievable in bed.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia602_utt3.wav
+Monica|Wow. My brother never even told me when he lost his virginity.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia602_utt4.wav
+Angela|Huh. That's nice.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia602_utt5.wav

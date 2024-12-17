@@ -1,0 +1,7 @@
+Phoebe|Rach?|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia522_utt0.wav
+Rachel|I¬íll be out in a second.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia522_utt1.wav
+Phoebe|Oh. It¬ís just so unexpected! I¬ÖI uh¬ÖBoy I¬íll tell you it¬ís just such an honor to be nominated for a|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia522_utt2.wav
+Rachel|Honey, we have to go. Our reservations are at 8:00.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia522_utt3.wav
+Phoebe|in Reservations at 8:00 by Neil Simon. Thank-thank you Neil. Thank you for the words.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia522_utt4.wav
+Rachel|Okay honey, you can finish this later we¬íre gonna be late. We gotta go.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia522_utt5.wav
+Phoebe|Please, don¬ít play the music. Just uh one more.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia522_utt6.wav

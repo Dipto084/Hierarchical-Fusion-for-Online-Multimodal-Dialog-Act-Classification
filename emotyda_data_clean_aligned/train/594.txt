@@ -1,0 +1,11 @@
+Joey|Wait!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia594_utt0.wav
+Joey|Terry!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia594_utt1.wav
+Joey|Please!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia594_utt2.wav
+Joey|Look, I just lost my other job.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia594_utt3.wav
+Joey|Okay?|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia594_utt4.wav
+Joey|You have no idea how much I need this.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia594_utt5.wav
+Joey|Please, help me out, for old times sake.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia594_utt6.wav
+Nurse #1|This poor guy¬ís been in a coma for five years. It¬ís hopeless.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia594_utt7.wav
+Nurse #2|It¬ís not hopeless! Dr. Stryker Ramoray¬ís a miracle worker. Look, here he comes.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia594_utt8.wav
+Dr. Stryker Ramoray|Good morning. Drake, it¬ís your brother Stryker. Can you hear me?|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia594_utt9.wav
+Joey|I¬ím back baby! Ha-ha-ha!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia594_utt10.wav

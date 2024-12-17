@@ -1,0 +1,6 @@
+Gary|I really like waking up with you.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia186_utt0.wav
+Phoebe|I like waking up with you too. Oh! It's such a beautiful morning. Oh, I can stay here all day.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia186_utt1.wav
+Gary|That would be great!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia186_utt2.wav
+Phoebe|We could have breakfast in bed|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia186_utt3.wav
+Gary|Wait, just a second.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia186_utt4.wav
+Phoebe|Okay. Oh! Oh no.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia186_utt5.wav

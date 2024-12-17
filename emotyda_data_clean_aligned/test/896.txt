@@ -1,0 +1,6 @@
+Chandler|Luckily, the guy she settled for can¬ít hear what you¬íre talking about.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia896_utt0.wav
+Phoebe|Oh, I¬ím so sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia896_utt1.wav
+Phoebe|Um, and maybe I¬ím wrong!|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia896_utt2.wav
+Phoebe|I but¬óy¬íknow I¬ím gonna go out with him again, I¬íll find out more.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia896_utt3.wav
+Chandler|You believe that this guy is destined for someone else and you¬íre still gonna date him?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia896_utt4.wav
+Phoebe|Well, he may not be my soul mate, but a girl¬ís gotta eat.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia896_utt5.wav

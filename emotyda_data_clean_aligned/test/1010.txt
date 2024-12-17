@@ -1,0 +1,12 @@
+Joey|Hey, y'know what a really good rainy day game is?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1010_utt0.wav
+Monica|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1010_utt1.wav
+Joey|I mean naked game. Strip poker, we should totally play strip poker.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1010_utt2.wav
+All|No, no!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1010_utt3.wav
+Monica|What are you crazy?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1010_utt4.wav
+Joey|Come on! When you go away, you-you have to play, it¬ís like a law!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1010_utt5.wav
+Rachel|Allll done!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1010_utt6.wav
+Monica|Aww, thank you.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1010_utt7.wav
+Rachel|Okay, who¬ís next?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1010_utt8.wav
+Ross|No-o-o! No way!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1010_utt9.wav
+Rachel|Come on, please?! I¬ím boredddd! You let me do it once before.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1010_utt10.wav
+Ross|Yeah well, if ah, if that¬ís the rule this weekend... No!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1010_utt11.wav

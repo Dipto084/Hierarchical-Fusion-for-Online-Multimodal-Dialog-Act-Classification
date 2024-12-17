@@ -1,0 +1,7 @@
+Joey|Great nap.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia952_utt0.wav
+Ross|It really was.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia952_utt1.wav
+Joey|Uh me? Gay? No! No. No, but I have a number of close friends who are.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia952_utt2.wav
+The Interviewer|So, let¬ís talk about women. I¬ím sure our female readers will be interested to know about your romantic life.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia952_utt3.wav
+Joey|Oh-oh-oh-oh, how I do it is, I look a woman up and down and say, "Hey, how you doin¬í?"|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia952_utt4.wav
+Phoebe|Oh, please!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia952_utt5.wav
+Joey|Hey, how you doin¬í?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia952_utt6.wav

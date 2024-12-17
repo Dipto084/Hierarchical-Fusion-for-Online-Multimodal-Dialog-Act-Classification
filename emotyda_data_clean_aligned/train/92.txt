@@ -1,0 +1,2 @@
+Phoebe|This sucks!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia92_utt0.wav
+Phoebe|All right, what¬ís my next present?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia92_utt1.wav

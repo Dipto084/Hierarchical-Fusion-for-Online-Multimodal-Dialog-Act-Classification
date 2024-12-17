@@ -1,0 +1,16 @@
+Joey|Man. Can you believe he's only had sex with one woman?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia466_utt0.wav
+Chandler|I think it's great. Y'know, it's sweet, it's romantic...|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia466_utt1.wav
+Joey|Really?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia466_utt2.wav
+Chandler|No, you kidding? The guy's a freak..|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia466_utt3.wav
+Both|Hey, buddy.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia466_utt4.wav
+Receptionist|Oh, that's attractive.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia466_utt5.wav
+Chandler|Oh, I thought you were great in Silence of the Lambs. Oh come on, admit it! All things considered, you had fun tonight.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia466_utt6.wav
+Ross|Fun? Where was the fun? Tell me specifically, which part was the fun part? Where's my puck?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia466_utt7.wav
+Joey|Oh, ah- the kid has it.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia466_utt8.wav
+Ross|The kid...? Excuse me, uh, that's, that's my puck.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia466_utt9.wav
+Chandler|You gotta do it, man.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia466_utt10.wav
+Ross|Oh yeah? Well, I'm rubber, you're glue, whatever¬ó¬ócan't do it. Listen, uh- gimme back my puck.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia466_utt11.wav
+Ross|Yes', how about. C'mere. Gimme!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia466_utt12.wav
+Receptionist|Hey! Hey! No rough holding in my ER!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia466_utt13.wav
+Ross|GIVE ME MY PUCK!!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia466_utt14.wav
+Ross|...Now|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia466_utt15.wav

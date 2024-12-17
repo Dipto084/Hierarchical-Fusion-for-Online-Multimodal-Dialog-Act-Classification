@@ -1,0 +1,4 @@
+Cecilia|Y¬íknow what? It doesn¬ít matter! Because it is not true!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia868_utt0.wav
+Joey|Okay.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia868_utt1.wav
+Cecilia|And if it were true, how|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia868_utt2.wav
+Joey|Ms. Monroe¬Ö Oh there you go.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia868_utt3.wav

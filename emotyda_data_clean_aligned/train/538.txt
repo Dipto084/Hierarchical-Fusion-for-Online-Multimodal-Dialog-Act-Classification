@@ -1,0 +1,10 @@
+Rachel|Ross, get over it! It¬ís not like she hates you.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia538_utt0.wav
+Ross|Yeah but|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia538_utt1.wav
+Rachel|Ross, she¬ís not weird, she just wants her stuff to be one of a kind.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia538_utt2.wav
+Ross|Huh. Y¬íknow what¬ís not one of a kind? A twin!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia538_utt3.wav
+Rachel|Ooh, Phoebe¬ís here! Okay, let¬ís turn out all the lights and we¬íll just watch the movie!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia538_utt4.wav
+Phoebe|Okay. Hey¬óOoh, cool sheets!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia538_utt5.wav
+Ross|Oh, you like it? You wanna know where I got it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia538_utt6.wav
+Phoebe|Sure!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia538_utt7.wav
+Rachel|He got it a flea market!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia538_utt8.wav
+Phoebe|You bought your sheets at a flea market? Ross come on, you gotta loosen the purse strings a little.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia538_utt9.wav

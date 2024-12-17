@@ -1,0 +1,5 @@
+Joey|Uhh, do you mind sitting there. I¬ím-I¬ím saving this for my friend Ross.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia333_utt0.wav
+Tour Guide|You mean Dr. Geller?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia333_utt1.wav
+Joey|Doctor? Wow! I didn¬ít know he had a nickname.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia333_utt2.wav
+Tour Guide|Oh, he won¬ít sit here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia333_utt3.wav
+Tour Guide|Only the people in the white coats sit over there, and only the people in the blue blazers sit here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia333_utt4.wav

@@ -1,0 +1,2 @@
+Ross|No you didn't. You said you would, but you never did!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia951_utt0.wav
+Chandler|Oh yeah!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia951_utt1.wav

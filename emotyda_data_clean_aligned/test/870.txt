@@ -1,0 +1,8 @@
+Joey|This is what I¬íve got going for the party so far, liquor wise. Get a lot of liquor.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia870_utt0.wav
+Ross|Great. Great.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia870_utt1.wav
+Joey|Okay, now uh, in terms of the invite list, I¬íve got you, me, and Chandler and I¬ím gonna invite Gunther ¬ëcause, well, we¬íve been talking about this pretty loud.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia870_utt2.wav
+Gunther|I¬íll be there.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia870_utt3.wav
+Joey|Listen, I know this is your party, but I¬íd really like to the number of museum geeks that are gonna be there.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia870_utt4.wav
+Ross|Yeah. Tell ya what, let¬ís not invite any of the anthropologists, only the dinosaur dudes!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia870_utt5.wav
+Joey|Okay! We¬íll need a six-pack of|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia870_utt6.wav
+Chandler|Hey guys, what are you doing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia870_utt7.wav

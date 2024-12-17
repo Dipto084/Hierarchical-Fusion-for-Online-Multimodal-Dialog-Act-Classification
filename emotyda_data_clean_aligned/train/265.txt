@@ -1,0 +1,5 @@
+Janice|Oh. Oh I just cannot believe Clark stood me up!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia265_utt0.wav
+Monica|He might still show up.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia265_utt1.wav
+Janice|Oh, what are you, stupid? It¬ís been three hours.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia265_utt2.wav
+Monica|Is that all?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia265_utt3.wav
+Janice|I should just go on to happier things, okay? Umm, why don¬ít you tell about your lovely wedding?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia265_utt4.wav

@@ -1,0 +1,4 @@
+Monica|...love you.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia492_utt0.wav
+Ross|Are you're hands still wet?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia492_utt1.wav
+Joey|Uh, moist, yeah.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia492_utt2.wav
+Rachel|Let's dry 'em again.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia492_utt3.wav

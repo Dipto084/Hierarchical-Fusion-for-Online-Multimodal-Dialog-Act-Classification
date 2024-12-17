@@ -1,0 +1,14 @@
+Phoebe|Hey, Mel Gibson and Clint Eastwood.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia858_utt0.wav
+Ross|They¬íre not a couple!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia858_utt1.wav
+Phoebe|Oh-okay, I get the game now.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia858_utt2.wav
+Joey|Okay look, look, let me ask you a question, when they were doing it on stage, was it like really hot?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia858_utt3.wav
+Ross|Oh yeah!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia858_utt4.wav
+Joey|Well okay, so then you¬íre fine.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia858_utt5.wav
+Joey|The rule is when two actors are actually doing it off-stage all the sexual tension between them is gone.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia858_utt6.wav
+Joey|Okay?|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia858_utt7.wav
+Joey|So as long as it¬ís hot onstage you got nothing to worry about.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia858_utt8.wav
+Joey|It¬ís when the heat goes away, that¬ís when you¬íre in trouble.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia858_utt9.wav
+Chandler|Really?|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia858_utt10.wav
+Joey|Look, you guys have been to every play I¬íve ever been in, have I ever had chemistry on stage?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia858_utt11.wav
+Ross|No.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia858_utt12.wav
+Joey|Noooo!!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia858_utt13.wav

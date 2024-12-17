@@ -1,0 +1,17 @@
+Joey|Morning! Hey, how¬ís my favorite genius and my little robot buddy?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia50_utt0.wav
+Wayne|Don¬ít touch him!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia50_utt1.wav
+Joey|Okay!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia50_utt2.wav
+Joey|All right.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia50_utt3.wav
+Joey|Umm, all right Wayne, level with me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia50_utt4.wav
+Joey|I-I keep hearing all these rumors that I might get fired.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia50_utt5.wav
+Joey|Okay, they even have actors coming in to read for my part!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia50_utt6.wav
+Joey|Come on man, you-you got to give me a second chance!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia50_utt7.wav
+Joey|I mean, I love-I love this little guy!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia50_utt8.wav
+Joey|Ah-ah!!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia50_utt9.wav
+Joey|Okay, that¬ís why you didn¬ít want me to touch him right?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia50_utt10.wav
+Joey|Here you go!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia50_utt11.wav
+Joey|Okay?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia50_utt12.wav
+Joey|Stupid!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia50_utt13.wav
+Joey|I can¬ít believe it!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia50_utt14.wav
+Joey|God!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia50_utt15.wav
+Joey|Hey, how you doin¬í?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia50_utt16.wav

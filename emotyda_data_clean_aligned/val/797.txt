@@ -1,0 +1,14 @@
+Monica|Hi.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia797_utt0.wav
+Fake Monica|Hey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia797_utt1.wav
+Monica|How are you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia797_utt2.wav
+Fake Monica|I'm not too bad. Fortunately, blue's my colour. How-how did you know I was here?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia797_utt3.wav
+Monica|Because... I'm Monica Geller. It was my credit card you were using.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia797_utt4.wav
+Fake Monica|That I was not expecting.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia797_utt5.wav
+Monica|I want you to know, it wasn't me who turned you in.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia797_utt6.wav
+Fake Monica|Oh. Thanks.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia797_utt7.wav
+Monica|No, thank you! You have given me so much! I mean, if it wasn't for you, I would never have gotten to sing|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia797_utt8.wav
+Fake Monica|Well, actually, you only got to sing 'Memo-'.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia797_utt9.wav
+Monica|I just can't believe you're in here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia797_utt10.wav
+Monica|I mean, what am I gonna do without you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia797_utt11.wav
+Monica|Who's gonna crash the embassy parties with me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia797_utt12.wav
+Monica|Who's gonna take me to the|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia797_utt13.wav

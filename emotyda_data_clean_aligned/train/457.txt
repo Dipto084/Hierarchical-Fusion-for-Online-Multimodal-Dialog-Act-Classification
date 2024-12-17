@@ -1,0 +1,14 @@
+Rachel|No, not that, I mean, what about you and Mindy?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia457_utt0.wav
+Barry|Well, if you want, I'll just¬óI'll just break it off with her.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia457_utt1.wav
+Rachel|No. No-no-no-no, no. I mean, don't do that. Not, I mean not for me.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia457_utt2.wav
+Bernice|Dr. Farber, Bobby Rush is here for his adjustment.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia457_utt3.wav
+Barry|Thanks, Bernice. Let's go away this weekend.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia457_utt4.wav
+Rachel|Oh, Barry..! Come on, this is all way too..|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia457_utt5.wav
+Barry|We can, we can go to Aruba!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia457_utt6.wav
+Barry|When I went there on what would have been our honeymoon, it was, uh... it was really nice.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia457_utt7.wav
+Barry|You would've liked it.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia457_utt8.wav
+Rachel|I had a bra.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia457_utt9.wav
+Bobby|Hey, Dr. Farber.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia457_utt10.wav
+Barry|All right Miss Green, everything looks fine... Yep, I think we're starting to see some real progress here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia457_utt11.wav
+Rachel|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia457_utt12.wav
+Bobby|I'm twelve, I'm not stupid.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia457_utt13.wav

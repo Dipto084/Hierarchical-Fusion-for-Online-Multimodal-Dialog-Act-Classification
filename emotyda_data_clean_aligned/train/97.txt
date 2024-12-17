@@ -1,0 +1,4 @@
+Monica|Okay. Let¬ís bring it in.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia97_utt0.wav
+Rachel|Wait no, honey, honey throw it to me, throw it to me.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia97_utt1.wav
+Ross|Here you go.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia97_utt2.wav
+Rachel|That almost hit me in the face.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia97_utt3.wav

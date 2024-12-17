@@ -1,0 +1,12 @@
+Monica|Oh that's an eye removal machine.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia459_utt0.wav
+Rachel|All right, I'm outta here!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia459_utt1.wav
+Monica|I'm kidding! I'm kidding!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia459_utt2.wav
+Rachel|So were done then!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia459_utt3.wav
+Dr. Miller|Almost! But first, we gotta start.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia459_utt4.wav
+Dr. Miller|This is a glaucoma test.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia459_utt5.wav
+Rachel|Uh-huh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia459_utt6.wav
+Dr. Miller|Sit down.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia459_utt7.wav
+Rachel|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia459_utt8.wav
+Dr. Miller|But your chin here. Now, you'll feel a small puff of air in each eye.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia459_utt9.wav
+Rachel|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia459_utt10.wav
+Monica|A small puff of air, now come on!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia459_utt11.wav

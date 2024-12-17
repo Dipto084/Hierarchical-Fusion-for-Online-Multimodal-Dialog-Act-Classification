@@ -1,0 +1,3 @@
+Phoebe|Okay, I¬ím gonna go get Frank.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia447_utt0.wav
+Joey|So, we¬íre walking down the street and I turn to you and I say, ¬ìHey, let¬ís go hang out at Totally Nude Nudes,¬î remember?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia447_utt1.wav
+Joey|And then, and then, you turn to me and say, ¬ìNah, let¬ís just hang out at your place.¬î Well, that was a nice move dumb ass.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia447_utt2.wav

@@ -1,0 +1,7 @@
+Joey|Hey Pheebs!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia725_utt0.wav
+Phoebe|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia725_utt1.wav
+Joey|Check it out. How much of a man am I?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia725_utt2.wav
+Phoebe|Wow! Nice! Manly and also kind of a slut.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia725_utt3.wav
+Joey|Y¬íknow, I¬ím beginning to see what Jake was talking about.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia725_utt4.wav
+Phoebe|Uh-huh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia725_utt5.wav
+Joey|The silk? Feels really good!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia725_utt6.wav

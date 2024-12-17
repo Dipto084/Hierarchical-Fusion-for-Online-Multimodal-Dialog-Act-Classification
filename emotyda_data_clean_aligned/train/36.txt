@@ -1,0 +1,6 @@
+Ross|Hey, both you guys should be up there with me.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia36_utt0.wav
+Ross|I mean, you two are-are my¬Ö I mean, I¬ím lucky to have just one good|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia36_utt1.wav
+Chandler|Thanks man.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia36_utt2.wav
+Joey|I gotta go check something over here.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia36_utt3.wav
+Chandler|What a baby.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia36_utt4.wav
+Ross|Total wuss!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia36_utt5.wav

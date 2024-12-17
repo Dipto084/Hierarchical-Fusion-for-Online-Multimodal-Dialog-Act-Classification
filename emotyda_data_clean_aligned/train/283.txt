@@ -1,0 +1,7 @@
+Joey|Yeah well next thing you know, he¬íll be telling you that your high heels are good for his posture!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia283_utt0.wav
+Phoebe|There is nothing wrong with Jake! Okay? He is all man! I¬ím thinking even more than you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia283_utt1.wav
+Joey|Oh yeah, he looked like a real lumberjack in those pink lacys.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia283_utt2.wav
+Phoebe|I¬ím just saying that only a man completely secure with his masculinity could walk around in women¬ís underwear!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia283_utt3.wav
+Phoebe|I don¬ít think you could ever do that.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia283_utt4.wav
+Joey|Hey! I|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia283_utt5.wav
+Phoebe|Okay, whatever.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia283_utt6.wav

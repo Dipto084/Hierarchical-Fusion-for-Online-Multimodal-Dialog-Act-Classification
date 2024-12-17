@@ -1,0 +1,17 @@
+Joshua|Uhh, Rachel, my parents|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia338_utt0.wav
+Rachel|Ohh! It¬ís so nice to meet you. Hello.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia338_utt1.wav
+Mrs. Burgin|Hello. Well, Joshua, that $500 was for groceries.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia338_utt2.wav
+Rachel|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia338_utt3.wav
+Rachel|This-this, no, oh no, no-no-no, this is not¬óthat¬ís-that¬ís not what it is.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia338_utt4.wav
+Rachel|See, see, okay, I work in fashion, see and-and, this is a real dress actually.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia338_utt5.wav
+Rachel|It¬ís-it¬ís, they¬íre-they¬íre wearing it in Milan, so part of my job is too wear the clothes, and then I see how people respond, and then I report back to my superiors at|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia338_utt6.wav
+Mrs. Burgin|Maybe in L.A?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia338_utt7.wav
+Rachel|Yes!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia338_utt8.wav
+Joshua|There you go.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia338_utt9.wav
+Mr. Burgin|So, have you kids eaten yet?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia338_utt10.wav
+Rachel|Well, we were going to do that after¬óI mean umm, next.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia338_utt11.wav
+Mr. Burgin|Well, we¬íre starving, why don¬ít we all go get something to eat?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia338_utt12.wav
+Rachel|Oh, yeah, well¬Ö Yeah, no use wasting this baby, just lyin¬í around the house.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia338_utt13.wav
+Mr. Burgin|So¬Ö We go eat.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia338_utt14.wav
+Rachel|Yes.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia338_utt15.wav
+Mr. Burgin|You¬íll wear that. We¬íll be eating, and of course, you¬íll be wearing that.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia338_utt16.wav

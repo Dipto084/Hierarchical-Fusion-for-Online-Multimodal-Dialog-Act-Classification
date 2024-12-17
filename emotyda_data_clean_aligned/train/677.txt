@@ -1,0 +1,4 @@
+Joey|These little women. Wow!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia677_utt0.wav
+Chandler|Your liking it, huh?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia677_utt1.wav
+Joey|Oh yeah! Amy just burned Jo¬ís manuscript. I don¬ít see how he could ever forgive her.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia677_utt2.wav
+Ross|Umm, Jo¬ís a girl, it¬ís short for Josephine.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia677_utt3.wav

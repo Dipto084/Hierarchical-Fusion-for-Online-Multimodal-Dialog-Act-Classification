@@ -1,0 +1,8 @@
+Joey|Everything on your application looks really good¬óOhh!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia855_utt0.wav
+Joey|Just one last question umm, are you and your friends gonna be over here all the time like partying and hanging out?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia855_utt1.wav
+The Potential Roommate|Oh don¬ít worry, I¬ím not really a party girl.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia855_utt2.wav
+Joey|Whoa!! Now look, don¬ít be just blurtin¬í stuff out. I want you to really think about your answers. Okay?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia855_utt3.wav
+Chandler|You can call off the roommate search! Hi! I¬íll be living here.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia855_utt4.wav
+Joey|Oh don¬ít listen to him, he¬ís just some guy who really wants the apartment, but I don¬ít think he¬ís gonna get it.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia855_utt5.wav
+Chandler|Why did you take the shower curtain down?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia855_utt6.wav
+Joey|That thing was a hazard! I¬ím very safety conscious.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia855_utt7.wav

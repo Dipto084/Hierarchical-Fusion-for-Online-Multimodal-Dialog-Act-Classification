@@ -1,0 +1,12 @@
+Ross|There's twelve bucks I'll never see again!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia568_utt0.wav
+Rachel|All right honey, we'd better go if we wanna catch that movie.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia568_utt1.wav
+Monica|Bye!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia568_utt2.wav
+All|Bye!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia568_utt3.wav
+Phoebe|Bye Chandler! I miss you already.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia568_utt4.wav
+Chandler|Okay, did you see that?! With the inappropriate and the pinching!!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia568_utt5.wav
+Monica|Actually, I did!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia568_utt6.wav
+Chandler|Okay, so now do you believe that she's attracted to me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia568_utt7.wav
+Monica|Ohhh, oh my God! Oh my God! She knows about us!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia568_utt8.wav
+Chandler|Are you serious?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia568_utt9.wav
+Monica|Phoebe knows and she's just trying to freak us out! That's the only explanation for it!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia568_utt10.wav
+Chandler|Okay but what about y'know my pinchable butt and my bulging biceps¬óShe knows!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia568_utt11.wav

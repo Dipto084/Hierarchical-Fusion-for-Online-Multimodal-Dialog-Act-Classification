@@ -1,0 +1,13 @@
+Phoebe Sr|Well, yes, it¬ís kind¬íve an unusual house.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia401_utt0.wav
+Phoebe Sr|It has umm, three beautiful bedrooms and ah, no baths.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia401_utt1.wav
+Phoebe Sr|But y'know, the ocean is right there.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia401_utt2.wav
+Phoebe|Knock, knock, knock.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia401_utt3.wav
+Phoebe Sr|Ah, oh, hang on a second. Come in, come in. All right, so think about it, and call me back.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia401_utt4.wav
+Phoebe|Are you ah, Phoebe Abott?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia401_utt5.wav
+Phoebe Sr|Ahh, yes.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia401_utt6.wav
+Phoebe|Hi Phoebe Abott, I¬ím your best friends daughter!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia401_utt7.wav
+Phoebe Sr|You¬íre Erwin¬ís daughter?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia401_utt8.wav
+Phoebe|No, I-I mean your-your old best friend, here. Lily, from high school. Remember?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia401_utt9.wav
+Phoebe Sr|Oh gosh, Lily, yes. Of course I remember Lily. I... Then you must be?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia401_utt10.wav
+Phoebe|Phoebe. Phoebe. Phoebe, yeah. She named me after you I guess.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia401_utt11.wav
+Phoebe Sr|Uh-huh. Wow! Well, look! There¬ís Frank.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia401_utt12.wav

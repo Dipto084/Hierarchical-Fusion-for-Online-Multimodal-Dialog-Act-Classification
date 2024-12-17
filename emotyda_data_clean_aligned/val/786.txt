@@ -1,0 +1,4 @@
+Nurse|Why don‚Äôt we try massaging the breast to stimulate the flow.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia786_utt0.wav
+Joey|Are you kidding me?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia786_utt1.wav
+Rachel|It‚Äôs just so frustrating! Why doesn‚Äôt she want my breast?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia786_utt2.wav
+Joey|I don‚Äôt know! Maybe she‚Äôs crazy!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia786_utt3.wav

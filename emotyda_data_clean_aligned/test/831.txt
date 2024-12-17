@@ -1,0 +1,8 @@
+Rachel|Ross do you realise this is the first time in my life I¬ím doing something I actually care about.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia831_utt0.wav
+Rachel|This is the first time in my life I¬ím doing something that I¬ím actually good at.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia831_utt1.wav
+Rachel|I mean.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia831_utt2.wav
+Rachel|if you don¬ít get that...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia831_utt3.wav
+Ross|No, hey, I get that, okay, I get that big time.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia831_utt4.wav
+Ross|And I¬ím happy for ya, but I¬ím tired of having a relationship with your answering machine!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia831_utt5.wav
+Ross|Okay, I don¬ít know what to do anymore.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia831_utt6.wav
+Rachel|Well neither do I!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia831_utt7.wav

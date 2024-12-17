@@ -1,0 +1,3 @@
+Joey|Fine! Do you want something to drink?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia397_utt0.wav
+Ross|Sure, what do you got?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia397_utt1.wav
+Joey|Warm milk and|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia397_utt2.wav

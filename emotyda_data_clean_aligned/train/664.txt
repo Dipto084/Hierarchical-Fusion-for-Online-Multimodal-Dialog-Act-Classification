@@ -1,0 +1,9 @@
+Joey|So what are you gonna do?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia664_utt0.wav
+Ross|What can I do? One person wants to break-up, you break-up.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia664_utt1.wav
+Chandler|Hey, no way! Come on, this is you guys, call her and work it out.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia664_utt2.wav
+Ross|Oh come on, we just had this huge fight, all right, don¬ít I have to wait a while?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia664_utt3.wav
+Chandler|Hey, this isn¬ít like swimming after you eat, pick up the phone!!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia664_utt4.wav
+Chandler|Y'know that whole swimming thing is a myth.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia664_utt5.wav
+Joey|Yeah, tell that to my Uncle Lenny.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia664_utt6.wav
+Chandler|Why? What happened to him?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia664_utt7.wav
+Joey|Nothing, he¬ís just really believes in that.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia664_utt8.wav

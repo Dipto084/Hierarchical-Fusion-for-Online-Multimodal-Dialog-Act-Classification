@@ -1,0 +1,13 @@
+Ross|Hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia733_utt0.wav
+Rachel|Hey, so did everything go all right with the annulment?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia733_utt1.wav
+Ross|Oh, yeah, no problems. It¬ís all taken care of.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia733_utt2.wav
+Rachel|Ross, thank you. Hey, do you guys wanna go see a movie?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia733_utt3.wav
+Ross|Oh yeah, why not?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia733_utt4.wav
+Rachel|Pheebs?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia733_utt5.wav
+Phoebe|No thanks, I¬íve already seen one.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia733_utt6.wav
+Rachel|Okay, umm, I¬ím gonna get my sweater.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia733_utt7.wav
+Ross|Okay. You uh, you wanna hear something weird?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia733_utt8.wav
+Phoebe|Always.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia733_utt9.wav
+Ross|I didn¬ít get the annulment.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia733_utt10.wav
+Phoebe|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia733_utt11.wav
+Ross|We¬íre still married! Don¬ít tell Rachel. See you later.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia733_utt12.wav

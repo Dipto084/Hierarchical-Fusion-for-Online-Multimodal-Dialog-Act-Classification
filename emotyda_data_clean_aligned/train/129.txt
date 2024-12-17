@@ -1,0 +1,15 @@
+Kate|Become a drama critic!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia129_utt0.wav
+The Director|I am hurt! A plague on both your houses!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia129_utt1.wav
+Kate|By the way, he dumped me tonight after he read my review.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia129_utt2.wav
+Joey|Oh, classy.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia129_utt3.wav
+Kate|Yep! I sure know how to pick ¬ëem, huh? Y'know I gave up a part on a soap for this!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia129_utt4.wav
+Joey|Wow! Yeah I ah, I gave up a job too.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia129_utt5.wav
+Kate|Really. What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia129_utt6.wav
+Joey|Uh, de-clawing cats.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia129_utt7.wav
+Joey|Hey, tell ya what.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia129_utt8.wav
+Joey|Let me walk you home.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia129_utt9.wav
+Joey|We¬íll stop by every news stand and burn every copy of their Times and the Post.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia129_utt10.wav
+Kate|Why the Post?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia129_utt11.wav
+Joey|Oh, you didn¬ít see the Post?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia129_utt12.wav
+Kate|No. You?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia129_utt13.wav
+Joey|No. Why?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia129_utt14.wav

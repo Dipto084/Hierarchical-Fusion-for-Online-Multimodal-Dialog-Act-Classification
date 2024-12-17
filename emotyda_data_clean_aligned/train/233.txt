@@ -1,0 +1,2 @@
+Ross|I'm the holiday armadillo! I'm a friend of Santa's and he sent me here to wish you a Merry Christmas!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia233_utt0.wav
+Monica|What happened to Santa, Holiday Armadillo?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia233_utt1.wav

@@ -1,0 +1,2 @@
+Monica|Hey guys check it out! My mom sent me the paper!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia824_utt0.wav
+Phoebe|Ooh, let¬ís see it!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia824_utt1.wav

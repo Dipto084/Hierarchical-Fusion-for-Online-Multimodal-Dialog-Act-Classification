@@ -1,0 +1,8 @@
+1st Customer|Everything was delicious!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia174_utt0.wav
+Monica|Thank you!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia174_utt1.wav
+2nd Customer|It was. The duck in particular was superb.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia174_utt2.wav
+Monica|Thank you! You haven't said anything...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia174_utt3.wav
+3rd Customer|Actually I do have one small complaint.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia174_utt4.wav
+Monica|Oh..please!I-I welcome criticism.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia174_utt5.wav
+3rd Customer|The musician right outside the restaurant...it's kind of a mood-killer!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia174_utt6.wav
+Monica|What musician?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia174_utt7.wav

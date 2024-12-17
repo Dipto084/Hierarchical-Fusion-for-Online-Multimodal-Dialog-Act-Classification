@@ -1,0 +1,16 @@
+Danny|so we finally get to the top of the mountain and airhead here forgets the camera!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia208_utt0.wav
+Joey|Oh, y'know the same thing happened to me one time.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia208_utt1.wav
+Chandler|When did that happen to you?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia208_utt2.wav
+Joey|Don't you remember when we were jogging in the park and we saw that really pretty bird and wanted to take a picture¬óI didn't have my camera!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia208_utt3.wav
+Chandler|Oh yeah. First off all, chasing the Churo guy isn't jogging.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia208_utt4.wav
+Krista|Oh, this is so good you have got to try it.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia208_utt5.wav
+Danny|Oh, damn! I got it on my pants.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia208_utt6.wav
+Krista|Here, I'll get it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia208_utt7.wav
+Krista|We'd better take these pants off upstairs or that stain's gonna set.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia208_utt8.wav
+Danny|Yep. I'm gonna wear these on our date tonight.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia208_utt9.wav
+Rachel|Oh, great!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia208_utt10.wav
+Chandler|Okay, bye! Oh my God!!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia208_utt11.wav
+Monica|That was unbelievable!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia208_utt12.wav
+Joey|Yeah, wow, sorry Rach.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia208_utt14.wav
+Chandler|I don't believe they're brother and sister.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia208_utt15.wav
+Joey|They're brother and sister!!!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia208_utt16.wav

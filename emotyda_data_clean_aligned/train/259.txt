@@ -1,0 +1,4 @@
+Dr. Leedbetter|Well, it was quite large. I-I-I-I-I had to throw most of it away.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia259_utt0.wav
+Ross|You-you-you-you threw my sandwich away!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia259_utt1.wav
+Ross|MY SANDWICH?!!!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia259_utt2.wav
+Ross|MY SANDWICH!!!!!!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia259_utt3.wav

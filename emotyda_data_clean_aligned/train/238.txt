@@ -1,0 +1,7 @@
+Ross|Okay, forward. Forward¬óStop! Okay, back¬óStop! Okay, forward¬óStop! Stop! Stop!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia238_utt0.wav
+Phoebe|Okay, here¬ís what we¬íre gonna do.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia238_utt1.wav
+Phoebe|Okay, I¬ím gonna break into this mini-van and put it in neutral.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia238_utt2.wav
+Phoebe|You guys push it forward so Ross can drive out of his spot.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia238_utt3.wav
+Phoebe|Okay?|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia238_utt4.wav
+Phoebe|All right, here we go.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia238_utt5.wav
+Phoebe|Haul ass!!!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia238_utt6.wav

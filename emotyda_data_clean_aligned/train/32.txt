@@ -1,0 +1,19 @@
+Joey and Chandler|Ooooohh!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia32_utt0.wav
+Phoebe|Oh yeah, I'm sure. And all of a sudden his hands weren't the problem anymore.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia32_utt1.wav
+Monica|Was it...?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia32_utt2.wav
+Phoebe|Oh, boy scouts could have camped under there.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia32_utt3.wav
+Rachel|"Ooo," what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia32_utt4.wav
+Phoebe|Uma Thurman.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia32_utt5.wav
+Monica|Oh!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia32_utt6.wav
+Ross|The actress!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia32_utt7.wav
+Ross|Thanks Rach.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia32_utt8.wav
+Chandler|So what are you gonna do?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia32_utt9.wav
+Ross|You have to tell her!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia32_utt10.wav
+Ross|You have to tell her!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia32_utt11.wav
+Ross|It's your moral obligation, as a friend, as a woman, I think it's a feminist issue!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia32_utt12.wav
+Ross|Guys?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia32_utt13.wav
+Ross|Guys?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia32_utt14.wav
+Chandler|Oh, yeah, you have to tell her.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia32_utt15.wav
+Joey|Feminist issue. That's where I went!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia32_utt16.wav
+Phoebe|She is gonna hate me.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia32_utt17.wav
+Ross|Yeah, well...|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia32_utt18.wav

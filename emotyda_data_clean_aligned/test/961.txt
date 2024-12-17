@@ -1,0 +1,15 @@
+Phoebe|Okay, then what happened?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia961_utt0.wav
+Phoebe|Ohh. Uh-huh. Uh-huh. You'll get your turn!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia961_utt1.wav
+Ross|Hey Pheebs, what's going on?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia961_utt2.wav
+Phoebe|Nothing! This is not over!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia961_utt3.wav
+Ross|No! No! No!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia961_utt4.wav
+Phoebe|What?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia961_utt5.wav
+Ross|I was up all night writing this really nasty letter to Emily! It was perfect and now it's all covered in-in¬Ö Actually, thanks!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia961_utt6.wav
+Joey|All right! Everybody ready to go to the movies?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia961_utt7.wav
+Ross|Uh actually, I think I'm gonna skip it.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia961_utt8.wav
+Joey|Really?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia961_utt9.wav
+Ross|Yeah, I'm gonna stay and read my book. I just wanna be alone right now.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia961_utt10.wav
+Joey|Oh. Are you sure you don't want to come? Tom Hanks, Meg Ryan, they get mail and stuff.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia961_utt11.wav
+Ross|That's okay, Joe.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia961_utt12.wav
+Joey|All right, let's go Pheebs.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia961_utt13.wav
+Ross|Oh God!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia961_utt14.wav

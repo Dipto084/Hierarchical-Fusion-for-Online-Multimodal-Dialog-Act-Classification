@@ -1,0 +1,9 @@
+Tony|Wow! That¬ís ah, that¬ís pretty nice!|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia70_utt0.wav
+Joey|Pretty nice?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia70_utt1.wav
+Chandler|You¬íll have to pardon my roommate, he wanted to marry this.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia70_utt2.wav
+Tony|We don¬ít have 50 bucks, but would you be willing to trade for it? We¬íve got a canoe.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia70_utt3.wav
+Chandler|Y'know, I, I really don¬ít think we need a canoe.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia70_utt4.wav
+Tony|You gotta take the canoe!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia70_utt5.wav
+Chandler|All right, just, just take the entertainment center, and then when you get home, throw the canoe away!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia70_utt6.wav
+Peter|We¬íre not throwing it away! I built that canoe!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia70_utt7.wav
+Joey|Good for you!!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia70_utt8.wav

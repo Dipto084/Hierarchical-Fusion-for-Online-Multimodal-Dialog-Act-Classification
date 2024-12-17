@@ -1,0 +1,18 @@
+Monica|I don¬ít know how any of these got opened?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia806_utt0.wav
+Joey|You opened them all?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia806_utt1.wav
+Monica|I know! I know! I am a terrible person! I mean, Chandler is never going to trust me with anything ever again!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia806_utt2.wav
+Joey|Oh hey! You got my parent¬ís gift!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia806_utt3.wav
+Monica|Yeah. What is that?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia806_utt4.wav
+Joey|Well, I don¬ít know. I think it does something to salami.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia806_utt5.wav
+Monica|Hey! How¬íd it go?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia806_utt6.wav
+Joey|Yeah. What-what did Tag say?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia806_utt7.wav
+Rachel|Tag is not the father! And Joey knows now?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia806_utt8.wav
+Joey|I do Rach. I do, and I so happy for you.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia806_utt9.wav
+Rachel|Oh wow, you didn¬ít even try to unhook my bra!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia806_utt10.wav
+Monica|So are you ever gonna tell whoever it is?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia806_utt11.wav
+Rachel|No, I will. I¬ím just not up for it tonight.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia806_utt12.wav
+Joey|Hey Rach listen, no matter what this guy says I want you to know you¬íre not gonna be alone in this.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia806_utt13.wav
+Rachel|I¬ím not?|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia806_utt14.wav
+Joey|Listen I uh¬Ö It¬ís a scary world out there especially if you¬íre a single mom.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia806_utt15.wav
+Joey|Y¬íknow, I always felt like you and I have this-this special bond.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia806_utt16.wav
+Joey|So, Rachel Green will you marry me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia806_utt17.wav

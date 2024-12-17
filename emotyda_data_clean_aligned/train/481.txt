@@ -1,0 +1,15 @@
+Monica|You wanna fool around with Joey?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia481_utt0.wav
+Rachel|Yeah!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia481_utt1.wav
+Rachel|You know, ever since I had that dream about him, and can't get it out of my head!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia481_utt2.wav
+Rachel|And what's the big deal, people do it all the time!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia481_utt3.wav
+Monica|Who? Who do you know that are friends that just fool around?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia481_utt4.wav
+Rachel|Ok, off the top of my head... Don and Janet.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia481_utt5.wav
+Monica|Who, who are they?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia481_utt6.wav
+Rachel|I know them from work.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia481_utt7.wav
+Monica|Both of them?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia481_utt8.wav
+Rachel|No, one of them...|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia481_utt9.wav
+Monica|Which one?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia481_utt10.wav
+Rachel|I don't know, what were the names I just said?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia481_utt11.wav
+Monica|Rachel, things can get incredibly complicated.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia481_utt12.wav
+Rachel|All right, all right, you're right|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia481_utt13.wav
+Monica|What the hell are you cooking!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia481_utt14.wav

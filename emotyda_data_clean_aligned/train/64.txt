@@ -1,0 +1,13 @@
+Chandler|Sorry, I just don¬ít like the idea of when I say "I do," he¬ís thinking, "Yeah, I¬íd do her too!"|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia64_utt0.wav
+Monica|Well then we still have a problem.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia64_utt1.wav
+Chandler|Yeah!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia64_utt2.wav
+Phoebe|With what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia64_utt3.wav
+Monica|Well, we¬íre trying to find someone to perform our wedding and they¬íre all either boring or annoying or y¬íknow, can¬ít stop staring at the ladies.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia64_utt4.wav
+Phoebe|Oo! You should have one of us do it!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia64_utt5.wav
+Monica|Phoebe, we¬íre getting|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia64_utt6.wav
+Phoebe|No! No! It¬ís-it¬ís uh a real thing! Anyone can get ordained on the Internet and perform like weddings and stuff!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia64_utt7.wav
+Joey|I call it!!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia64_utt8.wav
+Phoebe|What?! No! It was my idea!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia64_utt9.wav
+Chandler|Guys thank you very much but neither of you is marrying us.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia64_utt10.wav
+Joey|Does calling it not mean anything anymore?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia64_utt11.wav
+Chandler|We are going to have a legitimate member of the clergy! And when I say legitimate I mean, gay and in control of his saliva!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia64_utt12.wav

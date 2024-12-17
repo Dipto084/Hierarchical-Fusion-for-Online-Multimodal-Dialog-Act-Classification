@@ -1,0 +1,10 @@
+Phoebe|Are you under the sheet?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia128_utt0.wav
+Monica|Yes.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia128_utt1.wav
+Phoebe|Great, let¬ís begin. How¬ís the pressure?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia128_utt2.wav
+Monica|Nice! Wow Phoebe you are good!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia128_utt3.wav
+Phoebe|Stating the obvious, but thank you. And it¬ís not weird is it.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia128_utt4.wav
+Monica|No. Ooohh|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia128_utt5.wav
+Phoebe|That¬ís right, you just enjoy.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia128_utt6.wav
+Monica|Oh. Oh yeah! Ohhhhh! Ohh! Oh yeah!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia128_utt7.wav
+Phoebe|Okay.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia128_utt8.wav
+Monica|Oh God Phoebe!! Oh that¬ís it! That¬ís it! Right there! Oh! Ooooh-oooh-ooooh|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia128_utt9.wav

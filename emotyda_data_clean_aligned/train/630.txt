@@ -1,0 +1,15 @@
+Monica|Now there you go! I wouldn¬ít want my best guest to strain her eyes!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia630_utt0.wav
+Phoebe|Thanks Monica!|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia630_utt1.wav
+Monica|Does that smell bother you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia630_utt2.wav
+Phoebe|What the smell from Joey¬ís? No, I can hardly smell it over here.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia630_utt3.wav
+Monica|Well you let me know if you can, because y¬íknow I can bake a pie to cover it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia630_utt4.wav
+Phoebe|I can smell it a little, bake the pie.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia630_utt5.wav
+Monica|Okay!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia630_utt6.wav
+Phoebe|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia630_utt7.wav
+Monica|Hello? Oh yes, one minute please. It¬ís for you. It¬ís the fire inspector.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia630_utt8.wav
+Phoebe|Oh! Hello? Yeah this is Phoebe. Really?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia630_utt9.wav
+Joey|Yeah, so it turns out that it wasn¬ít the hair straightener that started the fire.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia630_utt10.wav
+Joey|No-no, it was the candles.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia630_utt11.wav
+Joey|It¬ís very not good leaving candles unattended.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia630_utt12.wav
+Joey|In fact, one of the first things they teach you in fire school is¬Ö Uhh¬Ö Uhh¬Ö Okay.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia630_utt13.wav
+Joey|Well, I have to go now.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia630_utt14.wav

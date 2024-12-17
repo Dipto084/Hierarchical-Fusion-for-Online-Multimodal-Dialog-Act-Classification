@@ -1,0 +1,20 @@
+Monica|Yeah! So-so when are you getting married?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia657_utt0.wav
+Megan|Oh I¬ím not, I just like to try these on.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia657_utt1.wav
+Rachel|I do the same thing.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia657_utt2.wav
+Megan|I¬ím just kidding. I¬ím getting married July 25|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia657_utt3.wav
+Rachel|I¬ím just kidding too. I¬ím getting married in December.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia657_utt4.wav
+Megan|So when are you getting married?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia657_utt5.wav
+Monica|Oh May 15|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia657_utt6.wav
+Megan|Oooh it¬ís getting close!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia657_utt7.wav
+Megan|So uh, who¬ís your photographer?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia657_utt8.wav
+Monica|Jeffrey|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia657_utt9.wav
+Megan|We met with him. Did he show you the photos of the nude wedding he did?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia657_utt10.wav
+Monica|The best man? Wow!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia657_utt11.wav
+Megan|I know! I almost called off my wedding. Oh, who¬ís your band?!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia657_utt12.wav
+Monica|Oh, my fiancee wants the Swing Kings.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia657_utt13.wav
+Megan|Oh, you¬íre so lucky. My fiancee wants the heavy metal band Carcass.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia657_utt14.wav
+Phoebe|Ooh, is that spelled with a ¬ëC¬í or a ¬ëK¬í? Oh my God! It doesn¬ít matter; they¬íre both great!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia657_utt15.wav
+Rachel|Oh y¬íknow what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia657_utt16.wav
+Rachel|Now that you know what you want you should go to Kleinman¬ís and get it half off.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia657_utt17.wav
+Rachel|This place is so overpriced.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia657_utt18.wav
+Rachel|So, does this come in another color or|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia657_utt19.wav

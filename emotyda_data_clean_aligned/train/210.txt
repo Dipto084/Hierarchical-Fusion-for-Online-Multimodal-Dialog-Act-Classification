@@ -1,0 +1,11 @@
+Richard|I found the picture!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia210_utt0.wav
+Joey|What picture?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia210_utt1.wav
+Richard|The picture of my wife! In your pack!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia210_utt2.wav
+Joey|You went through my personal property?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia210_utt3.wav
+Richard|Why do have a picture of Paulette in your pack?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia210_utt4.wav
+Joey|Because Vincent, we were lovers. For two years!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia210_utt5.wav
+The Director|Cut! Wonderful!|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia210_utt6.wav
+Joey|Great scene yeah?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia210_utt7.wav
+Richard|Oh you¬íre awesome! And, in that last speech? You soaked me.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia210_utt8.wav
+The Assistant Director|Here¬ís your call sheet for tomorrow.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia210_utt9.wav
+Phoebe|I know.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia210_utt10.wav

@@ -1,0 +1,6 @@
+Joey|Oh, it's perfect!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia442_utt0.wav
+Ross|How about you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia442_utt1.wav
+Chandler|It's a kitchen slash bathroom.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia442_utt2.wav
+Ross|All right, I see what you guys are saying. I'll uh, I'll go downstairs and fill out an application.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia442_utt3.wav
+Chandler|We are bad people.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia442_utt4.wav
+Joey|He knew we were trying to get rid of him. He knew! You think we could get a bathtub in our kitchen?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia442_utt5.wav

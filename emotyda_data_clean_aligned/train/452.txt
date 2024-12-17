@@ -1,0 +1,5 @@
+Joey|Oh yeah-yeah, the lobster.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia452_utt0.wav
+Rachel|Yeah, I mean I was up sick all night.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia452_utt1.wav
+Joey|Yeah me too, all night.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia452_utt2.wav
+Rachel|Really?! How come we didn¬ít cross paths?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia452_utt3.wav
+Joey|Yeah well that¬ís because uh¬ÖI stayed in my room. Yeah, you don¬ít want to look in my hamper.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia452_utt4.wav

@@ -1,0 +1,10 @@
+Phoebe|Oh! Here we|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia331_utt0.wav
+Chandler|All right, y'know what, we've been talking about London too much haven't we?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia331_utt1.wav
+Phoebe|I'm sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia331_utt2.wav
+Phoebe|It's just 'cause I couldn't be there.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia331_utt3.wav
+Phoebe|Cause all I ever get to do now is pregnant stuff, it just bums me out.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia331_utt4.wav
+All|Sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia331_utt5.wav
+Monica|What happened?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia331_utt6.wav
+Rachel|Well, y'know, a little of this, a little of that. Got myself a date tomorrow night.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia331_utt7.wav
+Monica|See, didn't I tell you?! You're getting over Ross already!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia331_utt8.wav
+Gunther|Get out!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia331_utt9.wav

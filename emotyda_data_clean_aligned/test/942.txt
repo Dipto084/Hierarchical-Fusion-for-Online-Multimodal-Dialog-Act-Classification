@@ -1,0 +1,9 @@
+The Conductor|Last stop, Montreal. This stop is Montreal.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia942_utt0.wav
+Ross|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia942_utt1.wav
+Woman On Train|I made a bet with myself that you have beautiful eyes. Now that I see them, I win.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia942_utt2.wav
+Ross|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia942_utt3.wav
+Woman On Train|We¬íre at my stop. But would you like to have coffee?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia942_utt4.wav
+Ross|Are we really in Montreal?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia942_utt5.wav
+Woman On Train|Yes we are. So, coffee?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia942_utt6.wav
+Ross|Coffee sounds great. Wait, so, so you live in Montreal?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia942_utt7.wav
+Woman On Train|Oh, no. But it¬ís just a two hour ferry ride to Nova Scotia.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia942_utt8.wav

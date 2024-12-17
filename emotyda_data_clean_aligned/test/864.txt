@@ -1,0 +1,5 @@
+Rachel|So now, these are all the tuxedos that we make and if there¬ís anything that you like, we can make you a deal.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia864_utt0.wav
+Rachel|Anything at all.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia864_utt1.wav
+Rachel|But these are the three that Monica pre-approved.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia864_utt2.wav
+Chandler|Well, thanks a lot for hookin¬í me up Rach. I want you to know that I want you to attend our wedding as my guest.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia864_utt3.wav
+Rachel|I¬ím Monica¬ís maid of honor. Okay? Don¬ít try to blue pin me!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia864_utt4.wav

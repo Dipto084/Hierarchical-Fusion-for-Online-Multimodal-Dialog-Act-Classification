@@ -1,0 +1,13 @@
+Roger|What's wrong, sweetie?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia372_utt0.wav
+Phoebe|Nothing, nothing.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia372_utt1.wav
+Roger|Aaaah, what's wrong, c'mon.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia372_utt2.wav
+Phoebe|It's, I mean, it's nothing, I'm fine.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia372_utt3.wav
+Phoebe|It's my friends.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia372_utt4.wav
+Phoebe|They-they have a liking problem with you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia372_utt5.wav
+Phoebe|In that, um, they don't.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia372_utt6.wav
+Roger|Oh. They don't.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia372_utt7.wav
+Phoebe|But they don't see all the wonderfulness that I see.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia372_utt8.wav
+Phoebe|They don't see all the good stuff and all the sweet stuff.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia372_utt9.wav
+Phoebe|They just think you're a little...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia372_utt10.wav
+Roger|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia372_utt11.wav
+Phoebe|Intense and creepy.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia372_utt12.wav

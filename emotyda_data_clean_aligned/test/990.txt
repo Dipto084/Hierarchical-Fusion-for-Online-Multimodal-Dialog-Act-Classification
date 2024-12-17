@@ -1,0 +1,20 @@
+Chandler|Hey, Kicky. What're you doing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia990_utt0.wav
+Joey|Just trying to get comfortable. I can't sleep in my underwear.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia990_utt1.wav
+Chandler|Well, you're gonna.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia990_utt2.wav
+Joey|I've been thinking. Y'know, about how I'm always seeing girls on top of girls...|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia990_utt3.wav
+Chandler|Are they end to end, or tall like pancakes?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia990_utt4.wav
+Joey|Y'know what I mean, about how I'm always going out with all these women.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia990_utt5.wav
+Joey|And I always figured, when the right one comes along, I'd be able to be a stand-up guy and go the distance, y'know?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia990_utt6.wav
+Joey|Now I'm looking at my dad, thinking...|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia990_utt7.wav
+Chandler|Hey, you're not him.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia990_utt8.wav
+Chandler|You're you.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia990_utt9.wav
+Chandler|When they were all over you to go into your father's pipe-fitting business, did you cave?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia990_utt10.wav
+Joey|No.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia990_utt11.wav
+Chandler|No.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia990_utt12.wav
+Chandler|You decided to go into the out-of-work actor business.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia990_utt13.wav
+Chandler|Now that wasn't easy, but you did it!|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia990_utt14.wav
+Chandler|And I'd like to believe that when the right woman comes along, you will have the courage and the guts to say "No thanks, I'm married."|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia990_utt15.wav
+Joey|You really think so?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia990_utt16.wav
+Chandler|Yeah. I really do.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia990_utt17.wav
+Joey|Thanks, Chandler.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia990_utt18.wav
+Chandler|Get off!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia990_utt19.wav

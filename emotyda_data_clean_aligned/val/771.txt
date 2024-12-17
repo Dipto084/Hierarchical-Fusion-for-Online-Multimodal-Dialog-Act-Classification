@@ -1,0 +1,18 @@
+Monica|Y¬íknow, maybe it¬ís best that we never got to do it again.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia771_utt0.wav
+Chandler|Yeah, it kinda makes that-that one night special. Y¬íknow, technically we still|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia771_utt1.wav
+Monica|I¬ím gonna go to the bathroom, maybe I¬íll see you there in a bit?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia771_utt2.wav
+Chandler|¬ëKay!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia771_utt3.wav
+Joey|Can I ask you something?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia771_utt4.wav
+Chandler|Uhh, no.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia771_utt5.wav
+Joey|Felicity and I, we¬íre watching|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia771_utt6.wav
+Chandler|No.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia771_utt7.wav
+Joey|I mean, the giant is like five years younger than me, y¬íknow, you think I¬íll ever get there?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia771_utt8.wav
+Chandler|Yes.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia771_utt9.wav
+Joey|Thanks man.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia771_utt10.wav
+Chandler|Okay man.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia771_utt11.wav
+Joey|But what about how much taller he is than me?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia771_utt12.wav
+Joey|I mean, there¬ís no way I can make myself taller now, y¬íknow?|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia771_utt13.wav
+Joey|And who knows what science will come up with in the future, but Chandler, what if I die an unsuccessful, regular sized man?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia771_utt14.wav
+Joey|Hey, Monica, wow you¬íve been in the bathroom for like a half-hour.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia771_utt15.wav
+Monica|I know!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia771_utt16.wav
+Joey|Had the beef-tips, huh?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia771_utt17.wav

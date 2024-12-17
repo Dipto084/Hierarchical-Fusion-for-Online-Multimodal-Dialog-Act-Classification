@@ -1,0 +1,7 @@
+Chandler|Oh my God, it's that Victoria's Secret model. Something... something Goodacre.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia56_utt0.wav
+Jill|Hi Mom, it's Jill.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia56_utt1.wav
+Chandler|She's right, it's Jill. Jill Goodacre. Oh my God. I am trapped in an ATM vestibule with Jill Goodacre!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia56_utt2.wav
+Jill|Yeah, I'm fine. I'm just stuck at the bank, in an ATM vestibule.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia56_utt3.wav
+Chandler|Jill says vestibule... I'm going with vestibule.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia56_utt4.wav
+Jill|I'm fine. No, I'm not alone... I don't know, some guy.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia56_utt5.wav
+Chandler|Oh! Some guy. Some guy. 'Hey Jill, I saw you with some guy last night. Yes, he was|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia56_utt6.wav

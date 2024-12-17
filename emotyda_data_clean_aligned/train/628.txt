@@ -1,0 +1,14 @@
+Joey|Oh!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia628_utt0.wav
+Joey|Hey, somebody left their keys.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia628_utt1.wav
+Joey|Ooohh, to a Porsche!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia628_utt2.wav
+Joey|Hey Gunther, these yours?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia628_utt3.wav
+Gunther|Yeah, that¬ís what I drive. I make four bucks an hour, I saved up for 350 years!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia628_utt4.wav
+Joey|Na-uh! Hey did anybody lose their keys?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia628_utt5.wav
+Monica|Joey, why don¬ít you put them in the lost and found?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia628_utt6.wav
+Joey|There¬ís a lost and found? My shoe!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia628_utt7.wav
+Chandler|You left a shoe here?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia628_utt8.wav
+Joey|Well, I didn¬ít realize until I got home.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia628_utt9.wav
+Joey|I wasn¬ít gonna walk all the way back down here with one shoe!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia628_utt10.wav
+Joey|I¬ím gonna go find that guy¬ís car and leave a note on the windshield.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia628_utt11.wav
+Chandler|Oh good, when he comes back for his keys, I¬íll be sure to give him your shoe.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia628_utt12.wav
+Joey|Great! Thanks.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia628_utt13.wav

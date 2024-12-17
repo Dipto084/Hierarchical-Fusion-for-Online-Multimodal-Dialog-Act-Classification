@@ -1,0 +1,11 @@
+Monica|What happened in Atlantic City?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia644_utt0.wav
+Ross|Well, Chandler and I are in a bar|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia644_utt1.wav
+Chandler|Did you not hear me say, "Du-ude?!"|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia644_utt2.wav
+Ross|And this girl is making eyes at Chandler, okay?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia644_utt3.wav
+Ross|So after awhile he-he goes over to her and uh, after a minute or two, I see them kissing.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia644_utt4.wav
+Ross|Now, I know what you¬íre thinking, Chandler¬ís not the type of guy who just goes to bars and makes out with girls, and you¬íre right, Chandler¬ís not the type of guy who just goes to bars and makes out with¬Ögirls.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia644_utt5.wav
+Monica|You kissed a guy?!! Oh my God.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia644_utt6.wav
+Chandler|In my defense, it was dark and he was a very pretty guy.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia644_utt7.wav
+Ross|Oh Mon, I laughed so hard|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia644_utt8.wav
+Chandler|Ho-ho, so hard we had to throw out your underwear again?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia644_utt9.wav
+Ross|Whatever dude, you kissed a guy.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia644_utt10.wav

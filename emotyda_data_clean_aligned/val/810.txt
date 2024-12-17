@@ -1,0 +1,18 @@
+Monica|Who is that?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia810_utt0.wav
+Chandler|Don¬ít worry, I¬ím brave!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia810_utt1.wav
+Chandler|I am brave!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia810_utt2.wav
+Chandler|I¬ÖI am brave!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia810_utt3.wav
+Chandler|No-no-no-no!!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia810_utt4.wav
+Chandler|Can you tell me who is there please?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia810_utt5.wav
+Gary|Hi!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia810_utt6.wav
+Monica|Hi. Do you know what time it is?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia810_utt7.wav
+Gary|It¬ís candy time! My roommate says that they taste like little drops of heaven.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia810_utt8.wav
+Monica|Oh please! Did you hear that? Little drops of heaven.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia810_utt9.wav
+Chandler|4:00 A.M.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia810_utt10.wav
+Gary|So, can I get some candy?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia810_utt11.wav
+Chandler|I am sorry, but some of us have to|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia810_utt12.wav
+Monica|Umm, listen I am sorry, but I¬íll put some out first thing in the morning.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia810_utt13.wav
+Gary|Well okay, I¬íll swing by later. Do you live in this building?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia810_utt14.wav
+Monica|Um-hmm.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia810_utt15.wav
+Gary|Mm! Seems like I would¬íve remembered you!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia810_utt16.wav
+Chandler|Mm! Night Gar¬í!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia810_utt17.wav

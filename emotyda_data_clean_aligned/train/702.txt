@@ -1,0 +1,3 @@
+Monica|Yes!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia702_utt0.wav
+Chandler|So I really never get to win anymore?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia702_utt1.wav
+Monica|How much did ever really win before?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia702_utt2.wav

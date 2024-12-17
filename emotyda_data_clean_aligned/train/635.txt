@@ -1,0 +1,10 @@
+Monica|Look at that! Look at that! They¬íre going into the first class lounge! Do you know what they have in there?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia635_utt0.wav
+Chandler|No.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia635_utt1.wav
+Monica|Me neither! We have to get in!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia635_utt2.wav
+Chandler|Just act like you belong.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia635_utt3.wav
+Monica|Oh my God! Oranges!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia635_utt4.wav
+Chandler|Shh! Nice to see you again.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia635_utt5.wav
+Airline Employee|Uh sir, may I see your tickets please?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia635_utt6.wav
+Chandler|Yes, of course.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia635_utt7.wav
+Airline Employee|I¬ím sorry, would you move your thumb? I can¬ít see the seat number.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia635_utt8.wav
+Chandler|Oh that¬ís all right, I have it memorized. It¬ís 1A.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia635_utt9.wav

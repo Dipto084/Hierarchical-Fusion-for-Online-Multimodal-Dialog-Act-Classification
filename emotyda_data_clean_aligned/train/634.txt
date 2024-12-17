@@ -1,0 +1,9 @@
+Ross|I will be! Listen, I don¬ít want you teaching my son that stuff anymore. Okay?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia634_utt0.wav
+Rachel|Fine.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia634_utt1.wav
+Rachel|Fine, but I¬íll have you know that once I taught him that stuff he called me Fun Aunt Rachel.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia634_utt2.wav
+Rachel|And I loved being Fun Aunt Rachel but I¬íll go back to being Boring and Uncomfortable Aunt Rachel if that¬ís what you want!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia634_utt3.wav
+Ross|No that¬ís not what I want. Uh, I¬ím glad you guys were bonding but I|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia634_utt4.wav
+Rachel|Look he doesn¬ít have any brothers or sisters, somebody¬ís gonna have to teach him this stuff!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia634_utt5.wav
+Rachel|And I haven¬ít taught him anything that a normal 6-year-old doesn¬ít know anyway!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia634_utt6.wav
+Ben|Crap!!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia634_utt7.wav
+Rachel|I gotta go!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia634_utt8.wav

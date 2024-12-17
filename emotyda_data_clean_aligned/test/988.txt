@@ -1,0 +1,8 @@
+Phoebe|Y¬íknow, you¬íre friend¬ís getting married, it¬ís gotta change things.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia988_utt0.wav
+Rachel|You really think it would be that different?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia988_utt1.wav
+Phoebe|How could it not be?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia988_utt2.wav
+Phoebe|I mean pretty soon they¬íre gonna be having kids, and then they¬íre just gonna be hanging out with other couples who have kids.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia988_utt3.wav
+Phoebe|And then maybe they¬íre gonna have to leave the city to be near a|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia988_utt4.wav
+Rachel|Well, things change.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia988_utt5.wav
+Joey|I don¬ít want them to move to a|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia988_utt6.wav
+Ross|It¬íll be okay Joe.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia988_utt7.wav

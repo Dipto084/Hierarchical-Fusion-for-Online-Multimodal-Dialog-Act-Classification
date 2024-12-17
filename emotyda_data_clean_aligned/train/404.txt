@@ -1,0 +1,19 @@
+Joey|Chandler, Chandler, y¬íknow what we should do? You and I should go out and get some new sunglasses.|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia404_utt0.wav
+Chandler|What? No, I want to watch this. . Did your cable go out?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia404_utt1.wav
+Joey|No, that¬ís|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia404_utt2.wav
+Chandler|Joey, why is your cable out?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia404_utt3.wav
+Joey|I uh, oh! Because, uh, I haven¬ít really paid the bill|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia404_utt4.wav
+Chandler|If you need money, will you please-please just let me loan you some money?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia404_utt5.wav
+Joey|No, Chandler.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia404_utt6.wav
+Joey|Look, forget about it, okay?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia404_utt7.wav
+Joey|Look, I know things have been a little tight since Janine moved out.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia404_utt8.wav
+Joey|Oh, was she hot.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia404_utt9.wav
+Chandler|Whoa ho.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia404_utt10.wav
+Joey|I know!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia404_utt11.wav
+Joey|Yeah, but, look I can handle it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia404_utt12.wav
+Joey|All right?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia404_utt13.wav
+Joey|Look, I can listen to the radio, huh?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia404_utt14.wav
+Joey|And Ross gave me this great book (holds up the|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia404_utt15.wav
+Joey|Sure.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia404_utt17.wav
+Chandler|Paid your phone bill?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia404_utt18.wav
+Joey|Not so much.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia404_utt19.wav

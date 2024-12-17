@@ -1,0 +1,11 @@
+Janine|Hey Joey, I got some beer for you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia787_utt0.wav
+Joey|Uh, don't you mean "for whom?"|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia787_utt1.wav
+Janine|Sure, listen I was gonna order some pizza, you wanna share one?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia787_utt2.wav
+Joey|Pizza, heh, its not like I never had that before...ba dum bum cheshhh.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia787_utt3.wav
+Janine|Is there something wrong?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia787_utt4.wav
+Joey|All right, All right, let's just get this out in the open okay?|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia787_utt5.wav
+Joey|You're hot.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia787_utt6.wav
+Joey|I'm lovable.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia787_utt7.wav
+Joey|Clearly there's a vibe going on between us.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia787_utt8.wav
+Joey|But, we're roommates and it's a huge mistake for us to continue down this road.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia787_utt9.wav
+Janine|Joey...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia787_utt10.wav

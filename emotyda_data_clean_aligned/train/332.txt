@@ -1,0 +1,16 @@
+Ross|I just didn¬ít see the fast song coming.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia332_utt0.wav
+Joey|Shh.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia332_utt1.wav
+Joey|Shh.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia332_utt2.wav
+Joey|Don¬ít try to talk, we¬íll get you up to your room, we¬íll soak your feet, you¬íll be okay.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia332_utt3.wav
+Ross|Oh, thank you.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia332_utt4.wav
+Mona|That is so sweet!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia332_utt5.wav
+Joey|Yeah.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia332_utt6.wav
+Mona|No, I mean it. There are so few genuinely nice guys out there.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia332_utt7.wav
+Joey|Tell me about it, I feel like I¬ím holding down the fort all by myself.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia332_utt8.wav
+Mona|It¬ís Joey right?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia332_utt9.wav
+Joey|Yeah.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia332_utt10.wav
+Ross|Wait a minute!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia332_utt11.wav
+Ross|No!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia332_utt12.wav
+Ross|I¬ím the nice one!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia332_utt13.wav
+Ross|I¬ím the one who danced with the kids all night!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia332_utt14.wav
+Ross|How¬ÖHow small are your feet?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia332_utt15.wav

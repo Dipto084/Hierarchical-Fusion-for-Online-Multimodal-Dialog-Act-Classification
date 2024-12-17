@@ -1,0 +1,1 @@
+Ross|Oh cool!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia710_utt0.wav

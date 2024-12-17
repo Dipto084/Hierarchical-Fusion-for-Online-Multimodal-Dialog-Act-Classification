@@ -1,0 +1,5 @@
+Barry|Sorry about that. So. What have you been up to?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia669_utt0.wav
+Rachel|Oh, not much. I-I got a job.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia669_utt1.wav
+Barry|Oh, that's great.|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia669_utt2.wav
+Rachel|Why are- why are you so tanned?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia669_utt3.wav
+Barry|Oh, I, uh- I went to Aruba.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia669_utt4.wav

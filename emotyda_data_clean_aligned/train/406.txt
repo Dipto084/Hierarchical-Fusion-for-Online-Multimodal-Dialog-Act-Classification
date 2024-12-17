@@ -1,0 +1,4 @@
+Ross|Hey everybody, Pheebs is here!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia406_utt0.wav
+Joey|Phoebe!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia406_utt1.wav
+Chandler|Hey, Pheebs!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia406_utt2.wav
+Rachel|Phoebe, woo!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia406_utt3.wav

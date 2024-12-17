@@ -1,0 +1,9 @@
+Phoebe|Hey you guys, guess what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia705_utt0.wav
+Chandler|The British are coming?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia705_utt1.wav
+Phoebe|Ohh, you and your ways. Since it¬ís Christmastime. I¬ím going to be one of those people collection donations.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia705_utt2.wav
+Phoebe|Yeah, I already have my bell and later on...I get my bucket.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia705_utt3.wav
+Chandler|Ohh.|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia705_utt4.wav
+Phoebe|Yeah, yeah, I¬ím going to be out there spreading joy to the people.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia705_utt5.wav
+Phoebe|I mean, last year, I spread a little joy but not really enough.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia705_utt6.wav
+Phoebe|So this year, I¬ím going to do the whole city.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia705_utt7.wav
+Monica|You know, I knew a girl in high school who did that. She was|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia705_utt8.wav

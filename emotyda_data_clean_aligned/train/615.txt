@@ -1,0 +1,23 @@
+Chandler|Well, maybe it's a contest, y'know? Like, collect all five?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia615_utt0.wav
+Phoebe|Does, um, anyone wanna see?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia615_utt1.wav
+All|Nooo..|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia615_utt2.wav
+All|Oh, hey, don't do that! Cut it out!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia615_utt3.wav
+Rachel|It's worse than the thumb!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia615_utt4.wav
+Chandler|Hey, this is so unfair!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia615_utt5.wav
+Monica|Oh, why is it unfair?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia615_utt6.wav
+Chandler|So I have a flaw!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia615_utt7.wav
+Chandler|Big deal!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia615_utt8.wav
+Chandler|Like Joey's constant knuckle-cracking isn't annoying?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia615_utt9.wav
+Chandler|And Ross, with his over-pronouncing every single word?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia615_utt10.wav
+Chandler|And Monica, with that snort when she laughs?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia615_utt11.wav
+Chandler|I mean, what the hell is that thing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia615_utt12.wav
+Chandler|...I accept all those flaws, why can't you accept me for this?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia615_utt13.wav
+Joey|...Does the knuckle-cracking bother everybody?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia615_utt14.wav
+Rachel|Well, I-I could live without it.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia615_utt15.wav
+Joey|Well, is it, like, a little annoying, or is it like when Phoebe chews her hair?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia615_utt16.wav
+Ross|Oh, now, don't listen to him, Pheebs, I think it's endearing.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia615_utt17.wav
+Joey|Oh, "you do, do you"?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia615_utt18.wav
+Ross|You know, there's nothing wrong with speaking correctly.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia615_utt19.wav
+Rachel|"Indeed there isn't"... I should really get back to work.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia615_utt20.wav
+Phoebe|Yeah, 'cause otherwise someone might get what they actually ordered.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia615_utt21.wav
+Rachel|Ohh-ho-hooohhh. The hair comes out, and the gloves come on.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia615_utt22.wav

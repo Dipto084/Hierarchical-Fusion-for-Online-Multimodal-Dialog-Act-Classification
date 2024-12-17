@@ -1,0 +1,14 @@
+Rachel|Okay umm, Ross?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia34_utt0.wav
+Rachel|I'm-I'm really warm, so I'm going to be taking off my sweater.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia34_utt1.wav
+Rachel|Now, I'm just letting you know that this is|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia34_utt2.wav
+Ross|Yep! That's hilarious!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia34_utt3.wav
+Rachel|I'm sorry. I'm done. I'm done.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia34_utt4.wav
+Ross|Y'know, last night was embarrassing for you too.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia34_utt5.wav
+Rachel|No, not really. I mean you've seen me naked hundreds of times.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia34_utt6.wav
+Ross|Uh-huh. But it was a first for the rest of my building.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia34_utt7.wav
+Rachel|Okay. All right, that's true! But y'know I just don't embarrass that easily.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia34_utt8.wav
+Ross|What?! You totally get embarrassed!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia34_utt9.wav
+Rachel|No, I don't! Ross, I think I'm just a more secure person than you are.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia34_utt10.wav
+Ross|Is that so?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia34_utt11.wav
+Rachel|Yeah.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia34_utt12.wav
+Ross|Hey lady! I don't care how much you want it! Okay?! I am|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia34_utt13.wav

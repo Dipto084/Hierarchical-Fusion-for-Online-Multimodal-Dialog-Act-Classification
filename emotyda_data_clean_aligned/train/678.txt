@@ -1,0 +1,19 @@
+Phoebe|Chandler.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia678_utt0.wav
+Chandler|Hi.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia678_utt1.wav
+Frank|Hi.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia678_utt2.wav
+Phoebe|Joey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia678_utt3.wav
+Joey|Hey-hey!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia678_utt4.wav
+Frank|Hey.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia678_utt5.wav
+Phoebe|This is Monica.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia678_utt6.wav
+Frank|Whoa!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia678_utt7.wav
+Phoebe|And this is Rachel.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia678_utt8.wav
+Rachel|Hi!|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia678_utt9.wav
+Frank|Whoa!!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia678_utt10.wav
+Phoebe|I¬ím gonna get coffee.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia678_utt11.wav
+Frank|Hey, how do you guys get anything done?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia678_utt12.wav
+Chandler|We don¬ít, really.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia678_utt13.wav
+Rachel|Well, so, now, do you guys have a lot of big plans?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia678_utt14.wav
+Phoebe|Oh yeah! Yeah, no, we¬íre gonna connect, y'know bond, and everything.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia678_utt15.wav
+Frank|Yeah, I was thinking that maybe we could go down to Time Square and pick up some ninja stars.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia678_utt16.wav
+Frank|And, oh, um, my friend Larry, he wants me to take a picture of a hooker.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia678_utt17.wav
+Chandler|You know, we don¬ít really take advantage of living in the city.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia678_utt18.wav

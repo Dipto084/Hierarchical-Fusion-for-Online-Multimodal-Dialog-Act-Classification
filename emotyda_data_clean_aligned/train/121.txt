@@ -1,0 +1,7 @@
+Phoebe|Well, look, why don¬ít you just, why don¬ít you do your Phase Two strip club thing with us.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia121_utt0.wav
+Monica|Yeah, come on, we can be guys!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia121_utt1.wav
+Chandler|No you can¬ít.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia121_utt2.wav
+Chandler|You don¬ít want to be guys, you¬íd be all hairy and wouldn¬ít live as long.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia121_utt4.wav
+Phoebe|Y¬íknow you, you just stop being such a wuss and get those off and you come with us and watch naked girls dance around!!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia121_utt5.wav
+Chandler|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia121_utt6.wav
+Phoebe|I¬ím sorry.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia121_utt7.wav

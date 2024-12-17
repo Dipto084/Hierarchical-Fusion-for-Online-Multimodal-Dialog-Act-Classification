@@ -1,0 +1,18 @@
+Rachel|Monica? You gonna be very proud of me. I just got us dates with two unbelievably cute nurses.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia95_utt0.wav
+Joey|Oh my!|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia95_utt1.wav
+Rachel|They're male nurses.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia95_utt2.wav
+Joey|Not in my head.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia95_utt3.wav
+Rachel|Anyway, they want to take us out Saturday night! What do you say?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia95_utt4.wav
+Monica|Umm. Umm. Umm. I don't think so.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia95_utt5.wav
+Rachel|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia95_utt6.wav
+Rachel|What are you talking about?!|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia95_utt7.wav
+Rachel|You-you're the one who's been telling me to get over Ross and move on.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia95_utt8.wav
+Rachel|I'm moving on, and you're moving on with me.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia95_utt9.wav
+Rachel|Come on, give me one good reason why you don't wanna go.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia95_utt10.wav
+Monica|Umm, why don't you give|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia95_utt11.wav
+Rachel|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia95_utt12.wav
+Monica|Harder than it sounds. Isn't it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia95_utt13.wav
+Rachel|Okay, you're coming with me, and I also told them that if we're still here when they get off that we'll go down to the cafeteria and have some|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia95_utt14.wav
+Joey|Yep! There's always room for|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia95_utt15.wav
+Rachel|Joey, how do you make|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia95_utt16.wav
+Joey|Oh, it's easy. Yeah, I-I can do it with anything. Watch uh, Grandma's chicken salad|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia95_utt17.wav

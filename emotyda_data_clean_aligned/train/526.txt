@@ -1,0 +1,21 @@
+Ross|Hi! Hi, I¬ím Ross, you don¬ít know me, but I¬ím a big, big fan of yours. I mean,|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia526_utt0.wav
+Isabella|Aren¬ít you with that girl over there?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia526_utt1.wav
+Ross|Well, yeah, kinda.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia526_utt2.wav
+Ross|Um, but that¬ís okay, see we have an understanding, um, see we each have this list of five famous people, so I¬ím allowed to sleep with you.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia526_utt3.wav
+Ross|No, no, no, it¬ís flattery.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia526_utt4.wav
+Ross|Oh no, no, no, wait, wait, Isabella.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia526_utt5.wav
+Ross|Don¬ít, don¬ít just dismiss this so fast.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia526_utt6.wav
+Ross|I mean this is a once in a lifetime opportunity...|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia526_utt7.wav
+Isabella|Yeah, for you. Is that the list?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia526_utt8.wav
+Ross|Um, yeah.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia526_utt9.wav
+Isabella|May I see it?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia526_utt10.wav
+Ross|Um, no.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia526_utt11.wav
+Isabella|Come on!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia526_utt12.wav
+Ross|But, okay.|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia526_utt13.wav
+Isabella|I¬ím not on the list!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia526_utt14.wav
+Ross|Um, see, but that¬ís not the final draft.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia526_utt15.wav
+Isabella|It¬ís laminated!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia526_utt16.wav
+Ross|Yeah, um, okay see, you were, you were on the list but my friend, Chandler brought up the very good point that you are international, so I bumped you for Wynona Rider, local.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia526_utt17.wav
+Isabella|Y'know it¬ís ironic...|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia526_utt18.wav
+Isabella|...because I have a list of five goofy coffee house guys and yesterday I bumped you for that guy over there.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia526_utt19.wav
+Ross|We¬íre just gonna be friends.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia526_utt20.wav

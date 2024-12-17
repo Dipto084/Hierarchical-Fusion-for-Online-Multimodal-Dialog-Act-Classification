@@ -1,0 +1,14 @@
+Monica|God, I feel so guilty about Ross.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1017_utt0.wav
+Phoebe|Oh, I know.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1017_utt1.wav
+Joey|I kinda feel like it's my fault.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1017_utt2.wav
+Chandler|Kind of? If you just kept this to yourself none of this would've happened.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1017_utt3.wav
+Joey|Well, I'm keeping so many things to myself these days, something was bound to slip out!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1017_utt4.wav
+Chandler|Well, I think it's very brave what you said.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1017_utt5.wav
+Phoebe|All right, I can't sit here anymore. I have to walk places.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1017_utt6.wav
+Chandler|Pheebs, what are you doing with the coat? How about the whole animal rights thing?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1017_utt7.wav
+Phoebe|Well, I've been reading up and for your information, minks are not very nice.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1017_utt8.wav
+Phoebe|Okay, I admit it!|a|a|a|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1017_utt9.wav
+Phoebe|I love this coat!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1017_utt10.wav
+Phoebe|Okay, I¬óit's the best thing I've ever had wrapped around me, including Phil Huntley!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1017_utt11.wav
+Phoebe|Remember Phil Huntley?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1017_utt12.wav
+Phoebe|He was fine!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1017_utt13.wav

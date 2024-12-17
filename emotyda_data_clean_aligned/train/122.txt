@@ -1,0 +1,16 @@
+Monica|And y'know what, I just realised, in the last year I¬íve only gone out with two guys, Richard and Julio.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia122_utt0.wav
+Monica|You gotta help me out here, you gotta set me up, you gotta get me back in the game.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia122_utt1.wav
+Rachel|Well, that shouldn¬ít be a problem. I mean I work in fashion and all I meet are eligible straight men.|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia122_utt2.wav
+Monica|Pete, can I get you something else?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia122_utt3.wav
+Pete|Yeah, a slice of cheesecake and-and a date if you¬íre given¬í ¬ëem out.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia122_utt4.wav
+Monica|Haven¬ít you and I covered that topic?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia122_utt5.wav
+Pete|Hmm, come on, you just said to her that you¬Ö.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia122_utt6.wav
+Monica|Aww, the only reason you want to go out with me because my blond wig, and the big boobs, and the fact that I serve you food.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia122_utt7.wav
+Pete|Well, if that were true, I¬íd dating my Aunt Ruth.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia122_utt8.wav
+Pete|And the two times we went out were just plain awkward.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia122_utt9.wav
+Pete|Come on, you think she should go out with me, don¬ít you?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia122_utt10.wav
+Rachel|Well, I mean, are you sure you want to go out with her?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia122_utt11.wav
+Rachel|I mean that ain¬ít a pretty picture in the morning, y¬íknow what I mean.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia122_utt12.wav
+Rachel|That wig all in disarray, and boobs flung over the night stand, y'know.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia122_utt13.wav
+Monica|I mean really, think about it.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia122_utt14.wav
+Pete|Ho-ho, I will.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia122_utt15.wav

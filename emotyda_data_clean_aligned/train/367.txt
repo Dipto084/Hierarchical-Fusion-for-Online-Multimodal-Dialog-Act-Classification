@@ -1,0 +1,16 @@
+Chandler|You win.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia367_utt0.wav
+Joey|Well, what did you have?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia367_utt1.wav
+Chandler|It doesn¬ít matter because nothing beats a three and a six.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia367_utt2.wav
+Chandler|That my friend is D-Cup.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia367_utt3.wav
+Chandler|Okay, now much have you won so far?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia367_utt4.wav
+Joey|Uh, wow, 700.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia367_utt5.wav
+Chandler|Not 700 exactly?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia367_utt6.wav
+Joey|Yeah.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia367_utt7.wav
+Chandler|Double it!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia367_utt8.wav
+Joey|What?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia367_utt9.wav
+Chandler|Well you see in Cups, once you get $700, you have to double it.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia367_utt10.wav
+Joey|Really?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia367_utt11.wav
+Chandler|Hey, I didn¬ít make up the rules.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia367_utt12.wav
+Chandler|Now, after you receive the doubling bonus, you get uh, one card.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia367_utt13.wav
+Chandler|Now that one card could be worth $100 bringing your total to 1,500.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia367_utt14.wav
+Chandler|Don¬ít get to excited because that¬ís not gonna happen unless you get¬óNo way!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia367_utt15.wav

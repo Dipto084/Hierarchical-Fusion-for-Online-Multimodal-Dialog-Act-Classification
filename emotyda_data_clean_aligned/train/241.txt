@@ -1,0 +1,14 @@
+Phoebe|Oh... Mike's sister just invited me to a party tonight, he's gonna be there.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia241_utt0.wav
+Phoebe|And she was like "Oh, don't worry!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia241_utt1.wav
+Phoebe|I asked him.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia241_utt2.wav
+Phoebe|He's totally ok with seeing you!".|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia241_utt3.wav
+Phoebe|So now I have to go so he'll think that I'm totally ok with seeing him!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia241_utt4.wav
+Rachel|Which you're not, because you've totally hung up on him!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia241_utt5.wav
+Phoebe|Exactly!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia241_utt6.wav
+Rachel|And you're gonna want him to eat his heart out so you're gonna have to look fabulous!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia241_utt7.wav
+Phoebe|I didn't even think about that! Aaargh,|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia241_utt8.wav
+Rachel|Hey Pheebs, I'm-I'm taking Charlie shopping, why don't you come and I'll help you find something.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia241_utt9.wav
+Phoebe|Ok, that'll be great!|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia241_utt10.wav
+Joey|Oh, ain't that nice? The three of you trying on slutty lingerie together.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia241_utt11.wav
+Rachel|That's not what we're gonna do!|dag|dag|dag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia241_utt12.wav
+Joey|Why would you ruin it, who was that hurtin'?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia241_utt13.wav

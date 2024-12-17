@@ -1,0 +1,10 @@
+Gerston|Uh, like, could these margaritas|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1015_utt0.wav
+Santos|Hello, Mr. Bing.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1015_utt1.wav
+Petrie|Loved your Stevie Wonder last night.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1015_utt2.wav
+Chandler|Thanks. Listen, about the weekly numbers, I'm gonna need them on my desk|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1015_utt3.wav
+Santos|Sure.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1015_utt4.wav
+Gerston|No problem.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1015_utt5.wav
+Chandler|You have to give 'em something, you know.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1015_utt6.wav
+Chandler|Okay, now that was Gerston, Santos, and who's the guy with the moustache?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1015_utt7.wav
+Phoebe|Petrie.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1015_utt8.wav
+Chandler|Petrie, right, right. Okay, some people gonna be working|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia1015_utt9.wav

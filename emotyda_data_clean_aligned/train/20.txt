@@ -1,0 +1,17 @@
+Rachel|How did it go with Erin?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia20_utt0.wav
+Joey|Oh, unbelievable! We had the best time!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia20_utt1.wav
+Phoebe|Yay!! Oh so, you¬íre not, you¬íre not mad at us anymore?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia20_utt2.wav
+Joey|No!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia20_utt3.wav
+Joey|No!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia20_utt4.wav
+Joey|No!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia20_utt5.wav
+Joey|You guys were totally right!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia20_utt6.wav
+Joey|This is so much better than the first time we went out.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia20_utt7.wav
+Joey|Y¬íknow?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia20_utt8.wav
+Joey|That was so awkward, we were really nervous.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia20_utt9.wav
+Phoebe|Didn¬ít you sleep together?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia20_utt10.wav
+Joey|Yeah, that really calms me down.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia20_utt11.wav
+Joey|And!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia20_utt12.wav
+Joey|We have so much in common!|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia20_utt13.wav
+Joey|She loves sandwiches, sports, although she is a Met fan, not much of an issue now but if we were ever to have kids, well that¬ís a|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia20_utt14.wav
+Rachel|Oh my God! Listen to you talkin¬í about having kids. Oh my Joey. Oh, please don¬ít get married before I do.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia20_utt15.wav
+Joey|Okay.|ag|ag|ag|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia20_utt16.wav

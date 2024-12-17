@@ -1,0 +1,6 @@
+Chandler|Y¬íknow what?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia917_utt0.wav
+Chandler|I am going to take you out to dinner tonight.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia917_utt1.wav
+Chandler|I found this place that makes the greatest mozzarella sticks and jalepino poppers .|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia917_utt2.wav
+Chandler|No?|oth|oth|oth|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia917_utt3.wav
+Chandler|Really?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia917_utt4.wav
+Chandler|They taste so good.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia917_utt5.wav

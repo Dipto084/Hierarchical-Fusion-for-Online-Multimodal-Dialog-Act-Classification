@@ -1,0 +1,12 @@
+Ross|Okay, Mon, back me up here.|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia218_utt1.wav
+Ross|Where you work the uh, waiters eat with the waiters, right?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia218_utt2.wav
+Ross|And the chefs eat with the other chefs, right?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia218_utt3.wav
+Monica|I eat by myself in the alley because everybody hates me.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia218_utt4.wav
+Joey|Look, Ross, really it¬ís-it¬ís no big deal.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia218_utt5.wav
+Joey|Y¬íknow you wear a white coat, I wear a blue blazer, if that means we can¬ít be friends at work, then so be it.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia218_utt6.wav
+Joey|Y¬íknow, hey I understand.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia218_utt7.wav
+Joey|Y¬íknow?|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia218_utt8.wav
+Joey|Hey, when I¬ím in a play and you¬íre in the audience, I don¬ít talk to you, right?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia218_utt9.wav
+Joey|So it¬ís y¬íknow, it¬ís uh, it¬ís cool.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia218_utt10.wav
+Joey|I¬íll see you tomorrow.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia218_utt11.wav
+Rachel|Yeah, when we¬íre in the audience he doesn¬ít talk to us, but he does wave.|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia218_utt12.wav

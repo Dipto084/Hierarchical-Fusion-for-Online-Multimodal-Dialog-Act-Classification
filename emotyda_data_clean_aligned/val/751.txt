@@ -1,0 +1,1 @@
+Ross|We¬íre really gonna do this, huh?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia751_utt0.wav

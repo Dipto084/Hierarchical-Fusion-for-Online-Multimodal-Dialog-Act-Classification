@@ -1,0 +1,12 @@
+Phoebe|Look, I feel really bad about how I freaked you out before, so I called the father and asked him to meet you here so you can tell him.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia156_utt0.wav
+Phoebe|Go!|c|c|c|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia156_utt1.wav
+Rachel|What? Hey wait a minute! Phoebe, how do you even know who the father is?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia156_utt2.wav
+Phoebe|I may play the fool at times, but I¬ím a little more than a pretty blond girl with an ass that won¬ít quit.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia156_utt3.wav
+Phoebe|I believe this belongs to the father of your baby.|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia156_utt4.wav
+Rachel|Oh God¬Ö Oh, he¬ís in there right now?|s|s|s|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia156_utt5.wav
+Phoebe|Uh-huh. Now you can turn around or you can go in there and rip the Band-Aid off. What to you want to do?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia156_utt6.wav
+Rachel|Uh, let¬ís rip!|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia156_utt7.wav
+Phoebe|Really? Are you sure?|q|q|q|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia156_utt8.wav
+Rachel|Oh Phoebe!|b|b|b|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia156_utt9.wav
+Phoebe|Okay, sorry. Yeah.|ap|ap|ap|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia156_utt10.wav
+Tag|Hey Rach.|g|g|g|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia156_utt11.wav

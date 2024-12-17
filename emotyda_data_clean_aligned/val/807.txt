@@ -1,0 +1,2 @@
+Rachel|Thank you.|ans|ans|ans|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia807_utt0.wav
+Joey|If I can¬ít have it you can¬ít have it!|o|o|o|/home/messal944084/Desktop/Dialogue-Act-Classification-main/EMOTyDA/train_splits_audio/dia807_utt1.wav
